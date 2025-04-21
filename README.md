@@ -1,32 +1,24 @@
 ![THE PRICE OF REMEMBERING](images/cover.png)
 
----
-
 # THE PRICE OF REMEMBERING
 
 ## THE KINGKILLER CHRONICLE DAY THREE
 
-### NOT PATRICK ROTHFUSS
+**NOT PATRICK ROTHFUSS**
 
-### VERSION 1.0.0
+**VERSION 1.0.0**
 
----
+## THE KINGKILLER CHRONICLE
 
-# THE KINGKILLER CHRONICLE
+**DAY ONE: THE NAME OF THE WIND**
+**DAY TWO: THE WISE MAN'S FEAR**
+**DAY THREE: THE PRICE OF REMEMBERING**
 
-## DAY ONE: THE NAME OF THE WIND
-## DAY TWO: THE WISE MAN'S FEAR
-## DAY THREE: THE PRICE OF REMEMBERING
-
----
-
-# LEGAL DISLAIMER
+## LEGAL DISLAIMER
 
 WE, THE AUTHORS of this fan fiction, can attest that we never sought permission, or consulted with the creator of the Kingkiller Chronicles series of novels; Patrick Rothfuss. This is a fan fiction work and is in no way endorsed or affiliated with either Patrick Rothfuss or the Kingkiller Chronicles series.
 
----
-
-# FORWARD
+## FORWARD
 
 WELCOME FELLOW ‘Old Knowers’ and ‘Proud Dreamers’. As an exercise I thought it might be interesting to try piecing together some of the prevailing book 3 theories together into a cut down version of what we may potentially get. Let me preface this by saying that this interpretation is unquestionably going to deviate, on many, if not all accounts from what I imagine will be Pat’s final version. At present I don’t believe there is sufficient information to truly piece The Doors of Stone together in its entirety, that doesn’t mean however it’s not worth trying. After so many years, it’s unlikely the fanbase would be able to settle on any one specific conclusion, a problem Pat himself will likely run into eventually, with that in mind, though it should go without saying, this is merely an ending, not the ending. It's also worth noting, given the considerably shorter length this will lack a lot of the intricacy and nuance that are the hallmarks of the series, and though there is potential to expand, it's worth gleaning community feedback first.
 
