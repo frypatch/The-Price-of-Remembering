@@ -1,0 +1,31 @@
+/* Big used for chapters for sudo-drop caps*/
+big {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+/* Indent all paragraphs exvent the first paragraph. Mobi will need class='first-para' */
+p {
+  text-indent: 1em;
+}
+h1 + p, 
+h2 + p, 
+h3 + p, 
+h4 + p, 
+h5 + p, 
+h6 + p {
+  text-indent: 0em;
+}
+
+/* Paragraph formatting. Mostly to remove space between paragraphs. */
+p {
+  margin: 0em;
+  text-align: justify;
+  text-align-last: left;
+}
+p.first-para, p.first-para-chapter, p.note-p-first {
+  text-indent: 0em; 
+}
+p.no-indent {
+  text-indent: 0em;
+}
