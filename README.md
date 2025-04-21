@@ -40,57 +40,57 @@ That all said, please enjoy.
 * [*Legal Disclaimer*](#legal-disclaimer)
 * [*Forward*](#forward)
 * [*Prologue*](book/Prologue.md)
-* [CHAPTER 01](book/CHAPTER%2001.md) - The Weight of Silence
-* [CHAPTER 02](book/CHAPTER%2002.md) - The Fragile Weight of Peace
-* [CHAPTER 03](book/CHAPTER%2003.md) - The Silent Toll
-* [CHAPTER 04](book/CHAPTER%2004.md) - Ears in the Wind
-* [CHAPTER 05](book/CHAPTER%2005.md) - The Art of Listening
-* [CHAPTER 06](book/CHAPTER%2006.md) - The Breath of the Peaks
-* [CHAPTER 07](book/CHAPTER%2007.md) - A Song Without Words
-* [CHAPTER 08](book/CHAPTER%2008.md) - Rare Things Vanish
-* [CHAPTER 09](book/CHAPTER%2009.md) - A Foolish Bargain
-* [CHAPTER 10](book/CHAPTER%2010.md) - Keys to the Past
-* [CHAPTER 11](book/CHAPTER%2011.md) - The Price We Pay
-* [CHAPTER 12](book/CHAPTER%2012.md) - Threads Unravel
-* [CHAPTER 13](book/CHAPTER%2013.md) - I Will Not Be Held
-* [CHAPTER 14](book/CHAPTER%2014.md) - Name in the Wall
-* [CHAPTER 15](book/CHAPTER%2015.md) - Missing
-* [CHAPTER 16](book/CHAPTER%2016.md) - Interlude - By Cover of Night
-* [CHAPTER 17](book/CHAPTER%2017.md) - Of Dancing Stones
-* [CHAPTER 18](book/CHAPTER%2018.md) - Define Lost
-* [CHAPTER 19](book/CHAPTER%2019.md) - Amber and Ivory
-* [CHAPTER 20](book/CHAPTER%2020.md) - Lured into the Current
-* [CHAPTER 21](book/CHAPTER%2021.md) - Kaysera
-* [CHAPTER 22](book/CHAPTER%2022.md) - Interlude – Crosscurrents
-* [CHAPTER 23](book/CHAPTER%2023.md) - The Thread Unravels
-* [CHAPTER 24](book/CHAPTER%2024.md) - The Whispering Quarter
-* [CHAPTER 25](book/CHAPTER%2025.md) - Reshi
-* [CHAPTER 26](book/CHAPTER%2026.md) - Stories We Tell Ourselve
-* [CHAPTER 27](book/CHAPTER%2027.md) - Old Acquaintances
-* [CHAPTER 28](book/CHAPTER%2028.md) - For the Greater Good
-* [CHAPTER 29](book/CHAPTER%2029.md) - Lockless
-* [CHAPTER 30](book/CHAPTER%2030.md) - Swirls in the Water
-* [CHAPTER 31](book/CHAPTER%2031.md) - The Deceit
-* [CHAPTER 32](book/CHAPTER%2032.md) - The Fall
-* [CHAPTER 33](book/CHAPTER%2033.md) - The Tower
-* [CHAPTER 34](book/CHAPTER%2034.md) - Command in the Chaos
-* [CHAPTER 35](book/CHAPTER%2035.md) - The Price of Loyalty
-* [CHAPTER 36](book/CHAPTER%2036.md) - Interlude - A Weight of Names
-* [CHAPTER 37](book/CHAPTER%2037.md) - The Breath After the Fall
-* [CHAPTER 38](book/CHAPTER%2038.md) - The Wolf and the Owl
-* [CHAPTER 39](book/CHAPTER%2039.md) - The Weight of Shadows
-* [CHAPTER 40](book/CHAPTER%2040.md) - Cinder
-* [CHAPTER 41](book/CHAPTER%2041.md) - Threadbare and Boundless
-* [CHAPTER 42](book/CHAPTER%2042.md) - Seven Words for Silence
-* [CHAPTER 43](book/CHAPTER%2043.md) - Interlude - Out of the Chill
-* [CHAPTER 44](book/CHAPTER%2044.md) - The Hollow Crown
-* [CHAPTER 45](book/CHAPTER%2045.md) - Once King, Always King
-* [CHAPTER 46](book/CHAPTER%2046.md) - The Illusion of Wholeness
-* [CHAPTER 47](book/CHAPTER%2047.md) - The Reckoning
-* [CHAPTER 48](book/CHAPTER%2048.md) - A Trap of Memory
-* [CHAPTER 49](book/CHAPTER%2049.md) - To Ash All Things Return
-* [CHAPTER 50](book/CHAPTER%2050.md) - The Proper Way
-* [CHAPTER 51](book/CHAPTER%2051.md) - A Silence of Three Parts
+* [CHAPTER 01](book/CHAPTER_01.md) - The Weight of Silence
+* [CHAPTER 02](book/CHAPTER_02.md) - The Fragile Weight of Peace
+* [CHAPTER 03](book/CHAPTER_03.md) - The Silent Toll
+* [CHAPTER 04](book/CHAPTER_04.md) - Ears in the Wind
+* [CHAPTER 05](book/CHAPTER_05.md) - The Art of Listening
+* [CHAPTER 06](book/CHAPTER_06.md) - The Breath of the Peaks
+* [CHAPTER 07](book/CHAPTER_07.md) - A Song Without Words
+* [CHAPTER 08](book/CHAPTER_08.md) - Rare Things Vanish
+* [CHAPTER 09](book/CHAPTER_09.md) - A Foolish Bargain
+* [CHAPTER 10](book/CHAPTER_10.md) - Keys to the Past
+* [CHAPTER 11](book/CHAPTER_11.md) - The Price We Pay
+* [CHAPTER 12](book/CHAPTER_12.md) - Threads Unravel
+* [CHAPTER 13](book/CHAPTER_13.md) - I Will Not Be Held
+* [CHAPTER 14](book/CHAPTER_14.md) - Name in the Wall
+* [CHAPTER 15](book/CHAPTER_15.md) - Missing
+* [CHAPTER 16](book/CHAPTER_16.md) - Interlude - By Cover of Night
+* [CHAPTER 17](book/CHAPTER_17.md) - Of Dancing Stones
+* [CHAPTER 18](book/CHAPTER_18.md) - Define Lost
+* [CHAPTER 19](book/CHAPTER_19.md) - Amber and Ivory
+* [CHAPTER 20](book/CHAPTER_20.md) - Lured into the Current
+* [CHAPTER 21](book/CHAPTER_21.md) - Kaysera
+* [CHAPTER 22](book/CHAPTER_22.md) - Interlude – Crosscurrents
+* [CHAPTER 23](book/CHAPTER_23.md) - The Thread Unravels
+* [CHAPTER 24](book/CHAPTER_24.md) - The Whispering Quarter
+* [CHAPTER 25](book/CHAPTER_25.md) - Reshi
+* [CHAPTER 26](book/CHAPTER_26.md) - Stories We Tell Ourselve
+* [CHAPTER 27](book/CHAPTER_27.md) - Old Acquaintances
+* [CHAPTER 28](book/CHAPTER_28.md) - For the Greater Good
+* [CHAPTER 29](book/CHAPTER_29.md) - Lockless
+* [CHAPTER 30](book/CHAPTER_30.md) - Swirls in the Water
+* [CHAPTER 31](book/CHAPTER_31.md) - The Deceit
+* [CHAPTER 32](book/CHAPTER_32.md) - The Fall
+* [CHAPTER 33](book/CHAPTER_33.md) - The Tower
+* [CHAPTER 34](book/CHAPTER_34.md) - Command in the Chaos
+* [CHAPTER 35](book/CHAPTER_35.md) - The Price of Loyalty
+* [CHAPTER 36](book/CHAPTER_36.md) - Interlude - A Weight of Names
+* [CHAPTER 37](book/CHAPTER_37.md) - The Breath After the Fall
+* [CHAPTER 38](book/CHAPTER_38.md) - The Wolf and the Owl
+* [CHAPTER 39](book/CHAPTER_39.md) - The Weight of Shadows
+* [CHAPTER 40](book/CHAPTER_40.md) - Cinder
+* [CHAPTER 41](book/CHAPTER_41.md) - Threadbare and Boundless
+* [CHAPTER 42](book/CHAPTER_42.md) - Seven Words for Silence
+* [CHAPTER 43](book/CHAPTER_43.md) - Interlude - Out of the Chill
+* [CHAPTER 44](book/CHAPTER_44.md) - The Hollow Crown
+* [CHAPTER 45](book/CHAPTER_45.md) - Once King, Always King
+* [CHAPTER 46](book/CHAPTER_46.md) - The Illusion of Wholeness
+* [CHAPTER 47](book/CHAPTER_47.md) - The Reckoning
+* [CHAPTER 48](book/CHAPTER_48.md) - A Trap of Memory
+* [CHAPTER 49](book/CHAPTER_49.md) - To Ash All Things Return
+* [CHAPTER 50](book/CHAPTER_50.md) - The Proper Way
+* [CHAPTER 51](book/CHAPTER_51.md) - A Silence of Three Parts
 * [*Epilogue*](book/Epilogue.md)
 * [*Appendix*](book/Appendix.md)
 * [*Notes*](book/Notes.md)
