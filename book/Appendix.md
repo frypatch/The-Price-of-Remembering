@@ -1,12 +1,12 @@
 # APPENDIX
 
-## Original release:
+## ORIGINAL RELEASE
 
 TacticalDo's original fan fiction release  
 
 * https://www.reddit.com/r/KingkillerChronicle/comments/1dgnqjd/the_price_of_remembering_bk3_fan_fiction_release/
 
-## Sources and Citations
+## SOURCES AND CITATIONS
 
 Devi, behind FPD is knowledge, K’s heart’s desire  
 
@@ -93,7 +93,9 @@ Present day chapters
   * https://www.reddit.com/r/KingkillerChronicle/comments/gcv88c/is_there_a_list_of_chapters_for_the_present_day
 
 
-## Cast: (in order of appearance):
+## CAST
+
+### (in order of appearance)
 
 - Kvothe - custom
 - Devon - Mark Strong? or custom?

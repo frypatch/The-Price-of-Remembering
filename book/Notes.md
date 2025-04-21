@@ -1,6 +1,6 @@
 # NOTES
 
-## Book 3 plot points addressed:
+## BOOK 3 PLOT POINTS ADDRESSED
 
 Twenty things stand before, the beginning of book four:
 
@@ -25,13 +25,13 @@ Twenty things stand before, the beginning of book four:
 * Who betrays Kvothe - The Maer *(35)* and to a lesser extent Denna
 * What is the significance of the Lackless Rhyme. *(39)* Seven things stand before The entrance to the Lackless door, One of them a ring unworn (The ring of unearthed standing stones that form the portal), One a word that is forsworn, (Denna made to sing out a phrase to unlock the door, one of the reasons she was being trained by Cinder), One a time that must be right (phase of the moon, has to be a full moon(seems more poetic that way)), One a candle without light (Haliax’s negative light candle which reveals the standing stones that are the Doors of Stone) One a son who brings the blood (Kvothe is a lackless heir his blood opens the Loeclos box), One a door that holds the flood, (the Doors of Stone are the cell doors constructed at Drossen Tor imprisoning Iax and his shaped army, opening them allows Iax and his army to flood out into Temerant) One a thing tight-held in keeping (the Loeclos box), Then comes that which comes with sleeping.(I suspect this involves needing to sleep/dream to open the DoS somehow, maybe passing through Faeriniel, however there isn't enough info to go on, and it is just another impediment to opening the doors, which is the main plot point, so i’ve unfortunately opted to skip it)
 
-## Perceived chain of events:
+## PERCEIVED CHAIN OF EVENTS
 
 **Source:**
 
 * https://www.reddit.com/r/KingkillerChronicle/comments/1i6vq6c/a_beginning/
 
-**5000 + years ago**
+**5000 + years ago:**
 
 * The Ruarch exist and some among them can Name
 * Iax Lackless(was probably closer to Luckless but we’ll go with Lackless here to make it simpler) becomes a Shaper and creates the Fae
@@ -102,7 +102,7 @@ Where Tehlu states: "I will leave this world behind so that I might better serve
 
 Lyra was probably of the Ruarch (see Laniel young again), and sought Aleph's council in order to obtain better conditions for humanity, however the other Ruarch murdered her, so they could retain the status quo. This being the final straw for Lanre who then started the rebellion. Which is referenced here as a betrayal, the idea that a mere human, a lesser race, would oppose them.
 
-## Rational behind certain plot choices.
+## RATIONAL BEHIND CERTAIN PLOT CHOICES
 
 * As Pat doesn't strike me as the sort to write one-dimensional, good-vs-evil characters, it was important to give the Chandrian justification and some form of redemption. This is backed up by Denna’s song, which appears to indicate that the Chandrian, or at least some of them, want to set the historical record straight. They feel slighted.
 * Though I agree there is some merit that Denna is a Lackless, ( see https://www.reddit.com/r/KingkillerChronicle/comments/1pvew4/is_denna_a_lackless_long_post_spoilers/?utm_source=reddit&utm_medium=usertext&utm_name=KingkillerChronicle&utm_content=t1_e7ityff) I really hope Pat doesn’t opt to go in this direction, and thus ruled it out.
@@ -110,7 +110,7 @@ Lyra was probably of the Ruarch (see Laniel young again), and sought Aleph's cou
 * Kvothe is descended from Iax on his mother’s side, again I hope there isnt any any substance around Iax somehow raping Laurian/Netalia from beyond the Doors of Stone. It would get really messy if the plot goes in that direction. Also the text clearly implies Kvothe resembles both Laurian and Arliden. Mother's eyes. Father's hands and voice.
 * What's in the box; I like Zhorangi’s theory Auri is in the Waystone, and maybe in the box, but it's really hard to write that in a way that doesn't come off as stupid. So went with the implication that he may have retrieved a part of himself and his shaed which has now healed.
 
-## Elements I considered changing/additions
+## ELEMENTS I CONSIDERED CHANGING
 
 * This one only came to recently and I would change it if I wasn't so near completion, inside the Lackless box is the moonshard used to bind the moon to the Fae realm, this is said to be Iax/Jax’s greatest desire, Haliax bargains it to Iax in return for freeing him from life.
 * https://www.reddit.com/r/KingkillerChronicle/comments/le2ucq/severen_is_located_where_myr_tyraniel_used_to_be/ This thread makes a great case for Severen being Myr Taraniel and the seat of original power for the Amyr possibly, could have had Dagon reveal the human chapter are within Severen still, Instead of having him ride slightly further out to the Leveritis.
@@ -132,7 +132,7 @@ Lyra was probably of the Ruarch (see Laniel young again), and sought Aleph's cou
 * Scene with Manet when he takes up the Master’s chair.
 * Scene near the end before nightfall and Cinder arrives where Kote shaves, maybe add a line about it being proper to be clean shaven in some cultures before death.
 
-## Alternate Endings:
+## ALTERNATE ENDINGS
 
 * All the Chandrian come to the Waystone, but Kvothe has more help waiting in secret, i.e. Elodin, Auri, Devi possibly ect.
 * In his battle with Cinder, Kvothe blows a horn in the Fae which summons the Scythe who in turn take Cinder.

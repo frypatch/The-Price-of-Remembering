@@ -1,27 +1,58 @@
 body {
-        font-size: 0.8em;
+  /* in general, serif fonts are easier on the eyes to read. */
+  font-family: "Times New Roman", "Times", "Georgia", "Palatino", "Times New Roman", Caecilia, serif;
+  font-size: 1.0em;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  hyphens: none;
+  margin-top: 2.0em;
+  margin-bottom: 2.0em;
+  font-variant: small-caps;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+/* By default, do not indent paragraphs. */
+p {
+  text-indent: 0;  
+}
+
+p {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  line-height: 1.2em;
+  margin: 1em 0em 1em 0em;
+  text-align: left;
+  orphans: 2;
+  widows: 2;
+}
 
 img {
     max-width: 100%;
     height: auto;      
 }
 
-
 table {
   border-collapse: collapse;
   width: 100%;
   font-size: 0.5em;
 }
-
 td,th {
   border: 1px solid #ddd;
   padding: 8px;
 }
-
 tr:nth-child(even){background-color: #f2f2f2;}
-
 th {
   padding-top: 12px;
   padding-bottom: 12px;
