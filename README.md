@@ -34,6 +34,11 @@ I appreciate this won't be for everyone, however I offer it without obligation, 
 
 That all said, please enjoy.
 
+## DOWNLOADS
+
+* [EPUB](../../releases/download/v3.0.0/The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V3.epub) - Version 3.0.0
+* [PDF](../../releases/download/v3.0.0/The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V3.pdf) - Version 3.0.0
+
 ## TABLE OF CONTENTS
 
 * [*Title Page*](#the-price-of-remembering)
