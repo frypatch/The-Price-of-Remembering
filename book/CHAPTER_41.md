@@ -67,3 +67,7 @@ Denna didn’t reply.
 I stumbled, my knees buckling beneath me. The sand gave way as I fell, my arms still wrapped around her. I lay there, tasting dust on my tongue. Weak and spent, I felt the weight of hopelessness drag across my chest, heavier than Denna had been.  
 
 Thin clouds shifted lazily above me, pale and distant—out of reach.  
+
+### ~ ~ ~
+
+[Chapter 40](CHAPTER_40.md) | [Home](../) | [Chapter 42](CHAPTER_42.md)

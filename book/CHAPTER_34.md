@@ -99,3 +99,7 @@ Outside, Fascino’s voice rang through the chaos, smooth and venomous. “Still
 I didn’t answer him. What was the point of answering a man pretending to be above it all when his world burned just like mine?
 
 Instead, I turned toward the others preparing for the next assault, blood seeping through the bandages on my shoulder, my voice soft and steady for Sim: “Whatever you need, I’ll still be here.”  
+
+### ~ ~ ~
+
+[Chapter 33](CHAPTER_33.md) | [Home](../) | [Chapter 35](CHAPTER_35.md)

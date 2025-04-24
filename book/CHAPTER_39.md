@@ -137,3 +137,7 @@ Then, he turned, smiling faintly. “Someone… someone end it.”
 Cinder obliged.  
 
 The blade sank deep, and Lanre collapsed, the bitter smile still gracing his face as shadows stirred and the candle hissed out.  
+
+### ~ ~ ~
+
+[Chapter 38](CHAPTER_38.md) | [Home](../) | [Chapter 40](CHAPTER_40.md)

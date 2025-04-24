@@ -45,3 +45,7 @@ The Chronicler didn’t answer immediately; he was too busy scanning the last fe
 Kote nodded, but the moment to begin didn’t come right away. He rested his hand idly on the table, his fingers just brushing the edge of the wood. The fire’s light chased shadows down the wall, their shapes twisting and flickering in ways Kote didn’t much care for. He let himself glance at the door, just once, before reaching for the story again.  
 
 “Yes,” Kote said softly. “Renere.”  
+
+### ~ ~ ~
+
+[Chapter 15](CHAPTER_15.md) | [Home](../) | [Chapter 17](CHAPTER_17.md)

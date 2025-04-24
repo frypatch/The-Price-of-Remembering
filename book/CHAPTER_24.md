@@ -217,3 +217,7 @@ The first man stepped in behind us, cutting off the exit. The doorman peeled awa
 We were surrounded.
 
 I measured our odds—not good. Not in this tight space. Not against four watchers who had been expecting trouble.  
+
+### ~ ~ ~
+
+[Chapter 23](CHAPTER_23.md) | [Home](../) | [Chapter 25](CHAPTER_25.md)

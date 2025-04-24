@@ -75,3 +75,7 @@ The room fell still. Papers that had scattered in the sudden wind settled softly
 "Beautifully done,” he said, his tone a strange mix of reverence and regret. He stepped closer, tilting his head like a bird both curious and wary. “A ring of air. A rare thing. The first step toward something.” He hesitated, studying the space where the wind had been, then nodded faintly. “A pity. So lovely. So doomed.”
 
 I barely heard him. I was still caught in the moment before—held captive by the raw, fragile truth of what I’d just touched. It wasn’t just a moment, nor a trick. It was proof that I had crossed some invisible line.  
+
+### ~ ~ ~
+
+[Chapter 4](CHAPTER_04.md) | [Home](../) | [Chapter 6](CHAPTER_06.md)

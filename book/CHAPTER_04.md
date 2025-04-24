@@ -127,3 +127,7 @@ It wasn’t the confession itself that struck Hemme down. It was the weight of t
 But even as the trial resolved, I found no satisfaction. Justice wasn’t sharp, not like guilt. It wasn’t clean. It was heavy and dull, something that settled slowly into grief’s hollow weight. I told myself it was enough, though I could not say for sure if I believed it. 
 
 What I do know is that I spent many sleepless wondering if I could have found it earlier… if I’d pulled the thread sooner… would it have mattered?
+
+### ~ ~ ~
+
+[Chapter 4](CHAPTER_04.md) | [Home](../) | [Chapter 5](CHAPTER_05.md)

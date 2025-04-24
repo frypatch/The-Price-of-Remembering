@@ -91,3 +91,7 @@ I stood carefully, my bag heavy against my shoulder, and made my way back to the
 Ambrose had her. Auri. A thought that iced my veins.  
 
 One way or another, I’d follow that thread to the end—through cold, through dark, through every shadow of that damned city he might flee to. Holding my lute close, I slipped into the night, leaving behind what little I didn’t carry.  
+
+### ~ ~ ~
+
+[Chapter 14](CHAPTER_14.md) | [Home](../) | [Chapter 16](CHAPTER_16.md)

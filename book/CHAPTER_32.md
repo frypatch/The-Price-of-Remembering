@@ -81,3 +81,7 @@ Steel flashed, and the third crossbowman crumpled, gurgling as Sim retracted a b
 “Denna’s waiting at the gate,” Sim said, already hauling me upright. “Let’s end this.”
 
 But as the screaming continued above us, I turned toward the Tower. “Not without them.” And with a crash of steel behind us, we ran into what remained.  
+
+### ~ ~ ~
+
+[Chapter 31](CHAPTER_31.md) | [Home](../) | [Chapter 33](CHAPTER_33.md)

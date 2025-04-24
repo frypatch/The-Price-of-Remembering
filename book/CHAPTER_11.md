@@ -69,3 +69,7 @@ I took a long breath. My heartbeat picked up again. “How to reach past the Fou
 Her eyes sharpened immediately. Her posture changed, leaning forward like a hawk locking onto prey. “You’re serious.”  
 
 “Serious as anything,” I said. But my voice held its own hesitation. My work wasn’t done. A storm gathered inside me, flickering with shame and ambition in equal measure. But for now, I had a foothold. And I wasn’t done climbing yet.  
+
+### ~ ~ ~
+
+[Chapter 10](CHAPTER_10.md) | [Home](../) | [Chapter 12](CHAPTER_12.md)

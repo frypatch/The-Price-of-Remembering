@@ -69,3 +69,7 @@ He turned the bottle one last time, then set it gently behind the bar.
 He looked down at the polished wood beneath his hands. Ran his thumb across a grain like music half-remembered.
 
 “And that,” he said softly, “was close enough.”  
+
+### ~ ~ ~
+
+[Chapter 21](CHAPTER_21.md) | [Home](../) | [Chapter 23](CHAPTER_23.md)

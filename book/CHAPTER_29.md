@@ -115,3 +115,7 @@ Denna rolled away, giggling, “You reminded me of a story I heard once. The Dul
 “Hold me. Keep me warm, my beautiful thief.” 
 
 And I did. 
+
+### ~ ~ ~
+
+[Chapter 28](CHAPTER_28.md) | [Home](../) | [Chapter 30](CHAPTER_30.md)

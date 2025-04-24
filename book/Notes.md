@@ -137,3 +137,7 @@ Lyra was probably of the Ruarch (see Laniel young again), and sought Aleph's cou
 * All the Chandrian come to the Waystone, but Kvothe has more help waiting in secret, i.e. Elodin, Auri, Devi possibly ect.
 * In his battle with Cinder, Kvothe blows a horn in the Fae which summons the Scythe who in turn take Cinder.
 * Same as above, but Cinder reveals the Chandrian acted based on what the Ctheah told them, Kvothe then goes and burns down the Ctheah, with the audience left to wonder if this was what the Ctheah wanted all along. - This ending has the added benefit of closing out the entire story, rather than leaving it open-ended.  
+
+### ~ ~ ~
+
+[Appendix](Appendix.md) | [Home](../)

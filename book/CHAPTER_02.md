@@ -73,3 +73,7 @@ I shouldn’t have ignored it.
 As I left the Archives, the afternoon breeze did little to shake the knot nudging restlessly at the back of my mind. Questions murmured there in whispers too dim to parse. Chancellor Herma might have dismissed his tremors, but a man steady as stone doesn’t crack without reason.  
 
 The world rarely grants peace without a cost. And even then, the toll is never paid up front—it settles on you slowly, like ash after a far-off fire. 
+
+### ~ ~ ~
+
+[Chapter 2](CHAPTER_02.md) | [Home](../) | [Chapter 3](CHAPTER_03.md)

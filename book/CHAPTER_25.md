@@ -225,3 +225,7 @@ Later, when the quiet returned, Bast’s golden eyes turned to mine. “Thank yo
 Bast’s grin turned sly as a fox’s. “It means the cleverest of clever. The perfect friend. The fucking boss.”  
 
 I laughed—a true laugh, the first in what felt like days—and let the title settle onto my shoulders like a well-worn cloak.  
+
+### ~ ~ ~
+
+[Chapter 24](CHAPTER_24.md) | [Home](../) | [Chapter 26](CHAPTER_26.md)

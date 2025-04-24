@@ -93,3 +93,7 @@ At their mention, I looked away. My teeth clenched. I thought of their families 
 I clapped my good hand against his shoulder. “Well, for what it’s worth, I'm glad you found me, Bast.” 
 
 “That wasn’t all I learned, Reshi,” he said, flashing me a knowing grin. “Auri is alive.”  
+
+### ~ ~ ~
+
+[Chapter 43](CHAPTER_43.md) | [Home](../) | [Chapter 45](CHAPTER_45.md)

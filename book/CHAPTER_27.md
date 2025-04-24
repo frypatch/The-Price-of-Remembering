@@ -381,3 +381,7 @@ I swallowed the instinct to refuse. If not Denna, then who? “Just make sure yo
 “When have I ever not?” she said with a smile too bright to trust fully.  
 
 I forced a smile of my own, though we both pretended not to notice the sting of the lie hanging between us.  
+
+### ~ ~ ~
+
+[Chapter 26](CHAPTER_26.md) | [Home](../) | [Chapter 28](CHAPTER_28.md)

@@ -375,3 +375,7 @@ I should have said no.
 But I was watching Fascino retreat into the dusk, his movements too smooth, his offer too careful, and I knew.  
 
 “It’s not a question of trust,” I murmured. “But of choice.”  
+
+### ~ ~ ~
+
+[Chapter 18](CHAPTER_18.md) | [Home](../) | [Chapter 20](CHAPTER_20.md)
