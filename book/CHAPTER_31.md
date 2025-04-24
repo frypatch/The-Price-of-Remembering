@@ -129,3 +129,7 @@ Then came the slick sound of my palm slipping against the stone. All at once, th
 “We’ll be alright,” she said, though it carried the fragile weight of a prayer.
 
 And I couldn’t answer her. Not yet.  
+
+### ~ ~ ~
+
+[Chapter 30](CHAPTER_30.md) | [Home](../) | [Chapter 32](CHAPTER_32.md)

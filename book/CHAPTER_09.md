@@ -137,3 +137,7 @@ I knocked on Devi’s door with a resolve that cracked at the edges, but I refus
 For a fleeting moment, I hesitated. My mind conjured Auri’s unguarded smile, her weightless laughter twirling through the dark. The delicate trust she placed in me to keep her world safe. Then my thoughts returned to the archives, to the answers just out of reach, and I swallowed my hesitation whole.  
 
 Devi stepped aside, and I walked in. Greed pressed me forward, and doubt trailed behind like a shadow I refused to see.  
+
+### ~ ~ ~
+
+[Chapter 8](CHAPTER_08.md) | [Home](../) | [Chapter 10](CHAPTER_10.md)

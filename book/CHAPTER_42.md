@@ -77,3 +77,7 @@ Tears blurred my vision. Her lips moved faintly, but her eyes were already dimmi
 “Hold me Kvothe,” she said, her voice no more than breath. “I can't die alone.”  
 
 Under the swaying trees, I held her as the fires died.  
+
+### ~ ~ ~
+
+[Chapter 41](CHAPTER_41.md) | [Home](../) | [Chapter 43](CHAPTER_43.md)

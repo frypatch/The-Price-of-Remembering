@@ -158,3 +158,7 @@ I crouched low, Denna kneeling beside me. "There has to be at least five hundred
 I stood abruptly, my voice taut with urgency. “We’ve lost too much time already. We need to get back to Renere.”
 
 Denna nodded, though her eyes stayed fixed on the soldiers below, sharp with thought. The wind stirred, flaring the flag once more, and the serpent seemed to coil tighter.
+
+### ~ ~ ~
+
+[Chapter 29](CHAPTER_29.md) | [Home](../) | [Chapter 31](CHAPTER_31.md)

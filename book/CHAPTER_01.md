@@ -109,3 +109,7 @@ He looked toward the windows, then farther, beyond them, beyond the village, bey
 When he spoke again, his tone had shifted, spilling into something deeper, something older. “Gather round and listen well,” he said, his words quiet but commanding. “For this is no triumphant song, no grand tale. This is a story shaped from sorrow. A tale of tragedy.”  
 
 The words came to rest like frost. Subtle, but colder than silence. Chronicler bent to the page, pen trembling once more into motion, and Kote, the man who hid behind that name, spoke the first true words of the day.  
+
+### ~ ~ ~
+
+[Prologue](Prologue.md) | [Home](../) | [Chapter 2](CHAPTER_02.md)

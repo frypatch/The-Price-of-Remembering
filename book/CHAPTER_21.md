@@ -233,3 +233,7 @@ To the right, another shift of movement caught my eye. Glancing after it, I saw 
 She did not move. She did not wave. She was watching. That thought sat uneasily in my ribs, like a string tuned too tight—had she always been there? Was it chance? Or had she known?
 
 The courtyard faded behind me as I turned and walked away, pressing my hand against my wound. My focus lingered only on the thought of the tower. If I couldn’t save her through Roderick, I would find another way.  
+
+### ~ ~ ~
+
+[Chapter 20](CHAPTER_20.md) | [Home](../) | [Chapter 22](CHAPTER_22.md)

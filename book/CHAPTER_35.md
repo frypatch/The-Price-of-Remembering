@@ -87,3 +87,7 @@ The storm ebbed only as I stumbled over my own legs. My Alar cracked, broken und
 Auri’s voice called faintly in my ear: “Kvothe, live. Please.”  
 
 And then the Wind was all that remained as I fell.  
+
+### ~ ~ ~
+
+[Chapter 34](CHAPTER_34.md) | [Home](../) | [Chapter 36](CHAPTER_36.md)

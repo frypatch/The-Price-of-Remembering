@@ -295,3 +295,7 @@ Wil leaned back, arms crossed. “When does anything ever fit together for you? 
 “I know,” I said, eyes never leaving the journal. “But this—this knot is different.”
 
 Wil groaned. “Oh, this will end *so well.*” 
+
+### ~ ~ ~
+
+[Chapter 2](CHAPTER_02.md) | [Home](../) | [Chapter 4](CHAPTER_04.md)

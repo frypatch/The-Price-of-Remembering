@@ -107,3 +107,7 @@ My stomach churned as questions made themselves known: Why this knowledge? Why n
 Devi broke through my reverie with a hand pressed firmly against my arm. “Kvothe,” she said quietly, her voice almost reverent despite its usual bite. “We’ve done it.”  
 
 I nodded, the weight of that accomplishment settling over me like a heavy cloak. But this was merely the first thread pulled free. The unraveling had only begun.  
+
+### ~ ~ ~
+
+[Chapter 11](CHAPTER_11.md) | [Home](../) | [Chapter 13](CHAPTER_13.md)

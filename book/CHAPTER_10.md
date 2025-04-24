@@ -65,3 +65,7 @@ When I presented my near-working prototype to Master Kilvin, his silence was wor
 He didn’t order it locked away. He didn’t tell me to refine it. He didn’t even ask to test it. He simply melted it into molten slag with the forge bellows. Hot metal, wasted time, failings lost. That night, I stumbled back to my tiny room and collapsed on the floor.  
 
 I slept for two days.  
+
+### ~ ~ ~
+
+[Chapter 9](CHAPTER_09.md) | [Home](../) | [Chapter 11](CHAPTER_11.md)

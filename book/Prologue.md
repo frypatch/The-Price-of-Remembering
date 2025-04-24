@@ -13,3 +13,7 @@ The third silence wrapped around the inn itself, deep and unyielding. It was in 
 This silence was his. He carried it like an old wound, deep and wide and inescapable. It was not the quiet of rest or relief but something heavy, brittle at the edges, ready to shatter. It was the silence of a man who had forgotten his song. It was the silence of someone waiting—waiting for time, for change, for an ending.  
 
 And so the Waystone lay still. The silence waited with him.  
+
+### ~ ~ ~
+
+[Forward](Forward.md) | [Home](../) | [Chapter 1](CHAPTER_01.md)

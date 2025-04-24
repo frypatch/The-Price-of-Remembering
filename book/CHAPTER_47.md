@@ -127,3 +127,7 @@ I saw familiar figures among them. Elodin stood like a statue, his face unreadab
 Their gazes burned into me. My chest felt hollow. My throat stung. I couldn’t stay.  
 
 So, I ran.  
+
+### ~ ~ ~
+
+[Chapter 46](CHAPTER_46.md) | [Home](../) | [Chapter 48](CHAPTER_48.md)

@@ -33,3 +33,7 @@ His voice broke the stillness, soft as breath. “We’ll be together again soon
 He rose, brushing his hands. The chill lingered on his skin, but he turned away from it, slipping back into the Waystone.  
 
 Inside, the room was warm, but warmth was never enough.  
+
+### ~ ~ ~
+
+[Chapter 42](CHAPTER_42.md) | [Home](../) | [Chapter 44](CHAPTER_44.md)

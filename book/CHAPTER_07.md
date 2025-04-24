@@ -59,3 +59,7 @@ It was light. Fierce. Unexpected. She lingered just enough to let me feel its ab
 “I always knew you were like this,” she said softly, her voice curling into something between satisfaction and sorrow. Before I could speak, she turned toward the distant lights of Imre, the faint spice of her trailing in the breeze.  
 
 I stood there, my lute still in my hands, the silence of the stones all the more deafening in her wake. If there was anything sacred left in me, it was sitting in the space where the song had lived for just a moment longer.  
+
+### ~ ~ ~
+
+[Chapter 6](CHAPTER_06.md) | [Home](../) | [Chapter 8](CHAPTER_08.md)

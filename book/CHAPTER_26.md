@@ -253,3 +253,7 @@ She didn’t look at me when she said it. And I was grateful.
 If she had, I might have said something foolish. Something tender. Something true.
 
 And neither of us were ready for that.  
+
+### ~ ~ ~
+
+[Chapter 25](CHAPTER_25.md) | [Home](../) | [Chapter 27](CHAPTER_27.md)

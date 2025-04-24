@@ -129,3 +129,7 @@ I paused, watching him. The Cthaeh’s words echoed unbidden in my mind: *Your f
 This was not mercy I felt. It was resolve.  
 
 I stepped closer and, without a word, brought *Folly* down. The blade severed his hands cleanly at the wrist. Blood pooled around him as his shattered form collapsed further into the dirt.  
+
+### ~ ~ ~
+
+[Chapter 48](CHAPTER_48.md) | [Home](../) | [Chapter 50](CHAPTER_50.md)

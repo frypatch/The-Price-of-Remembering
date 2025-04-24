@@ -121,3 +121,7 @@ Denna was waiting just where I left her. “Stoic, angry, and frustrated,” she
 Instead of pressing me further, she fell into step at my side, her silence a rare but comforting presence.  
 
 If the Amyr wouldn’t act, *I would.*   
+
+### ~ ~ ~
+
+[Chapter 27](CHAPTER_27.md) | [Home](../) | [Chapter 29](CHAPTER_29.md)
