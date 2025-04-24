@@ -1,4 +1,4 @@
-![book/cover.png]
+![The Price of Remembering](book/cover.png)
 
 ### ~ ~ ~
 

@@ -16,4 +16,4 @@ And so the Waystone lay still. The silence waited with him.
 
 ### ~ ~ ~
 
-[Forward](Forward.md) | [Home](../) | [Chapter 1](CHAPTER_1.md)
+[Forward](Forward.md) | [Home](../) | [Chapter 1](CHAPTER_01.md)
