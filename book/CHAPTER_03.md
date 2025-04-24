@@ -298,4 +298,4 @@ Wil groaned. “Oh, this will end *so well.*”
 
 ### ~ ~ ~
 
-[Chapter 3](CHAPTER_03.md) | [Home](../) | [Chapter 4](CHAPTER_04.md)
+[Chapter 2](CHAPTER_02.md) | [Home](../) | [Chapter 4](CHAPTER_04.md)
