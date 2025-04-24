@@ -4,15 +4,15 @@
 
 MORNING CREPT INTO THE Waystone Inn like regret. It was slow, chill-fingered, and sharp in the brittle places a younger man might mistake for numbness.
 
-The red-haired innkeeper lay still, breathing shallow and quiet through his teeth. The pain nested in his ribs was a spreading ache that had not yet decided whether it was dull or sharp. Somewhere deeper, joints murmured old protest, not all of it from yesterday’s beating. He had been many things in his life, but today, he was simply sore.
+The red-haired innkeeper lay still, breathing shallow and quiet through his teeth. The pain nested in his ribs was a spreading ache that had not yet decided whether it was dull or sharp. Somewhere deeper his joints murmured in protest, not all of it from yesterday’s beating. He had been many things in his life, but today he was simply sore.
 
-There are bruises youth ignores, he thought. And others youth earns, bruises that memory grinds down into the bone. Age doesn’t forgive them. It collects them.
+There are bruises youth ignores, he thought, and others youth earns. Bruises that memory grinds down into the bone. Age doesn’t forgive them. It collects them.
 
 Yesterday he’d run on borrowed strength. He'd swept the floor and served supper on the back of adrenaline masquerading as resolve. For Bast. For Chronicler. For the memory of himself. But the price was always waiting, always exact.
 
 Pain greeted him like an old collector now. Not cruel, merely thorough.
 
-He tried to rise, and failed. It was not the dramatic collapse of stage tragedy, nor a fall worth laughter. But it was graceless, and heavy, and unseen. So it was only sad.
+He tried to rise, and failed. It was not the dramatic collapse of stage tragedy, nor a fall worth laughter. Instead it was graceless, heavy, and unseen. So it was only sad.
 
 No one watches a man fail in private. That’s what makes it real.
 
@@ -20,7 +20,7 @@ The sour tang of acid-burnt cloth and coalsmoke prickled his nose, the clinging 
 
 He breathed. Gritted his teeth. Tried again.
 
-The second time, he made it. No grace, no heroics. Just a small success carved inch by painful inch. He moved like a man playing through a part once memorized: Sit. Wait. Stand. Wait again.
+This time he made it. No grace, no heroics. Just a small success carved inch by painful inch. He moved like a man playing through a part once memorized: Sit. Wait. Stand. Wait again.
 
 He did not wince. Not loudly.
 
@@ -28,7 +28,7 @@ As he passed the bed, his eyes dropped almost thoughtlessly to the floor near it
 
 But the space stared back at him.
 
-That was the cruelty of absence: how it left certain corners more full than any presence ever could. The floorboards beneath were paler, the grain untouched, unmarred. Quiet witness to years of weight now removed. Ghostweight, still pressing.
+That was the cruelty of absence: how it left certain corners more full than any presence ever could. The floorboards beneath were paler, the grain untouched, unmarred. THe quiet witness to years of weight now removed.
 
 There were grooves too, faint scars where Roah wood had kissed the floor overlong. They’d fade, in time. Just like everything else.
 
@@ -36,7 +36,7 @@ He chuffed laughter through his nose. The air caught. His back popped, twice.
 
 Stupid.
 
-He remembered how he’d done it in the predawn hours, foolish and fevered from insomnia. Too proud to leave well enough alone, too tired to try gently. He’d dropped his walking stick under the chest and levered it an inch at a time, breath hitching all the while. Cleverness, he reminded himself, was often late to arrive. Folly? Folly rarely missed an invitation.
+He remembered how he’d done it in the predawn hours, foolish and fevered from insomnia. Too proud to leave well enough alone, too tired to try gently. He’d dropped his walking stick under the chest and levered it an inch at a time, breath hitching all the while. Cleverness, he reminded himself, was often late to arrive. Folly on the other hand? Well, folly rarely missed an invitation.
 
 Then the trapdoor. The cellar yawning beneath. A dark windless place meant for secrets. He’d opened it with both hands and let the chest drop. Just like that. A clean, heavy fall.
 
@@ -49,8 +49,6 @@ The dawn had been near when he crawled out again. Empty in the way that isn’t 
 That same hollow pulsed in his belly now. Not sharp, just insistent.
 
 Pain can be ignored. Regret will wait. But nature, at the door, will not. There are indignities a man does not get to debate.
-
-So he obeyed. 
 
 ### * * *
 
