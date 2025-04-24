@@ -35,3 +35,7 @@ Penthe stepped forward as her daughter descended. Her hands moved with deliberat
 The words hit her not like praise, but like a tether. Grounding. Real. Pehyn’s shadow no longer danced ahead of her. It stood still, matching her stride as her mother turned and began the walk home.
 
 Pehyn followed her mother home, her legs steady now, her shadow no longer dancing ahead but moving alongside her own.  
+
+### ~ ~ ~
+
+[Chapter 51](CHAPTER_51.md) | [Home](../) | [Appendix](Appendix.md)

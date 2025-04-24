@@ -63,3 +63,7 @@ At that, Kote pushed himself upright and straightened his apron, the mask of the
 “And for now, this part of the story remains yours to write. So keep writing, Chronicler. That’s why you’re here after all, isn’t it?”
 
 He turned toward the hearth again, his voice distant now. “Their story deserves the telling. Even if the world doesn’t deserve them.”  
+
+### ~ ~ ~
+
+[Chapter 35](CHAPTER_35.md) | [Home](../) | [Chapter 37](CHAPTER_37.md)

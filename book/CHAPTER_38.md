@@ -87,3 +87,7 @@ Cinder smiled, holding out the Loeclos Box and gesturing toward me. “I do, Lor
 Haliax’s gaze—or what passed for a gaze—settled on me. I stepped forward, my chest heaving. I wouldn’t abandon Denna. Not now. Not ever.  
 
 The darkness reached for me.  
+
+### ~ ~ ~
+
+[Chapter 37](CHAPTER_37.md) | [Home](../) | [Chapter 39](CHAPTER_39.md)

@@ -89,3 +89,7 @@ I stepped gingerly into the street, the hood of my shaed pulled low. The aches i
 Denna’s sanctuary. Clever of her to bring me here. The White Citadel and Alveron’s men wouldn’t think to look for me in such an unassuming place.  
 
 For the first time since the Tower, a flicker of resolve sparked within me. I was alive, and I intended to make that matter. There was still so much to do, so much to reckon with. For now, I clung to hope: that Denna was still out there, that Auri had survived, that somewhere in all of this, I would find a way forward.  
+
+### ~ ~ ~
+
+[Chapter 36](CHAPTER_36.md) | [Home](../) | [Chapter 38](CHAPTER_38.md)

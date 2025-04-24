@@ -449,3 +449,7 @@ I turned, staring at the city beyond the lamplight, at the soft movement of Rene
 A slow breath left Bast’s lips. He turned away from the street, glancing toward me with something unfamiliar in his eyes. Not amusement. Not mischief. A small, sharp-edged weariness.
 
 "Follow your prince to The Whispering Quarter, Reshi," he murmured. "But don't be surprised if the city forgets you when you're gone."  
+
+### ~ ~ ~
+
+[Chapter 22](CHAPTER_22.md) | [Home](../) | [Chapter 24](CHAPTER_24.md)

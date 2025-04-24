@@ -359,3 +359,7 @@ I turned back toward the boy, expecting defiance or resistance. But the scruffy 
 ### * * *
 
 Within the Waystone, Bast looked over the table indignantly. “Who are you calling an urchin?”  
+
+### ~ ~ ~
+
+[Chapter 17](CHAPTER_17.md) | [Home](../) | [Chapter 19](CHAPTER_19.md)

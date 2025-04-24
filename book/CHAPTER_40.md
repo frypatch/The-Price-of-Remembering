@@ -93,3 +93,7 @@ At that moment, Cinder’s face twisted to fury. He lunged—only to be met by a
 Denna tugged at my arm, her voice weak and pleading. “Let’s go.”  
 
 And so, we fled into the night.  
+
+### ~ ~ ~
+
+[Chapter 39](CHAPTER_39.md) | [Home](../) | [Chapter 41](CHAPTER_41.md)

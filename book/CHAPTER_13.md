@@ -105,3 +105,7 @@ When she fell, it was as though someone had cut her strings. She crumpled to the
 I didn’t move. Couldn’t. The chill in my veins spread faster now, turning each heartbeat into a slow, painful echo as darkness pulled at the edges of my vision. In the corner of my eye, I saw guards assembled, their presence both reassuring and ominous.  
 
 And then, all at once, the blackness took me.  
+
+### ~ ~ ~
+
+[Chapter 12](CHAPTER_12.md) | [Home](../) | [Chapter 14](CHAPTER_14.md)

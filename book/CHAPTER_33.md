@@ -107,3 +107,7 @@ The tower groaned, dust creeping from the crevices. I felt the vibrations of eac
 “Now!” The cauldron tipped. The ram crew below screamed as liquid fire poured over them, and bottles of dreg followed. The courtyard lit up, and Fascino’s soldiers scattered like startled insects.
 
 For a moment, hope flickered. Then I saw the mangonel.  
+
+### ~ ~ ~
+
+[Chapter 32](CHAPTER_32.md) | [Home](../) | [Chapter 34](CHAPTER_34.md)

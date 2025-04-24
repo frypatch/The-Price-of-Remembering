@@ -103,3 +103,7 @@ My hand fell to my side, curling into a fist. I stayed there a long moment, star
 I turned on my heel and left without looking back. But as I wove through the darkened stacks again, one thought began to solidify beneath all the others: the door may have kept me out, but it couldn’t do so forever. They had hidden something behind that stone to stop people like me. And now, more than ever, I was determined to know why.  
 
 One way or another, I would find a way inside.  
+
+### ~ ~ ~
+
+[Chapter 7](CHAPTER_07.md) | [Home](../) | [Chapter 9](CHAPTER_09.md)

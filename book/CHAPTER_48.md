@@ -211,3 +211,7 @@ For the first time in too long, Kvothe smiled—not a faint shadow of a smile, b
 The boots reached the stone floor of the common room. Behind him, the air turned cold, heavy with malice.  
 
 Kvothe stood, his back straightening fully as he turned to face the shadow that awaited him.  
+
+### ~ ~ ~
+
+[Chapter 47](CHAPTER_47.md) | [Home](../) | [Chapter 49](CHAPTER_49.md)

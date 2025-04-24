@@ -55,3 +55,7 @@ I finished, my voice steady as I stared into the pit. The words came easy, roots
 For a moment, the hovel seemed smaller, the air too thick, the space too tight. The pit below carried its own kind of silence—a waiting void of breath and darkness.  
 
 “Get me the ladder,” I said.  
+
+### ~ ~ ~
+
+[Chapter 49](CHAPTER_49.md) | [Home](../) | [Chapter 51](CHAPTER_51.md)

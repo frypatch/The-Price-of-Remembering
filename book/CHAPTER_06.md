@@ -101,3 +101,7 @@ I pulled my lute from my pack, the familiar weight rough in my hands. The first 
 The notes carried us both. My fingers guided the melody, weaving it through the cool evening air. Auri spun and spun, her bare feet tracing patterns on the rooftop as though they were writing something too beautiful for words. The stars above blurred with her motion, their light winding together with the sound of my music.  
 
 Her laughter echoed briefly before fading into the stillness. When at last her movements slowed and my music trailed off, she collapsed into a heap of soft blue cloak and tangled golden hair, grinning up at me as though she’d captured the sky itself.  
+
+### ~ ~ ~
+
+[Chapter 5](CHAPTER_05.md) | [Home](../) | [Chapter 7](CHAPTER_07.md)

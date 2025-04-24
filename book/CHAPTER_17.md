@@ -105,3 +105,7 @@ Until Sim’s sudden touch on my shoulder stopped me. “Kvothe, look,” he whi
 I followed his gaze. The stars above were wrong. They drifted in unfamiliar patterns, trembling faintly, as if unsure whether they belonged. The air clung thick and sweet around us, like the memory of distant music.  
 
 We had crossed into the Fae.  
+
+### ~ ~ ~
+
+[Chapter 16](CHAPTER_16.md) | [Home](../) | [Chapter 18](CHAPTER_18.md)

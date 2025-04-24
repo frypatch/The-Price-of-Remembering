@@ -71,3 +71,7 @@ I opened my mouth to argue, to say this was my responsibility. But the weight of
 As he stood, he offered a small, knowing smile, a flicker of warmth lighting the edges of his features. “You’ll be all right, Reshi,” he said, though his tone carried more hope than certainty.  
 
 I sat alone after he left, staring at the crooked shelf Auri had made for me. I thought of Wil and Sim, of Auri and Bast. And for the first time in weeks, though faint and thready, I felt the stirrings of something like hope. Something like strength.  
+
+### ~ ~ ~
+
+[Chapter 45](CHAPTER_45.md) | [Home](../) | [Chapter 47](CHAPTER_47.md)

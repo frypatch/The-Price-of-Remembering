@@ -143,3 +143,7 @@ Auri smiled, faint and glowing.
 “Good,” she said still holding my hands. Her face gleamed in the moonlight, a mixture of relief and exhaustion.  
 
 "Take me home, Kvothe. Back to the Underthing, where everything is proper and safe and true.”  
+
+### ~ ~ ~
+
+[Chapter 44](CHAPTER_44.md) | [Home](../) | [Chapter 46](CHAPTER_46.md)

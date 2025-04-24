@@ -389,3 +389,7 @@ I reached for her hands, clasping them. “On my good right hand,” I said, the
 Alone on the walk back, I stopped in an alley and began stepping through the Ketan, hoping muscle memory might calm the nervous stir within me. My movements were stiff, stuttering like a poorly tuned lute, and I faltered on *Catching Rain,* landing gracelessly on the cold cobblestones.  
 
 Instead of a third attempt, I breathed deeply, willed the tension out of my body, and continued home. By the time I reached the Blind Beggar, I’d made a promise to myself: if I lived through tomorrow, I would not waste another moment.  
+
+### ~ ~ ~
+
+[Chapter 19](CHAPTER_19.md) | [Home](../) | [Chapter 21](CHAPTER_21.md)

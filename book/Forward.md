@@ -11,3 +11,7 @@ For those of you reading this, there are no expectations put upon you for doing 
 I appreciate this won't be for everyone, however I offer it without obligation, let, or lean :)
 
 That all said, please enjoy.
+
+### ~ ~ ~
+
+[Legal Disclaimer](Legal_Disclaimer.md) | [Home](../) | [Prologue](Prologue.md)

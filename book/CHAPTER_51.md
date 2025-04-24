@@ -41,3 +41,7 @@ I breathed deeply and placed the lute gently onto my back. For a moment, I stood
 My companions followed a few paces behind. They still said nothing, but I could feel their eyes on me, as if seeing me for the first time. I kept my own forward, fixed on the horizon. The road stretched on, wide and waiting.  
 
 The end.  
+
+### ~ ~ ~
+
+[Chapter 50](CHAPTER_50.md) | [Home](../) | [Epilogue](Epilogue.md)

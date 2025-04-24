@@ -129,3 +129,7 @@ Present day chapters
 - Maarten - Andy
 - Auri - custom - Emily Kinney
 - Denna - custom
+
+### ~ ~ ~
+
+[Epilogue](Epilogue.md) | [Home](../) | [Notes](Notes.md)
