@@ -5,3 +5,7 @@
 ### NOT PATRICK ROTHFUSS
 
 ### VERSION 3.0.0
+
+### ~ ~ ~
+
+[Cover Page](Cover_Page.md) | [Home](../) | [Legal Description](Legal_Description.md)
