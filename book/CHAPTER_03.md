@@ -8,25 +8,13 @@ I had claimed a narrow table beneath an arched window, where the light of last b
 
 Around me, I had built a small fortress of text: "Numbered Names", "Feyda’s Legacy", "Child-Charms of the Western Vale", and "Hashar’s Curtain"—each book like a brick placed carefully, lovingly. A scholar might have called it comparative research. A sympathist might have said I was triangulating a pattern. But the truth was simpler—I was chasing shadows wearing old names.
 
-I was three pages deep into "Numbered Names", working my way through a tangled verse of Mid-Shaldaic couplets, when I felt it: a shift in the air behind me.
+I was three pages deep into "Numbered Names", working my way through a tangled verse of Mid-Shaldaic couplets, when Ambrose Jakis stepped into view. His robes were a bright Vintish red that did nothing to flatter the smug tilt of his smile. His hair was swept back with such deliberation it looked like it cost gold. His scent arrived before he did, cloying with rose oil and a hint of whatever powdered arrogance is made from.
 
-A sound. Not loud. But deliberate.
-
-It wasn't the accidental rustle of a careless student or the ghost-patter of parchment. No, this was something else. The kind of silence that walks into a room wearing perfume.
-
-I didn’t look up.
-
-I didn’t need to.
-
-A voice announced itself with smug, sauntering clarity. “Ah. Re’lar Kvothe. Colonizing the Archives one aisle at a time, I see.”
-
-Ambrose Jakis stepped into view like a fox discovering a henhouse already furnished with candles and wine. His robes were the color of fresh-spilled wine: rich and wrong. Bright Vintish red that did nothing to flatter the smug tilt of his smile. His hair was swept back with such deliberation it looked like it cost gold. His scent arrived before he did, cloying with rose oil and a hint of whatever powdered arrogance is made from.
-
-“Ah,” he said, stopping three paces from my chair, “I see the mighty Re’lar Kvothe has grown territorial.”
+“Ah,” he said, stopping three paces from my chair, “Re’lar Kvothe. Colonizing the Archives one aisle at a time, I see.”
 
 He glanced over the spread of books, fake-impressed. “You’ve set siege to half a shelf’s worth of Shaldaic ramblings. Researching lullabies or recruiting ancient demons?”
 
-I did what any man does when he finds a roach skittering across his dinner plate—I studied my notes hard enough to drill through the page.
+I did what any man does when he finds a roach skittering across his dinner plate, I studied my notes hard enough to drill through the page.
 
 He leaned closer, “Still charmingly tight-lipped. Must be exhausting, all that silent brilliance.”
 
@@ -34,9 +22,9 @@ He reached forward, slow as disdain, and rested his hand on the open copy of "Nu
 
 I looked up at last.
 
-“That’s in active use,” I said evenly.
+“I'm using that,” I said evenly.
 
-Ambrose smiled. Not the polite kind—the kind that shows teeth. “But not checked out,” he said, producing a small vellum slip sealed in the red wax of the Arcane Bursar’s desk. “Filed properly. Logged and stamped.”
+Ambrose smiled. Not the polite kind—the kind that shows teeth. “Yet you didn't checked it out,” he said, producing a small vellum slip sealed in the red wax of the Arcane Bursar’s desk. “Filed properly. Logged and stamped.”
 
 He placed it delicately atop the book like a winning hand in a game I hadn’t known we were playing. “Dreadfully unfortunate, isn’t it? These are public volumes. Your claim only counts if you mark it.”
 
@@ -46,9 +34,7 @@ He placed it delicately atop the book like a winning hand in a game I hadn’t k
 
 He withdrew the book, gently, lovingly, like he meant to mount it on a plaque. He turned a few pages as he did, pretending to skim.
 
-I reached for "Feyda’s Legacy" instead—another anchor text.
-
-Ambrose tutted, already lifting the carved leather from the stack. “Ah, this one too, I’m afraid.”
+I reached for "Feyda’s Legacy" instead, but Ambrose just tutted and lifted the carved leather from the stack. “Ah, this one too, I’m afraid.”
 
 He turned to go.
 

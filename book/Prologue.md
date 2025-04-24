@@ -10,7 +10,7 @@ In the inn’s basement, the second silence curled sharp and anxious. Coals in a
 
 The third silence wrapped around the inn itself, deep and unyielding. It was in the locks turned tight, in the timbers that groaned faintly in the cool of the night. It belonged, most of all, to the man upstairs. He undressed by the dim light of a single candle, moving slowly, as if nursing wounds unseen. His hair, a bright red that once caught firelight, was dull in the darkness. His hands trembled faintly as he folded his shirt, each motion deliberate. His eyes, dark with some great weight, moved restlessly but saw nothing.  
 
-This silence was his. He carried it like an old wound, deep and wide and inescapable. It was not the quiet of rest or relief but something heavy, brittle at the edges, ready to shatter. It was the silence of a man who had forgotten his song. It was the silence of someone waiting—waiting for time, for change, for an ending.  
+This silence was his. He carried it like an old wound, deep and wide and inescapable. It was not the quiet of rest or relief but something heavy, brittle at the edges, ready to shatter. It was the silence of a man who had forgotten his song. It was the silence of someone waiting for time, for change, for an ending.  
 
 And so the Waystone lay still. The silence waited with him.  
 
