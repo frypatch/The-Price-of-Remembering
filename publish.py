@@ -366,4 +366,3 @@ if __name__ == "__main__":
                                zipfile.ZIP_DEFLATED)
 
     print("eBook creation complete")
-    
