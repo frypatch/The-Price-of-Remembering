@@ -2,15 +2,13 @@
 
 ## THE WEIGHT OF SILENCE  
 
-MORNING CREPT INTO THE Waystone Inn like regret. It was slow, chill-fingered, and sharp in the brittle places a younger man might mistake for numbness.
+MORNING CREPT INTO THE Waystone Inn like regret. It was slow and thin-fingered, seeping in through cracks old and new. It settled on every surface, brittle and cold, sharp at the edges where a younger man might have mistaken ache for numbness.
 
-The red-haired innkeeper lay still, breathing shallow and quiet through his teeth. The pain nested in his ribs was a spreading ache that had not yet decided whether it was dull or sharp. Somewhere deeper his joints murmured in protest, not all of it from yesterday’s beating. He had been many things in his life, but today he was simply sore.
+The red-haired innkeeper lay still, counting his breaths, each pulled softly through his teeth. Pain had settled into his ribs, a subtle ache, waiting, not yet one thing or another. Deeper, joints murmured their old complaint, dull, relentless, and not all their muttering was from yesterday’s beating. He had been many things in his life, quick and clever and more, but today he was simply sore.
 
-There are bruises youth ignores, he thought, and others youth earns. Bruises that memory grinds down into the bone. Age doesn’t forgive them. It collects them.
+Yesterday he’d run on borrowed strength. He'd swept the floor and served supper on the back of adrenaline masquerading as resolve. For Bast. For Chronicler. For the memory of himself. But the cost keeps its own ledger. The reckoning always arrives.
 
-Yesterday he’d run on borrowed strength. He'd swept the floor and served supper on the back of adrenaline masquerading as resolve. For Bast. For Chronicler. For the memory of himself. But the price was always waiting, always exact.
-
-Pain greeted him like an old collector now. Not cruel, merely thorough.
+And so pain greeted him now with the familiar patience of an old collector. Not cruel, only exacting, only thorough. 
 
 He tried to rise, and failed. It was not the dramatic collapse of stage tragedy, nor a fall worth laughter. Instead it was graceless, heavy, and unseen. So it was only sad.
 
@@ -28,7 +26,7 @@ As he passed the bed, his eyes dropped almost thoughtlessly to the floor near it
 
 But the space stared back at him.
 
-That was the cruelty of absence: how it left certain corners more full than any presence ever could. The floorboards beneath were paler, the grain untouched, unmarred. THe quiet witness to years of weight now removed.
+That was the cruelty of absence. How it left certain corners more full than any presence ever could. The floorboards beneath were paler, the grain untouched, unmarred. The quiet witness to years of weight now removed.
 
 There were grooves too, faint scars where Roah wood had kissed the floor overlong. They’d fade, in time. Just like everything else.
 
@@ -36,11 +34,9 @@ He chuffed laughter through his nose. The air caught. His back popped, twice.
 
 Stupid.
 
-He remembered how he’d done it in the predawn hours, foolish and fevered from insomnia. Too proud to leave well enough alone, too tired to try gently. He’d dropped his walking stick under the chest and levered it an inch at a time, breath hitching all the while. Cleverness, he reminded himself, was often late to arrive. Folly on the other hand? Well, folly rarely missed an invitation.
+He remembered how he’d done it in the predawn hours, foolish and fevered from insomnia. Too proud for patience, too tired for care. He’d dropped his walking stick under the chest and levered it an inch at a time, breath hitching all the while. Then the trapdoor and the cellar yawning beneath. A dark windless place meant for secrets. He’d opened it with both hands and let the chest drop. Just like that. A clean, heavy fall.
 
-Then the trapdoor. The cellar yawning beneath. A dark windless place meant for secrets. He’d opened it with both hands and let the chest drop. Just like that. A clean, heavy fall.
-
-The sound should’ve thundered, but it didn’t. The Waystone swallowed it whole. It ate noise the way stone eats heat. What should have been a crash became something worse. A silence too deep to be echoed.
+The sound should’ve thundered, but it didn’t. The Waystone swallowed it whole. It ate noise the way stone eats heat. What should have been a crash became something worse. A silence too deep to echo.
 
 He’d stared after it for a time before following. Listening for anything. Waiting, maybe, for something to answer back. But the dark only answered with more dark.
 
@@ -48,7 +44,7 @@ The dawn had been near when he crawled out again. Empty in the way that isn’t 
 
 That same hollow pulsed in his belly now. Not sharp, just insistent.
 
-Pain can be ignored. Regret will wait. But nature, at the door, will not. There are indignities a man does not get to debate.
+Pain can be set aside. Regret will wait its turn. But nature, blunt and honest, will not be held at the threshold. There are indignities a man does not get to debate.
 
 ### * * *
 
