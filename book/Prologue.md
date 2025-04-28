@@ -1,10 +1,10 @@
 # PROLOGUE
 
-## A SILENCS OF THREE PARTS
+## A SILENCE OF THREE PARTS
 
-IT WAS NIGHT IN Newarre, and the Waystone Inn lay in silence, a silence of three parts.  
+NIGHT HAD SETTLED OVER Newarre, and the Waystone Inn lay in silence, a silence of three parts.  
 
-The first was an absence, hollow and wide. Doors stayed shut. Windows slept dark. No crackle of kindling stirred hearths, no footsteps brushed dew from the grass. If there had been music—but no, there was no music. The silence lingered heavy, caught in the spaces where life might once have been.  
+The first was an absence, hollow and wide. Doors stayed shut. Windows slept dark. No crackle of kindling stirred hearths, no footsteps brushed dew from the grass. If there had been music, there would have been some measure of comfort, but there was none. And so the silence lingered heavy, caught in the spaces where life might once have been.
 
 In the inn’s basement, the second silence curled sharp and anxious. Coals in a small forge glowed faintly, their heat fading into whispers of orange light. Tools lay scattered on a workbench: tongs tipped with blackened soot, a copper chisel tarnished green. Nearby, acid hissed on the stone where it had spilled, its quiet persistence adding tension to the stillness. This wasn't peace. This was the silence of effort begun and abandoned.  
 
