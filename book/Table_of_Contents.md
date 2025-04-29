@@ -1,60 +1,60 @@
 # TABLE OF CONTENTS
 
-* [*Title Page*](titlepage.xhtml)
-* [*Legal Disclaimer*](s00003-Legal_Disclaimer.xhtml)
-* [*Forward*](s00004-Forward.xhtml)
-* [*Prologue*](s00006-Prologue.xhtml)
-* [CHAPTER 1](s00007-CHAPTER_01.xhtml) - The Weight of Silence
-* [CHAPTER 2](s00008-CHAPTER_02.xhtml) - The Fragile Weight of Peace
-* [CHAPTER 3](s00009-CHAPTER_03.xhtml) - The Silent Toll
-* [CHAPTER 4](s00010-CHAPTER_04.xhtml) - Ears in the Wind
-* [CHAPTER 5](s00011-CHAPTER_05.xhtml) - The Art of Listening
-* [CHAPTER 6](s00012-CHAPTER_06.xhtml) - The Breath of the Peaks
-* [CHAPTER 7](s00013-CHAPTER_07.xhtml) - A Song Without Words
-* [CHAPTER 8](s00014-CHAPTER_08.xhtml) - Rare Things Vanish
-* [CHAPTER 9](s00015-CHAPTER_09.xhtml) - A Foolish Bargain
-* [CHAPTER 10](s00016-CHAPTER_10.xhtml) - Keys to the Past
-* [CHAPTER 11](s00017-CHAPTER_11.xhtml) - The Price We Pay
-* [CHAPTER 12](s00018-CHAPTER_12.xhtml) - Threads Unravel
-* [CHAPTER 13](s00019-CHAPTER_13.xhtml) - I Will Not Be Held
-* [CHAPTER 14](s00020-CHAPTER_14.xhtml) - Name in the Wall
-* [CHAPTER 15](s00021-CHAPTER_15.xhtml) - Missing
-* [CHAPTER 16](s00022-CHAPTER_16.xhtml) - Interlude - By Cover of Night
-* [CHAPTER 17](s00023-CHAPTER_17.xhtml) - Of Dancing Stones
-* [CHAPTER 18](s00024-CHAPTER_18.xhtml) - Define Lost
-* [CHAPTER 19](s00025-CHAPTER_19.xhtml) - Amber and Ivory
-* [CHAPTER 20](s00026-CHAPTER_20.xhtml) - Lured into the Current
-* [CHAPTER 21](s00027-CHAPTER_21.xhtml) - Kaysera
-* [CHAPTER 22](s00028-CHAPTER_22.xhtml) - Interlude – Crosscurrents
-* [CHAPTER 23](s00029-CHAPTER_23.xhtml) - The Thread Unravels
-* [CHAPTER 24](s00030-CHAPTER_24.xhtml) - The Whispering Quarter
-* [CHAPTER 25](s00031-CHAPTER_25.xhtml) - Reshi
-* [CHAPTER 26](s00032-CHAPTER_26.xhtml) - Stories We Tell Ourselve
-* [CHAPTER 27](s00033-CHAPTER_27.xhtml) - Old Acquaintances
-* [CHAPTER 28](s00034-CHAPTER_28.xhtml) - For the Greater Good
-* [CHAPTER 29](s00035-CHAPTER_29.xhtml) - Lockless
-* [CHAPTER 30](s00036-CHAPTER_30.xhtml) - Swirls in the Water
-* [CHAPTER 31](s00037-CHAPTER_31.xhtml) - The Deceit
-* [CHAPTER 32](s00038-CHAPTER_32.xhtml) - The Fall
-* [CHAPTER 33](s00039-CHAPTER_33.xhtml) - The Tower
-* [CHAPTER 34](s00040-CHAPTER_34.xhtml) - Command in the Chaos
-* [CHAPTER 35](s00041-CHAPTER_35.xhtml) - The Price of Loyalty
-* [CHAPTER 36](s00042-CHAPTER_36.xhtml) - Interlude - A Weight of Names
-* [CHAPTER 37](s00043-CHAPTER_37.xhtml) - The Breath After the Fall
-* [CHAPTER 38](s00044-CHAPTER_38.xhtml) - The Wolf and the Owl
-* [CHAPTER 39](s00045-CHAPTER_39.xhtml) - The Weight of Shadows
-* [CHAPTER 40](s00046-CHAPTER_40.xhtml) - Cinder
-* [CHAPTER 41](s00047-CHAPTER_41.xhtml) - Threadbare and Boundless
-* [CHAPTER 42](s00048-CHAPTER_42.xhtml) - Seven Words for Silence
-* [CHAPTER 43](s00049-CHAPTER_43.xhtml) - Interlude - Out of the Chill
-* [CHAPTER 44](s00050-CHAPTER_44.xhtml) - The Hollow Crown
-* [CHAPTER 45](s00051-CHAPTER_45.xhtml) - Once King, Always King
-* [CHAPTER 46](s00052-CHAPTER_46.xhtml) - The Illusion of Wholeness
-* [CHAPTER 47](s00053-CHAPTER_47.xhtml) - The Reckoning
-* [CHAPTER 48](s00054-CHAPTER_48.xhtml) - A Trap of Memory
-* [CHAPTER 49](s00055-CHAPTER_49.xhtml) - To Ash All Things Return
-* [CHAPTER 50](s00056-CHAPTER_50.xhtml) - The Proper Way
-* [CHAPTER 51](s00057-CHAPTER_51.xhtml) - A Silence of Three Parts
-* [*Epilogue*](s00058-Epilogue.xhtml)
-* [*Appendix*](s00059-Appendix.xhtml)
-* [*Notes*](s00060-Notes.xhtml)
+* [*Title Page*](titlepage.md)
+* [*Legal Disclaimer*](Legal_Disclaimer.md)
+* [*Forward*](Forward.md)
+* [*Prologue*](Prologue.md)
+* [CHAPTER 1](CHAPTER_01.md) - The Weight of Silence
+* [CHAPTER 2](CHAPTER_02.md) - The Fragile Weight of Peace
+* [CHAPTER 3](CHAPTER_03.md) - The Silent Toll
+* [CHAPTER 4](CHAPTER_04.md) - Ears in the Wind
+* [CHAPTER 5](CHAPTER_05.md) - The Art of Listening
+* [CHAPTER 6](CHAPTER_06.md) - The Breath of the Peaks
+* [CHAPTER 7](CHAPTER_07.md) - A Song Without Words
+* [CHAPTER 8](CHAPTER_08.md) - Rare Things Vanish
+* [CHAPTER 9](CHAPTER_09.md) - A Foolish Bargain
+* [CHAPTER 10](CHAPTER_10.md) - Keys to the Past
+* [CHAPTER 11](CHAPTER_11.md) - The Price We Pay
+* [CHAPTER 12](CHAPTER_12.md) - Threads Unravel
+* [CHAPTER 13](CHAPTER_13.md) - I Will Not Be Held
+* [CHAPTER 14](CHAPTER_14.md) - Name in the Wall
+* [CHAPTER 15](CHAPTER_15.md) - Missing
+* [CHAPTER 16](CHAPTER_16.md) - Interlude - By Cover of Night
+* [CHAPTER 17](CHAPTER_17.md) - Of Dancing Stones
+* [CHAPTER 18](CHAPTER_18.md) - Define Lost
+* [CHAPTER 19](CHAPTER_19.md) - Amber and Ivory
+* [CHAPTER 20](CHAPTER_20.md) - Lured into the Current
+* [CHAPTER 21](CHAPTER_21.md) - Kaysera
+* [CHAPTER 22](CHAPTER_22.md) - Interlude – Crosscurrents
+* [CHAPTER 23](CHAPTER_23.md) - The Thread Unravels
+* [CHAPTER 24](CHAPTER_24.md) - The Whispering Quarter
+* [CHAPTER 25](CHAPTER_25.md) - Reshi
+* [CHAPTER 26](CHAPTER_26.md) - Stories We Tell Ourselve
+* [CHAPTER 27](CHAPTER_27.md) - Old Acquaintances
+* [CHAPTER 28](CHAPTER_28.md) - For the Greater Good
+* [CHAPTER 29](CHAPTER_29.md) - Lockless
+* [CHAPTER 30](CHAPTER_30.md) - Swirls in the Water
+* [CHAPTER 31](CHAPTER_31.md) - The Deceit
+* [CHAPTER 32](CHAPTER_32.md) - The Fall
+* [CHAPTER 33](CHAPTER_33.md) - The Tower
+* [CHAPTER 34](CHAPTER_34.md) - Command in the Chaos
+* [CHAPTER 35](CHAPTER_35.md) - The Price of Loyalty
+* [CHAPTER 36](CHAPTER_36.md) - Interlude - A Weight of Names
+* [CHAPTER 37](CHAPTER_37.md) - The Breath After the Fall
+* [CHAPTER 38](CHAPTER_38.md) - The Wolf and the Owl
+* [CHAPTER 39](CHAPTER_39.md) - The Weight of Shadows
+* [CHAPTER 40](CHAPTER_40.md) - Cinder
+* [CHAPTER 41](CHAPTER_41.md) - Threadbare and Boundless
+* [CHAPTER 42](CHAPTER_42.md) - Seven Words for Silence
+* [CHAPTER 43](CHAPTER_43.md) - Interlude - Out of the Chill
+* [CHAPTER 44](CHAPTER_44.md) - The Hollow Crown
+* [CHAPTER 45](CHAPTER_45.md) - Once King, Always King
+* [CHAPTER 46](CHAPTER_46.md) - The Illusion of Wholeness
+* [CHAPTER 47](CHAPTER_47.md) - The Reckoning
+* [CHAPTER 48](CHAPTER_48.md) - A Trap of Memory
+* [CHAPTER 49](CHAPTER_49.md) - To Ash All Things Return
+* [CHAPTER 50](CHAPTER_50.md) - The Proper Way
+* [CHAPTER 51](CHAPTER_51.md) - A Silence of Three Parts
+* [*Epilogue*](Epilogue.md)
+* [*Appendix*](Appendix.md)
+* [*Notes*](Notes.md)
