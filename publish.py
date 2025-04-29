@@ -1,10 +1,11 @@
 import markdown # version 3.1
+from titlecase import titlecase # version 2.4
 import os
 from xml.dom import minidom
 import zipfile
 import sys
 import json
-
+import re
 
 ## mark2epub
 
@@ -199,11 +200,34 @@ def get_TOCNCX_XML(markdown_filenames):
 
     return toc_ncx
 
-def get_chapter_XML(md_filename,css_filenames):
-    ## Returns the XML data for a given markdown chapter file, with the corresponding css chapter files
+def get_chapter_TOC_MD(markdown_filenames):
+    all_md = """# TABLE OF CONTENTS\n"""
+    all_md += """\n"""
+    all_md += """* [*Cover*](titlepage.xhtml)\n"""
+    for i,md_filename in enumerate(markdown_filenames):
+        chapter_name = md_filename.split(".")[0]
+        if md_filename.startswith("CHAPTER"):
+            chapter_pretty_name = chapter_name.replace("CHAPTER_0", "CHAPTER_").replace("_", " ")
+            all_md += """* [{}](s{:05d}-{}.xhtml)""".format(chapter_pretty_name,i,chapter_name)
+            with open(os.path.join(work_dir,md_filename),"r",encoding="utf-8") as f:
+                markdown_data = f.read()
+                subtitles = re.findall(r"^##\s+(.*)$", markdown_data, re.MULTILINE)
+                for subtitle in subtitles:
+                    all_md += " - " + titlecase(subtitle.lower())
+        else:
+            chapter_name_titlecase = titlecase(chapter_name.replace("_", " ").lower())
+            all_md += """* [*{}*](s{:05d}-{}.xhtml)""".format(chapter_name_titlecase,i,chapter_name)
+        all_md += """\n"""
+    return all_md
 
+def get_chapter_MD(md_filename):
     with open(os.path.join(work_dir,md_filename),"r",encoding="utf-8") as f:
         markdown_data = f.read()
+        return markdown_data
+
+
+def get_chapter_XML(markdown_data,css_filenames):
+    ## Returns the XML data for a given markdown chapter file, with the corresponding css chapter files
     html_text = markdown.markdown(markdown_data,
                                   extensions=["codehilite","tables","fenced_code","footnotes"],
                                   extension_configs={"codehilite":{"guess_lang":False}}
@@ -335,7 +359,13 @@ if __name__ == "__main__":
             if len(chapter["css"]):
                 chapter_css_filenames.append(chapter["css"])
 
-            chapter_data = get_chapter_XML(chapter_md_filename,chapter_css_filenames)
+            markdown_data = ""
+            if chapter_md_filename == "Table_of_Contents.md":
+                markdown_data = get_chapter_TOC_MD(all_md_filenames)
+            else:
+                markdown_data = get_chapter_MD(chapter_md_filename)
+
+            chapter_data = get_chapter_XML(markdown_data,chapter_css_filenames)
             myZipFile.writestr("OPS/s{:05d}-{}.xhtml".format(i,chapter_md_filename.split(".")[0]),
                                chapter_data.encode('utf-8'),
                                zipfile.ZIP_DEFLATED)
