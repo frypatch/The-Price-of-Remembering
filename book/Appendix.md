@@ -1,14 +1,20 @@
 # APPENDIX
 
-## ORIGINAL RELEASE
+## COLLABORATIVE MANUSCRIPT
 
-TacticalDo's original fan fiction release  
+The living workspace containing the latest changes.  
+
+* https://github.com/frypatch/The-Price-of-Remembering
+
+## ORIGINAL MANUSCRIPT
+
+TacticalDo's original fan fiction release.  
 
 * https://www.reddit.com/r/KingkillerChronicle/comments/1dgnqjd/the_price_of_remembering_bk3_fan_fiction_release/
 
 ## SOURCES AND CITATIONS
 
-Devi, behind FPD is knowledge, K’s heart’s desire  
+Devi, behind FPD is knowledge, K’s heart’s desire.  
 
   * https://old.reddit.com/r/KingkillerChronicle/comments/6vmwt9/final_theory_before_i_head_off_to_vintasthe_story/
 
