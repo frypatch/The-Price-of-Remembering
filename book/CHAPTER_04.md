@@ -130,4 +130,4 @@ What I do know is that I spent many sleepless wondering if I could have found it
 
 ### ~ ~ ~
 
-[Chapter 3](CHAPTER_03.md) | [Home](../) | [Chapter 5](CHAPTER_05.md)
+[Chapter 3](CHAPTER_03.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 5](CHAPTER_05.md)

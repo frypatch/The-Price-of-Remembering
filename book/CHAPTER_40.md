@@ -96,4 +96,4 @@ And so, we fled into the night.
 
 ### ~ ~ ~
 
-[Chapter 39](CHAPTER_39.md) | [Home](../) | [Chapter 41](CHAPTER_41.md)
+[Chapter 39](CHAPTER_39.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 41](CHAPTER_41.md)

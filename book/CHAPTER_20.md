@@ -392,4 +392,4 @@ Instead of a third attempt, I breathed deeply, willed the tension out of my body
 
 ### ~ ~ ~
 
-[Chapter 19](CHAPTER_19.md) | [Home](../) | [Chapter 21](CHAPTER_21.md)
+[Chapter 19](CHAPTER_19.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 21](CHAPTER_21.md)

@@ -220,4 +220,4 @@ I measured our odds—not good. Not in this tight space. Not against four watche
 
 ### ~ ~ ~
 
-[Chapter 23](CHAPTER_23.md) | [Home](../) | [Chapter 25](CHAPTER_25.md)
+[Chapter 23](CHAPTER_23.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 25](CHAPTER_25.md)

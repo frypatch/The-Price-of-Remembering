@@ -1,5 +1,6 @@
 # TABLE OF CONTENTS
 
+* [*Cover*](Cover_Page.md)
 * [*Title Page*](titlepage.md)
 * [*Legal Disclaimer*](Legal_Disclaimer.md)
 * [*Forward*](Forward.md)

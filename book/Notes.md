@@ -140,4 +140,4 @@ Lyra was probably of the Ruarch (see Laniel young again), and sought Aleph's cou
 
 ### ~ ~ ~
 
-[Appendix](Appendix.md) | [Home](../)
+[Appendix](Appendix.md) | [Table of Contents](Table_of_Contents.md)

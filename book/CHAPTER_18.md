@@ -362,4 +362,4 @@ Within the Waystone, Bast looked over the table indignantly. “Who are you call
 
 ### ~ ~ ~
 
-[Chapter 17](CHAPTER_17.md) | [Home](../) | [Chapter 19](CHAPTER_19.md)
+[Chapter 17](CHAPTER_17.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 19](CHAPTER_19.md)

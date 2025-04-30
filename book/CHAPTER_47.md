@@ -130,4 +130,4 @@ So, I ran.
 
 ### ~ ~ ~
 
-[Chapter 46](CHAPTER_46.md) | [Home](../) | [Chapter 48](CHAPTER_48.md)
+[Chapter 46](CHAPTER_46.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 48](CHAPTER_48.md)

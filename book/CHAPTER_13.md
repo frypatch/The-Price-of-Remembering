@@ -108,4 +108,4 @@ And then, all at once, the blackness took me.
 
 ### ~ ~ ~
 
-[Chapter 12](CHAPTER_12.md) | [Home](../) | [Chapter 14](CHAPTER_14.md)
+[Chapter 12](CHAPTER_12.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 14](CHAPTER_14.md)

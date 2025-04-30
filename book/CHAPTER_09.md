@@ -140,4 +140,4 @@ Devi stepped aside, and I walked in. Greed pressed me forward, and doubt trailed
 
 ### ~ ~ ~
 
-[Chapter 8](CHAPTER_08.md) | [Home](../) | [Chapter 10](CHAPTER_10.md)
+[Chapter 8](CHAPTER_08.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 10](CHAPTER_10.md)

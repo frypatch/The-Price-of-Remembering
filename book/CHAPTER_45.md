@@ -146,4 +146,4 @@ Auri smiled, faint and glowing.
 
 ### ~ ~ ~
 
-[Chapter 44](CHAPTER_44.md) | [Home](../) | [Chapter 46](CHAPTER_46.md)
+[Chapter 44](CHAPTER_44.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 46](CHAPTER_46.md)

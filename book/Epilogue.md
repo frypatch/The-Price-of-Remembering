@@ -38,4 +38,4 @@ Pehyn followed her mother home, her legs steady now, her shadow no longer dancin
 
 ### ~ ~ ~
 
-[Chapter 51](CHAPTER_51.md) | [Home](../) | [Appendix](Appendix.md)
+[Chapter 51](CHAPTER_51.md) | [Table of Contents](Table_of_Contents.md) | [Appendix](Appendix.md)

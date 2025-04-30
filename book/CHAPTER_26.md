@@ -256,4 +256,4 @@ And neither of us were ready for that.
 
 ### ~ ~ ~
 
-[Chapter 25](CHAPTER_25.md) | [Home](../) | [Chapter 27](CHAPTER_27.md)
+[Chapter 25](CHAPTER_25.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 27](CHAPTER_27.md)

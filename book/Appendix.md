@@ -132,4 +132,4 @@ Present day chapters
 
 ### ~ ~ ~
 
-[Epilogue](Epilogue.md) | [Home](../) | [Notes](Notes.md)
+[Epilogue](Epilogue.md) | [Table of Contents](Table_of_Contents.md) | [Notes](Notes.md)
