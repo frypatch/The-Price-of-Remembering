@@ -2,4 +2,4 @@
 
 ### ~ ~ ~
 
-[Home](../) | [Title Page](Title_Page.md)
+[Table of Contents](Table_of_Contents.md) | [Title Page](Title_Page.md)

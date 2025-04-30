@@ -110,4 +110,4 @@ For a moment, hope flickered. Then I saw the mangonel.
 
 ### ~ ~ ~
 
-[Chapter 32](CHAPTER_32.md) | [Home](../) | [Chapter 34](CHAPTER_34.md)
+[Chapter 32](CHAPTER_32.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 34](CHAPTER_34.md)

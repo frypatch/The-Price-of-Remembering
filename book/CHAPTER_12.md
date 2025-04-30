@@ -110,4 +110,4 @@ I nodded, the weight of that accomplishment settling over me like a heavy cloak.
 
 ### ~ ~ ~
 
-[Chapter 11](CHAPTER_11.md) | [Home](../) | [Chapter 13](CHAPTER_13.md)
+[Chapter 11](CHAPTER_11.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 13](CHAPTER_13.md)
