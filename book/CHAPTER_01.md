@@ -108,4 +108,4 @@ The words came to rest like frost. Subtle, but colder than silence. Chronicler b
 
 ### ~ ~ ~
 
-[Prologue](Prologue.md) | [Home](../) | [Chapter 2](CHAPTER_02.md)
+[Prologue](Prologue.md) | [Table of Contents](../README.md#table-of-contents) | [Chapter 2](CHAPTER_02.md)
