@@ -2,25 +2,23 @@
 
 ## THE WEIGHT OF SILENCE  
 
-MORNING CREPT INTO THE Waystone Inn like regret. It was slow and thin-fingered, seeping in through cracks old and new. It settled on every surface, brittle and cold, sharp at the edges where a younger man might have mistaken ache for numbness.
+MORNING CREPT INTO THE Waystone Inn. It did not rush. It came on quiet feet, as if ashamed to wake what darkness might still be dreaming. It pooled in the corners, thin as old regret, gathering where the stones cracked, settling in the bones where ache begins and numbness ends.
 
-The red-haired innkeeper lay still, counting his breaths, each pulled softly through his teeth. Pain had settled into his ribs, a subtle ache, waiting, not yet one thing or another. Deeper, joints murmured their old complaint, dull, relentless, and not all their muttering was from yesterday’s beating. He had been many things in his life, quick and clever and more, but today he was simply sore.
+The red-haired innkeeper lay still, counting his breaths. A pain pulsed through his ribs, waiting for movement before deciding if it was real. Deeper, joints murmured their old complaints, and not all their muttering was from yesterday’s beating. He had been many things in his life, quick and clever and more, but today he was simply sore.
 
-Yesterday he’d run on borrowed strength. He'd swept the floor and served supper on the back of adrenaline masquerading as resolve. For Bast. For Chronicler. For the memory of himself. But the cost keeps its own ledger. The reckoning always arrives.
+Yesterday, he’d run on borrowed strength. He'd swept the floor and served supper on the back of adrenaline. For Bast. For Chronicler. For the memory of himself. But stamina keeps its own ledger and the reckoning always arrives.
 
-And so pain greeted him now with the familiar patience of an old collector. Not cruel, only exacting, only thorough. 
+And so pain greeted him now with the familiar patience of an old collector. Cruel. Exacting. Thorough. 
 
-He tried to rise, and failed. It was not the dramatic collapse of stage tragedy, nor a fall worth laughter. Instead it was graceless, heavy, and unseen. So it was only sad.
+He tried to rise, and failed. It was not the dramatic collapse of a stage tragedy, nor a fall worth laughter. Instead it was graceless and heavy. No one watches a man fail in private. That’s what makes it real.
 
-No one watches a man fail in private. That’s what makes it real.
-
-The sour tang of acid-burnt cloth and coalsmoke prickled his nose, the clinging remnants of the night before. Not the warm scent of woodsmoke, but something sharper. Bitter as iron. Familiar as failure.
+He sneezed. Smoke from last night lingered, the bitter tang of scorched cloth and coal. Coalsmoke is not like woodsmoke, not warm, not gentle. It is something harsher. Bitter as iron. Familiar as folly.
 
 He breathed. Gritted his teeth. Tried again.
 
-This time he made it. No grace, no heroics. Just a small success carved inch by painful inch. He moved like a man playing through a part once memorized: Sit. Wait. Stand. Wait again.
+This time he made it. No grace, no heroics. Just a small success carved inch by painful inch. He moved like a man playing through a part once memorized. Sit. Wait. Stand. Wait again.
 
-He did not wince. Not loudly.
+He did not wince. At least not loudly.
 
 As he passed the bed, his eyes dropped almost thoughtlessly to the floor near its foot. To the space once occupied by his thrice-locked chest. It was gone now. He knew it was gone. He’d moved it himself.
 
@@ -30,11 +28,11 @@ That was the cruelty of absence. How it left certain corners more full than any 
 
 There were grooves too, faint scars where Roah wood had kissed the floor overlong. They’d fade, in time. Just like everything else.
 
-He chuffed laughter through his nose. The air caught. His back popped, twice.
+He sneezed again. The air caught. His back popped twice.
 
 Stupid.
 
-He remembered how he’d done it in the predawn hours, foolish and fevered from insomnia. Too proud for patience, too tired for care. He’d dropped his walking stick under the chest and levered it an inch at a time, breath hitching all the while. Then the trapdoor and the cellar yawning beneath. A dark windless place meant for secrets. He’d opened it with both hands and let the chest drop. Just like that. A clean, heavy fall.
+He remembered how he’d hurt it earlier in the predawn hours, foolish and fevered from insomnia. Too proud for patience, too tired for care. He’d dropped his walking stick under the chest and levered it an inch at a time, breath hitching all the while. Then the trapdoor and the cellar yawning beneath. A dark windless place meant for secrets. He’d opened it with both hands and let the chest drop. Just like that. A clean, heavy fall.
 
 The sound should’ve thundered, but it didn’t. The Waystone swallowed it whole. It ate noise the way stone eats heat. What should have been a crash became something worse. A silence too deep to echo.
 
@@ -42,27 +40,25 @@ He’d stared after it for a time before following. Listening for anything. Wait
 
 The dawn had been near when he crawled out again. Empty in the way that isn’t hunger. Hollow in the way a bell is hollow when it forgets how to sing.
 
-That same hollow pulsed in his belly now. Not sharp, just insistent.
-
-Pain can be set aside. Regret will wait its turn. But nature, blunt and honest, will not be held at the threshold. There are indignities a man does not get to debate.
+Another ache surfaced. Not sharp, merely insistent. Pain can be set aside. Regret will wait its turn. But nature, blunt and honest, will not be bargained with. There are some indignities an aged man cannot debate. 
 
 ### * * *
 
-When he returned, the kettle waited: soot-black, solid, and familiar. The sort of companion who expected nothing but notice. He set it on the iron ring and lit the flame beneath with careful hands.
+When he returned, the kettle waited. It was soot-black, solid, and familiar. The sort of companion who expected nothing but notice. He set it on the iron ring and lit the flame beneath with careful hands.
 
 From a paper pouch, he pinched dry leaves that were bitter as myth and green as regret. Nahirout. Rare, sharp, and blunt in equal measure. It didn’t cure. It didn’t heal. It stole. It robbed pain of speech for an hour and left you too empty to argue.
 
-The kettle began to whisper long before it sang. This was not the whistle of a young, eager flame. Instead, this was a strained breath, strangled and weary. Even boiling water had learned to keep its voice down in the Waystone.
+The kettle began to whisper long before it sang. This was not the whistle of a young, eager flame. Instead, this was a strained breath. Even boiling water had learned to keep its voice down in the Waystone.
 
-When steam rose, he brewed it darker than ever. No honey. No sweetening. Nothing but heat and silence. He sipped once, then again, and felt the ache in his ribs dull to a whisper. Felt the trembling behind his eyes hush for now.
+When steam rose, he brewed it darker than ever. No honey. No sweetening. Nothing but heat and silence. He sipped once, then again, and felt the ache in his ribs dull to a whisper. He felt the trembling behind his eyes hush for now.
 
 He did not feel better. But he could move.
 
-Praise cleverness, he thought, with a bitterness to match the tea. Clever enough to build a cellar forge in secret. Clever enough to find supply when coin ran dry. Clever enough to lean on leaf and silence until he forgot whether the ache in his chest came from failing spells or shattered ribs.
+Praise cleverness, he thought, with a bitterness to match the tea. Clever enough to find his own supply when no tinker was in town. Clever enough to tell himself that a daily cup was only habit, nothing more. Clever, even, for forgetting whether the ache in his chest was old magic gone to rot or simply broken ribs.
 
-By the time he dressed, with each motion measured and each breath negotiated, the light had crept into the windows like an apology. Pale gold, uncertain. It did not reach the corners.
+He dressed in silence. Each motion was measured, each breath a quiet bargain. Outside, the light eased its way across the window. It was golden, hesitant, touching the room like the tentative hand of an apology.
 
-He stepped outside without straightening his shirt, and without reclaiming his mask. They knew him too well by now.
+He left the room without straightening his shirt, and without reclaiming his mask. They knew him too well by now.
 
 And pain, after all, wears its own face. 
 
@@ -74,15 +70,15 @@ Not the hush of early hour or unlit lamps. This silence was waiting. It clung to
 
 The hearth held only ash. No firewood had been brought up from the shed. The bread board lay empty and clean. The pump hadn’t been primed. No kettle hissed on the stove.
 
-Kote paused in the doorway, seeing all of it, and did nothing.
+The red-haired innkeeper paused in the doorway, seeing all of it, and did nothing.
 
 Some mornings, the shape of the day came in flour-dusted fingers and kettle steam. Today, it did not.
 
-Across the room, Bast’s eyes flicked toward the unlit hearth. His mouth opened slightly, then closed again. Even his mischief bowed to the weight of it. 
+Across the room, Bast’s eyes flickered toward the unlit hearth. His mouth opened slightly, then closed again. Even his mischief bowed to the weight of it. 
 
 Chronicler sat hunched low, smaller than his own shadow. His page was half-written, half-smudged, worrying itself into ruin beneath a trembling hand. He was far from ink and farther from words.
 
-“Reshi, you look like death,” came Bast’s voice from behind the bar. Sharp and musical. “And that’s not a compliment.” A folded cloth dangled limp in his hand. He hadn’t been wiping anything. Just holding a gesture that had long since lost its reason.
+“Reshi, you look like death,” came Bast’s voice from behind the bar. “And that’s not a compliment.” A folded cloth dangled limp in his hand. He hadn’t been wiping anything. Just holding a gesture that had long since lost its reason.
 
 “I’m standing,” Kote said evenly, moving toward the hearth with a gait edged in caution. “Mostly.”
 
@@ -92,13 +88,19 @@ When Kote sat, he did it gracefully if your definition of grace was ‘without g
 
 “The tea helps,” he offered.
 
-Bast folded into his own chair like someone sitting beside a wound.
+Bast rolled his eyes and folded into his own chair like someone sitting beside a wound.
 
-Chronicler twisted in his seat, quill hovering.
+Chronicler twisted in his seat, quill hovering, hand waiting.
 
-“I’d thought, with funds in hand, that nothing could stop me. That the hard part was behind me.” He paused, his voice softening. “But answers are never so kind. They were close, so close, and I was smug enough to imagine they might come without a cost.”
+Kote sneezed. He wiped his nose with the back of his hand, slow and tired.
 
-He looked toward the windows, then farther, beyond them, beyond the village, beyond himself.
+“I thought,” he said, “that with my purse full, nothing could stand in my way. That hard times were behind me.”
+
+He let the silence linger. His voice grew softer, more gentle.
+
+“But answers are never so kind. They were close, so close, and I was smug enough to imagine they might come without a cost.”
+
+He looked toward the windows, then farther. Beyond them. Beyond the village. Beyond himself.
 
 When he spoke again, his tone had shifted, spilling into something deeper, something older. “Gather round and listen well,” he said, his words quiet but commanding. “For this is no triumphant song, no grand tale. This is a story shaped from sorrow. A tale of tragedy.”  
 
