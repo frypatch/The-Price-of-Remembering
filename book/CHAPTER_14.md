@@ -352,4 +352,4 @@ The rush of dawn air left me dizzy, and I let it carry me to the edge of the wor
 
 ### ~ ~ ~
 
-[Chapter 13](CHAPTER_13.md) | [Home](../) | [Chapter 15](CHAPTER_15.md)
+[Chapter 13](CHAPTER_13.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 15](CHAPTER_15.md)

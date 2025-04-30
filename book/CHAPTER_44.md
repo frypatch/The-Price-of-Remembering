@@ -96,4 +96,4 @@ I clapped my good hand against his shoulder. “Well, for what it’s worth, I'm
 
 ### ~ ~ ~
 
-[Chapter 43](CHAPTER_43.md) | [Home](../) | [Chapter 45](CHAPTER_45.md)
+[Chapter 43](CHAPTER_43.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 45](CHAPTER_45.md)

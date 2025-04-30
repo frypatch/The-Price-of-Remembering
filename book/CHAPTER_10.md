@@ -68,4 +68,4 @@ I slept for two days.
 
 ### ~ ~ ~
 
-[Chapter 9](CHAPTER_09.md) | [Home](../) | [Chapter 11](CHAPTER_11.md)
+[Chapter 9](CHAPTER_09.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 11](CHAPTER_11.md)

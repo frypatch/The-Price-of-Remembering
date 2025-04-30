@@ -8,4 +8,4 @@
 
 ### ~ ~ ~
 
-[Cover Page](Cover_Page.md) | [Home](../) | [Legal Disclaimer](Legal_Disclaimer.md)
+[Cover Page](Cover_Page.md) | [Table of Contents](Table_of_Contents.md) | [Legal Disclaimer](Legal_Disclaimer.md)

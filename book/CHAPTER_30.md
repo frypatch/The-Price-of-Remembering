@@ -161,4 +161,4 @@ Denna nodded, though her eyes stayed fixed on the soldiers below, sharp with tho
 
 ### ~ ~ ~
 
-[Chapter 29](CHAPTER_29.md) | [Home](../) | [Chapter 31](CHAPTER_31.md)
+[Chapter 29](CHAPTER_29.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 31](CHAPTER_31.md)

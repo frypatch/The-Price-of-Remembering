@@ -132,4 +132,4 @@ And I couldn’t answer her. Not yet.
 
 ### ~ ~ ~
 
-[Chapter 30](CHAPTER_30.md) | [Home](../) | [Chapter 32](CHAPTER_32.md)
+[Chapter 30](CHAPTER_30.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 32](CHAPTER_32.md)

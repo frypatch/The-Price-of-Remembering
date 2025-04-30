@@ -108,4 +108,4 @@ We had crossed into the Fae.
 
 ### ~ ~ ~
 
-[Chapter 16](CHAPTER_16.md) | [Home](../) | [Chapter 18](CHAPTER_18.md)
+[Chapter 16](CHAPTER_16.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 18](CHAPTER_18.md)

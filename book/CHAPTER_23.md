@@ -452,4 +452,4 @@ A slow breath left Bast’s lips. He turned away from the street, glancing towar
 
 ### ~ ~ ~
 
-[Chapter 22](CHAPTER_22.md) | [Home](../) | [Chapter 24](CHAPTER_24.md)
+[Chapter 22](CHAPTER_22.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 24](CHAPTER_24.md)

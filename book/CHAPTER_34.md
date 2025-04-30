@@ -102,4 +102,4 @@ Instead, I turned toward the others preparing for the next assault, blood seepin
 
 ### ~ ~ ~
 
-[Chapter 33](CHAPTER_33.md) | [Home](../) | [Chapter 35](CHAPTER_35.md)
+[Chapter 33](CHAPTER_33.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 35](CHAPTER_35.md)
