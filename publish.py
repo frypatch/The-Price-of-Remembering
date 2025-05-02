@@ -203,12 +203,15 @@ def get_TOC_XML(default_css_filenames,markdown_filenames):
 
     toc_xhtml += """</head>\n<body>\n"""
     toc_xhtml += """<nav epub:type="toc" role="doc-toc" id="toc">\n<h2>Contents</h2>\n<ol epub:type="list">"""
+    ## Add link to cover
+    toc_xhtml += """\n<li><a href="titlepage.xhtml">Cover</a></li>"""
+    ## Add link to other sections
     for i,entry in enumerate(get_TOC_dict(markdown_filenames)["entries"]):
         xhtml = entry["xhtml"]
         full_title = " - ".join(entry["titles"])
         for subtitle in entry["subtitles"]:
             full_title += " - " + titlecase(subtitle.lower())
-        toc_xhtml += """<li><a href="{}">{}</a></li>""".format(xhtml,full_title)
+        toc_xhtml += """\n<li><a href="{}">{}</a></li>""".format(xhtml,full_title)
     toc_xhtml += """</ol>\n</nav>\n</body>\n</html>"""
 
     return toc_xhtml
@@ -220,6 +223,12 @@ def get_TOCNCX_XML(markdown_filenames):
     toc_ncx += """<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="fr" version="2005-1">\n"""
     toc_ncx += """<head>\n</head>\n"""
     toc_ncx += """<navMap>\n"""
+    ## Add link to cover
+    toc_ncx += """<navPoint id="navpoint-cover">\n"""
+    toc_ncx += """<navLabel>\n<text>Cover</text>\n</navLabel>"""
+    toc_ncx += """<content src="titlepage.xhtml"/>"""
+    toc_ncx += """ </navPoint>"""
+    ## Add link to other sections
     for i,entry in enumerate(get_TOC_dict(markdown_filenames)["entries"]):
         xhtml = entry["xhtml"]
         full_title = " - ".join(entry["titles"])
