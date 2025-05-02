@@ -65,6 +65,8 @@ def get_packageOPF_XML(md_filenames=[],image_filenames=[],css_filenames=[],descr
 
     ## Add metadata from description.json
     for k,v in description_data["metadata"].items():
+        if k in ["dc:identifier", "dc:date"]:
+            print("""WARN: {} is set in both the description.json and automatically generated in publish.py.""".format(k))
         if len(v):
             x = doc.createElement(k)
             for metadata_type,id_label in [("dc:title","title"),("dc:creator","creator")]:
@@ -448,4 +450,4 @@ if __name__ == "__main__":
                                filedata,
                                zipfile.ZIP_DEFLATED)
 
-    print("eBook creation complete")
+    print("INFO: eBook creation complete")
