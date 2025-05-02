@@ -4,7 +4,7 @@
 
 ### NOT PATRICK ROTHFUSS
 
-### VERSION 3.0.0
+### LATEST VERSION
 
 ### ~ ~ ~
 

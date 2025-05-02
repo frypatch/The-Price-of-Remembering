@@ -6,6 +6,7 @@ import zipfile
 import sys
 import json
 import re
+import datetime
 
 ## mark2epub
 
@@ -15,9 +16,13 @@ import re
 
 ## global variables
 
-work_dir = "book"
-output_path = "The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V0.0.0.epub"
+today = datetime.date.today()
+publish_date = """{}-{}-{}""".format(today.year, str(today.month).zfill(2), str(today.day).zfill(2))
+publish_version = """{}.{}.{}""".format(today.year-2022, str(today.month).zfill(2), str(today.day).zfill(2))
 
+work_dir = "book"
+isbn = "the-price-of-remembering-v" + publish_version
+output_path = """The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V{}.epub""".format(publish_version)
 
 def get_all_filenames(the_dir,extensions=[]):
     all_files = [x for x in os.listdir(the_dir)]
@@ -41,10 +46,22 @@ def get_packageOPF_XML(md_filenames=[],image_filenames=[],css_filenames=[],descr
     metadata = doc.createElement('metadata')
     metadata.setAttribute('xmlns:dc', 'http://purl.org/dc/elements/1.1/')
 
+    ## Add book id
+    dc_identifier = doc.createElement("dc:identifier")
+    dc_identifier.setAttribute("id", "book-id")
+    dc_identifier.appendChild(doc.createTextNode(isbn))
+    metadata.appendChild(dc_identifier)
+
+    ## Add publish date
+    dc_identifier = doc.createElement("dc:date")
+    dc_identifier.appendChild(doc.createTextNode(publish_date))
+    metadata.appendChild(dc_identifier)
+
+    ## Add metadata from description.json
     for k,v in description_data["metadata"].items():
         if len(v):
             x = doc.createElement(k)
-            for metadata_type,id_label in [("dc:title","title"),("dc:creator","creator"),("dc:identifier","book-id")]:
+            for metadata_type,id_label in [("dc:title","title"),("dc:creator","creator")]:
                 if k==metadata_type:
                     x.setAttribute('id',id_label)
             x.appendChild(doc.createTextNode(v))
@@ -255,6 +272,14 @@ def get_chapter_MD(md_filename):
         return markdown_data
 
 def get_chapter_XML(markdown_data,css_filenames):
+    ## Auto-populate versioning information
+    markdown_data = markdown_data.replace("### LATEST VERSION", "### VERSION " + publish_version)
+
+    ## Remove chapter footer navigation that is there to make it helpful to read the content on Github
+    footer_index = markdown_data.find("### ~ ~ ~")
+    if footer_index > 0:
+      markdown_data = markdown_data[0:footer_index]
+
     ## Returns the XML data for a given markdown chapter file, with the corresponding css chapter files
     html_text = markdown.markdown(markdown_data,
                                   extensions=["codehilite","tables","fenced_code","footnotes"],
@@ -327,12 +352,6 @@ def get_chapter_XML(markdown_data,css_filenames):
             "</h2>\n<p>“"+c,
             "</h2>\n<p><big>“"+c+"</big>")
       )
-
-    ## Remove chapter footer navigation that is there to make it helpful to read the content on Github
-
-    footer_index = all_xhtml.find("<h3>~ ~ ~</h3>")
-    if footer_index > 0:
-      all_xhtml = all_xhtml[0:footer_index] + "</body>\n</html>"
 
     return all_xhtml
 
