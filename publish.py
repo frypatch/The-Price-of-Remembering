@@ -26,8 +26,8 @@ publish_version = """{}.{}.{}""".format(
     str(today.month).zfill(2), 
     str(today.day).zfill(2))
 
-work_dir = "book"
 isbn = "the-price-of-remembering-v" + publish_version
+work_dir = "book"
 output_path = """The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V{}.epub""".format(publish_version)
 
 def get_all_filenames(the_dir,extensions=[]):
