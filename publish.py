@@ -178,8 +178,12 @@ def get_TOC_XML(default_css_filenames,markdown_filenames):
 
     toc_xhtml += """</head>\n<body>\n"""
     toc_xhtml += """<nav epub:type="toc" role="doc-toc" id="toc">\n<h2>Contents</h2>\n<ol epub:type="list">"""
-    for i,md_filename in enumerate(markdown_filenames):
-        toc_xhtml += """<li><a href="s{:05d}-{}.xhtml">{}</a></li>""".format(i,md_filename.split(".")[0],md_filename.split(".")[0].replace("_", " "))
+    for i,entry in enumerate(get_TOC_dict(markdown_filenames)["entries"]):
+        xhtml = entry["xhtml"]
+        full_title = " - ".join(entry["titles"])
+        for subtitle in entry["subtitles"]:
+            full_title += " - " + titlecase(subtitle.lower())
+        toc_xhtml += """<li><a href="{}">{}</a></li>""".format(xhtml,full_title)
     toc_xhtml += """</ol>\n</nav>\n</body>\n</html>"""
 
     return toc_xhtml
@@ -191,10 +195,14 @@ def get_TOCNCX_XML(markdown_filenames):
     toc_ncx += """<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="fr" version="2005-1">\n"""
     toc_ncx += """<head>\n</head>\n"""
     toc_ncx += """<navMap>\n"""
-    for i,md_filename in enumerate(markdown_filenames):
+    for i,entry in enumerate(get_TOC_dict(markdown_filenames)["entries"]):
+        xhtml = entry["xhtml"]
+        full_title = " - ".join(entry["titles"])
+        for subtitle in entry["subtitles"]:
+            full_title += " - " + titlecase(subtitle.lower())
         toc_ncx += """<navPoint id="navpoint-{}">\n""".format(i)
-        toc_ncx += """<navLabel>\n<text>{}</text>\n</navLabel>""".format(md_filename.split(".")[0])
-        toc_ncx += """<content src="s{:05d}-{}.xhtml"/>""".format(i,md_filename.split(".")[0])
+        toc_ncx += """<navLabel>\n<text>{}</text>\n</navLabel>""".format(full_title)
+        toc_ncx += """<content src="{}"/>""".format(xhtml)
         toc_ncx += """ </navPoint>"""
     toc_ncx += """</navMap>\n</ncx>"""
 
@@ -204,27 +212,47 @@ def get_chapter_TOC_MD(markdown_filenames):
     all_md = """# TABLE OF CONTENTS\n"""
     all_md += """\n"""
     all_md += """* [*Cover*](titlepage.xhtml)\n"""
-    for i,md_filename in enumerate(markdown_filenames):
-        chapter_name = md_filename.split(".")[0]
-        if md_filename.startswith("CHAPTER"):
-            chapter_pretty_name = chapter_name.replace("CHAPTER_0", "CHAPTER_").replace("_", " ")
-            all_md += """* [{}](s{:05d}-{}.xhtml)""".format(chapter_pretty_name,i,chapter_name)
-            with open(os.path.join(work_dir,md_filename),"r",encoding="utf-8") as f:
-                markdown_data = f.read()
-                subtitles = re.findall(r"^##\s+(.*)$", markdown_data, re.MULTILINE)
-                for subtitle in subtitles:
-                    all_md += " - " + titlecase(subtitle.lower())
+    for entry in get_TOC_dict(markdown_filenames)["entries"]:
+        filename = entry["filename"]
+        xhtml = entry["xhtml"]
+        titles = " - ".join(entry["titles"])
+        if filename.startswith("CHAPTER"):
+            all_md += """* [{}]({})""".format(titles,xhtml)
         else:
-            chapter_name_titlecase = titlecase(chapter_name.replace("_", " ").lower())
-            all_md += """* [*{}*](s{:05d}-{}.xhtml)""".format(chapter_name_titlecase,i,chapter_name)
+            all_md += """* [*{}*]({})""".format(titles,xhtml)
+        subtitles = entry["subtitles"]
+        for subtitle in subtitles:
+            all_md += " - " + titlecase(subtitle.lower())
         all_md += """\n"""
     return all_md
+
+def get_TOC_dict(markdown_filenames):
+    toc = {}
+    entries = []
+    toc["entries"] = entries
+    for i,md_filename in enumerate(markdown_filenames):
+        entry = {}
+        entries.append(entry)
+        filename, extension = os.path.splitext(md_filename)
+        entry["filename"] = filename
+        entry["xhtml"] = """s{:05d}-{}.xhtml""".format(i,filename)
+        entry["titles"] = []
+        entry["subtitles"] = []
+        if filename.startswith("CHAPTER"):
+            with open(os.path.join(work_dir,md_filename),"r",encoding="utf-8") as f:
+                markdown_data = f.read()
+                for title in re.findall(r"^#\s+(.*)$", markdown_data, re.MULTILINE):
+                    entry["titles"].append(title.strip())
+                for subtitle in re.findall(r"^##\s+(.*)$", markdown_data, re.MULTILINE):
+                    entry["subtitles"].append(subtitle.strip())
+        else:
+            entry["titles"].append(titlecase(filename.replace("_", " ").lower()))
+    return toc
 
 def get_chapter_MD(md_filename):
     with open(os.path.join(work_dir,md_filename),"r",encoding="utf-8") as f:
         markdown_data = f.read()
         return markdown_data
-
 
 def get_chapter_XML(markdown_data,css_filenames):
     ## Returns the XML data for a given markdown chapter file, with the corresponding css chapter files
