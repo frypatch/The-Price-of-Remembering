@@ -36,8 +36,8 @@ That all said, please enjoy.
 
 ## DOWNLOADS
 
-* [EPUB](../../releases/download/v3.0.0/The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V3.05.01.epub) - Version 3.05.01
-* [PDF](../../releases/download/v3.0.0/The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V3.05.01.pdf) - Version 3.05.01
+* [EPUB](../../releases/download/v3.05.01/The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V3.05.01.epub) - Version 3.05.01
+* [PDF](../../releases/download/v3.05.01/The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V3.05.01.pdf) - Version 3.05.01
 
 ## TABLE OF CONTENTS
 
