@@ -17,8 +17,14 @@ import datetime
 ## global variables
 
 today = datetime.date.today()
-publish_date = """{}-{}-{}""".format(today.year, str(today.month).zfill(2), str(today.day).zfill(2))
-publish_version = """{}.{}.{}""".format(today.year-2022, str(today.month).zfill(2), str(today.day).zfill(2))
+publish_date = """{}-{}-{}""".format(
+    today.year, 
+    str(today.month).zfill(2), 
+    str(today.day).zfill(2))
+publish_version = """{}.{}.{}""".format(
+    today.year-2022, 
+    str(today.month).zfill(2), 
+    str(today.day).zfill(2))
 
 work_dir = "book"
 isbn = "the-price-of-remembering-v" + publish_version
