@@ -18,9 +18,7 @@ He breathed. Gritted his teeth. Tried again.
 
 This time he made it. No grace, no heroics. Just a small success carved inch by painful inch. He moved like a man playing through a part once memorized. Sit. Wait. Stand. Wait again.
 
-He did not wince. At least not loudly.
-
-As he passed the bed, his eyes dropped almost thoughtlessly to the floor near its foot. To the space once occupied by his thrice-locked chest. It was gone now. He knew it was gone. He’d moved it himself.
+As he passed the foot of the bed, his eyes dropped almost thoughtlessly to the floor. To the space once occupied by his thrice-locked chest. It was gone now. He knew it was gone. He’d moved it himself.
 
 But the space stared back at him.
 
@@ -54,13 +52,13 @@ When steam rose, he brewed it darker than ever. No honey. No sweetening. Nothing
 
 He did not feel better. But he could move.
 
-Praise cleverness, he thought, with a bitterness to match the tea. Clever enough to find his own supply when no tinker was in town. Clever enough to tell himself that a daily cup was only habit, nothing more. Clever, even, for forgetting whether the ache in his chest was old magic gone to rot or simply broken ribs.
+Praise cleverness, he thought, with a bitterness to match the tea. Clever enough to find his own supply when no tinker was in town, and clever enough to tell himself that a daily cup was nothing more than an old habit. Clever, even, for forgetting whether the ache in his chest was old magic gone to rot or simply broken ribs.
 
-He dressed in silence. Each motion was measured, each breath a quiet bargain. Outside, the light eased its way across the window. It was golden, hesitant, touching the room like the tentative hand of an apology.
+He dressed in silence. Each motion was measured, each breath a quiet bargain. Outside, the light eased its way across the window. Its golden fingers hesitantly prodding the room for life.
 
 He left the room without straightening his shirt, and without reclaiming his mask. They knew him too well by now.
 
-And pain, after all, wears its own face. 
+And pain, after all, was its own mask.
 
 ### * * *
 
@@ -74,17 +72,17 @@ The red-haired innkeeper paused in the doorway, seeing all of it, and did nothin
 
 Some mornings, the shape of the day came in flour-dusted fingers and kettle steam. Today, it did not.
 
-Across the room, Bast’s eyes flickered toward the unlit hearth. His mouth opened slightly, then closed again. Even his mischief bowed to the weight of it. 
+Across the room, Bast’s eyes flickered toward the unlit hearth. His mouth opened slightly, then closed again. His normal mischief bowing to the uncertain start.
 
-Chronicler sat hunched low, smaller than his own shadow. His page was half-written, half-smudged, worrying itself into ruin beneath a trembling hand. He was far from ink and farther from words.
+Chronicler sat hunched low at a table. His page was half-written, half-smudged, and worrying itself into ruin beneath a trembling hand. He was far from ink and farther from words.
 
 “Reshi, you look like death,” came Bast’s voice from behind the bar. “And that’s not a compliment.” A folded cloth dangled limp in his hand. He hadn’t been wiping anything. Just holding a gesture that had long since lost its reason.
 
-“I’m standing,” Kote said evenly, moving toward the hearth with a gait edged in caution. “Mostly.”
+“I’m standing,” Kote said evenly, moving cautiously toward Chronicler. “Well, mostly.”
 
 “Barely,” Bast retorted. “Sit. Before the floor claims you and the drama gives Chronicler a nosebleed.”
 
-When Kote sat, he did it gracefully if your definition of grace was ‘without groaning aloud.’ He clasped his hands on the worn table top, stared past them as though listening for something in the stillness.
+When Kote sat, he did not groan. At least not loudly. Then, clasping his hands on the worn table top, he stared past them as though listening for something in the stillness.
 
 “The tea helps,” he offered.
 
@@ -98,13 +96,13 @@ Kote sneezed. He wiped his nose with the back of his hand, slow and tired.
 
 He let the silence linger. His voice grew softer, more gentle.
 
-“But answers are never so kind. They were close, so close, and I was smug enough to imagine they might come without a cost.”
+“But answers are never so kind. They were just out of reach, and I was smug enough to imagine they might come without a cost.”
 
 He looked toward the windows, then farther. Beyond them. Beyond the village. Beyond himself.
 
 When he spoke again, his tone had shifted, spilling into something deeper, something older. “Gather round and listen well,” he said, his words quiet but commanding. “For this is no triumphant song, no grand tale. This is a story shaped from sorrow. A tale of tragedy.”  
 
-The words came to rest like frost. Subtle, but colder than silence. Chronicler bent to the page, pen trembling once more into motion, and Kote, the man who hid behind that name, spoke the first true words of the day.  
+The words came to rest. Subtle, but colder than silence. Chronicler bent to the page, pen trembling once more into motion, and Kote, the man who hid behind that name, spoke the first true words of the day.  
 
 ### ~ ~ ~
 
