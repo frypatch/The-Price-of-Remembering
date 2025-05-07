@@ -2,7 +2,7 @@
 
 ## EARS IN THE WIND
 
-I DID NOT KNOW WHAT I expected to find in Herma’s gram. Only that Mola had called it off-key, broken in a way she could not name. I needed help, something unorthodox. Eyes that might see what hers had missed. Ears attuned to secrets strung quiet and strange, humming just beneath the surface.
+I DID NOT KNOW WHAT I expected to find in the Chancellor’s gram. Only that Mola had called it off-key, broken in a way she could not name. I needed help, something unorthodox. Eyes that might see what hers had missed. Ears attuned to secrets strung quiet and strange, humming just beneath the surface.
 
 And so, my feet carried me to Devi's door. I hadn’t even knocked twice before she opened it.
 
@@ -16,7 +16,7 @@ I brought out the request casually, threading enough truth into it to pass for h
 
 “Ah,” she said after I finished. “So we’re experimenting, are we? With borrowed alchemy at midnight? How convincingly not suspicious of you.”
 
-I smiled. “You’ve always been my preferred source of suspicious materials.”
+I laughed. “Devi, you’ve always been my preferred source of suspicious materials.”
 
 She considered the shelf with performative thoughtfulness for a beat, took the vial, and let it catch the light.
 
@@ -36,7 +36,7 @@ I kept my smile in place, though my gut twisted at the idea of owing her anythin
 
 ### * * *
 
-Silence filled the Medica, as if the building itself were holding its breath right along with us. Lanternlight hissed at the walls, flickering over polished wood, glinting off copper, glancing off glass. Shadows stretched themselves long and narrow across the floor, slipping away as if they, too, did not belong. The hush pressed in around us. It was too quiet, too careful. We stood where we ought not to stand, and even the air seemed to notice, as if the Medica was waiting for someone to find us out.
+Silence filled the Medica, as if the building itself were holding its breath right along with us. Lanternlights hissed at the walls, flickering over polished wood, glinting off copper, glancing off glass. Shadows stretched themselves long and narrow across the floor, slipping away as if they, too, did not belong. The hush pressed in around us. It was too quiet, too careful. We stood where we ought not to stand, and even the air seemed to notice, as if the Medica was waiting for someone to find us out.
 
 “This is ridiculous,” Sim hissed, as close to a shout as a whisper could be. He kept his arms tight against his sides, as if trying to contain the panic threatening to spill over. “Weeks of perfectly good decisions undone by one bad idea and more bad wine. I’m filing a grievance with the world.”
 
@@ -44,11 +44,11 @@ Silence filled the Medica, as if the building itself were holding its breath rig
 
 “No one’s catching us,” I murmured, feigning confidence. My hands curled and uncurled at my sides, itching for work, aching to quiet the restless knot twisting in my chest.
 
-Ahead of us, nestled unremarkably against the wall, stood the chancellor gram in the Medica’s display case. Plain glass, plain brass, easy to overlook. I told myself it was nothing, just another bit of University clockwork, but nerves have a way of finding shadows where there are none. As I stepped closer, my skin prickled. My breath felt shallow. The air pressed close against my ribs, thick and strange, though I knew it was only my own fear. I crouched in front of the case, hands careful, heart beating louder than it ought to. The lock met my gaze, all clean lines and simple metal. Practical. Precise. The sort of design that didn’t trust anyone who got too close.
+Ahead of us, nestled unremarkably against the wall, stood the Chancellor's gram in the Medica’s display case. Plain glass, plain brass, easy to overlook. I told myself it was nothing, just another bit of University clockwork, but nerves have a way of finding shadows where there are none. As I stepped closer, my skin prickled. My breath felt shallow. The air pressed close against my ribs, thick and strange, though I knew it was only my own fear. I crouched in front of the case, hands careful, heart beating louder than it ought to. The lock met my gaze, all clean lines and simple metal. Practical. Precise. The sort of design that didn’t trust anyone who got too close.
 
 “You’re sure about this?” Sim muttered, a little too loud. His breath brushed against the back of my neck.
 
-“Honest answer?” I said, keeping my hands moving as I spoke. I didn’t look up. My voice was quieter than I felt. “Not remotely.”
+“Honest answer?” I said, keeping my hands moving as I spoke. I didn’t look up, and my voice was quieter than I felt. “Not remotely.”
 
 The lock gave way, its well-oiled mechanism yielding without so much as a groan. I lifted the lid. My fingers slipped into the darkness and found the gram waiting there. It was perfect, at first glance. Symmetrical, smooth as riverstone. Polished to a mirror's shine. A thing built to last, to endure. But it was wrong. I felt it, small as a splinter beneath the skin. Subtle, yes. Almost hidden, almost nothing at all. But once I noticed, I couldn’t unfeel it.
 
@@ -60,7 +60,7 @@ Behind me, Sim inhaled. The sound caught. I heard fear coiling in his breath. �
 
 I wiped the gram clean. My movements were careful, practiced, leaving nothing behind. Not a smear. Not a whisper. My hands worked faster than my mind, tugging at the edge of the question that pressed close and heavy. Who could have done this? And, worse, who would? The craftsmanship was clever. Elegant. Dangerous.
 
-I tried not to leap to conclusions. Tried not to let suspicion settle. But Hemme lingered at the back of my mind, quiet and sharp. He had the skill. He had the motive. Sometimes that is enough.
+I tried not to leap to conclusions. Tried not to let suspicion settle. Yet Hemme lingered at the edge of my thoughts. He had the skill. He had the motive. Sometimes, that is enough.
 
 “Done now?” Wil whispered. He watched the hallway, shoulders tight, each breath drawn shallow.
 
@@ -86,11 +86,11 @@ I gave him a faint smile, something quick and dishonest, already moving toward t
 
 Later, Mola would tell me she never looked up. She simply sat at her usual place beneath the cracked stair lamp, pretending to read a Medicae botanica text like she wasn’t listening for footfalls she had no business hearing. Her face calm, back straight, mouth pressed into the kind of line usually reserved for uncooperative patients.
 
-She didn't stop us. That was the important part. She didn’t stop us. A single glance in the wrong direction, one question asked at the wrong time, and the whole thing would have collapsed like bad lungwork.
+She didn't stop us. That was the important part. A single glance in the wrong direction, one question asked at the wrong time, and the whole thing would have collapsed like bad lungwork.
 
 “I didn’t lie,” she told me, later still. “I just redirected Ezra when he started his rounds early. I told him there was a misfiled note in the apothecary. There wasn’t, but it seemed wiser to avoid letting the archives argue with whatever’s left of a pulse.”
 
-She didn’t say it just to justify herself. Mola never needed my approval, not since the day she saved my life in the Medica. But that night, she chose silence over certainty. That choice required more than courage. It called for quiet belief. She believed in me, in Herma, and in what might still be uncovered if no one shut the door before we reached the threshold.
+She didn’t say it just to justify herself. Mola never needed my approval, not since the day she saved my life in the Medica. But that night, she chose silence over certainty. That choice required more than courage. It called for quiet belief. She believed in me, in Herma, and in what might still be uncovered.
 
 She didn’t write down what she saw. She didn’t even turn her head. But in that hush between lantern flickers, her presence held steady like the last safe breath before drowning.
 
