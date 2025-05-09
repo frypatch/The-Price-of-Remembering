@@ -28,7 +28,9 @@ publish_version = """{}.{}.{}""".format(
 
 isbn = "the-price-of-remembering-v" + publish_version
 work_dir = "book"
-output_path = """The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V{}.epub""".format(publish_version)
+output_filename = """The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V{}""".format(publish_version)
+output_txt = output_filename + ".txt"
+output_epub = output_filename + ".epub"
 
 def get_all_filenames(the_dir,extensions=[]):
     all_files = [x for x in os.listdir(the_dir)]
@@ -260,6 +262,20 @@ def get_chapter_TOC_MD(markdown_filenames):
         all_md += """\n"""
     return all_md
 
+def get_chapter_TOC_TXT(markdown_filenames):
+    all_txt = """CONTENTS\n"""
+    all_txt += """\n\n"""
+    for entry in get_TOC_dict(markdown_filenames)["entries"]:
+        filename = entry["filename"]
+        xhtml = entry["xhtml"]
+        titles = ". ".join(entry["titles"])
+        all_txt +="""    {}.""".format(titles)
+        subtitles = entry["subtitles"]
+        for subtitle in subtitles:
+            all_txt += " " + titlecase(subtitle.lower())
+        all_txt += """\n"""
+    return all_txt
+
 def get_TOC_dict(markdown_filenames):
     toc = {}
     entries = []
@@ -286,17 +302,29 @@ def get_TOC_dict(markdown_filenames):
 def get_chapter_MD(md_filename):
     with open(os.path.join(work_dir,md_filename),"r",encoding="utf-8") as f:
         markdown_data = f.read()
+
+        ## Auto-populate versioning information
+        markdown_data = markdown_data.replace("### LATEST VERSION", "### VERSION " + publish_version)
+
+        ## Remove chapter footer navigation that is there to make it helpful to read the content on Github
+        footer_index = markdown_data.find("### ~ ~ ~")
+        if footer_index > 0:
+          markdown_data = markdown_data[0:footer_index]
+
         return markdown_data
 
+def get_chapter_TXT(markdown_data):
+    all_txt = markdown_data
+    all_txt = all_txt.replace("###### ", "                    ")
+    all_txt = all_txt.replace("##### ", "                ")
+    all_txt = all_txt.replace("#### ", "            ")
+    all_txt = all_txt.replace("### ", "        ")
+    all_txt = all_txt.replace("## ", "    ")
+    all_txt = all_txt.replace("# ", "")
+    all_txt = all_txt.replace("> ", "    ")
+    return all_txt
+
 def get_chapter_XML(markdown_data,css_filenames):
-    ## Auto-populate versioning information
-    markdown_data = markdown_data.replace("### LATEST VERSION", "### VERSION " + publish_version)
-
-    ## Remove chapter footer navigation that is there to make it helpful to read the content on Github
-    footer_index = markdown_data.find("### ~ ~ ~")
-    if footer_index > 0:
-      markdown_data = markdown_data[0:footer_index]
-
     ## Returns the XML data for a given markdown chapter file, with the corresponding css chapter files
     html_text = markdown.markdown(markdown_data,
                                   extensions=["codehilite","tables","fenced_code","footnotes"],
@@ -326,6 +354,15 @@ def get_chapter_XML(markdown_data,css_filenames):
               "<big>P</big>RICE OF " +
               "<big>R</big>"
            )
+        .replace(
+          "<h1>THE DOORS OF STONE SPECULATIVE M",
+          "<h1>" +
+              "<big>T</big>HE " +
+              "<big>D</big>OORS OF " +
+              "<big>S</big>TONE " +
+              "<big>S</big>PECULATIVE " +
+              "<big>M</big>"
+            )
         .replace(
           "<h1>THE KINGKILLER C",
           "<h1>" +
@@ -393,9 +430,24 @@ if __name__ == "__main__":
     all_image_filenames = get_all_filenames(images_dir,extensions=["gif","jpg","jpeg","png"])
 
     ######################################################
+    ## Now creating the txt book
+    txt_data = ""
+    for i,chapter in enumerate(json_data["chapters"]):
+        chapter_md_filename = chapter["markdown"]
+        if chapter_md_filename == "Table_of_Contents.md":
+            txt_data += get_chapter_TOC_TXT(all_md_filenames)
+        else:
+            markdown_data = get_chapter_MD(chapter_md_filename)
+            txt_data += get_chapter_TXT(markdown_data)
+        txt_data += "\n\n\n\n"
+    txt_file = open(output_txt, "w")
+    txt_file.write(txt_data)
+    txt_file.close()
+
+    ######################################################
     ## Now creating the ePUB book
 
-    with zipfile.ZipFile(output_path, "w" ) as myZipFile:
+    with zipfile.ZipFile(output_epub, "w" ) as myZipFile:
 
         ## First, write the mimetype
         myZipFile.writestr("mimetype","application/epub+zip", zipfile.ZIP_DEFLATED )
