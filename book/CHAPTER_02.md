@@ -12,12 +12,12 @@ But I was young, and youth burns like kindling. It does not plan nor ask questio
 
 It was summer, and Kilvin's workshop buzzed like a hive. Gears ticked, water bubbled, and the air swam with the tang of hot copper and grease. I was hunched over a delicate spring mechanism at my station, sweat beading on my neck. My fingers toyed with a coil of tempered brass, its bright sheen mocking me with each brittle snap.   
 
-“If I could," I muttered, then caught myself. My lips pursed as if that would hold back the frustrated edge in my voice. My hands shifted to my notebook, and I scrawled some furious notes across the page.  
+“If I could,” I muttered, then caught myself. My lips pursed as if that would hold back the frustrated edge in my voice. My hands shifted to my notebook, and I scrawled some furious notes across the page.  
 
-> *Deflect the force. Don't resist or break it.*  
-> *Bend just enough, like a reed.*  
-> *It snaps back, how to temper its force?*  
-> *Needs better attachment. Wears out too fast.*  
+> “Deflect the force. Don't resist or break it.”  
+> “Bend just enough, like a reed.”  
+> “It snaps back, how to temper its force?”  
+> “Needs better attachment. Wears out too fast.”  
 
 For hours, I chased the idea around in circles. My peers came and went. They dipped iron rods in oil and muttered Alar to stubbornly glowing lamps. They marveled at the mechanisms that failed on my table, but no one lingered, and I preferred it that way.  
 
