@@ -40,8 +40,9 @@ That all said, please enjoy.
 
 ## DOWNLOADS
 
-* [EPUB](https://github.com/frypatch/The-Price-of-Remembering/releases/download/v3.05.01/The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V3.05.01.epub) - Version 3.05.01
-* [PDF](https://github.com/frypatch/The-Price-of-Remembering/releases/download/v3.05.01/The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V3.05.01.pdf) - Version 3.05.01
+* [EPUB](https://github.com/frypatch/The-Price-of-Remembering/releases/download/v3.05.08/The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V3.05.08.epub) - Version 3.05.08
+* [PDF](https://github.com/frypatch/The-Price-of-Remembering/releases/download/v3.05.08/The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V3.05.08.pdf) - Version 3.05.08
+* [TXT](https://github.com/frypatch/The-Price-of-Remembering/releases/download/v3.05.08/The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V3.05.08.txt) - Version 3.05.08
 
 ## TABLE OF CONTENTS
 
