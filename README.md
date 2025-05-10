@@ -24,6 +24,18 @@
 
 WE, THE AUTHORS of this fan fiction, can attest that we never sought permission, or consulted with the creator of the Kingkiller Chronicles series of novels; Patrick Rothfuss. This is a fan fiction work and is in no way endorsed or affiliated with either Patrick Rothfuss or the Kingkiller Chronicles series.
 
+## ACKNOWLEDGEMENTS
+
+> "We are like dwarfs on the shoulders of giants, so that we can see more than they, and things at a greater distance, not by virtue of any sharpness of sight on our part, or any physical distinction, but because we are carried high and raised up by their giant size." - Bernard de Chartres.
+
+First, I must thank Patrick Rothfuss, who laid the foundation stone by stone, word by careful word. There is art in that work. It is deliberate, filled with quiet care and keen longing. To begin here is to sit beside a roaring fire, to listen for names in the crackling dark, to find the world new and strange again. Without such a beginning, I would have wandered off long ago, my interest spent, my feet sore.
+
+Next, let me thank TacticalDo. His “Price of Remembering” found, if not the ending itself, then at least a hint of what the third book might be. In reading his words, I felt a door unlock. I realized that I too was allowed to shape an ending with my own hands. To draw out my own truths from within.
+
+To those who shared their thoughts and theories, I owe you a debt. Flint striking flint. Bright sparks drawn out in dark places, kindling fires I might never have found alone. When ideas are tested, then tempered, then given breath, we all burn brighter for it. Many of your fancies proved fertile ground. The most fruitful, I have named in the appendix.
+
+At last, let me thank all the quiet transcribers, those patient souls who listen and set words in careful rows. Hours of interviews and stories distilled into a card catalogue so that their secrets might be found and plucked from the shadows. Audio is a bramble, full of thorns and snags, but you gave me a lantern to see by, a path where before was only dark.
+
 ## FORWARD
 
 WELCOME FELLOW ‘Old Knowers’ and ‘Proud Dreamers’. As an exercise I thought it might be interesting to try piecing together some of the prevailing book 3 theories together into a cut down version of what we may potentially get. Let me preface this by saying that this interpretation is unquestionably going to deviate, on many, if not all accounts from what I imagine will be Pat’s final version. At present I don’t believe there is sufficient information to truly piece The Doors of Stone together in its entirety, that doesn’t mean however it’s not worth trying. After so many years, it’s unlikely the fanbase would be able to settle on any one specific conclusion, a problem Pat himself will likely run into eventually, with that in mind, though it should go without saying, this is merely an ending, not the ending. It's also worth noting, given the considerably shorter length this will lack a lot of the intricacy and nuance that are the hallmarks of the series, and though there is potential to expand, it's worth gleaning community feedback first.
@@ -48,6 +60,7 @@ That all said, please enjoy.
 
 * [*Title Page*](#the-price-of-remembering)
 * [*Legal Disclaimer*](#legal-disclaimer)
+* [*Acknowledgements*](#acknowledgements)
 * [*Forward*](#forward)
 * [*Prologue*](book/Prologue.md)
 * [CHAPTER 01](book/CHAPTER_01.md) - The Weight of Silence
