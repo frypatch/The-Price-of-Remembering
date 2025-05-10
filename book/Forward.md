@@ -14,4 +14,4 @@ That all said, please enjoy.
 
 ### ~ ~ ~
 
-[Legal Disclaimer](Legal_Disclaimer.md) | [Table of Contents](Table_of_Contents.md) | [Prologue](Prologue.md)
+[Acknowledgements](Acknowledgements.md) | [Table of Contents](Table_of_Contents.md) | [Prologue](Prologue.md)
