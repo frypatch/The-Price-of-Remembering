@@ -1,6 +1,7 @@
-# PROLOGUE
+# PROLOGUE.
 
-## A SILENCE OF THREE PARTS
+## A SILENCE OF THREE PARTS.
+
 
 NIGHT HAD SETTLED OVER Newarre, and the Waystone Inn lay in silence, a silence of three parts.  
 

@@ -1,6 +1,7 @@
-# CHAPTER 2
+# CHAPTER 2.
 
-## THE FRAGILE WEIGHT OF PEACE  
+## THE FRAGILE WEIGHT OF PEACE.
+
 
 FOR THE FIRST TIME since the road swallowed my family and spat me into its dust, I found peace. Not the brittle kind that vanishes with the slightest breath, but something richer and heavier. The Maer’s coin had loosened the tight, strangling fingers of debt around my throat. My deal with Riem had let me breathe easier still. Together, they made the world feel almost manageable.  
 

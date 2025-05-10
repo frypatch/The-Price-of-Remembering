@@ -1,6 +1,7 @@
-# CHAPTER 31
+# CHAPTER 31.
 
-## THE DECEIT  
+## THE DECEIT.
+
 
 DIRT CLUNG TO every inch of me—my boots, my shirt, even my teeth. By the time we reached the Blind Beggar, night had folded over the city like worn velvet. My ribs ached with every breath, but I didn’t let us slow. Denna followed without a sound.
 

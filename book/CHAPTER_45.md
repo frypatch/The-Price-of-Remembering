@@ -1,6 +1,7 @@
-# CHAPTER 45
+# CHAPTER 45.
 
-## ONCE KING, ALWAYS KING  
+## ONCE KING, ALWAYS KING.
+
 
 “RESHI, IS THIS really necessary? It’s colder than the Fae Queen’s heart up here,” Bast groused, hugging his arms tight against himself.  
 

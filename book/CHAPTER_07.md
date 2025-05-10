@@ -1,6 +1,7 @@
-# CHAPTER 7
+# CHAPTER 7.
 
-## A SONG WITHOUT WORDS  
+## A SONG WITHOUT WORDS.
+
 
 THE NEWS ARRIVED QUIETLY at first, like the faint rumble of thunder through distant hills. It moved in whispers, trailing through the Courtyards and across the stone benches of the Medica, brushing against ears and tightening brows. By midmorning, it gained weight, carried on the sharp gestures of students gathering under the shadow of the Archives.
 

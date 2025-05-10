@@ -1,6 +1,7 @@
-# CHAPTER 47
+# CHAPTER 47.
 
-## THE RECKONING  
+## THE RECKONING.
+
 
 THE UNDERTHING WAS no place for Bast. He was young and eager, restless and brimming with a hunger to *do*. Expecting him to cloister himself underground, even for my sake, was selfish and unfair. I told him as much. Reassured him that he was free to leave whenever the mood struck him. But he didn’t.  
 

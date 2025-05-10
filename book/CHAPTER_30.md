@@ -1,6 +1,7 @@
-# CHAPTER 30
+# CHAPTER 30.
 
-## SWIRLS IN THE WATER  
+## SWIRLS IN THE WATER.
+
 
 THE NIGHT STRETCHED on, calm and quiet but for the faint rustling of leaves and the occasional chirp of crickets. I sat by the dying embers of our fire, unable to sleep. Denna lay nearby, her head resting on her bundled cloak, the soft rise and fall of her breathing a rare, peaceful rhythm. My cloak had slipped across her shoulder, and I resisted the urge to adjust it for fear of waking her. Instead, I watched her for a long while, caught between thoughts of what could be and what might never come.  
 

@@ -1,6 +1,7 @@
-# CHAPTER 24
+# CHAPTER 24.
 
-## THE WHISPERING QUARTER
+## THE WHISPERING QUARTER.
+
 
 THERE WAS NO threshold marking the entrance to The Whispering Quarter.
 

@@ -1,6 +1,7 @@
-# CHAPTER 27
+# CHAPTER 27.
 
-## OLD ACQUAINTANCES  
+## OLD ACQUAINTANCES.
+
 
 THE GATES OF Severen opened slowly.
 

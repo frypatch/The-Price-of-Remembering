@@ -1,6 +1,7 @@
-# CHAPTER 19
+# CHAPTER 19.
 
-## AMBER AND IVORY  
+## AMBER AND IVORY.
+
 
 THE AIR BIT at my skin as we stepped out of the Fae. Sharp, cold, honest.  
 

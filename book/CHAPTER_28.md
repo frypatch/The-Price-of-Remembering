@@ -1,6 +1,7 @@
-# CHAPTER 28
+# CHAPTER 28.
 
-## FOR THE GREATER GOOD
+## FOR THE GREATER GOOD.
+
 
 LEVENTIS WASN’T MUCH to look at, a gathering of crooked rooftops and muddy streets where the Four Corners tangled in trade. Nothing about it demanded notice. Yet such unremarkable places often held remarkable secrets.  
 

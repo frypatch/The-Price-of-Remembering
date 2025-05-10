@@ -1,6 +1,7 @@
-# CHAPTER 18
+# CHAPTER 18.
 
-## DEFINE LOST  
+## DEFINE LOST.
+
 
 THE SKY UNRAVELED, thread by thread, as if an unseen hand were plucking it apart. Stars wheeled and drifted through it like embers shaken from a dying fire, their positions subtly, maddeningly wrong. The constellations twisted, caught in some unseen current, spiraling deeper into the dark.  
 

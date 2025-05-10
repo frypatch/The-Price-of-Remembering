@@ -1,6 +1,7 @@
-# CHAPTER 41
+# CHAPTER 41.
 
-## THREADBARE AND BOUNDLESS  
+## THREADBARE AND BOUNDLESS.
+
 
 WE DIDN’T RUN so much as stagger from the battle. The screams of the Chandrian and the thunder of Tehlu’s angels tore holes in the night behind us, but we kept moving, one agonizing step after another. Denna clutched her side, her hand slick with blood, and the dusk-light of her face grew paler with every uneven stride. My mouth was dry. My legs ached. My mind replayed the scene again and again: the flash of Cinder’s blade, Denna’s knife buried in his neck. Her gasp when he struck her.  
 

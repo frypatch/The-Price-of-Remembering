@@ -1,6 +1,7 @@
-# CHAPTER 34
+# CHAPTER 34.
 
-## COMMAND IN THE CHAOS  
+## COMMAND IN THE CHAOS.
+
 
 THE MANGONEL CREAKED AS Fascino’s men prepared the first strike, its massive arm drawn taut against ropes groaning under the strain. They loaded a stone the size of a small child into the sling, and I felt the ember of hope in my chest flicker dangerously low.
 

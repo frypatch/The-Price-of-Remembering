@@ -1,6 +1,7 @@
-# CHAPTER 51
+# CHAPTER 51.
 
-## A SILENCE OF THREE PARTS  
+## A SILENCE OF THREE PARTS.
+
 
 IT WAS MORNING AGAIN. Dawn had crept quietly over the hills, painting the sky in soft hues of gray and gold, but the world itself seemed reluctant to wake. The town crouched on the horizon like a wounded beast, blackened scars visible even at a distance. Ash lingered in the air, so faint it was almost a memory. The road stretched wide and dry before us, open and empty, and in that emptiness lay silence—a silence of three parts.  
 

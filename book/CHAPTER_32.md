@@ -1,6 +1,7 @@
-# CHAPTER 32
+# CHAPTER 32.
 
-## THE FALL  
+## THE FALL.
+
 
 THE WIND WRITHED around me, humming a note I could almost taste. It was everywhere–pushing my hair, stinging my eyes, filling the space between my ribs and the stone wall I clung to. With it came the pull of an impossible thought: *Let go. Trust it. Let it take you, as it took Taborlin.* I considered it for half a heartbeat, but every inch of my body screamed in defiance. A story is fine for Taborlin the Great, but I wasn’t great. Not yet.
 

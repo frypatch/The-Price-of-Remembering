@@ -1,6 +1,7 @@
-# CHAPTER 50
+# CHAPTER 50.
 
-## THE PROPER WAY  
+## THE PROPER WAY.
+
 
 WHEN I STEPPED through the jagged wound in the Waystone Inn’s wall, dragging it back into Temerant, the air outside clung to me. Sharp, cold, unnatural. Bast and Chronicler stood waiting, their faces full of questions.  
 

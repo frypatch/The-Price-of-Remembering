@@ -19,7 +19,7 @@
             {"markdown":"Legal_Disclaimer.md","css":"chapter.css"},
             {"markdown":"Acknowledgements.md","css":"chapter.css"},
             {"markdown":"Forward.md","css":"chapter.css"},
-            {"markdown":"Table_of_Contents.md","css":""},
+            {"markdown":"Contents.md","css":""},
             {"markdown":"Prologue.md","css":"chapter.css"},
             {"markdown":"CHAPTER_01.md","css":"chapter.css"},
             {"markdown":"CHAPTER_02.md","css":"chapter.css"},

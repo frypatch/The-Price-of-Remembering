@@ -1,6 +1,7 @@
-# CHAPTER 1  
+# CHAPTER 1.
 
-## THE WEIGHT OF SILENCE  
+## THE WEIGHT OF SILENCE.
+
 
 MORNING CREPT INTO THE Waystone Inn. It did not rush. It came on quiet feet, as if ashamed to wake what darkness might still be dreaming. It pooled in the corners, thin as old regret, gathering where the stones cracked, settling in the bones where ache begins and numbness ends.
 

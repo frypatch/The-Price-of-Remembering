@@ -1,6 +1,7 @@
-# CHAPTER 38
+# CHAPTER 38.
 
-## THE WOLF AND THE OWL  
+## THE WOLF AND THE OWL.
+
 
 THE STREETS OF Renere twisted around me like a cruel, unending maze. My steps wavered, each one a sharp reminder of the bruises still painted across my body. The shadows stretched as the sun fell lower, blurring the crooked architecture into jagged silhouettes. I had been following the compass for what felt like hours, the bobbing needle’s frantic motion my only guide. When it suddenly surged and stilled, my pulse quickened.  
 

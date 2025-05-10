@@ -1,6 +1,7 @@
-# CHAPTER 20
+# CHAPTER 20.
 
-## LURED INTO THE CURRENT  
+## LURED INTO THE CURRENT.
+
 
 THE PALAZZO DE CONTRAIER did not demand attention the way the White Citadel did. It wasn’t ostentatious or desperate to impress. It didn’t reach for gold or jeweled embellishments like a noble fumbling for titles.  
 

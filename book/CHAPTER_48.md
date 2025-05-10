@@ -1,6 +1,7 @@
-# CHAPTER 48
+# CHAPTER 48.
 
-## A TRAP OF MEMORY  
+## A TRAP OF MEMORY.
+
 
 KOTE SAT HUNCHED at the table, shoulders pulled inward as though sheltering from some unseen storm. Quietly, he nodded to himself before speaking, his voice burdened by the weight of memory. 
 

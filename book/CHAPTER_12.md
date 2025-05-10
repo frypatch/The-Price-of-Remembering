@@ -1,6 +1,7 @@
-# CHAPTER 12
+# CHAPTER 12.
 
-## THREADS UNRAVEL  
+## THREADS UNRAVEL.
+
 
 DEVI’S ROOM SMELLED sharp, like ink left too long on a hot iron. There was a hunger in the air, a thin tension that vibrated in the spaces between oil-slicked brass, faintly glowing sympathy wax, and pages full of frantic, scrawled equations. It felt like the room itself was restless, as though our sleepless nights had seeped into the wood of the walls.  
 

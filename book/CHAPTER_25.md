@@ -1,6 +1,7 @@
-# CHAPTER 25
+# CHAPTER 25.
 
-## RESHI
+## RESHI.
+
 
 THE FIRST MAN spoke before weapons could be drawn.
 

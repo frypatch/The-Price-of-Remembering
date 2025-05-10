@@ -1,6 +1,7 @@
-# CHAPTER 11
+# CHAPTER 11.
 
-## THE PRICE WE PAY
+## THE PRICE WE PAY.
+
 
 I WOKE TO the groan of a chair, soft and uneasy, like an argument left unresolved. My room swam around me as I blinked myself into awareness. Devi sat a few feet away, hunched forward, her elbows balanced on her knees. Shadows pooled under her eyes, and her sharp edges seemed dulled, as if her usual confidence had been shaken loose and left somewhere I couldn’t see.  
 

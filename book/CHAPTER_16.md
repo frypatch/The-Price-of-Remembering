@@ -1,8 +1,9 @@
-# CHAPTER 16
+# CHAPTER 16.
 
-## INTERLUDE 
+## INTERLUDE.
 
-## BY COVER OF NIGHT  
+## BY COVER OF NIGHT.
+
 
 THE DECK BOARDS outside the Waystone creaked, groaning with the weight of age and weather, or perhaps with the secrets they held. Inside, the low hum of conversation fell abruptly silent, the way it does when people feel the eyes of the night pressing too heavily against the windows.  
 

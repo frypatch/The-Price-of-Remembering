@@ -1,6 +1,7 @@
-# CHAPTER 14
+# CHAPTER 14.
 
-## NAME IN THE WALL  
+## NAME IN THE WALL.
+
 
 BELLS.  
 

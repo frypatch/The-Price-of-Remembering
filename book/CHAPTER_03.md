@@ -1,6 +1,7 @@
-# CHAPTER 3
+# CHAPTER 3.
 
-## THE SILENT TOLL  
+## THE SILENT TOLL.
+
 
 THE ARCHIVES BREATHED around me, quiet and heavy.
 
