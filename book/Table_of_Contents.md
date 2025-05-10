@@ -3,6 +3,7 @@
 * [*Cover*](Cover_Page.md)
 * [*Title Page*](titlepage.md)
 * [*Legal Disclaimer*](Legal_Disclaimer.md)
+* [*Acknowledgements*](Acknowledgements.md)
 * [*Forward*](Forward.md)
 * [*Prologue*](Prologue.md)
 * [CHAPTER 1](CHAPTER_01.md) - The Weight of Silence

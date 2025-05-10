@@ -17,6 +17,7 @@
             {"markdown":"Series_Title_Page.md","css":""},
             {"markdown":"Title_Page.md","css":""},
             {"markdown":"Legal_Disclaimer.md","css":"chapter.css"},
+            {"markdown":"Acknowledgements.md","css":"chapter.css"},
             {"markdown":"Forward.md","css":"chapter.css"},
             {"markdown":"Table_of_Contents.md","css":""},
             {"markdown":"Prologue.md","css":"chapter.css"},
