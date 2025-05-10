@@ -1,6 +1,7 @@
-# CHAPTER 8
+# CHAPTER 8.
 
-## RARE THINGS VANISH  
+## RARE THINGS VANISH.
+
 
 I FOUND HER NOTE WHERE I should not have expected it but somehow did all the same: pressed beneath the edge of my lute case at Anker’s.  
 
@@ -106,4 +107,4 @@ One way or another, I would find a way inside.
 
 ### ~ ~ ~
 
-[Chapter 7](CHAPTER_07.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 9](CHAPTER_09.md)
+[Chapter 7](CHAPTER_07.md) | [Contents](Contents.md) | [Chapter 9](CHAPTER_09.md)

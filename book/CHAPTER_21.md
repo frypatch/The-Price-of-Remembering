@@ -1,6 +1,7 @@
-# CHAPTER 21
+# CHAPTER 21.
 
-## KAYSERA  
+## KAYSERA.
+
 
 THE WHITE CITADEL baked under the noon sun, its sandstone walls almost glowing in the heat. The courtyard stretched wide and empty, save for the crowd pressed along the edges. Their whispers curled through the air like smoke. Trellises of red selas flowers framed the space as if this duel were part of some cruel performance.
 
@@ -236,4 +237,4 @@ The courtyard faded behind me as I turned and walked away, pressing my hand agai
 
 ### ~ ~ ~
 
-[Chapter 20](CHAPTER_20.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 22](CHAPTER_22.md)
+[Chapter 20](CHAPTER_20.md) | [Contents](Contents.md) | [Chapter 22](CHAPTER_22.md)

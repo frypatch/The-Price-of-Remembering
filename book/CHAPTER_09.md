@@ -1,6 +1,7 @@
-# CHAPTER 9
+# CHAPTER 9.
 
-## A FOOLISH BARGIN  
+## A FOOLISH BARGIN.
+
 
 I FOUND MYSELF AT Devi’s door again, and this time, I couldn’t conjure a reasonable excuse for it—not to my pride, nor my better judgment. Perhaps I came because she’d baited me so perfectly, dropping breadcrumbs of the Four-Plate Door into my restless mind. Or perhaps I came because I was tired of pacing my room, tired of spinning thoughts without a thread to follow. Either way, there I was, hands loose at my sides, shame bitter on my tongue.  
 
@@ -140,4 +141,4 @@ Devi stepped aside, and I walked in. Greed pressed me forward, and doubt trailed
 
 ### ~ ~ ~
 
-[Chapter 8](CHAPTER_08.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 10](CHAPTER_10.md)
+[Chapter 8](CHAPTER_08.md) | [Contents](Contents.md) | [Chapter 10](CHAPTER_10.md)

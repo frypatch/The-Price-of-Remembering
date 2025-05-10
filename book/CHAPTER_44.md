@@ -1,6 +1,7 @@
-# CHAPTER 44
+# CHAPTER 44.
 
-## THE HOLLOW CROWN  
+## THE HOLLOW CROWN.
+
 
 FOR THE NEXT two days, I was not a man. I was a hollow shell, emptied of everything but the dark tide of my grief. The Tahl brought food I couldn’t eat, water I drank out of reflex. My moments of lucidity were few, and I dreaded them.  
 
@@ -96,4 +97,4 @@ I clapped my good hand against his shoulder. “Well, for what it’s worth, I'm
 
 ### ~ ~ ~
 
-[Chapter 43](CHAPTER_43.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 45](CHAPTER_45.md)
+[Chapter 43](CHAPTER_43.md) | [Contents](Contents.md) | [Chapter 45](CHAPTER_45.md)

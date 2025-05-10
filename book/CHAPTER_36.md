@@ -1,8 +1,9 @@
-# CHAPTER 36
+# CHAPTER 36.
 
-## INTERLUDE
+## INTERLUDE.
 
-## A WEIGHT OF NAMES
+## A WEIGHT OF NAMES.
+
 
 KOTE STOOD BEHIND THE Waystone Inn's bar, wiping the same mug for the third time, though it gleamed clean under the amber flicker of the hearth. His movements were slow, deliberate, like a man trying to tether himself to the present. Outside, wind pressed against the shutters, a soft howling that always seemed to find its way into this quiet corner of the world.  
 
@@ -66,4 +67,4 @@ He turned toward the hearth again, his voice distant now. “Their story deserve
 
 ### ~ ~ ~
 
-[Chapter 35](CHAPTER_35.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 37](CHAPTER_37.md)
+[Chapter 35](CHAPTER_35.md) | [Contents](Contents.md) | [Chapter 37](CHAPTER_37.md)

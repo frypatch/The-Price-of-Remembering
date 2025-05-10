@@ -1,6 +1,7 @@
-# CHAPTER 46
+# CHAPTER 46.
 
-## THE ILLUSION OF WHOLENESS  
+## THE ILLUSION OF WHOLENESS.
+
 
 WE LEFT RENERE under a cloak of darkness, slipping through the eastern gate like shadows fleeing the light. Caesura was sheathed at my hip, its weight a cold reminder of everything I wanted to forget. I didn’t look back for long. The city’s walls loomed in the distance, pale and sharp as teeth in the night. It was a place that had gutted me, and I swore, as I turned my back on it, that I would never cross its threshold again.  
 
@@ -74,4 +75,4 @@ I sat alone after he left, staring at the crooked shelf Auri had made for me. I 
 
 ### ~ ~ ~
 
-[Chapter 45](CHAPTER_45.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 47](CHAPTER_47.md)
+[Chapter 45](CHAPTER_45.md) | [Contents](Contents.md) | [Chapter 47](CHAPTER_47.md)

@@ -1,6 +1,7 @@
-# CHAPTER 3
+# CHAPTER 3.
 
-## THE SILENT TOLL  
+## THE SILENT TOLL.
+
 
 THE ARCHIVES BREATHED around me, quiet and heavy.
 
@@ -282,4 +283,4 @@ Wil groaned. “This is going to end well. So very well.”
 
 ### ~ ~ ~
 
-[Chapter 2](CHAPTER_02.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 4](CHAPTER_04.md)
+[Chapter 2](CHAPTER_02.md) | [Contents](Contents.md) | [Chapter 4](CHAPTER_04.md)

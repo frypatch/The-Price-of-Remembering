@@ -1,6 +1,7 @@
-# CHAPTER 10
+# CHAPTER 10.
 
-## KEYS TO THE PAST  
+## KEYS TO THE PAST.
+
 
 BREAKING INTO LORREN’S rooms was a terrible idea. Dangerous. Foolish. Likely to end with me thrown from the University like an unwanted book. But what’s one more terrible idea in a life already full of them?  
 
@@ -68,4 +69,4 @@ I slept for two days.
 
 ### ~ ~ ~
 
-[Chapter 9](CHAPTER_09.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 11](CHAPTER_11.md)
+[Chapter 9](CHAPTER_09.md) | [Contents](Contents.md) | [Chapter 11](CHAPTER_11.md)

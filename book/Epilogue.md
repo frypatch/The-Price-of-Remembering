@@ -1,6 +1,7 @@
-# EPILOGUE
+# EPILOGUE.
 
-## THE LAST NAME SPOKEN
+## THE LAST NAME SPOKEN.
+
 
 PEHYN DREW A long breath, steadying herself. The morning air was sharp and cold, as if to remind her that the moment was real. Vashet had said she was ready, but doubt clung to her all the same. What if the words failed her? She’d practiced until her throat burned, repeating the Atas under her breath even in the dark of night. Still, Vashet’s teasing words rang in her head: “Three days was all it took, once.” Pehyn had said nothing, but her cheeks had flushed in quiet frustration.  
 
@@ -38,4 +39,4 @@ Pehyn followed her mother home, her legs steady now, her shadow no longer dancin
 
 ### ~ ~ ~
 
-[Chapter 51](CHAPTER_51.md) | [Table of Contents](Table_of_Contents.md) | [Appendix](Appendix.md)
+[Chapter 51](CHAPTER_51.md) | [Contents](Contents.md) | [Appendix](Appendix.md)

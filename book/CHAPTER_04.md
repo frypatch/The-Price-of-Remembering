@@ -1,6 +1,7 @@
-# CHAPTER 4
+# CHAPTER 4.
 
-## EARS IN THE WIND
+## EARS IN THE WIND.
+
 
 I DID NOT KNOW WHAT I expected to find in the Chancellor’s gram. Only that Mola had called it off-key, broken in a way she could not name. I needed help, something unorthodox. Eyes that might see what hers had missed. Ears attuned to secrets strung quiet and strange, humming just beneath the surface.
 
@@ -130,4 +131,4 @@ What I know is this. I spent long nights awake, staring at the ceiling, chasing 
 
 ### ~ ~ ~
 
-[Chapter 3](CHAPTER_03.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 5](CHAPTER_05.md)
+[Chapter 3](CHAPTER_03.md) | [Contents](Contents.md) | [Chapter 5](CHAPTER_05.md)

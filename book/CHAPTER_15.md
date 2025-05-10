@@ -1,6 +1,7 @@
-# CHAPTER 15
+# CHAPTER 15.
 
-## MISSING  
+## MISSING.
+
 
 FOR SOMEONE ON the run, I made a wretched fugitive. My legs buckled with every step, hollow and trembling under me. The plain rags from Haven clung to my skin, torn and wet, carrying the damp, sour tang of sweat and mildew. I should have planned better—I should have rested. But planning and resting would have meant thinking, and I was doing my best to avoid thinking.  
 
@@ -94,4 +95,4 @@ One way or another, I’d follow that thread to the end—through cold, through 
 
 ### ~ ~ ~
 
-[Chapter 14](CHAPTER_14.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 16](CHAPTER_16.md)
+[Chapter 14](CHAPTER_14.md) | [Contents](Contents.md) | [Chapter 16](CHAPTER_16.md)

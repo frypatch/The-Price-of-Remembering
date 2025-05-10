@@ -1,6 +1,7 @@
-# CHAPTER 37
+# CHAPTER 37.
 
-## THE BREATH AFTER THE FALL  
+## THE BREATH AFTER THE FALL.
+
 
 I FELL, AND the world unraveled in the breathless rush of wind against my ears. The white walls of the Citadel blurred into a chalk line above me, and the jagged hole from the mangonel stared down like an empty, unblinking eye. For a moment, the city’s distant rooftops and cobblestone streets painted themselves as a cruel certainty—hard, cold, and absolute.  
 
@@ -92,4 +93,4 @@ For the first time since the Tower, a flicker of resolve sparked within me. I wa
 
 ### ~ ~ ~
 
-[Chapter 36](CHAPTER_36.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 38](CHAPTER_38.md)
+[Chapter 36](CHAPTER_36.md) | [Contents](Contents.md) | [Chapter 38](CHAPTER_38.md)

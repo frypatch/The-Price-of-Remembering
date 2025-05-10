@@ -1,6 +1,7 @@
-# CHAPTER 26
+# CHAPTER 26.
 
-## STORIES WE TELL OURSELVES
+## STORIES WE TELL OURSELVES.
+
 
 “STAPLES.”
 
@@ -256,4 +257,4 @@ And neither of us were ready for that.
 
 ### ~ ~ ~
 
-[Chapter 25](CHAPTER_25.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 27](CHAPTER_27.md)
+[Chapter 25](CHAPTER_25.md) | [Contents](Contents.md) | [Chapter 27](CHAPTER_27.md)

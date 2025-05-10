@@ -1,6 +1,7 @@
-# CHAPTER 48
+# CHAPTER 48.
 
-## A TRAP OF MEMORY  
+## A TRAP OF MEMORY.
+
 
 KOTE SAT HUNCHED at the table, shoulders pulled inward as though sheltering from some unseen storm. Quietly, he nodded to himself before speaking, his voice burdened by the weight of memory. 
 
@@ -214,4 +215,4 @@ Kvothe stood, his back straightening fully as he turned to face the shadow that 
 
 ### ~ ~ ~
 
-[Chapter 47](CHAPTER_47.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 49](CHAPTER_49.md)
+[Chapter 47](CHAPTER_47.md) | [Contents](Contents.md) | [Chapter 49](CHAPTER_49.md)

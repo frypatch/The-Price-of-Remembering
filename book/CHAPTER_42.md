@@ -1,6 +1,7 @@
-# CHAPTER 42
+# CHAPTER 42.
 
-## SEVEN WORDS FOR SILENCE  
+## SEVEN WORDS FOR SILENCE.
+
 
 WE LAY THERE in the endless desert, the sun a hot hammer beating down on both of us. I kept Denna’s hand in mine, as if the contact alone was enough to keep her tethered to the world. Around us, the sand shimmered, an ocean without a shore. Somewhere far away, I could hear the dry screaming of the wind, but here, where we lay, there was only silence. A silence I dreaded, because I knew it would grow deeper if Denna took her last breath.  
 
@@ -80,4 +81,4 @@ Under the swaying trees, I held her as the fires died.
 
 ### ~ ~ ~
 
-[Chapter 41](CHAPTER_41.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 43](CHAPTER_43.md)
+[Chapter 41](CHAPTER_41.md) | [Contents](Contents.md) | [Chapter 43](CHAPTER_43.md)

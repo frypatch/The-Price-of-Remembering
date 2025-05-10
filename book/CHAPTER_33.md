@@ -1,6 +1,7 @@
-# CHAPTER 33
+# CHAPTER 33.
 
-## THE TOWER  
+## THE TOWER.
+
 
 THE SMELL STRUCK first: sour ale soaked into wood, a rancid smear of spilled grease, and the cloying tang of too many unwashed bodies packed into one space. The garrison was a shattered remnant of what it should have been. Sixteen guards sat or slumped in a room built to hold twice their number, most clutching bottles with lethargic grips. Some blinked at me glassily, their faces slack with drink. Others ignored my entrance altogether, their shoulders slumped like scarecrows abandoned in a storm.
 
@@ -110,4 +111,4 @@ For a moment, hope flickered. Then I saw the mangonel.
 
 ### ~ ~ ~
 
-[Chapter 32](CHAPTER_32.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 34](CHAPTER_34.md)
+[Chapter 32](CHAPTER_32.md) | [Contents](Contents.md) | [Chapter 34](CHAPTER_34.md)

@@ -206,13 +206,13 @@ def get_TOC_XML(default_css_filenames,markdown_filenames):
     toc_xhtml += """</head>\n<body>\n"""
     toc_xhtml += """<nav epub:type="toc" role="doc-toc" id="toc">\n<h2>Contents</h2>\n<ol epub:type="list">"""
     ## Add link to cover
-    toc_xhtml += """\n<li><a href="titlepage.xhtml">Cover</a></li>"""
+    toc_xhtml += """\n<li><a href="titlepage.xhtml">Cover.</a></li>"""
     ## Add link to other sections
     for i,entry in enumerate(get_TOC_dict(markdown_filenames)["entries"]):
         xhtml = entry["xhtml"]
-        full_title = " - ".join(entry["titles"])
+        full_title = ". ".join(entry["titles"]) + "."
         for subtitle in entry["subtitles"]:
-            full_title += " - " + titlecase(subtitle.lower())
+            full_title += """ {}.""".format(titlecase(subtitle.lower()))
         toc_xhtml += """\n<li><a href="{}">{}</a></li>""".format(xhtml,full_title)
     toc_xhtml += """</ol>\n</nav>\n</body>\n</html>"""
 
@@ -227,15 +227,15 @@ def get_TOCNCX_XML(markdown_filenames):
     toc_ncx += """<navMap>\n"""
     ## Add link to cover
     toc_ncx += """<navPoint id="navpoint-cover">\n"""
-    toc_ncx += """<navLabel>\n<text>Cover</text>\n</navLabel>"""
+    toc_ncx += """<navLabel>\n<text>Cover.</text>\n</navLabel>"""
     toc_ncx += """<content src="titlepage.xhtml"/>"""
     toc_ncx += """ </navPoint>"""
     ## Add link to other sections
     for i,entry in enumerate(get_TOC_dict(markdown_filenames)["entries"]):
         xhtml = entry["xhtml"]
-        full_title = " - ".join(entry["titles"])
+        full_title = ". ".join(entry["titles"]) + "."
         for subtitle in entry["subtitles"]:
-            full_title += " - " + titlecase(subtitle.lower())
+            full_title += """ {}.""".format(titlecase(subtitle.lower()))
         toc_ncx += """<navPoint id="navpoint-{}">\n""".format(i)
         toc_ncx += """<navLabel>\n<text>{}</text>\n</navLabel>""".format(full_title)
         toc_ncx += """<content src="{}"/>""".format(xhtml)
@@ -245,25 +245,25 @@ def get_TOCNCX_XML(markdown_filenames):
     return toc_ncx
 
 def get_chapter_TOC_MD(markdown_filenames):
-    all_md = """# TABLE OF CONTENTS\n"""
+    all_md = """# CONTENTS\n"""
     all_md += """\n"""
-    all_md += """* [*Cover*](titlepage.xhtml)\n"""
+    all_md += """* [*Cover*](titlepage.xhtml).\n"""
     for entry in get_TOC_dict(markdown_filenames)["entries"]:
         filename = entry["filename"]
         xhtml = entry["xhtml"]
-        titles = " - ".join(entry["titles"])
+        titles = ". ".join(entry["titles"])
         if filename.startswith("CHAPTER"):
-            all_md += """* [{}]({})""".format(titles,xhtml)
+            all_md += """* [{}]({}).""".format(titles,xhtml)
         else:
-            all_md += """* [*{}*]({})""".format(titles,xhtml)
+            all_md += """* [*{}*]({}).""".format(titles,xhtml)
         subtitles = entry["subtitles"]
         for subtitle in subtitles:
-            all_md += " - " + titlecase(subtitle.lower())
+            all_md += """ {}.""".format(titlecase(subtitle.lower()))
         all_md += """\n"""
     return all_md
 
 def get_chapter_TOC_TXT(markdown_filenames):
-    all_txt = """CONTENTS\n"""
+    all_txt = """CONTENTS.\n"""
     all_txt += """\n\n"""
     for entry in get_TOC_dict(markdown_filenames)["entries"]:
         filename = entry["filename"]
@@ -272,7 +272,7 @@ def get_chapter_TOC_TXT(markdown_filenames):
         all_txt +="""    {}.""".format(titles)
         subtitles = entry["subtitles"]
         for subtitle in subtitles:
-            all_txt += " " + titlecase(subtitle.lower())
+            all_txt += """ {}.""".format(titlecase(subtitle.lower()))
         all_txt += """\n"""
     return all_txt
 
@@ -292,9 +292,9 @@ def get_TOC_dict(markdown_filenames):
             with open(os.path.join(work_dir,md_filename),"r",encoding="utf-8") as f:
                 markdown_data = f.read()
                 for title in re.findall(r"^#\s+(.*)$", markdown_data, re.MULTILINE):
-                    entry["titles"].append(title.strip())
+                    entry["titles"].append(title.strip().rstrip("."))
                 for subtitle in re.findall(r"^##\s+(.*)$", markdown_data, re.MULTILINE):
-                    entry["subtitles"].append(subtitle.strip())
+                    entry["subtitles"].append(subtitle.strip().rstrip("."))
         else:
             entry["titles"].append(titlecase(filename.replace("_", " ").lower()))
     return toc
@@ -434,7 +434,7 @@ if __name__ == "__main__":
     txt_data = ""
     for i,chapter in enumerate(json_data["chapters"]):
         chapter_md_filename = chapter["markdown"]
-        if chapter_md_filename == "Table_of_Contents.md":
+        if chapter_md_filename == "Contents.md":
             txt_data += get_chapter_TOC_TXT(all_md_filenames)
         else:
             markdown_data = get_chapter_MD(chapter_md_filename)
@@ -476,7 +476,7 @@ if __name__ == "__main__":
                 chapter_css_filenames.append(chapter["css"])
 
             markdown_data = ""
-            if chapter_md_filename == "Table_of_Contents.md":
+            if chapter_md_filename == "Contents.md":
                 markdown_data = get_chapter_TOC_MD(all_md_filenames)
             else:
                 markdown_data = get_chapter_MD(chapter_md_filename)
