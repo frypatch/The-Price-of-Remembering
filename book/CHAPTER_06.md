@@ -2,23 +2,33 @@
 
 ## THE BREATH OF THE PEAKS  
 
-THE HUM OF VOICES and the clinking of tankards seeped upward from the packed common room at Anker’s, muffled but steady, like the pulse of a living thing. It was a sound I should have been part of, thickening the air with chords from my lute, stoking laughter with stories. Instead, I sat on the edge of my narrow bed, staring at the pack I had thrown together in no more than ten minutes. 
+THE HUM OF VOICES and the clinking of tankards seeped upward from the packed common room at Anker’s, muffled but steady, like the pulse of a living thing. It was a sound I should have been part of, thickening the air with chords from my lute, stoking laughter with stories. Instead, I sat on the edge of my narrow bed, staring at the pack I had thrown together in no more than ten minutes.
 
-The bag was simple, almost too simple for whatever I hoped to accomplish. Inside: a waterskin, a too-dry loaf of bread, a tightly rolled blanket, and my lute in its case, strapped to the side. The lute looked at me as if it disapproved.  
+The bag was simple. Too simple, perhaps, for everything I meant to do. Inside, a waterskin, a loaf of bread gone dry at the edges, a tightly rolled blanket. And my lute in its case, strapped to the side. It looked at me, silent. Disapproving.
 
-Still, I hesitated. The air hung heavy in the room, thick with the stale tang of ale and old wood.  
+I hesitated. The air hung heavy in the room, thick with the stale tang of ale and old wood.  
 
-It was foolish, I thought. Irresponsible, even. But a voice sharper than wit whispered back: “When has that ever stopped you before?” Responsibilities move like rivers—slow sometimes, roaring torrents at others—but always pulling you further along whether you wade or swim.  
+It was foolish. I knew that. Irresponsible, maybe even dangerous. But another voice answered, softer than a secret, sharper than a knife. When has that ever stopped you?
 
-Before I could change my mind, I grabbed the pack and slipped my lute into its worn leather sling. The weight of them across my back settled something in me, if only briefly. The dim sounds of the tavern below paused for a moment—an unplanned lull in the noise—and I imagined Anker’s voice half-laughing, half-accusing: *“Off so soon, boy? We’ve a full house tonight.”*  
+Responsibilities do not rest. They pull at you. Work, family, hungry mouths, empty pockets. The things that keep you alive are the same things that sweep you downstream. You dream of stopping, just for a moment, just to breathe or build or sing. But the river is relentless. Always forward, never back.
 
-But I didn’t answer the phantom question. Instead, I scrawled a hasty note and set it neatly on my bed:  
+When you are young, you tell yourself there will be time. Later, you say. After you have done what must be done. But later comes like winter, colder and emptier than you imagined. Old bones ache. Old dreams fade. The mountain you meant to climb has grown taller. The song you meant to sing no longer fits your voice. You realize the river has carried you farther than you thought, and all the things you loved have drifted out of reach, lost in the current you never meant to follow.
 
-*Anker—Something needs tending at the University. I’ll return in a few days. My thanks, as always.*  
+Before reason could find its footing, I reached for my pack. The weight of them across my back settled something in me, if only for a breath. It was a grounding, brief and welcome, as my feet found their way forward. Below me, the tavern sounds faltered. Silence stretched through floorboards, thin and unexpected. I could almost hear Anker’s voice, half-accusing, half-laughing, with a smile buried in the words. Off so soon, boy? We’ve a full house tonight.
 
-The note, I knew, wouldn’t satisfy him. But Anker wasn’t a fool, and I could imagine him directing his irritation where it would most profit him—into fuller mugs and thicker slices of bread for the customers. Still, the faint pang of leaving pressed harder against my ribs than my pack ever could.  
+But I didn’t answer the phantom question. Instead, I scrawled a hasty note and set it neatly on my bed.
 
-I stepped out into the night, the air striking my face with a cool relief that startled me after the stale warmth of the upstairs room. The street was quieter than I expected, though the distant hum of Imre’s evening life lingered faintly on the breeze. Overhead, the sky yawned wide, the edges smeared with purples and blues that would soon deepen to black. And beyond that, the mountains loomed in memory more than sight—distant peaks that called me, sharp and steady as a plucked string whose vibrations carried too far to fade.  
+> “Anker,”  
+> “Something needs tending at the University.”  
+> “I’ll return in a few days.”  
+> “My thanks, as always.”  
+> “Kvothe.”  
+
+I knew the note would not satisfy him. Anker was no fool. He would take his irritation and turn it to good use. There would be fuller mugs. There would be thicker slabs of bread. Customers would leave with heavy bellies and light purses, and his scowl would fade in the busy work of the day.
+
+But even so, when I turned to leave, something pressed at me harder than any pack. It was not quite regret. Just the ache of knowing this was my home. These were my people. They would help me, as they always had, and they would understand. But my leaving would weigh on them. I would not be here to share the burden, and the work would be no lighter for my absence.
+
+I stepped out into the night, the air striking my face with a cool relief that startled me after the stale warmth of the upstairs room. The street was quieter than I expected, though the distant hum of Imre’s evening life lingered faintly on the breeze. Overhead, the sky yawned wide, the edges smeared with purples and blues that would soon deepen to black. Beyond that, the mountains lingered more in memory than sight. Their distant peaks seemed to call me, sharp and steady as a plucked string whose vibrations traveled too far to fade.
 
 I took my first steps, slow but sure, letting the rhythm of the walk ease my restless thoughts. The trail wound ahead like a song waiting for its first note.  
 
@@ -26,17 +36,17 @@ I took my first steps, slow but sure, letting the rhythm of the walk ease my res
 
 The wind met me halfway to the Six Sisters, restless and sly. At first, it was gentle, threading playfully through my hair and snapping at the edges of my hood. But as the land began to slope upward beneath my boots, so did the wind’s mood change. It tugged harder, sharp and impatient, as if testing whether it could pull me back or push me onward.
 
-By the second day, its playful nature had vanished entirely. The mountains rose jagged and solemn ahead, their rocky faces indifferent, their uppermost peaks capped faintly with snow that glinted in the weak light. I climbed carefully, my footing deliberate, each breath drawn thinner as though the air itself were shrinking. At times, the wind screamed between the crags, a wild and furious thing. There was no question about whose domain I had stepped into. The wind wasn’t just weather here; it was alive, a raw force that questioned my right to trespass.
+By the second day, its playful nature had vanished entirely. The mountains rose jagged and solemn ahead, their rocky faces indifferent, their uppermost peaks capped faintly with snow that glinted in the weak light. I climbed carefully, moving with deliberate steps, each breath drawn thinner as though the air itself were shrinking. At times, the wind screamed between the crags, a wild and furious thing. There was no question about whose domain I had entered. Here, the wind was not just part of the weather. It was alive, a raw force that seemed to question my right to trespass. 
 
 Each night on the mountainside, I found myself beneath a blanket of stars so wide it seemed as though the world might collapse under their weight. I huddled beneath my blanket, my body aching from hours of climbing, my thoughts circling themselves like a hungry hawk. The wind howled in the night, singing its secrets I was too deaf to hear. What did I think I would learn? Did the wind even have a secret, or had I left Imre chasing ghosts of my own imagining?
 
 The ascent grew steeper with each passing day. By the third morning, I felt utterly alone. The trees had long fallen away, leaving only jagged stone and patches of black ice that glared up at me from the ground like unkind mirrors. I measured my breath in shallow bursts, each careful step anchoring me to the moment.
 
-It was on that morning—when the wind was sharpest, the air cold enough to sting at my cracked lips—that something happened.
+On that morning, when the wind was sharpest and the air cold enough to sting at my cracked lips, something happened.
 
 I had stopped to rest on a rocky ledge, perched precariously far above the world I had risen from. The wind clawed at me with ferocity, battering my chest and legs, blinding me by whipping my hair into my eyes. And then, suddenly, it stopped.
 
-The absence was so sharp it startled me, as if the world had exhaled once and held its breath in anticipation. My heart pounded in my chest. The wind didn’t vanish entirely, not a retreat, but a pause—still and deliberate. Something brushed my cheek then, soft and faint, not forceful or cruel. Its touch wasn’t tender, but it wasn’t angry, either. I could not name what it was, only that I felt something beneath it—a recognition or the suggestion of one.
+The absence was so sharp it startled me, as if the world had exhaled once and held its breath in anticipation. My heart pounded in my chest. The wind didn’t vanish entirely. It wasn’t a retreat, but rather a pause that felt still and deliberate. Something brushed my cheek then, soft and faint, not forceful or cruel. Its touch wasn’t tender, but it wasn’t angry either. I could not name what it was, only that I felt something beneath it. There was a recognition, or at least the suggestion of one.
 
 The thread hummed just out of reach. For the first time, I didn’t try to pull it closer. I simply listened.
 
@@ -58,7 +68,7 @@ I returned her smile, setting my pack down with a low thump. “You always know,
 
 I laughed, shaking my head. “Catch it? That’s the wrong question altogether.”  
 
-Auri raised a finger, as if to challenge me. “But did you *ride* it?”  
+Auri raised a finger, as if to challenge me. “But did you ride it?”  
 
 “No.” I sighed, dropping to sit beside her. The stone was cool beneath me, a quiet contrast to the warmth her presence brought. “But I got closer.”  
 
@@ -76,11 +86,11 @@ She let me swing the cloak around her thin shoulders. It settled softly, wrappin
 
 “What’s it made of?” she asked, her voice full of longing.  
 
-“Goose feathers and whispers stolen from summer clouds,” I said, my face as solemn as hers.  
+“Goose feathers and whispers from summer clouds,” I said. My voice held all the seriousness the moment deserved.
 
-She giggled, the sound like bells in the quiet air. “Goose feathers are scratchy. How thoughtful of you to use clouds instead.”  
+She laughed, bright and light, a chime caught in the open air. “Goose feathers alone are cruel. How thoughtful, to soften them with the kindness of clouds.”
 
-“And what did *you* bring me?” I asked, invoking our ritual.  
+“And what did you bring me?” I asked, invoking our ritual.  
 
 Auri’s sly grin returned. She reached into her pocket with great deliberation and pulled out a small, weathered book. It was plain but old, its edges browned and its cover faintly embossed with swirls, like frost curling over the surface of glass.  
 
@@ -92,7 +102,7 @@ I took it carefully, running my fingers along its textured surface. It felt stra
 
 “Secrets it keeps?” I asked, curious.  
 
-“Secrets it *tells*,” she said, the words spreading like ripples in a still pond.  
+“Secrets it tells,” she said, the words spreading like ripples in a still pond.  
 
 Before I could ask more, Auri sprang to her feet, the cloak swirling around her like a storm caught in a teacup. “Play for me!” she said, twirling once, her arms spread wide.  
 
