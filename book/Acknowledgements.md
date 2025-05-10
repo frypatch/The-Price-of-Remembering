@@ -2,7 +2,7 @@
 
 > "We are like dwarfs on the shoulders of giants, so that we can see more than they, and things at a greater distance, not by virtue of any sharpness of sight on our part, or any physical distinction, but because we are carried high and raised up by their giant size." - Bernard de Chartres.
 
-First, I must thank Patrick Rothfuss, who laid the foundation stone by stone, word by careful word. There is art in that work. It is deliberate, filled with quiet care and keen longing. To begin here is to sit beside a roaring fire, to listen for names in the crackling dark, to find the world new and strange again. Without such a beginning, I would have wandered off long ago, my interest spent, my feet sore.
+FIRST, I MUST THANK Patrick Rothfuss, who laid the foundation stone by stone, word by careful word. There is art in that work. It is deliberate, filled with quiet care and keen longing. To begin here is to sit beside a roaring fire, to listen for names in the crackling dark, to find the world new and strange again. Without such a beginning, I would have wandered off long ago, my interest spent, my feet sore.
 
 Next, let me thank TacticalDo. His “Price of Remembering” found, if not the ending itself, then at least a hint of what the third book might be. In reading his words, I felt a door unlock. I realized that I too was allowed to shape an ending with my own hands. To draw out my own truths from within.
 
