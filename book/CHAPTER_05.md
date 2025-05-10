@@ -1,6 +1,7 @@
-# CHAPTER 5
+# CHAPTER 5.
 
-## THE ART OF LISTENING
+## THE ART OF LISTENING.
+
 
 I LINGERED OUTSIDE THE Archives after the trial. I hadn’t meant to. My feet found their way there, tracing old steps, following a thread I could not see. The quiet hung around me, heavy and damp, like wool soaked through with rain. Each breath pressed down against my chest. Thick. Close. The walls leaned in and tightened the space, taking the easy air and leaving only the weight behind.
 
@@ -92,4 +93,4 @@ I barely heard him. I was still caught in the moment before, held captive by the
 
 ### ~ ~ ~
 
-[Chapter 4](CHAPTER_04.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 6](CHAPTER_06.md)
+[Chapter 4](CHAPTER_04.md) | [Contents](Contents.md) | [Chapter 6](CHAPTER_06.md)

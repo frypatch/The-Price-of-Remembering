@@ -1,4 +1,5 @@
-# FORWARD
+# FORWARD.
+
 
 WELCOME FELLOW ‘Old Knowers’ and ‘Proud Dreamers’. As an exercise I thought it might be interesting to try piecing together some of the prevailing book 3 theories together into a cut down version of what we may potentially get. Let me preface this by saying that this interpretation is unquestionably going to deviate, on many, if not all accounts from what I imagine will be Pat’s final version. At present I don’t believe there is sufficient information to truly piece The Doors of Stone together in its entirety, that doesn’t mean however it’s not worth trying. After so many years, it’s unlikely the fanbase would be able to settle on any one specific conclusion, a problem Pat himself will likely run into eventually, with that in mind, though it should go without saying, this is merely an ending, not the ending. It's also worth noting, given the considerably shorter length this will lack a lot of the intricacy and nuance that are the hallmarks of the series, and though there is potential to expand, it's worth gleaning community feedback first.
 
@@ -14,4 +15,4 @@ That all said, please enjoy.
 
 ### ~ ~ ~
 
-[Acknowledgements](Acknowledgements.md) | [Table of Contents](Table_of_Contents.md) | [Prologue](Prologue.md)
+[Acknowledgements](Acknowledgements.md) | [Contents](Contents.md) | [Prologue](Prologue.md)

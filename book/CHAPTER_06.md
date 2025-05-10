@@ -1,6 +1,7 @@
-# CHAPTER 6
+# CHAPTER 6.
 
-## THE BREATH OF THE PEAKS  
+## THE BREATH OF THE PEAKS.
+
 
 THE HUM OF VOICES and the clinking of tankards seeped upward from the packed common room at Anker’s, muffled but steady, like the pulse of a living thing. It was a sound I should have been part of, thickening the air with chords from my lute, stoking laughter with stories. Instead, I sat on the edge of my narrow bed, staring at the pack I had thrown together in no more than ten minutes.
 
@@ -114,4 +115,4 @@ Her laughter echoed briefly before fading into the stillness. When at last her m
 
 ### ~ ~ ~
 
-[Chapter 5](CHAPTER_05.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 7](CHAPTER_07.md)
+[Chapter 5](CHAPTER_05.md) | [Contents](Contents.md) | [Chapter 7](CHAPTER_07.md)

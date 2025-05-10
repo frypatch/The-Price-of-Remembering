@@ -1,6 +1,7 @@
-# CHAPTER 45
+# CHAPTER 45.
 
-## ONCE KING, ALWAYS KING  
+## ONCE KING, ALWAYS KING.
+
 
 “RESHI, IS THIS really necessary? It’s colder than the Fae Queen’s heart up here,” Bast groused, hugging his arms tight against himself.  
 
@@ -146,4 +147,4 @@ Auri smiled, faint and glowing.
 
 ### ~ ~ ~
 
-[Chapter 44](CHAPTER_44.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 46](CHAPTER_46.md)
+[Chapter 44](CHAPTER_44.md) | [Contents](Contents.md) | [Chapter 46](CHAPTER_46.md)

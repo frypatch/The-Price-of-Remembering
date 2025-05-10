@@ -1,6 +1,7 @@
-# CHAPTER 32
+# CHAPTER 32.
 
-## THE FALL  
+## THE FALL.
+
 
 THE WIND WRITHED around me, humming a note I could almost taste. It was everywhere–pushing my hair, stinging my eyes, filling the space between my ribs and the stone wall I clung to. With it came the pull of an impossible thought: *Let go. Trust it. Let it take you, as it took Taborlin.* I considered it for half a heartbeat, but every inch of my body screamed in defiance. A story is fine for Taborlin the Great, but I wasn’t great. Not yet.
 
@@ -84,4 +85,4 @@ But as the screaming continued above us, I turned toward the Tower. “Not witho
 
 ### ~ ~ ~
 
-[Chapter 31](CHAPTER_31.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 33](CHAPTER_33.md)
+[Chapter 31](CHAPTER_31.md) | [Contents](Contents.md) | [Chapter 33](CHAPTER_33.md)

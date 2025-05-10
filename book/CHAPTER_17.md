@@ -1,6 +1,7 @@
-# CHAPTER 17
+# CHAPTER 17.
 
-## OF DANCING STONES  
+## OF DANCING STONES.
+
 
 THE FROST THAT painted the edges of windows and cobblestones seemed like quiet promises, each filigree curling into itself, delicate and doomed. It gripped at the world like it might shatter under the weight of the next breath—and in this, it mirrored me. The air was thin beneath the stars, the night thick with a kind of silence that made it easy to believe I was the only soul left breathing.
 
@@ -108,4 +109,4 @@ We had crossed into the Fae.
 
 ### ~ ~ ~
 
-[Chapter 16](CHAPTER_16.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 18](CHAPTER_18.md)
+[Chapter 16](CHAPTER_16.md) | [Contents](Contents.md) | [Chapter 18](CHAPTER_18.md)

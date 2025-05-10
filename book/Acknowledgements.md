@@ -1,4 +1,5 @@
-# ACKNOWLEDGEMENTS
+# ACKNOWLEDGEMENTS.
+
 
 > "We are like dwarfs on the shoulders of giants, so that we can see more than they, and things at a greater distance, not by virtue of any sharpness of sight on our part, or any physical distinction, but because we are carried high and raised up by their giant size." - Bernard de Chartres.
 
@@ -12,4 +13,4 @@ At last, let me thank all the quiet transcribers, those patient souls who listen
 
 ### ~ ~ ~
 
-[Legal Disclaimer](Legal_Disclaimer.md) | [Table of Contents](Table_of_Contents.md) | [Forward](Forward.md)
+[Legal Disclaimer](Legal_Disclaimer.md) | [Contents](Contents.md) | [Forward](Forward.md)

@@ -1,6 +1,7 @@
-# CHAPTER 40
+# CHAPTER 40.
 
-## CINDER  
+## CINDER.
+
 
 “WE’RE FREE,” CINDER said, his voice spilling over with a relief so vast it bordered on reverence. He turned to the other Chandrian, the remnants of shadow still licking at their forms as they came together, each embracing the others with something raw, desperate, and uncomfortably human.  
 
@@ -96,4 +97,4 @@ And so, we fled into the night.
 
 ### ~ ~ ~
 
-[Chapter 39](CHAPTER_39.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 41](CHAPTER_41.md)
+[Chapter 39](CHAPTER_39.md) | [Contents](Contents.md) | [Chapter 41](CHAPTER_41.md)

@@ -1,6 +1,7 @@
-# CHAPTER 13
+# CHAPTER 13.
 
-## I WILL NOT BE HELD  
+## I WILL NOT BE HELD.
+
 
 LOVE IS A soft and precarious thing, often born in silence, nurtured by proximity, and sharpened by shared purpose. I didn’t realize it at first – how my feelings toward Devi had grown roots, twining quietly around the edges of my thoughts. It was easy to ignore at first. She was quick-barked and bristling, as dangerous as a double-edged knife: brilliant, beautiful, and cursed with a sharpness that kept most people at arm’s length.  
 
@@ -108,4 +109,4 @@ And then, all at once, the blackness took me.
 
 ### ~ ~ ~
 
-[Chapter 12](CHAPTER_12.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 14](CHAPTER_14.md)
+[Chapter 12](CHAPTER_12.md) | [Contents](Contents.md) | [Chapter 14](CHAPTER_14.md)

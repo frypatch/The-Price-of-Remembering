@@ -1,8 +1,9 @@
-# CHAPTER 43
+# CHAPTER 43.
 
-## INTERLUDE
+## INTERLUDE.
 
-## OUT OF THE CHILL  
+## OUT OF THE CHILL.
+
 
 KOTE TRAILED OFF, his voice dwindling like a wick near its end. The quill in Chronicler’s hand hovered over the page, ink threatening to drop. The quiet in the Waystone Inn thickened, heavy as a sodden cloak. Chronicler shifted in his chair, uncomfortable, while Bast’s fingers fidgeted with the edge of his sleeve.  
 
@@ -36,4 +37,4 @@ Inside, the room was warm, but warmth was never enough.
 
 ### ~ ~ ~
 
-[Chapter 42](CHAPTER_42.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 44](CHAPTER_44.md)
+[Chapter 42](CHAPTER_42.md) | [Contents](Contents.md) | [Chapter 44](CHAPTER_44.md)

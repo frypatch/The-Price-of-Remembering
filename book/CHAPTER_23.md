@@ -1,6 +1,7 @@
-# CHAPTER 23
+# CHAPTER 23.
 
-## THE THREAD UNRAVELS  
+## THE THREAD UNRAVELS.
+
 
 THE COMMON ROOM of the Blind Beggar smelled of stale ale, dying embers, and the kind of silence that follows a knife fight no one talks about.
 
@@ -452,4 +453,4 @@ A slow breath left Bast’s lips. He turned away from the street, glancing towar
 
 ### ~ ~ ~
 
-[Chapter 22](CHAPTER_22.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 24](CHAPTER_24.md)
+[Chapter 22](CHAPTER_22.md) | [Contents](Contents.md) | [Chapter 24](CHAPTER_24.md)

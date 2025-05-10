@@ -1,6 +1,7 @@
-# CHAPTER 18
+# CHAPTER 18.
 
-## DEFINE LOST  
+## DEFINE LOST.
+
 
 THE SKY UNRAVELED, thread by thread, as if an unseen hand were plucking it apart. Stars wheeled and drifted through it like embers shaken from a dying fire, their positions subtly, maddeningly wrong. The constellations twisted, caught in some unseen current, spiraling deeper into the dark.  
 
@@ -362,4 +363,4 @@ Within the Waystone, Bast looked over the table indignantly. “Who are you call
 
 ### ~ ~ ~
 
-[Chapter 17](CHAPTER_17.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 19](CHAPTER_19.md)
+[Chapter 17](CHAPTER_17.md) | [Contents](Contents.md) | [Chapter 19](CHAPTER_19.md)

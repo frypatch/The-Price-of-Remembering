@@ -1,6 +1,7 @@
-# CHAPTER 39
+# CHAPTER 39.
 
-## THE WEIGHT OF SHADOWS  
+## THE WEIGHT OF SHADOWS.
+
 
 THE WORLD FOLDED and turned inside out, and I was torn from the decrepit taproom. Haliax didn’t cast a spell, not in any sense I recognized. This magic was old—primal, raw. It turned the air to syrup, thick and heavy, pulling at me like unseen hands. For a moment, I stood empty in a howling void, shaken and weightless, before reality reformed around me.  
 
@@ -140,4 +141,4 @@ The blade sank deep, and Lanre collapsed, the bitter smile still gracing his fac
 
 ### ~ ~ ~
 
-[Chapter 38](CHAPTER_38.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 40](CHAPTER_40.md)
+[Chapter 38](CHAPTER_38.md) | [Contents](Contents.md) | [Chapter 40](CHAPTER_40.md)

@@ -1,6 +1,7 @@
-# CHAPTER 25
+# CHAPTER 25.
 
-## RESHI
+## RESHI.
+
 
 THE FIRST MAN spoke before weapons could be drawn.
 
@@ -228,4 +229,4 @@ I laughed—a true laugh, the first in what felt like days—and let the title s
 
 ### ~ ~ ~
 
-[Chapter 24](CHAPTER_24.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 26](CHAPTER_26.md)
+[Chapter 24](CHAPTER_24.md) | [Contents](Contents.md) | [Chapter 26](CHAPTER_26.md)

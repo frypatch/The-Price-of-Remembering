@@ -1,6 +1,7 @@
-# CHAPTER 49
+# CHAPTER 49.
 
-## TO ASH ALL THINGS RETURN  
+## TO ASH ALL THINGS RETURN.
+
 
 CINDER APPEARED, ONE step from the doorway, his dull grey sword in hand. His lips curled into an eerie half-smile, more wolf than man.  
 
@@ -132,4 +133,4 @@ I stepped closer and, without a word, brought *Folly* down. The blade severed hi
 
 ### ~ ~ ~
 
-[Chapter 48](CHAPTER_48.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 50](CHAPTER_50.md)
+[Chapter 48](CHAPTER_48.md) | [Contents](Contents.md) | [Chapter 50](CHAPTER_50.md)

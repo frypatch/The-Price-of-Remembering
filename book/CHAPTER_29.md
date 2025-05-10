@@ -1,6 +1,7 @@
-# CHAPTER 29
+# CHAPTER 29.
 
-## LOCKLESS  
+## LOCKLESS.
+
 
 THE ROAD SOUTH TO Renere stretched long and winding, dust rising in thin plumes behind our horses as we rode in silence. Denna was focused on the Lockless box, her lips forming occasional fragments of words as her fingers traced its carvings. Meanwhile, my mind churned with its own puzzle.  
 
@@ -118,4 +119,4 @@ And I did.
 
 ### ~ ~ ~
 
-[Chapter 28](CHAPTER_28.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 30](CHAPTER_30.md)
+[Chapter 28](CHAPTER_28.md) | [Contents](Contents.md) | [Chapter 30](CHAPTER_30.md)

@@ -1,6 +1,7 @@
-# CHAPTER 35
+# CHAPTER 35.
 
-## THE PRICE OF LOYALTY  
+## THE PRICE OF LOYALTY.
+
 
 THE MANGONEL’S ARM creaked, ropes groaning as they drew back the heavy stone for another deadly blow. I leaned against the frozen wall, my shoulder aflame, my breaths shallow. Every movement felt like shards of glass grinding against bone. I wanted to act, to move, but my body betrayed me, shaking with weakness and exhaustion.  
 
@@ -90,4 +91,4 @@ And then the Wind was all that remained as I fell.
 
 ### ~ ~ ~
 
-[Chapter 34](CHAPTER_34.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 36](CHAPTER_36.md)
+[Chapter 34](CHAPTER_34.md) | [Contents](Contents.md) | [Chapter 36](CHAPTER_36.md)

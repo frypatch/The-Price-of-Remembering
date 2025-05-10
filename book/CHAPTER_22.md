@@ -1,8 +1,9 @@
-# CHAPTER 22
+# CHAPTER 22.
 
-## INTERLUDE
+## INTERLUDE.
 
-## CROSSCURRENTS
+## CROSSCURRENTS.
+
 
 IN THE QUIET OF THE Waystone Inn, Kote polished the bar with slow, thoughtful strokes. Slow as sleep. Slow as memory. Behind him, the fire cracked, shadows slipping gold across the walls like thoughts he never quite chased to ground.
 
@@ -72,4 +73,4 @@ He looked down at the polished wood beneath his hands. Ran his thumb across a gr
 
 ### ~ ~ ~
 
-[Chapter 21](CHAPTER_21.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 23](CHAPTER_23.md)
+[Chapter 21](CHAPTER_21.md) | [Contents](Contents.md) | [Chapter 23](CHAPTER_23.md)
