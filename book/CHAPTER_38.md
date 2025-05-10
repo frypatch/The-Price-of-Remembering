@@ -91,4 +91,4 @@ The darkness reached for me.
 
 ### ~ ~ ~
 
-[Chapter 37](CHAPTER_37.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 39](CHAPTER_39.md)
+[Chapter 37](CHAPTER_37.md) | [Contents](Contents.md) | [Chapter 39](CHAPTER_39.md)

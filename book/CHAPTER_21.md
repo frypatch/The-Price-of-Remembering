@@ -237,4 +237,4 @@ The courtyard faded behind me as I turned and walked away, pressing my hand agai
 
 ### ~ ~ ~
 
-[Chapter 20](CHAPTER_20.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 22](CHAPTER_22.md)
+[Chapter 20](CHAPTER_20.md) | [Contents](Contents.md) | [Chapter 22](CHAPTER_22.md)

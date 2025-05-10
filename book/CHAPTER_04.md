@@ -131,4 +131,4 @@ What I know is this. I spent long nights awake, staring at the ceiling, chasing 
 
 ### ~ ~ ~
 
-[Chapter 3](CHAPTER_03.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 5](CHAPTER_05.md)
+[Chapter 3](CHAPTER_03.md) | [Contents](Contents.md) | [Chapter 5](CHAPTER_05.md)

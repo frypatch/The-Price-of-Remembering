@@ -67,4 +67,4 @@ He turned toward the hearth again, his voice distant now. “Their story deserve
 
 ### ~ ~ ~
 
-[Chapter 35](CHAPTER_35.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 37](CHAPTER_37.md)
+[Chapter 35](CHAPTER_35.md) | [Contents](Contents.md) | [Chapter 37](CHAPTER_37.md)

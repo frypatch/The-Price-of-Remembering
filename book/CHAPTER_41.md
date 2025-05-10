@@ -71,4 +71,4 @@ Thin clouds shifted lazily above me, pale and distant—out of reach.
 
 ### ~ ~ ~
 
-[Chapter 40](CHAPTER_40.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 42](CHAPTER_42.md)
+[Chapter 40](CHAPTER_40.md) | [Contents](Contents.md) | [Chapter 42](CHAPTER_42.md)

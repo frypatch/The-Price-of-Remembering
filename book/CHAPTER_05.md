@@ -93,4 +93,4 @@ I barely heard him. I was still caught in the moment before, held captive by the
 
 ### ~ ~ ~
 
-[Chapter 4](CHAPTER_04.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 6](CHAPTER_06.md)
+[Chapter 4](CHAPTER_04.md) | [Contents](Contents.md) | [Chapter 6](CHAPTER_06.md)

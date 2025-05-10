@@ -73,4 +73,4 @@ He looked down at the polished wood beneath his hands. Ran his thumb across a gr
 
 ### ~ ~ ~
 
-[Chapter 21](CHAPTER_21.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 23](CHAPTER_23.md)
+[Chapter 21](CHAPTER_21.md) | [Contents](Contents.md) | [Chapter 23](CHAPTER_23.md)

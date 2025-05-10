@@ -75,4 +75,4 @@ I sat alone after he left, staring at the crooked shelf Auri had made for me. I 
 
 ### ~ ~ ~
 
-[Chapter 45](CHAPTER_45.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 47](CHAPTER_47.md)
+[Chapter 45](CHAPTER_45.md) | [Contents](Contents.md) | [Chapter 47](CHAPTER_47.md)

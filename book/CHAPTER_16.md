@@ -49,4 +49,4 @@ Kote nodded, but the moment to begin didn’t come right away. He rested his han
 
 ### ~ ~ ~
 
-[Chapter 15](CHAPTER_15.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 17](CHAPTER_17.md)
+[Chapter 15](CHAPTER_15.md) | [Contents](Contents.md) | [Chapter 17](CHAPTER_17.md)

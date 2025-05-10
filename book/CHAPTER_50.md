@@ -59,4 +59,4 @@ For a moment, the hovel seemed smaller, the air too thick, the space too tight. 
 
 ### ~ ~ ~
 
-[Chapter 49](CHAPTER_49.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 51](CHAPTER_51.md)
+[Chapter 49](CHAPTER_49.md) | [Contents](Contents.md) | [Chapter 51](CHAPTER_51.md)

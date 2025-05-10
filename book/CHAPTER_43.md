@@ -37,4 +37,4 @@ Inside, the room was warm, but warmth was never enough.
 
 ### ~ ~ ~
 
-[Chapter 42](CHAPTER_42.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 44](CHAPTER_44.md)
+[Chapter 42](CHAPTER_42.md) | [Contents](Contents.md) | [Chapter 44](CHAPTER_44.md)

@@ -81,4 +81,4 @@ Under the swaying trees, I held her as the fires died.
 
 ### ~ ~ ~
 
-[Chapter 41](CHAPTER_41.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 43](CHAPTER_43.md)
+[Chapter 41](CHAPTER_41.md) | [Contents](Contents.md) | [Chapter 43](CHAPTER_43.md)

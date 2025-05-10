@@ -95,4 +95,4 @@ One way or another, I’d follow that thread to the end—through cold, through 
 
 ### ~ ~ ~
 
-[Chapter 14](CHAPTER_14.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 16](CHAPTER_16.md)
+[Chapter 14](CHAPTER_14.md) | [Contents](Contents.md) | [Chapter 16](CHAPTER_16.md)

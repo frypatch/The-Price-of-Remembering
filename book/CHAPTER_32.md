@@ -85,4 +85,4 @@ But as the screaming continued above us, I turned toward the Tower. “Not witho
 
 ### ~ ~ ~
 
-[Chapter 31](CHAPTER_31.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 33](CHAPTER_33.md)
+[Chapter 31](CHAPTER_31.md) | [Contents](Contents.md) | [Chapter 33](CHAPTER_33.md)

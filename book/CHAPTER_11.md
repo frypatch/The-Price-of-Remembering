@@ -73,4 +73,4 @@ Her eyes sharpened immediately. Her posture changed, leaning forward like a hawk
 
 ### ~ ~ ~
 
-[Chapter 10](CHAPTER_10.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 12](CHAPTER_12.md)
+[Chapter 10](CHAPTER_10.md) | [Contents](Contents.md) | [Chapter 12](CHAPTER_12.md)

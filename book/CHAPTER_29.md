@@ -119,4 +119,4 @@ And I did.
 
 ### ~ ~ ~
 
-[Chapter 28](CHAPTER_28.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 30](CHAPTER_30.md)
+[Chapter 28](CHAPTER_28.md) | [Contents](Contents.md) | [Chapter 30](CHAPTER_30.md)

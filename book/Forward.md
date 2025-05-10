@@ -15,4 +15,4 @@ That all said, please enjoy.
 
 ### ~ ~ ~
 
-[Acknowledgements](Acknowledgements.md) | [Table of Contents](Table_of_Contents.md) | [Prologue](Prologue.md)
+[Acknowledgements](Acknowledgements.md) | [Contents](Contents.md) | [Prologue](Prologue.md)

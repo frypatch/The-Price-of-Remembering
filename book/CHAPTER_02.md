@@ -80,4 +80,4 @@ The world rarely grants peace without a cost. And even then, the toll is never p
 
 ### ~ ~ ~
 
-[Chapter 1](CHAPTER_01.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 3](CHAPTER_03.md)
+[Chapter 1](CHAPTER_01.md) | [Contents](Contents.md) | [Chapter 3](CHAPTER_03.md)

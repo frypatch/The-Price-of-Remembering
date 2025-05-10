@@ -91,4 +91,4 @@ And then the Wind was all that remained as I fell.
 
 ### ~ ~ ~
 
-[Chapter 34](CHAPTER_34.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 36](CHAPTER_36.md)
+[Chapter 34](CHAPTER_34.md) | [Contents](Contents.md) | [Chapter 36](CHAPTER_36.md)

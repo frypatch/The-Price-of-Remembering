@@ -115,4 +115,4 @@ Her laughter echoed briefly before fading into the stillness. When at last her m
 
 ### ~ ~ ~
 
-[Chapter 5](CHAPTER_05.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 7](CHAPTER_07.md)
+[Chapter 5](CHAPTER_05.md) | [Contents](Contents.md) | [Chapter 7](CHAPTER_07.md)

@@ -93,4 +93,4 @@ For the first time since the Tower, a flicker of resolve sparked within me. I wa
 
 ### ~ ~ ~
 
-[Chapter 36](CHAPTER_36.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 38](CHAPTER_38.md)
+[Chapter 36](CHAPTER_36.md) | [Contents](Contents.md) | [Chapter 38](CHAPTER_38.md)

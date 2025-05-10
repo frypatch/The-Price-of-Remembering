@@ -385,4 +385,4 @@ I forced a smile of my own, though we both pretended not to notice the sting of 
 
 ### ~ ~ ~
 
-[Chapter 26](CHAPTER_26.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 28](CHAPTER_28.md)
+[Chapter 26](CHAPTER_26.md) | [Contents](Contents.md) | [Chapter 28](CHAPTER_28.md)

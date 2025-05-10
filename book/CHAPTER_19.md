@@ -379,4 +379,4 @@ But I was watching Fascino retreat into the dusk, his movements too smooth, his 
 
 ### ~ ~ ~
 
-[Chapter 18](CHAPTER_18.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 20](CHAPTER_20.md)
+[Chapter 18](CHAPTER_18.md) | [Contents](Contents.md) | [Chapter 20](CHAPTER_20.md)

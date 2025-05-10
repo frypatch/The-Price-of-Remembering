@@ -107,4 +107,4 @@ The words came to rest. Subtle, but colder than silence. Chronicler bent to the 
 
 ### ~ ~ ~
 
-[Prologue](Prologue.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 2](CHAPTER_02.md)
+[Prologue](Prologue.md) | [Contents](Contents.md) | [Chapter 2](CHAPTER_02.md)

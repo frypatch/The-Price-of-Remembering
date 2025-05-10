@@ -63,4 +63,4 @@ I stood there, my lute still in my hands, the silence of the stones all the more
 
 ### ~ ~ ~
 
-[Chapter 6](CHAPTER_06.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 8](CHAPTER_08.md)
+[Chapter 6](CHAPTER_06.md) | [Contents](Contents.md) | [Chapter 8](CHAPTER_08.md)

@@ -45,4 +45,4 @@ The end.
 
 ### ~ ~ ~
 
-[Chapter 50](CHAPTER_50.md) | [Table of Contents](Table_of_Contents.md) | [Epilogue](Epilogue.md)
+[Chapter 50](CHAPTER_50.md) | [Contents](Contents.md) | [Epilogue](Epilogue.md)

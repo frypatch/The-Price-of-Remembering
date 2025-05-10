@@ -125,4 +125,4 @@ If the Amyr wouldn’t act, *I would.*
 
 ### ~ ~ ~
 
-[Chapter 27](CHAPTER_27.md) | [Table of Contents](Table_of_Contents.md) | [Chapter 29](CHAPTER_29.md)
+[Chapter 27](CHAPTER_27.md) | [Contents](Contents.md) | [Chapter 29](CHAPTER_29.md)
