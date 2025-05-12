@@ -53,9 +53,9 @@ She waved a finger toward me. “Your hair, darling boy. It’s practically shou
 
 “And trouble,” she chimed, “is what happens when it does.”
 
-Our laughter warmed the air briefly. With Devi, words became a game—a rhythmic trade of edges and smiles. For all her talk of danger, she had a way of softening sharp conversations into comfortable unsteadiness.
+For a moment, our laughter warmed the air. With Devi, words were a game. A dance of edges and smiles between us. She had a way of turning something sharp into something softer. She made uneasy talk feel gentle. Steady as a hand on your shoulder. 
 
-But soon, as was often the case with Devi, the talk turned deeper. It wasn’t long before the Four-Plate Door came up, that lingering riddle at the heart of my days and nights in the Archives. Devi’s grin shifted, growing tighter, though her eyes grew hungrier. “Do you know what no one tells you about the Archives?” she said, voice low and conspiratorial. “It’s pruned.”
+But soon, as was often the case with Devi, the talk turned deeper. It wasn’t long before the Four-Plate Door came up, that lingering riddle in the Archives. Devi’s grin shifted, growing tighter, though her eyes grew hungrier. “Do you know what no one tells you about the Archives?” she said, voice low and conspiratorial. “It’s pruned.”
 
 “Pruned?”
 
@@ -63,7 +63,7 @@ Devi tilted her head, the firelight catching one side of her face in gold and le
 
 Her grin stretched as she added, “Far from hands like yours.”
 
-There was something different in her smile this time. Something tighter, restrained. It didn’t sit right. “And you know this… how?” I asked, my voice light but probing.
+There was something different in her smile this time. It seemed tighter, more restrained, and it didn’t sit right. “And you know this? How?” I asked, keeping my voice light but probing.
 
 Devi didn’t answer right away. She reached for a jar on the low table beside her, gently tipping it back and forth, making the liquid inside swirl and shimmer. “Sweet boy,” she said, her voice soft, “you’ve barely crawled through the door, and already you want the whole house.”
 
@@ -87,7 +87,7 @@ I left with more questions than I came with. That’s how walking into Devi’s 
 
 Back in my small, rented room, I retrieved Auri’s book. Its plain, weathered cover concealed a strange warmth and a faint sense of rightness. Not everyone would sense that warmth, but I imagined Auri had known it the moment she placed the book in my hands.
 
-I worked quickly, binding it with a sympathetic thread marked faintly with my own blood. A tool needs to be tied to its maker, and I intended this book to serve a singular purpose: to disappear.
+I worked quickly, binding it with a sympathetic thread marked faintly with my own blood. A tool needs to be tied to its maker. I intended this book to serve only one purpose, which was to disappear.
 
 The next day, I approached Lorren’s Giller, Dystrol, holding the book as though it had been unearthed from a dusty corner of some forgotten collection. “A donation,” I said, tracing its etched scrollwork as I spoke. I murmured something about the Amyr while his practiced, neutral face gave away nothing. The only sign was the smallest hesitation when his fingers touched the cover, just a slight pause and a momentary tightness in his grip.
 
