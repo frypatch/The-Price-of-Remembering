@@ -3,9 +3,9 @@
 ## RARE THINGS VANISH.
 
 
-I WOKE WITH MUSIC in my veins and a question burning on my tongue. Where could I find Denna today?
+I WOKE WITH MUSIC in my veins and a singular question on my tongue. Where could I find Denna today?
 
-There are mornings when the world feels newly-minted, and even a threadbare room above Anker’s hums with promise. Sunlight slipped through the shutters, painting gold across the battered neck of my lute. I wondered, not for the first time, what song might find Denna today. What tune I could shape from wood and string that would draw her near.
+There are mornings when the world feels newly-minted, and even a threadbare room above Anker’s hums with promise. Sunlight slipped through the shutters, painting gold across the battered neck of my lute. I wondered, not for the first time, what song I could play that would truly reach Denna. I thought about what melody might stir her heart and touch her soul, drawing her closer to me.
 
 The day before sparkled crisp and clear in my memory. Laughter twined with song and a score of flavors were shared across Imre’s scattered tables. At parting, there was Denna’s lips, a sudden, starlit touch. It was the kind of day that makes a man believe that perhaps, this time, the story is taking a turn for the better.
 
@@ -13,13 +13,13 @@ As I dressed, hope made me foolish and I was happy because of it. I rehearsed cl
 
 After yesterday, every street in Imre felt greener, every errand a possible encounter. I told myself she would be there. Of course she would.
 
-But noon came and Denna did not. The city spun on heedlessly as I wandered past the bakery where we’d shared a sweetroll and through the alley’s hush where her laugh had once echoed. With each step, expectation faded and old uncertainty crept in where promise had been.
+But noon came and Denna did not. The city spun on heedlessly as I wandered past the bakery where we’d shared a sweetroll and through the alley’s hush where her laugh had once echoed. As I walked, expectation faded and old uncertainty crept in where the promise had been.
 
 I found myself back at Anker’s by habit. Laurel was setting fresh bread on a table and caught my eye.
 
-“Kvothe,” she said quietly, pausing with tray in hand. “I’ve something for you. A message, left this morning.” She held out a page folded small and neat, still faintly warm from her palm.
+“Kvothe,” she said quietly, pausing with tray in hand. “I’ve something for you. A message, left this morning.” She held out a page folded small and neat.
 
-Denna’s hand. Just two words, hurried yet careful as string drawn tight.
+It was written in Denna’s hand. Just two words, hurried yet careful as string drawn tight.
 
 > “Next time.”
 
@@ -39,7 +39,7 @@ By midafternoon, I found my feet drifting toward Devi’s. It wasn’t wise, and
 
 Devi’s room always felt alive, but in a way I could never entirely trust. Cinnamon softened the sharper edges of whatever alchemy worked in the shadows, but it did little to cover the tension coiled within the space itself. It was the kind of room that invited curiosity the way a sharp knife invites wandering fingers.
 
-Devi lounged in her chair, her hair spilling over one shoulder in a lazy river of ink, legs tucked beneath her like a cat waiting to pounce. Her grin, sharp and knowing, widened as I entered. “Kvothe,” she said, drawing out my name like a silken thread. “To what do I owe this charming distraction?”
+Devi lounged in her chair, her hair tumbling over one shoulder in a pale waterfall, legs tucked beneath her like a cat waiting to pounce. Her grin, sharp and knowing, widened as I entered. “Kvothe,” she said, drawing out my name like a silken thread. “To what do I owe this charming distraction?”
 
 “You flatter me too easily,” I said, leaning against the doorframe.
 
@@ -55,11 +55,17 @@ She waved a finger toward me. “Your hair, darling boy. It’s practically shou
 
 For a moment, our laughter warmed the air. With Devi, words were a game. A dance of edges and smiles between us. She had a way of turning something sharp into something softer. She made uneasy talk feel gentle. Steady as a hand on your shoulder. 
 
-But soon, as was often the case with Devi, the talk turned deeper. It wasn’t long before the Four-Plate Door came up, that lingering riddle in the Archives. Devi’s grin shifted, growing tighter, though her eyes grew hungrier. “Do you know what no one tells you about the Archives?” she said, voice low and conspiratorial. “It’s pruned.”
+But with Devi, easy talk never lasted. The conversation shifted, deeper and darker. It always did.
 
-“Pruned?”
+Before long, the Four-Plate Door slipped in, quiet and sure. That riddle in the heart of the Archives. Waiting. Watching.
 
-Devi tilted her head, the firelight catching one side of her face in gold and leaving the other in deep shadow. “Books are locked away. Secrets buried. Oh, they’ll let you play with what’s safe, sweet boy. But the rest? Tucked far out of reach.”
+Devi’s grin twisted. Her eyes lit, sharp and hungry.
+
+“Do you know what no one tells you about the Archives?” Her voice went low. Careful. Wrapped in shadow. “They prune it.”
+
+“Pruned?” I let the word hang in the air. It tasted strange on my tongue. I tried to shape it into something sensible, but it slipped away, leaving only confusion in its place. 
+
+Devi tilted her head, the firelight catching one side of her face in gold and leaving the other in deep shadow. “There are books locked away. Secrets buried. Oh, they’ll let you play with what’s safe, sweet boy. But the rest? Tucked far out of reach.”
 
 Her grin stretched as she added, “Far from hands like yours.”
 
