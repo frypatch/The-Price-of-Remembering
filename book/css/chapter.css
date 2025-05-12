@@ -4,7 +4,7 @@ big {
   font-weight: bold;
 }
 
-/* Indent all paragraphs exvent the first paragraph. Mobi will need class='first-para' */
+/* Indent all paragraphs except the first paragraph. Mobi will need class='first-para' */
 p {
   text-indent: 1em;
 }
@@ -28,4 +28,9 @@ p.first-para, p.first-para-chapter, p.note-p-first {
 }
 p.no-indent {
   text-indent: 0em;
+}
+
+/* Never indent block-quote. */
+blockquote p {
+  text-indent: 0em !important;
 }
