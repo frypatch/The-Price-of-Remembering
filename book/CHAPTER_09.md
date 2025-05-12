@@ -98,7 +98,7 @@ Three days felt like three years.
 The first day was unbearable, my thoughts circling endlessly. Vashet’s voice crept into my head, sharp and demanding.
 
 > “Which path lies closer to the Lethani?”  
-> “The one that endangers everyone?”
+> “The one that endangers everyone?”  
 > “Or the one that preserves what you hold dear?”  
 
 By the second day, it wasn’t Vashet’s voice haunting me but Wil and Sim’s. They cornered me in the dim shade of the Courtyard, their words bouncing off my already fragile resolve.
