@@ -28,7 +28,7 @@ publish_version = """{}.{}.{}""".format(
 
 isbn = "the-price-of-remembering-v" + publish_version
 work_dir = "book"
-build_dir = "published_version"
+build_dir = "published_versions"
 output_filename = """The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V{}""".format(publish_version)
 output_txt = output_filename + ".txt"
 output_epub = output_filename + ".epub"
