@@ -549,6 +549,7 @@ if __name__ == "__main__":
     html_data = html_data.replace("’", "&rsquo;")
     html_data = html_data.replace("–", "&mdash;")
     html_data = html_data.replace("—", "&mdash;")
+    html_data = html_data.replace("…", "&hellip;")
     html_file = open(github_pages_index_html, "w")
     html_file.write(html_data)
     html_file.close()
