@@ -515,7 +515,7 @@ if __name__ == "__main__":
     html_data = """<!DOCTYPE html>
 <html lang="en-US">
 <head>
-<meta charset="iso-8859-1">
+<meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The-Price-of-Remembering</title>
@@ -543,9 +543,13 @@ if __name__ == "__main__":
     html_data += "\n</main>"
     html_data += "\n</body>"
     html_data += "\n</html>"
-    md_file = open(github_pages_index_html, "w")
-    md_file.write(html_data)
-    md_file.close()
+    html_data = html_data.replace("“", "&ldquo;")
+    html_data = html_data.replace("”", "&rdquo;")
+    html_data = html_data.replace("‘", "&lsquo;")
+    html_data = html_data.replace("’", "&rsquo;")
+    html_file = open(github_pages_index_html, "w")
+    html_file.write(html_data)
+    html_file.close()
 
 
     ######################################################
