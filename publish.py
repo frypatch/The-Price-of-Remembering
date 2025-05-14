@@ -30,8 +30,10 @@ isbn = "the-price-of-remembering-v" + publish_version
 work_dir = "book"
 build_dir = "published_versions"
 output_filename = """The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V{}""".format(publish_version)
+output_md = output_filename + ".md"
 output_txt = output_filename + ".txt"
 output_epub = output_filename + ".epub"
+github_pages_index_md = "index.md"
 
 def get_all_filenames(the_dir,extensions=[]):
     all_files = [x for x in os.listdir(the_dir)]
@@ -248,15 +250,15 @@ def get_TOCNCX_XML(markdown_filenames):
 def get_chapter_TOC_MD(markdown_filenames):
     all_md = """# CONTENTS\n"""
     all_md += """\n"""
-    all_md += """* [*Cover*](titlepage.xhtml).\n"""
+    all_md += """* [*Cover*](#).\n"""
     for entry in get_TOC_dict(markdown_filenames)["entries"]:
         filename = entry["filename"]
-        xhtml = entry["xhtml"]
         titles = ". ".join(entry["titles"])
+        link = "#" + entry["titles"][0].replace(" ","-").lower()
         if filename.startswith("CHAPTER"):
-            all_md += """* [{}]({}).""".format(titles,xhtml)
+            all_md += """* [{}]({}).""".format(titles,link)
         else:
-            all_md += """* [*{}*]({}).""".format(titles,xhtml)
+            all_md += """* [*{}*]({}).""".format(titles,link)
         subtitles = entry["subtitles"]
         for subtitle in subtitles:
             all_md += """ {}.""".format(titlecase(subtitle.lower()))
@@ -276,6 +278,24 @@ def get_chapter_TOC_TXT(markdown_filenames):
             all_txt += """ {}.""".format(titlecase(subtitle.lower()))
         all_txt += """\n"""
     return all_txt
+
+def get_chapter_TOC_XML(markdown_filenames, css_filenames):
+    all_md = """# CONTENTS\n"""
+    all_md += """\n"""
+    all_md += """* [*Cover*](titlepage.xhtml).\n"""
+    for entry in get_TOC_dict(markdown_filenames)["entries"]:
+        filename = entry["filename"]
+        xhtml = entry["xhtml"]
+        titles = ". ".join(entry["titles"])
+        if filename.startswith("CHAPTER"):
+            all_md += """* [{}]({}).""".format(titles,xhtml)
+        else:
+            all_md += """* [*{}*]({}).""".format(titles,xhtml)
+        subtitles = entry["subtitles"]
+        for subtitle in subtitles:
+            all_md += """ {}.""".format(titlecase(subtitle.lower()))
+        all_md += """\n"""
+    return get_chapter_XML(all_md, css_filenames)
 
 def get_TOC_dict(markdown_filenames):
     toc = {}
@@ -449,6 +469,29 @@ if __name__ == "__main__":
     txt_file.close()
 
     ######################################################
+    ## Now creating the md book
+    md_page_break = "\n\n\n\n--------------------\n\n\n\n"
+    md_data = ""
+    md_data += "![The Price of Remembering](book/images/cover.jpg)"
+    md_data += md_page_break
+    for i,chapter in enumerate(json_data["chapters"]):
+        chapter_md_filename = chapter["markdown"]
+        if chapter_md_filename == "Contents.md":
+            md_data += get_chapter_MD("Downloads.md").strip('\n')
+            md_data += md_page_break
+            md_data += get_chapter_TOC_MD(all_md_filenames).strip('\n')
+        else:
+            md_data += get_chapter_MD(chapter_md_filename).strip('\n')
+        md_data += md_page_break
+    md_file = open(os.path.join(build_dir, output_md), "w")
+    md_file.write(md_data)
+    md_file.close()
+    md_file = open(github_pages_index_md, "w")
+    md_file.write(md_data)
+    md_file.close()
+
+
+    ######################################################
     ## Now creating the ePUB book
 
     with zipfile.ZipFile(os.path.join(build_dir, output_epub), "w" ) as myZipFile:
@@ -479,13 +522,12 @@ if __name__ == "__main__":
             if len(chapter["css"]):
                 chapter_css_filenames.append(chapter["css"])
 
-            markdown_data = ""
+            chapter_data = ""
             if chapter_md_filename == "Contents.md":
-                markdown_data = get_chapter_TOC_MD(all_md_filenames)
+                chapter_data = get_chapter_TOC_XML(all_md_filenames, chapter_css_filenames)
             else:
                 markdown_data = get_chapter_MD(chapter_md_filename)
-
-            chapter_data = get_chapter_XML(markdown_data,chapter_css_filenames)
+                chapter_data = get_chapter_XML(markdown_data,chapter_css_filenames)
             myZipFile.writestr("OPS/s{:05d}-{}.xhtml".format(i,chapter_md_filename.split(".")[0]),
                                chapter_data.encode('utf-8'),
                                zipfile.ZIP_DEFLATED)
