@@ -28,6 +28,7 @@ publish_version = """{}.{}.{}""".format(
 
 isbn = "the-price-of-remembering-v" + publish_version
 work_dir = "book"
+build_dir = "published_version"
 output_filename = """The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V{}""".format(publish_version)
 output_txt = output_filename + ".txt"
 output_epub = output_filename + ".epub"
@@ -411,6 +412,9 @@ def get_chapter_XML(markdown_data,css_filenames):
 
 if __name__ == "__main__":
     
+    if not os.path.exists(build_dir):
+      os.makedirs(build_dir)
+
     images_dir = os.path.join(work_dir, "images")
     css_dir = os.path.join(work_dir, "css")
 
@@ -440,14 +444,14 @@ if __name__ == "__main__":
             markdown_data = get_chapter_MD(chapter_md_filename)
             txt_data += get_chapter_TXT(markdown_data)
         txt_data += "\n\n\n\n"
-    txt_file = open(output_txt, "w")
+    txt_file = open(os.path.join(build_dir, output_txt), "w")
     txt_file.write(txt_data)
     txt_file.close()
 
     ######################################################
     ## Now creating the ePUB book
 
-    with zipfile.ZipFile(output_epub, "w" ) as myZipFile:
+    with zipfile.ZipFile(os.path.join(build_dir, output_epub), "w" ) as myZipFile:
 
         ## First, write the mimetype
         myZipFile.writestr("mimetype","application/epub+zip", zipfile.ZIP_DEFLATED )
