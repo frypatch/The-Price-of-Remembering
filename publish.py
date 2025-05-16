@@ -499,7 +499,7 @@ if __name__ == "__main__":
     for i,chapter in enumerate(json_data["chapters"]):
         chapter_md_filename = chapter["markdown"]
         if chapter_md_filename == "Contents.md":
-            md_data += get_chapter_MD("Downloads.md").strip('\n')
+            md_data += get_chapter_MD("Resources.md").strip('\n')
             md_data += md_page_break
             md_data += get_chapter_TOC_MD(all_md_filenames).strip('\n')
         else:
@@ -529,8 +529,8 @@ if __name__ == "__main__":
     for i,chapter in enumerate(json_data["chapters"]):
         chapter_md_filename = chapter["markdown"]
         if chapter_md_filename == "Contents.md":
-            html_data += "\n" + html_page_anchor_template.format("downloads")
-            html_data += "\n" + get_chapter_HTML(get_chapter_MD("Downloads.md"))
+            html_data += "\n" + html_page_anchor_template.format("resources")
+            html_data += "\n" + get_chapter_HTML(get_chapter_MD("Resources.md"))
             html_data += "\n<hr />"
             html_data += "\n" + html_page_anchor_template.format("contents")
             html_data += "\n" + get_chapter_TOC_HTML(all_md_filenames)
