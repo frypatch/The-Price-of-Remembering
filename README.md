@@ -50,11 +50,13 @@ I appreciate this won't be for everyone, however I offer it without obligation, 
 
 That all said, please enjoy.
 
-## DOWNLOADS
+# Resources
 
-* [EPUB](https://github.com/frypatch/The-Price-of-Remembering/releases/latest) - Latest Release
-* [PDF](https://github.com/frypatch/The-Price-of-Remembering/releases/latest) - Latest Release
-* [TXT](https://github.com/frypatch/The-Price-of-Remembering/releases/latest) - Latest Release
+* [HTML](https://frypatch.github.io/The-Price-of-Remembering/) ~ 850KB
+* [EPUB](https://github.com/frypatch/The-Price-of-Remembering/releases/latest) ~ 500KB
+* [PDF](https://github.com/frypatch/The-Price-of-Remembering/releases/latest) ~ 1.8MB
+* [TXT](https://github.com/frypatch/The-Price-of-Remembering/releases/latest) ~ 550KB
+* [Workspace](https://github.com/frypatch/The-Price-of-Remembering/)
 
 ## TABLE OF CONTENTS
 
