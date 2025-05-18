@@ -1,4 +1,5 @@
-# Resources
+# RESOURCES
+
 
 * [HTML](https://frypatch.github.io/The-Price-of-Remembering/) ~ 850KB
 * [EPUB](https://github.com/frypatch/The-Price-of-Remembering/releases/latest) ~ 500KB
