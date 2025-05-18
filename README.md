@@ -83,69 +83,69 @@ That all said, please enjoy.
 
 
 
-# CONTENTS
+## CONTENTS
 
 
-* [*Cover*](book/Cover.md).
-* [*Half Title Page*](book/Half_Title_Page).
-* [*Series Title Page*](book/Series_Title_Page).
-* [*Title Page*](book/Title_Page).
-* [*Legal Disclaimer*](book/Legal_Disclaimer).
-* [*Acknowledgements*](book/Acknowledgements).
-* [*Forward*](book/Forward).
-* [*Contents*](book/Contents).
-* [*Prologue*](book/Prologue).
-* [CHAPTER 1](book/CHAPTER_01). The Weight of Silence.
-* [CHAPTER 2](book/CHAPTER_02). The Fragile Weight of Peace.
-* [CHAPTER 3](book/CHAPTER_03). The Silent Toll.
-* [CHAPTER 4](book/CHAPTER_04). Ears in the Wind.
-* [CHAPTER 5](book/CHAPTER_05). The Art of Listening.
-* [CHAPTER 6](book/CHAPTER_06). The Breath of the Peaks.
-* [CHAPTER 7](book/CHAPTER_07). A Song Without Words.
-* [CHAPTER 8](book/CHAPTER_08). Rare Things Vanish.
-* [CHAPTER 9](book/CHAPTER_09). A Foolish Bargin.
-* [CHAPTER 10](book/CHAPTER_10). Keys to the Past.
-* [CHAPTER 11](book/CHAPTER_11). The Price We Pay.
-* [CHAPTER 12](book/CHAPTER_12). Threads Unravel.
-* [CHAPTER 13](book/CHAPTER_13). I Will Not Be Held.
-* [CHAPTER 14](book/CHAPTER_14). Name in the Wall.
-* [CHAPTER 15](book/CHAPTER_15). Missing.
-* [CHAPTER 16](book/CHAPTER_16). Interlude. By Cover of Night.
-* [CHAPTER 17](book/CHAPTER_17). Of Dancing Stones.
-* [CHAPTER 18](book/CHAPTER_18). Define Lost.
-* [CHAPTER 19](book/CHAPTER_19). Amber and Ivory.
-* [CHAPTER 20](book/CHAPTER_20). Lured Into the Current.
-* [CHAPTER 21](book/CHAPTER_21). Kaysera.
-* [CHAPTER 22](book/CHAPTER_22). Interlude. Crosscurrents.
-* [CHAPTER 23](book/CHAPTER_23). The Thread Unravels.
-* [CHAPTER 24](book/CHAPTER_24). The Whispering Quarter.
-* [CHAPTER 25](book/CHAPTER_25). Reshi.
-* [CHAPTER 26](book/CHAPTER_26). Stories We Tell Ourselves.
-* [CHAPTER 27](book/CHAPTER_27). Old Acquaintances.
-* [CHAPTER 28](book/CHAPTER_28). For the Greater Good.
-* [CHAPTER 29](book/CHAPTER_29). Lockless.
-* [CHAPTER 30](book/CHAPTER_30). Swirls in the Water.
-* [CHAPTER 31](book/CHAPTER_31). The Deceit.
-* [CHAPTER 32](book/CHAPTER_32). The Fall.
-* [CHAPTER 33](book/CHAPTER_33). The Tower.
-* [CHAPTER 34](book/CHAPTER_34). Command in the Chaos.
-* [CHAPTER 35](book/CHAPTER_35). The Price of Loyalty.
-* [CHAPTER 36](book/CHAPTER_36). Interlude. A Weight of Names.
-* [CHAPTER 37](book/CHAPTER_37). The Breath After the Fall.
-* [CHAPTER 38](book/CHAPTER_38). The Wolf and the Owl.
-* [CHAPTER 39](book/CHAPTER_39). The Weight of Shadows.
-* [CHAPTER 40](book/CHAPTER_40). Cinder.
-* [CHAPTER 41](book/CHAPTER_41). Threadbare and Boundless.
-* [CHAPTER 42](book/CHAPTER_42). Seven Words for Silence.
-* [CHAPTER 43](book/CHAPTER_43). Interlude. Out of the Chill.
-* [CHAPTER 44](book/CHAPTER_44). The Hollow Crown.
-* [CHAPTER 45](book/CHAPTER_45). Once King, Always King.
-* [CHAPTER 46](book/CHAPTER_46). The Illusion of Wholeness.
-* [CHAPTER 47](book/CHAPTER_47). The Reckoning.
-* [CHAPTER 48](book/CHAPTER_48). A Trap of Memory.
-* [CHAPTER 49](book/CHAPTER_49). To Ash All Things Return.
-* [CHAPTER 50](book/CHAPTER_50). The Proper Way.
-* [CHAPTER 51](book/CHAPTER_51). A Silence of Three Parts.
-* [*Epilogue*](book/Epilogue).
-* [*Appendix*](book/Appendix).
-* [*Notes*](book/Notes).
+* [*Cover Page*](book/Cover_Page.md).
+* [*Half Title Page*](book/Half_Title_Page.md).
+* [*Series Title Page*](book/Series_Title_Page.md).
+* [*Title Page*](book/Title_Page.md).
+* [*Legal Disclaimer*](book/Legal_Disclaimer.md).
+* [*Acknowledgements*](book/Acknowledgements.md).
+* [*Forward*](book/Forward.md).
+* [*Contents*](book/Contents.md).
+* [*Prologue*](book/Prologue.md).
+* [CHAPTER 1](book/CHAPTER_01.md). The Weight of Silence.
+* [CHAPTER 2](book/CHAPTER_02.md). The Fragile Weight of Peace.
+* [CHAPTER 3](book/CHAPTER_03.md). The Silent Toll.
+* [CHAPTER 4](book/CHAPTER_04.md). Ears in the Wind.
+* [CHAPTER 5](book/CHAPTER_05.md). The Art of Listening.
+* [CHAPTER 6](book/CHAPTER_06.md). The Breath of the Peaks.
+* [CHAPTER 7](book/CHAPTER_07.md). A Song Without Words.
+* [CHAPTER 8](book/CHAPTER_08.md). Rare Things Vanish.
+* [CHAPTER 9](book/CHAPTER_09.md). A Foolish Bargin.
+* [CHAPTER 10](book/CHAPTER_10.md). Keys to the Past.
+* [CHAPTER 11](book/CHAPTER_11.md). The Price We Pay.
+* [CHAPTER 12](book/CHAPTER_12.md). Threads Unravel.
+* [CHAPTER 13](book/CHAPTER_13.md). I Will Not Be Held.
+* [CHAPTER 14](book/CHAPTER_14.md). Name in the Wall.
+* [CHAPTER 15](book/CHAPTER_15.md). Missing.
+* [CHAPTER 16](book/CHAPTER_16.md). Interlude. By Cover of Night.
+* [CHAPTER 17](book/CHAPTER_17.md). Of Dancing Stones.
+* [CHAPTER 18](book/CHAPTER_18.md). Define Lost.
+* [CHAPTER 19](book/CHAPTER_19.md). Amber and Ivory.
+* [CHAPTER 20](book/CHAPTER_20.md). Lured Into the Current.
+* [CHAPTER 21](book/CHAPTER_21.md). Kaysera.
+* [CHAPTER 22](book/CHAPTER_22.md). Interlude. Crosscurrents.
+* [CHAPTER 23](book/CHAPTER_23.md). The Thread Unravels.
+* [CHAPTER 24](book/CHAPTER_24.md). The Whispering Quarter.
+* [CHAPTER 25](book/CHAPTER_25.md). Reshi.
+* [CHAPTER 26](book/CHAPTER_26.md). Stories We Tell Ourselves.
+* [CHAPTER 27](book/CHAPTER_27.md). Old Acquaintances.
+* [CHAPTER 28](book/CHAPTER_28.md). For the Greater Good.
+* [CHAPTER 29](book/CHAPTER_29.md). Lockless.
+* [CHAPTER 30](book/CHAPTER_30.md). Swirls in the Water.
+* [CHAPTER 31](book/CHAPTER_31.md). The Deceit.
+* [CHAPTER 32](book/CHAPTER_32.md). The Fall.
+* [CHAPTER 33](book/CHAPTER_33.md). The Tower.
+* [CHAPTER 34](book/CHAPTER_34.md). Command in the Chaos.
+* [CHAPTER 35](book/CHAPTER_35.md). The Price of Loyalty.
+* [CHAPTER 36](book/CHAPTER_36.md). Interlude. A Weight of Names.
+* [CHAPTER 37](book/CHAPTER_37.md). The Breath After the Fall.
+* [CHAPTER 38](book/CHAPTER_38.md). The Wolf and the Owl.
+* [CHAPTER 39](book/CHAPTER_39.md). The Weight of Shadows.
+* [CHAPTER 40](book/CHAPTER_40.md). Cinder.
+* [CHAPTER 41](book/CHAPTER_41.md). Threadbare and Boundless.
+* [CHAPTER 42](book/CHAPTER_42.md). Seven Words for Silence.
+* [CHAPTER 43](book/CHAPTER_43.md). Interlude. Out of the Chill.
+* [CHAPTER 44](book/CHAPTER_44.md). The Hollow Crown.
+* [CHAPTER 45](book/CHAPTER_45.md). Once King, Always King.
+* [CHAPTER 46](book/CHAPTER_46.md). The Illusion of Wholeness.
+* [CHAPTER 47](book/CHAPTER_47.md). The Reckoning.
+* [CHAPTER 48](book/CHAPTER_48.md). A Trap of Memory.
+* [CHAPTER 49](book/CHAPTER_49.md). To Ash All Things Return.
+* [CHAPTER 50](book/CHAPTER_50.md). The Proper Way.
+* [CHAPTER 51](book/CHAPTER_51.md). A Silence of Three Parts.
+* [*Epilogue*](book/Epilogue.md).
+* [*Appendix*](book/Appendix.md).
+* [*Notes*](book/Notes.md).

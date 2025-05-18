@@ -269,11 +269,11 @@ def get_chapter_TOC_MD(markdown_filenames):
 def get_chapter_TOC_README_MD(markdown_filenames):
     all_md = """# CONTENTS\n"""
     all_md += """\n\n"""
-    all_md += """* [*Cover*](book/Cover.md).\n"""
+    all_md += """* [*Cover Page*](book/Cover_Page.md).\n"""
     for entry in get_TOC_dict(markdown_filenames)["entries"]:
         filename = entry["filename"]
         titles = ". ".join(entry["titles"])
-        link = "book/" + filename
+        link = """book/{}.md""".format(filename)
         if filename.startswith("CHAPTER"):
             all_md += """* [{}]({}).""".format(titles,link)
         else:
@@ -561,7 +561,7 @@ if __name__ == "__main__":
     md_data += md_page_break
     md_data += "#" + get_chapter_MD("Resources.md").strip('\n') + "\n"
     md_data += md_page_break
-    md_data += get_chapter_TOC_README_MD(all_md_filenames).strip('\n') + "\n"
+    md_data += "#" + get_chapter_TOC_README_MD(all_md_filenames).strip('\n') + "\n"
     md_file = open(github_readme, "w")
     md_file.write(md_data)
     md_file.close()
