@@ -33,6 +33,7 @@ output_filename = """The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.T
 output_md = output_filename + ".md"
 output_txt = output_filename + ".txt"
 output_epub = output_filename + ".epub"
+github_readme = "README.md"
 github_pages_index_html = "index.html"
 
 def get_all_filenames(the_dir,extensions=[]):
@@ -249,7 +250,7 @@ def get_TOCNCX_XML(markdown_filenames):
 
 def get_chapter_TOC_MD(markdown_filenames):
     all_md = """# CONTENTS\n"""
-    all_md += """\n"""
+    all_md += """\n\n"""
     all_md += """* [*Cover*](#).\n"""
     for entry in get_TOC_dict(markdown_filenames)["entries"]:
         filename = entry["filename"]
@@ -265,6 +266,23 @@ def get_chapter_TOC_MD(markdown_filenames):
         all_md += """\n"""
     return all_md
 
+def get_chapter_TOC_README_MD(markdown_filenames):
+    all_md = """# CONTENTS\n"""
+    all_md += """\n\n"""
+    all_md += """* [*Cover Page*](book/Cover_Page.md).\n"""
+    for entry in get_TOC_dict(markdown_filenames)["entries"]:
+        filename = entry["filename"]
+        titles = ". ".join(entry["titles"])
+        link = """book/{}.md""".format(filename)
+        if filename.startswith("CHAPTER"):
+            all_md += """* [{}]({}).""".format(titles,link)
+        else:
+            all_md += """* [*{}*]({}).""".format(titles,link)
+        subtitles = entry["subtitles"]
+        for subtitle in subtitles:
+            all_md += """ {}.""".format(titlecase(subtitle.lower()))
+        all_md += """\n"""
+    return all_md
 
 def get_chapter_TOC_HTML(markdown_filenames):
     all_md = """# CONTENTS\n"""
@@ -506,6 +524,45 @@ if __name__ == "__main__":
             md_data += get_chapter_MD(chapter_md_filename).strip('\n')
         md_data += md_page_break
     md_file = open(os.path.join(build_dir, output_md), "w")
+    md_file.write(md_data)
+    md_file.close()
+
+    ######################################################
+    ## Now creating README.md
+    md_page_break = "\n\n\n\n\n"
+    md_data = ""
+    md_data += """![THE PRICE OF REMEMBERING](book/images/cover.jpg)
+
+# THE PRICE OF REMEMBERING
+
+**OR,**
+
+# THE DOORS OF STONE SPECULATIVE MUSINGS
+
+## THE KINGKILLER CHRONICLE DAY THREE
+
+**NOT PATRICK ROTHFUSS**
+
+**LATEST VERSION**
+
+## THE KINGKILLER CHRONICLE
+
+**DAY ONE: THE NAME OF THE WIND**
+
+**DAY TWO: THE WISE MAN'S FEAR**
+
+**DAY THREE: THE PRICE OF REMEMBERING**\n"""
+    md_data += md_page_break
+    md_data += "#" + get_chapter_MD("Legal_Disclaimer.md").strip('\n') + "\n"
+    md_data += md_page_break
+    md_data += "#" + get_chapter_MD("Acknowledgements.md").strip('\n') + "\n"
+    md_data += md_page_break
+    md_data += "#" + get_chapter_MD("Forward.md").strip('\n') + "\n"
+    md_data += md_page_break
+    md_data += "#" + get_chapter_MD("Resources.md").strip('\n') + "\n"
+    md_data += md_page_break
+    md_data += "#" + get_chapter_TOC_README_MD(all_md_filenames).strip('\n') + "\n"
+    md_file = open(github_readme, "w")
     md_file.write(md_data)
     md_file.close()
 
