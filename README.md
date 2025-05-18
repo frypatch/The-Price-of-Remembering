@@ -57,6 +57,7 @@ That all said, please enjoy.
 * [PDF](https://github.com/frypatch/The-Price-of-Remembering/releases/latest) ~ 1.8MB
 * [TXT](https://github.com/frypatch/The-Price-of-Remembering/releases/latest) ~ 550KB
 * [Workspace](https://github.com/frypatch/The-Price-of-Remembering/)
+* [Archive](https://web.archive.org/web/2/https://frypatch.github.io/The-Price-of-Remembering/)
 
 ## TABLE OF CONTENTS
 
