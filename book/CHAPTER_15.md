@@ -3,29 +3,31 @@
 ## MISSING.
 
 
-FOR SOMEONE ON the run, I made a wretched fugitive. My legs buckled with every step, hollow and trembling under me. The plain rags from Haven clung to my skin, torn and wet, carrying the damp, sour tang of sweat and mildew. I should have planned better—I should have rested. But planning and resting would have meant thinking, and I was doing my best to avoid thinking.  
+For someone on the run, I was a poor sort of fugitive. My legs were hollow things, trembling beneath me, threatening to betray me. The rags from Haven clung to my skin, torn and wet, heavy with the sour bite of sweat and mildew. I should have planned. I should have rested. But planning was remembering. Resting was thinking. I did everything I could to avoid both.
 
-The streets of Imre bristled with danger. Every clatter of a wagon on cobblestones, every half-glimpsed shadow cast by flickering lantern light sent my heart leaping to my throat. The city felt sharp and alive, ready to cut me down for daring to walk openly. When an overhead shutter swung closed with a snap, I flinched violently, careening sideways like a spooked horse. It was absurd. A younger, wiser version of me would have laughed at how I'd become a mirror of the madmen I thought I’d escaped.  
+The streets of Imre pressed in, bristling with danger. Every clatter of wheels and every flickering shadow sent my heart leaping into my throat. The city felt sharp and alive, waiting to cut me down for daring its streets. When a shutter snapped shut above me, I stumbled sideways like a startled colt, all legs and bone, and brittle for this world. A younger me would have laughed. Perhaps a wiser me would have done the same. Now my fear was a mirror. In its depths, I saw only the madmen I thought I’d left behind.
 
-Yet here I was, shivering and broken, standing before Simmon’s door. My knuckles hovered over the wood, hesitant. I could already imagine the rumors: *Kvothe expelled. Kvothe locked away in Haven. Kvothe, half-mad and guilty of...* What? Murder? Theft? The truth seemed worse when I couldn’t name it. I didn’t deserve Sim’s help.  
+Still, I found myself before Simmon’s door, shivering and small. My hand hovered, uncertain, my knuckles pale against dark wood. I could hear the rumors already, circling like hungry birds. Kvothe expelled. Kvothe, locked away in Haven. Kvothe, half-mad and guilty of what? Murder, perhaps. Theft, perhaps. The truth was worse, for lacking a name. I did not deserve Sim’s help. Not his kindness. Not even his pity.
 
-But I needed it.  
+But I needed it.
 
-I knocked twice. It was a feeble sound, apologetic in its rhythm.  
+I knocked twice. It was a feeble sound, apologetic in its rhythm.
 
-A pause. Then footsteps, light but deliberate, approached from within. The door creaked open just enough for a sliver of light and a single, cautious eye. That eye was Sim’s, and though the door chain held him back, his worry came through plainly. His gaze landed on me—on the tangled mess of my hair, the rags clinging to me like grave clothes, the look that must have burned itself into my face after days of living on desperation alone. His hesitation cut worse than if he’d slammed the door altogether.  
+A pause. The silence that follows when hope tries to gather its courage. Then footsteps, light and careful, carrying their own small tension across the floorboards. The door creaked open, narrow enough for a sliver of lamplight to cut the darkness, and in that narrow seam, a single cautious eye. Sim’s eye. The chain at his neck kept him half-shuttered, half-guarded, but his worry spilled through all the same. His gaze moved over me. He took in the wild tangle of my hair, the filthy rags clinging close as grave clothes, the emptiness carved into my face after too many days spent surviving on nothing but desperation. For a heartbeat, he hesitated. That small hesitation cut worse than any slammed door. Worse by far.
 
-He unlatched the chain and opened the door wider. “Kvothe,” he said, quiet and unsure. For a moment, I thought he wouldn’t let me in—but then he stepped back, pulling the door open fully. “Come in.”  
+He unlatched the chain and opened the door wider. “Kvothe,” he said, quiet and unsure. For a moment, I thought he would not let me in. Then he stepped back and pulled the door open fully. “Come in.”
 
-The warmth struck me like the sun after a cruel winter, the firelight spilling across the room painting walls and table golden. For the briefest moment, I could almost believe this was normal. That I was simply visiting an old friend. But the weight of everything crashed in on me all at once—the sleepless nights, the haunting echoes of Haven, the enormity of what I had to do. My legs buckled, and I nearly fell, catching myself against the doorframe with shaking hands.  
+The warmth struck me like the sun after a cruel winter. The firelight spilled across the room and painted the walls and table golden. For a brief moment, I could almost believe this was normal. I could almost believe I was simply visiting an old friend. But then the weight of everything crashed in on me all at once. Sleepless nights and haunting echoes of Haven pressed down on me, along with the enormity of what I had to do. My legs buckled and I nearly fell, catching myself against the doorframe with shaking hands.
 
-“Sit,” Sim said quickly, gesturing toward a chair by the fire. His tone was steady, but his brow furrowed sharply as he shut the door behind me.  
+“Sit,” Sim said quickly, gesturing toward a chair by the fire. His tone was steady, but his brow furrowed sharply as he shut the door behind me.
 
-I sank into the nearest seat, my legs trembling as though the weight of the world had finally been allowed to come crashing down on them. Sim remained standing, hands fidgeting nervously and his face tight with worry. But he didn’t speak. It was his patience that undid me.  
+I sank into the nearest seat, my legs trembling as though finally being able to shed the weight of the world. Sim remained standing, hands fidgeting nervously and his face tight with worry. But he didn’t speak. It was his patience that undid me.
 
-“I made a mess, Sim,” I said at last, my voice low and raw, more like a confession than a greeting. “I’ve done things—” My throat closed over the words before I could finish, and for a moment, I couldn’t meet his gaze. Then, with a slow, heavy breath, I began talking.  
+“I made a mess, Sim.” My voice was raw, the words closer to a confession than a greeting. “I’ve done things.” I tried to say more, but the words tangled in my throat. I could not force them out. I could not meet his eyes. For a while, there was only the silence between us.
 
-I told him everything.  
+I looked up only when I could bear it no longer. Then I began to speak, because sometimes the only way out is forward, and all that remains is the telling.
+
+I told him everything.
 
 ### * * *
 
