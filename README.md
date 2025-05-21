@@ -110,7 +110,7 @@ That all said, please enjoy.
 * [CHAPTER 13](book/CHAPTER_13.md). I Will Not Be Held.
 * [CHAPTER 14](book/CHAPTER_14.md). Name in the Wall.
 * [CHAPTER 15](book/CHAPTER_15.md). Missing.
-* [CHAPTER 16](book/CHAPTER_16.md). Interlude. By Cover of Night.
+* [CHAPTER 16](book/CHAPTER_16.md). Interlude. Omens.
 * [CHAPTER 17](book/CHAPTER_17.md). Of Dancing Stones.
 * [CHAPTER 18](book/CHAPTER_18.md). Define Lost.
 * [CHAPTER 19](book/CHAPTER_19.md). Amber and Ivory.
@@ -130,7 +130,7 @@ That all said, please enjoy.
 * [CHAPTER 33](book/CHAPTER_33.md). The Tower.
 * [CHAPTER 34](book/CHAPTER_34.md). Command in the Chaos.
 * [CHAPTER 35](book/CHAPTER_35.md). The Price of Loyalty.
-* [CHAPTER 36](book/CHAPTER_36.md). Interlude. A Weight of Names.
+* [CHAPTER 36](book/CHAPTER_36.md). Interlude. Burdens.
 * [CHAPTER 37](book/CHAPTER_37.md). The Breath After the Fall.
 * [CHAPTER 38](book/CHAPTER_38.md). The Wolf and the Owl.
 * [CHAPTER 39](book/CHAPTER_39.md). The Weight of Shadows.
