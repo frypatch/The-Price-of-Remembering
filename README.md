@@ -69,7 +69,7 @@ That all said, please enjoy.
 
 
 
-## RESOURCES
+## RESOURCES.
 
 
 * [HTML](https://frypatch.github.io/The-Price-of-Remembering/) ~ 850KB
@@ -83,7 +83,7 @@ That all said, please enjoy.
 
 
 
-## CONTENTS
+## CONTENTS.
 
 
 * [*Cover Page*](book/Cover_Page.md).
