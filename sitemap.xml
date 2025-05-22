@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://frypatch.github.io/The-Price-of-Remembering/</loc>
-    <lastmod>2025-05-22T00:57:42+00:00</lastmod>
+    <lastmod>2025-05-22T01:20:57+00:00</lastmod>
   </url>
   <url>
     <loc>https://frypatch.github.io/The-Price-of-Remembering/book/Cover_Page.html</loc>
@@ -14,7 +10,7 @@
   </url>
   <url>
     <loc>https://frypatch.github.io/The-Price-of-Remembering/book/Resources.html</loc>
-    <lastmod>2025-05-21T18:35:42+00:00</lastmod>
+    <lastmod>2025-05-22T01:06:18+00:00</lastmod>
   </url>
   <url>
     <loc>https://frypatch.github.io/The-Price-of-Remembering/book/Half_Title_Page.html</loc>
@@ -42,7 +38,7 @@
   </url>
   <url>
     <loc>https://frypatch.github.io/The-Price-of-Remembering/book/Contents.html</loc>
-    <lastmod>2025-05-22T00:57:41+00:00</lastmod>
+    <lastmod>2025-05-22T01:20:57+00:00</lastmod>
   </url>
   <url>
     <loc>https://frypatch.github.io/The-Price-of-Remembering/book/Prologue.html</loc>
