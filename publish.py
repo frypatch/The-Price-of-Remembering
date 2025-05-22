@@ -33,8 +33,10 @@ output_filename = """The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.T
 output_md = output_filename + ".md"
 output_txt = output_filename + ".txt"
 output_epub = output_filename + ".epub"
+github_book_toc_md = "Contents.md"
 github_readme = "README.md"
 github_pages_index_html = "index.html"
+github_pages_sitemap_xml = "sitemap.xml"
 
 def get_all_filenames(the_dir,extensions=[]):
     all_files = [x for x in os.listdir(the_dir)]
@@ -249,7 +251,7 @@ def get_TOCNCX_XML(markdown_filenames):
     return toc_ncx
 
 def get_chapter_TOC_MD(markdown_filenames):
-    all_md = """# CONTENTS\n"""
+    all_md = """# CONTENTS.\n"""
     all_md += """\n\n"""
     all_md += """* [*Cover*](#).\n"""
     for entry in get_TOC_dict(markdown_filenames)["entries"]:
@@ -266,8 +268,26 @@ def get_chapter_TOC_MD(markdown_filenames):
         all_md += """\n"""
     return all_md
 
+def get_chapter_TOC_GITHUB_BOOK_MD(markdown_filenames):
+    all_md = """# CONTENTS.\n"""
+    all_md += """\n\n"""
+    all_md += """* [*Cover Page*](Cover_Page.md).\n"""
+    for entry in get_TOC_dict(markdown_filenames)["entries"]:
+        filename = entry["filename"]
+        titles = ". ".join(entry["titles"])
+        link = """{}.md""".format(filename)
+        if filename.startswith("CHAPTER"):
+            all_md += """* [{}]({}).""".format(titles,link)
+        else:
+            all_md += """* [*{}*]({}).""".format(titles,link)
+        subtitles = entry["subtitles"]
+        for subtitle in subtitles:
+            all_md += """ {}.""".format(titlecase(subtitle.lower()))
+        all_md += """\n"""
+    return all_md
+
 def get_chapter_TOC_README_MD(markdown_filenames):
-    all_md = """# CONTENTS\n"""
+    all_md = """# CONTENTS.\n"""
     all_md += """\n\n"""
     all_md += """* [*Cover Page*](book/Cover_Page.md).\n"""
     for entry in get_TOC_dict(markdown_filenames)["entries"]:
@@ -285,7 +305,7 @@ def get_chapter_TOC_README_MD(markdown_filenames):
     return all_md
 
 def get_chapter_TOC_HTML(markdown_filenames):
-    all_md = """# CONTENTS\n"""
+    all_md = """# CONTENTS.\n"""
     all_md += """\n"""
     all_md += """* [*Cover*](#).\n"""
     for entry in get_TOC_dict(markdown_filenames)["entries"]:
@@ -317,7 +337,7 @@ def get_chapter_TOC_TXT(markdown_filenames):
     return all_txt
 
 def get_chapter_TOC_XML(markdown_filenames, css_filenames):
-    all_md = """# CONTENTS\n"""
+    all_md = """# CONTENTS.\n"""
     all_md += """\n"""
     all_md += """* [*Cover*](titlepage.xhtml).\n"""
     for entry in get_TOC_dict(markdown_filenames)["entries"]:
@@ -470,8 +490,37 @@ def get_chapter_XML(markdown_data,css_filenames):
 
     return all_xhtml
 
+def get_sitemap_XML(markdown_filenames):
+    ## Returns the XML sitemap data
+    lastmod = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%S%z')
+    lastmod = lastmod[:-2] + ':' + lastmod[-2:] 
+    all_xhtml = """<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">"""
+    all_xhtml += """
+  <url>
+    <loc>https://frypatch.github.io/The-Price-of-Remembering/</loc>
+    <lastmod>{}</lastmod>
+  </url>""".format(lastmod)
+    locs = ["Cover_Page", "Resources"]
+    for entry in get_TOC_dict(markdown_filenames)["entries"]:
+        locs.append(entry["filename"])
+    for loc in locs:
+        epoch_seconds = os.path.getmtime(os.path.join(work_dir, loc + ".md"))
+        lastmod = datetime.datetime.fromtimestamp(epoch_seconds, datetime.UTC).strftime('%Y-%m-%dT%H:%M:%S%z')
+        lastmod = lastmod[:-2] + ':' + lastmod[-2:]
+        all_xhtml += """
+  <url>
+    <loc>https://frypatch.github.io/The-Price-of-Remembering/book/{}.html</loc>
+    <lastmod>{}</lastmod>
+  </url>""".format(loc, lastmod)
+    all_xhtml += "\n</urlset>"
+    return all_xhtml
+
 if __name__ == "__main__":
-    
     if not os.path.exists(build_dir):
       os.makedirs(build_dir)
 
@@ -526,6 +575,12 @@ if __name__ == "__main__":
     md_file = open(os.path.join(build_dir, output_md), "w")
     md_file.write(md_data)
     md_file.close()
+
+    ######################################################
+    ## Now creating book/CONTENTS.md
+    book_toc_md_file = open(os.path.join(work_dir, github_book_toc_md), "w")
+    book_toc_md_file.write(get_chapter_TOC_GITHUB_BOOK_MD(all_md_filenames))
+    book_toc_md_file.close()
 
     ######################################################
     ## Now creating README.md
@@ -611,6 +666,11 @@ if __name__ == "__main__":
     html_file.write(html_data)
     html_file.close()
 
+    ######################################################
+    ## Now creating the sitemap
+    sitemap_file = open(github_pages_sitemap_xml, "w")
+    sitemap_file.write(get_sitemap_XML(all_md_filenames))
+    sitemap_file.close()
 
     ######################################################
     ## Now creating the ePUB book

@@ -1,11 +1,14 @@
 # CONTENTS.
 
 
-* [*Cover*](Cover_Page.md).
-* [*Title Page*](titlepage.md).
+* [*Cover Page*](Cover_Page.md).
+* [*Half Title Page*](Half_Title_Page.md).
+* [*Series Title Page*](Series_Title_Page.md).
+* [*Title Page*](Title_Page.md).
 * [*Legal Disclaimer*](Legal_Disclaimer.md).
 * [*Acknowledgements*](Acknowledgements.md).
 * [*Forward*](Forward.md).
+* [*Contents*](Contents.md).
 * [*Prologue*](Prologue.md).
 * [CHAPTER 1](CHAPTER_01.md). The Weight of Silence.
 * [CHAPTER 2](CHAPTER_02.md). The Fragile Weight of Peace.
@@ -15,24 +18,24 @@
 * [CHAPTER 6](CHAPTER_06.md). The Breath of the Peaks.
 * [CHAPTER 7](CHAPTER_07.md). A Song Without Words.
 * [CHAPTER 8](CHAPTER_08.md). Rare Things Vanish.
-* [CHAPTER 9](CHAPTER_09.md). A Foolish Bargain.
+* [CHAPTER 9](CHAPTER_09.md). A Foolish Bargin.
 * [CHAPTER 10](CHAPTER_10.md). Keys to the Past.
 * [CHAPTER 11](CHAPTER_11.md). The Price We Pay.
 * [CHAPTER 12](CHAPTER_12.md). Threads Unravel.
 * [CHAPTER 13](CHAPTER_13.md). I Will Not Be Held.
 * [CHAPTER 14](CHAPTER_14.md). Name in the Wall.
 * [CHAPTER 15](CHAPTER_15.md). Missing.
-* [CHAPTER 16](CHAPTER_16.md). Interlude. By Cover of Night.
+* [CHAPTER 16](CHAPTER_16.md). Interlude. Omens.
 * [CHAPTER 17](CHAPTER_17.md). Of Dancing Stones.
 * [CHAPTER 18](CHAPTER_18.md). Define Lost.
 * [CHAPTER 19](CHAPTER_19.md). Amber and Ivory.
-* [CHAPTER 20](CHAPTER_20.md). Lured into the Current.
+* [CHAPTER 20](CHAPTER_20.md). Lured Into the Current.
 * [CHAPTER 21](CHAPTER_21.md). Kaysera.
 * [CHAPTER 22](CHAPTER_22.md). Interlude. Crosscurrents.
 * [CHAPTER 23](CHAPTER_23.md). The Thread Unravels.
 * [CHAPTER 24](CHAPTER_24.md). The Whispering Quarter.
 * [CHAPTER 25](CHAPTER_25.md). Reshi.
-* [CHAPTER 26](CHAPTER_26.md). Stories We Tell Ourselve.
+* [CHAPTER 26](CHAPTER_26.md). Stories We Tell Ourselves.
 * [CHAPTER 27](CHAPTER_27.md). Old Acquaintances.
 * [CHAPTER 28](CHAPTER_28.md). For the Greater Good.
 * [CHAPTER 29](CHAPTER_29.md). Lockless.
@@ -42,7 +45,7 @@
 * [CHAPTER 33](CHAPTER_33.md). The Tower.
 * [CHAPTER 34](CHAPTER_34.md). Command in the Chaos.
 * [CHAPTER 35](CHAPTER_35.md). The Price of Loyalty.
-* [CHAPTER 36](CHAPTER_36.md). Interlude. A Weight of Names.
+* [CHAPTER 36](CHAPTER_36.md). Interlude. Burdens.
 * [CHAPTER 37](CHAPTER_37.md). The Breath After the Fall.
 * [CHAPTER 38](CHAPTER_38.md). The Wolf and the Owl.
 * [CHAPTER 39](CHAPTER_39.md). The Weight of Shadows.
