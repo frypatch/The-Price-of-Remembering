@@ -1,4 +1,4 @@
-# RESOURCES
+# RESOURCES.
 
 
 * [HTML](https://frypatch.github.io/The-Price-of-Remembering/) ~ 850KB
