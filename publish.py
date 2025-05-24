@@ -619,7 +619,7 @@ if __name__ == "__main__":
 
     ######################################################
     ## Now creating the html book
-    html_page_anchor_template = """<a name="{}">"""
+    html_page_anchor_template = """<a name="{}"></a>"""
     html_data = """<!DOCTYPE html>
 <html lang="en-US">
 <head>
