@@ -13,7 +13,7 @@ And so pain greeted him now with the familiar patience of an old collector. Crue
 
 He tried to rise, and failed. It was not the dramatic collapse of a stage tragedy, nor a fall worth laughter. Instead it was graceless and heavy. No one watches a man fail in private. That’s what makes it real.
 
-He sneezed. Smoke from last night lingered, the bitter tang of scorched cloth and coal. Coalsmoke is not like woodsmoke, not warm, not gentle. It is something harsher. Bitter as iron. Familiar as folly.
+He sneezed. The smoke from last night lingered, a bitter tang of scorched cloth and coal that scratched at his lungs. Coalsmoke is not like woodsmoke, not warm, not gentle. It is something harsher. Bitter as iron. Familiar as folly.
 
 He breathed. Gritted his teeth. Tried again.
 
@@ -39,7 +39,7 @@ He’d stared after it for a time before following. Listening for anything. Wait
 
 The dawn had been near when he crawled out again. Empty in the way that isn’t hunger. Hollow in the way a bell is hollow when it forgets how to sing.
 
-Another ache surfaced. Not sharp, merely insistent. Pain can be set aside. Regret will wait its turn. But nature, blunt and honest, will not be bargained with. There are some indignities an aged man cannot debate. 
+Another ache surfaced. Not sharp, merely insistent. Pain can be set aside. Regret will wait its turn. But nature, blunt and honest, will not be bargained with. There are some indignities a man cannot debate. 
 
 ### * * *
 
@@ -67,9 +67,9 @@ The common room met him with its usual silence, but this morning, the quiet had 
 
 Not the hush of early hour or unlit lamps. This silence was waiting. It clung to the space where ritual usually lived.
 
-The hearth held only ash. No firewood had been brought up from the shed. The bread board lay empty and clean. The pump hadn’t been primed. No kettle hissed on the stove.
+The hearth held only ash and no firewood had been brought up from the shed. In the kitchen, the bread board lay empty and clean. The pump hadn’t been primed, and no kettle hissed on the stove.
 
-The red-haired innkeeper paused in the doorway, seeing all of it, and did nothing.
+The red-haired innkeeper shuffled through the rooms, seeing all of it, and did nothing.
 
 Some mornings, the shape of the day came in flour-dusted fingers and kettle steam. Today, it did not.
 
@@ -101,9 +101,9 @@ He let the silence linger. His voice grew softer, more gentle.
 
 He looked toward the windows, then farther. Beyond them. Beyond the village. Beyond himself.
 
-When he spoke again, his tone had shifted, spilling into something deeper, something older. “Gather round and listen well,” he said, his words quiet but commanding. “For this is no triumphant song, no grand tale. This is a story shaped from sorrow. A tale of tragedy.”  
+When he spoke again, his tone had shifted, spilling into something deeper, something older. “Gather round and listen well,” he said, his words quiet but commanding. “For this is no triumphant song, no grand tale. This is a story shaped from sorrow. A tale of tragedy.”
 
-The words came to rest. Subtle, but colder than silence. Chronicler bent to the page, pen trembling once more into motion, and Kote, the man who hid behind that name, spoke the first true words of the day.  
+The words came to rest. Subtle, but colder than silence. Chronicler bent to the page, pen trembling once more into motion, and Kote, or at least the man who hid behind that name, spoke the first true words of the day.
 
 ### ~ ~ ~
 
