@@ -492,8 +492,7 @@ def get_chapter_XML(markdown_data,css_filenames):
 
 def get_sitemap_XML(markdown_filenames):
     ## Returns the XML sitemap data
-    lastmod = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%S%z')
-    lastmod = lastmod[:-2] + ':' + lastmod[-2:] 
+    lastmod = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d')
     all_xhtml = """<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">"""
     all_xhtml += """
@@ -506,8 +505,7 @@ def get_sitemap_XML(markdown_filenames):
         locs.append(entry["filename"])
     for loc in locs:
         epoch_seconds = os.path.getmtime(os.path.join(work_dir, loc + ".md"))
-        lastmod = datetime.datetime.fromtimestamp(epoch_seconds, datetime.UTC).strftime('%Y-%m-%dT%H:%M:%S%z')
-        lastmod = lastmod[:-2] + ':' + lastmod[-2:]
+        lastmod = datetime.datetime.fromtimestamp(epoch_seconds, datetime.UTC).strftime('%Y-%m-%d')
         all_xhtml += """
   <url>
     <loc>https://frypatch.github.io/The-Price-of-Remembering/book/{}.html</loc>
