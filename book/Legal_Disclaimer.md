@@ -1,7 +1,7 @@
 # LEGAL DISCLAIMER.
 
 
-WE, THE AUTHORS of this fan fiction, can attest that we never sought permission, or consulted with the creator of the Kingkiller Chronicles series of novels; Patrick Rothfuss. This is a fan fiction work and is in no way endorsed or affiliated with either Patrick Rothfuss or the Kingkiller Chronicles series.
+The authors of this fan fiction attest that they neither sought permission from nor consulted with Patrick Rothfuss, the creator of the Kingkiller Chronicles series. This is a fan fiction work and is in no way endorsed by or affiliated with Patrick Rothfuss or the Kingkiller Chronicles series.
 
 ### ~ ~ ~
 
