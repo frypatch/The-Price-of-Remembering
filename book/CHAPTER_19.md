@@ -17,7 +17,7 @@ Then there was Bast.
 
 Unlike the rest of us, Bast did not move as if shaking off some unseen burden. He simply stood, still and considering. His eyes drifted shut for a moment, his hands loose at his sides.
 
-Then he took a slow breath—long and deliberate. Testing.
+He drew a slow breath, careful and measured. He was testing.
 
 A small sound escaped him, something almost like amusement, almost like pleasure.
 
