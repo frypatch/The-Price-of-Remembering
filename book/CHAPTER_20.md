@@ -377,7 +377,7 @@ Her words, sharper than I expected, left me fumbling for ease. “I’ll manage,
 
 I reached for her hands, clasping them. “On my good right hand,” I said, the promise resting unevenly in the air. As she left me in the square, a shadow folding into starlight, I felt the absence of her warmth more than I cared to admit.
 
-Alone on the walk back, I stopped in an alley and began stepping through the Ketan, hoping muscle memory might calm the nervous stir within me. My movements were stiff, stuttering like a poorly tuned lute, and I faltered on “Catching Rain,” landing gracelessly on the cold cobblestones.
+Alone on the walk back, I stopped in an alley and began stepping through the Ketan, hoping muscle memory might calm the nervous stir within me. My movements were stiff, stuttering like a poorly tuned lute, and I faltered on Catching Rain, landing gracelessly on the cold cobblestones.
 
 Instead of trying a third time, I drew in a slow breath. I let the tension spill out of my body, then walked on toward home. By the time I reached the Blind Beggar, I had given myself a promise. If I managed to live through tomorrow, I would not waste another moment.
 
