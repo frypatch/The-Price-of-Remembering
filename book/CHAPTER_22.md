@@ -5,9 +5,9 @@
 ## CROSSCURRENTS.
 
 
-IN THE QUIET OF THE Waystone Inn, Kote polished the bar with slow, thoughtful strokes. Slow as sleep. Slow as memory. Behind him, the fire cracked, shadows slipping gold across the walls like thoughts he never quite chased to ground.
+A QUIET SETTLED over the Waystone Inn after that. Not the soft hush of an inn at peace, but the brittle stillness that follows a wound. The sort that lingers when the story, and the telling of it, have not quite finished with you, and you are loath to recall the ending. Kote stood and drifted to the bar. Perhaps he only meant to tidy, to keep his hands busy. But cloth in hand, his motions slowed. He polished in thoughtless, deliberate circles, letting the motion carry him away from the memory.
 
-“You made a promise,” Bast said, voice lazy as his posture but sharp around the edges. “Before the duel. You said you wouldn’t waste another moment.”
+“You made a promise,” Bast said. His voice was lazy as his posture, but sharp enough to cut through to Kote. “Before the duel. You said you wouldn’t waste another moment.”
 
 Kote didn’t look up. “I did.”
 
@@ -29,7 +29,7 @@ Bast tilted his head. “Wilem blamed you for taking twice as long to do anythin
 
 His hands stilled on the bar, the memory already unspooling.
 
-"I found her arguing with a spice merchant. She was furious. Said his cinnamon was a fraud. Claimed it tasted like sawdust steeped in regret.”
+“I found her arguing with a spice merchant. She was furious. Said his cinnamon was a fraud. Claimed it tasted like sawdust steeped in regret.”
 
 Bast barked a laugh. “That sounds more like her than anything else you’ve told me.”
 
