@@ -7,31 +7,27 @@ THE FIRST MAN spoke before weapons could be drawn.
 
 “Peace.”
 
-The word sat poorly in his mouth, like an ill-forged coin pressed into the wrong hand. His voice was rough-sewn, shaped by stone roads and cold mornings—a voice that did not beg and did not barter.
+The word sat poorly in his mouth, like an ill-forged coin pressed into the wrong hand. His voice was rough-sewn, shaped by stone roads and cold mornings. A voice that did not beg and did not barter.
 
 The others shifted around him, hands resting too close to their weapons to be coincidence. Not an open threat. Not yet.
 
-Wilem straightened ever so slightly beside me. Simmon curled his fingers in his sleeve. And Bast—Bast only sighed, as if mildly disappointed in how the evening had chosen to unfold.
+Wilem straightened ever so slightly beside me. Simmon curled his fingers in his sleeve. Bast only sighed, as if mildly disappointed in how the evening had chosen to unfold.
 
-I kept my voice measured. “And who,” I asked, “are you to claim peace?” 
+I kept my voice measured. “And who,” I asked, “are you to claim peace?”
 
-The leader exhaled through his nose—nearly an insult in any other setting. "Not me," he said. "Regent Lugosi. He would like a word."
+The leader gave a low, humorless chuckle. In another place it might have been an insult. "Not me," he said, already looking past us. "Regent Lugosi. He would like a word." 
 
-Beside me, I felt Bast shift—not in surprise, not in protest. Just listening.
+Beside me, I felt Bast shift. Not in surprise, not in protest. Just listening.
 
 I tilted my head. “Strange,” I mused. “I would’ve thought the regent’s coin was better spent on quills and couriers rather than alleyway ghosts.”
 
-That earned no reaction—typical of men used to dull insults. Instead, the leader barely moved his mouth as he murmured,
-
-“A whisper from us—to the dockworkers, the taxmen, the city watch—and I suspect a certain red-haired mercenary would find Renere suddenly… inhospitable.”
+That earned no reaction, which was typical of men well-acquainted with dull insults. Instead, the leader barely moved his mouth as he murmured, “A whisper from us to the dockworkers, the taxmen, the city watch, and I suspect a certain red-haired mercenary would find Renere suddenly unwelcome.”
 
 A quiet, polite threat. A hand pressed against my ribs, just enough to measure my breath.
 
 Renere could turn against me in an instant.
 
-We could fight. There were four of them, and four of us—though Sim and Wil barely counted, it was not impossible. But Renere didn’t kill you with daggers. It starved you of coin, smothered you under permits and whispers. It made you invisible. I didn’t need to see Bast’s face to know he shared the same thought.
-
-Fine.
+We could fight. There were four of them and four of us, though Sim and Wil barely counted, it was not impossible. But Renere did not kill you with daggers. It starved you of coin and smothered you under permits and whispers. It made you invisible. I did not need to see Bast’s face to know he carried the same thought.
 
 I smiled thinly. "Then lead the way.”
 
@@ -41,7 +37,7 @@ They led us only two streets over, which should have been a comfort. It wasn’t
 
 These streets had forgotten how to be part of the city at all.
 
-The stones were old, damp with forgotten rain. The archway narrowed above us, pulling the street into a passage the sunlight had abandoned decades ago. A single thief’s lamp flickered dimly from a rusted alcove.
+The stones were old, unkept, and slippery with algae. The archways narrowed above us, pulling the street into a passage the sunlight had abandoned decades ago. A single thief’s lamp flickered dimly from a rusted alcove.
 
 The kind of place forgotten men made use of.
 
@@ -49,15 +45,15 @@ Then we reached him.
 
 Lugosi did not wear finery. No gaudy rings. No velvet cloak pressing authority onto his frame. His coat was plain, though well-kept. His boots polished, but not new.
 
-And yet—the space had already shaped itself around him.
+And yet, the space had already shaped itself around him.
 
-“Regent Lugosi,” I greeted him with tight civility.  
+“Regent Lugosi,” I greeted him with tight civility.
 
-“Kvothe of Nowhere,” he countered with a faint, cordial bow. “Time is short, so I’ll be direct. Ariel speaks highly of you. If I’m to understand correctly, it was your doing—not the Jakis boy’s—that ensured her survival in Imre.”  
+“Kvothe of Nowhere,” he said, dipping his head in a mocking gesture that was nearly a bow. “Time presses on us, so I will be plain. Ariel has much to say in your favor. From what I hear, it was your actions, not that Jakis boy's, that kept her safe in Imre.”
 
-I hesitated, choosing my words with care. “She is dear to me, but she’s stronger than most realize. Anything I did for her was slight—second-hand clothing and scraps of help. She took care of herself.”  
+I hesitated, choosing my words with care. "She is dear to me, but she is stronger than most realize. Anything I did for her was small, just spare clothing and a handful of kindness. Truly, she took care of herself."
 
-A hint of a smile flickered on Lugosi’s lips. “That she accepted anything second-hand speaks volumes about trust,” he said, but the humor quickly faded from his voice. Though the one who returned… she’s not the Ariel I remember. Costly things, these lessons your university offers—not all paid with coin.” 
+A hint of a smile flickered on Lugosi’s lips. “That she accepted anything second-hand speaks volumes about trust,” he said. But the humor quickly faded from his voice. The one who returned is not the Ariel I remember. The lessons your university offers come at a high price, and not all of them are paid in coin.
 
 His expression sharpened. The kind of gaze that weighed men against the stones beneath them.
 
@@ -75,13 +71,13 @@ Lugosi exhaled, slow. Not amusement. Not pity. Just recognition.
 
 Lugosi only shook his head.
 
-"That doesn’t matter in Renere." His voice was even. "Facts are fluid here." 
+"That doesn’t matter in Renere." His voice was even. "Facts are fluid here."
 
 He was right. The duel had never been about justice. Or satisfaction. The court did not care for fairness. They needed a story. And I had gifted them one. A blooded Ruh, a wild thing that should have known its place.
 
-“Then why summon me here?” I asked, more sharply than I intended. 
+“Then why summon me here?” I asked, more sharply than I intended.
 
-Lugosi sighed—not out of frustration, but like a man who had predicted the weather long before the storm struck.
+Lugosi sighed. Not out of frustration, but like a man who had predicted the weather long before the storm struck.
 
 “I didn’t.”
 
@@ -91,9 +87,9 @@ He looked at me for a moment longer than was polite, as if weighing something he
 
 He glanced past me again, toward the place where the street no longer remembered its name.
 
-“Until recently, I thought I knew how to pull the strings behind the curtain,” he said. “Now I suspect someone’s unweaving the curtain itself.” 
+“Until recently, I thought I knew how to pull the strings behind the curtain,” he said. “Now I suspect someone’s unweaving the curtain itself.”
 
-His gaze flicked then—not toward me. Toward Sim.
+His gaze flicked then. Not to me, but to Sim.
 
 Sim blinked. “Me?”
 
@@ -109,7 +105,7 @@ There was a shift in Sim. A hesitation. Like something long buried had been unco
 
 He breathed once like a man about to wade into cold water. “Fine,” he murmured.
 
-Then, straighter now: “Let’s see if it still does.”
+Then, straighter now, “Let’s see if it still does.”
 
 Finally, Sim straightened, but it wasn’t pride. Not entirely.
 
@@ -119,7 +115,7 @@ He looked at Lugosi. “Let’s find out who’s right.”
 
 Lugosi measured his words now. “The situation is not so simple.”
 
-A pause. A shift. Then, given the weight of a quiet knife—
+A pause. A shift. Then, given the weight of a quiet knife.
 
 “Fascino moves against Roderick.”
 
@@ -139,23 +135,23 @@ Lugosi’s mouth pressed just slightly tighter. “He is ambitious.”
 
 Lugosi exhaled. “I’ve offered him advice. Covered his tracks. Bought him time to come back from the ledge. But mark my words—if Trenati fails, I won’t be remembered as the man who counseled restraint. I’ll be remembered as the one who lit the fire. That is how the court rewrites guilt.”
 
-A realization settled in me, slow as spilled wine soaking into cloth. If the coup failed—as most eventually did—Lugosi would hang for it, in reputation if not by rope.
+A realization settled in me, slow as spilled wine soaking into cloth. If the coup failed, as most eventually did, Lugosi would hang for it, in reputation if not by rope.
 
 Then Bast spoke.
 
-His voice was quiet. Not soft, not whispering. Just... careful.
+His voice was quiet. Not soft. Not whispering. Careful.
 
 “Whispering Quarter’s got threads tangled in that prince now.”
 
 We all turned.
 
-Bast didn’t look away from Lugosi. “*It’s not pulling him out of the world, Reshi. It’s pulling the world out of him.*”
+Bast didn’t look away from Lugosi. “It’s not pulling him out of the world, Reshi. It’s pulling the world out of him.”
 
 There was a beat of stillness. Like the air forgot how to move.
 
-Sim's forehead creased. Wilem stirred. Lugosi said nothing, but I saw the way his jaw set—not shocked, but like a man hoping someone else wouldn’t speak a truth he already feared.
+Sim's forehead creased. Wilem stirred. Lugosi held his silence, though the sharp line of his jaw told another story. He looked like a man hoping someone else wouldn’t speak a truth he already feared.
 
-Bast leaned forward, one hand loosely curled on his knee. “*You think you’re protecting him, but soon there won’t be a ‘him’ left to save.*”
+Bast leaned forward, one hand loosely curled on his knee. “You think you’re protecting him, but soon there won’t be a ‘him’ left to save.”
 
 “I know,” Lugosi said, now looking tired in a way that couldn’t be mended by sleep. “But to go to Roderick directly would be to implicate myself. Persimon here... I don’t think most know you’re back. Your name isn’t tangled in the bloody Ruh rumors, and you were raised clean of city shadows. Perhaps, if I make some delicate introductions to the right ears Persimon can at least put the Kings advisors on guard.”
 
@@ -165,19 +161,17 @@ Lugosi continued, “There is a certain Lord Veldren Alstair. He and your father
 
 "Alstair? He used to smell like ink and oranges," Sim murmured, more to himself than us. “When I was a boy, he would send me letters. Looking back, I think he was afraid our official tutor was ommiting things. Is he still at court?”
 
-“He is, and is still loyal to Roderick. Your connection to Alstair may carry weight—or nothing at all. But it's better than silence I get. And persuasion tends to work best before the city begins to burn.” Lugosi folded his hands. “If you can get his ear, perhaps—just perhaps—he can see to it that Roderick hears the truth before both Trenti and Ariel are lost.”
+“He is, and is still loyal to Roderick. Your connection to Alstair may carry weight, or nothing at all. But it's better than silence I get. And persuasion tends to work best before the city begins to burn.” Lugosi folded his hands. “If you can get his ear, perhaps he can see to it that Roderick hears the truth before both Trenti and Ariel are lost.”
 
 “Auri,” I corrected, tightly. “Not Ariel.”
 
-Lugosi merely regarded me — too polite to argue, too political to yield outright. But still, it landed.
+Lugosi merely regarded me, his manner too polite to argue and yet too political to yield outright. Still, it landed.
 
 He didn’t look away when he replied.
 
-“Roderick is no saint. But the court he holds together is a graverled spiderweb. If he falls, it collapses—a dozen little tyrannies snapping at what’s left.” 
+Roderick is no saint. But the court he keeps is a patchwork of glass, each shard brittle beneath the surface. If he falls, it collapses, and a dozen little tyrannies snap at what’s left behind.
 
-I thought of her then—not Ariel, seated at a king’s right hand, face scrubbed clean and voice folded neat as linen.
-
-Auri, who once named the stars like friends. Auri, who wore the Underthing like a second skin. Who taught me how to listen to silence. To speak without breaking something fragile.
+I thought of her then, though not as Ariel, regal and composed beside some gilded throne, her face scrubbed clean and her voice as gentle and orderly as pressed linen. I thought instead of Auri, who once named the stars like friends. Auri, who wore the Underthing like a second skin. She taught me how to listen to silence, and how to speak without breaking something fragile.
 
 I had shown her how to nod at the world without letting it devour her. That had been our secret.
 
@@ -185,13 +179,13 @@ Now she smiled in court with borrowed grace, her name stitched shut beneath silk
 
 She wasn’t a crown to win. Not a curse to break. Not a thing they could own.
 
-She was—not mine, but not theirs. Never theirs.
+She was not mine, but she was not theirs either. She was never theirs.
 
 I took in a breath. The shape of it forming in my mind.
 
-“And what about *me?*” I asked, voice careful.
+“And what about me?” I asked, keeping my voice neutral.
 
-“Careful Reshi,” Bast murmured behind me, “You might not be the knife they wanted. Just the one lying close at hand.” 
+“Careful Reshi,” Bast murmured behind me, “You might not be the knife they wanted. Just the one lying close at hand.”
 
 Lugosi’s smile was thin. "Things are dire. We can not afford to try just one thing at a time. If you have any favor left with the Maer, then go with speed to Severnth. Perhaps the Maer will come to our aid should the coup gain momentum.”
 
@@ -205,27 +199,27 @@ I took it anyway. The Maer’s court was a knife edge. And I’d be treadding it
 
 ### * * *
 
-On our way back to the inn, we passed a place that didn’t so much beckon as lean—a bar stooped low against the street, its timbers warped and crooked as a drunkard’s grin. The windows wore a fog of old smoke and older whispers, curling up to rest against the ceiling like lazy ghosts with no one left to haunt.
+On our way back to the inn, we passed a place that didn’t so much beckon as lean. A bar stooped low against the street, its timbers warped and crooked as a drunkard’s grin. The windows wore a fog of old smoke and older whispers, curling up to rest against the ceiling like lazy ghosts with no one left to haunt.
 
-We stepped inside on the kind of whim that knows just when to tug at your coat. Bast halted mid-step, eyes catching on something in the corner. A vessel sat there: all glass and brass, shaped like a chimera’s dream—tall and coiled, lit from within by slow-burning charcoal.
+We stepped inside, guided by the sort of whim that always seems to know precisely when to tug at your coat. Bast halted in mid-step, his eyes drawn to something in the corner. There sat a vessel made of glass and brass, its form twisting upward in a shape that might have been inspired by a chimera's wild imagining. It stood tall and coiled, glowing from within where slow-burning charcoal cast a gentle, restless light.
 
-“What’s that?” he asked, tilting his head like a crow watching a ring glint in the dust. 
+“What’s that?” he asked, tilting his head like a crow watching a ring glint in the dust.
 
-“A hookah,” I said, which was no real answer at all. I explained it as I always do—half truth, half poetry—speaking of water and heat, coils of smoke and flame. By the end of it, Bast’s grin stretched wide, the kind of grin a boy gets the first time he’s handed a blade. He inhaled deeply, coughed spectacularly, then laughed so bright and quick the whole bar turned to stare.  
+“A hookah,” I said. The words did not really answer the question. I explained it as I always did, weaving together half-truth and poetry. I spoke of water mingling with heat, of smoke and flame curling and coiling together. By the time I finished, Bast’s grin had grown impossibly wide. It was the kind of smile a boy wears the first time someone places a blade in his hand. He drew in a deep breath, then coughed so hard it almost seemed like a performance, and laughed so brightly and suddenly that the whole bar turned to look.
 
-“Mortals make the strangest things,” he said once he caught his breath. “These were mentioned in the *Celum Tinture,* you know. A glass heart that breathes, gifted to men by a fae who thought them too glum.”  
+“Mortals make the strangest things,” he said once he caught his breath. “These were mentioned in the ‘Celum Tinture’, you know. A glass heart that breathes, gifted to men by a fae who thought them too glum.”
 
-It was then the men at the table across the room began to mutter, their voices low and sharp as flint. The biggest of them lumbered over, his eyes flicking between the hookah and Bast’s unearthly beauty. “Pretty boy like you don’t belong here,” he growled, reaching out to shove him.  
+It was then the men at the table across the room began to mutter, their voices low and sharp as flint. The biggest of them lumbered over, his eyes flicking between the hookah and Bast’s unearthly beauty. “Pretty boys like you don’t belong here,” he growled, reaching out to shove him.
 
-I stepped between them, my voice soft, precise, and edged like a whetted blade. “It might be best if you went back to your table,” I said, looking him dead in the eye. He hesitated long enough for the others to lose their nerve and drag him away.  
+I stepped between them, my voice soft, precise, and edged like a whetted blade. “It might be best if you went back to your table,” I said, looking him dead in the eye. He hesitated long enough for the others to lose their nerve and drag him away.
 
-Later, when the quiet returned, Bast’s golden eyes turned to mine. “Thank you, Reshi,” he said, quiet but warm.  
+Later, when the quiet returned, Bast’s golden eyes turned to mine. “Thank you, Reshi,” he said, quiet but warm.
 
-“And what does that mean, then?” I asked, the word curling like the smoke between us.  
+“And what does that mean, then?” I asked, the word curling like the smoke between us.
 
-Bast’s grin turned sly as a fox’s. “It means the cleverest of clever. The perfect friend. The fucking boss.”  
+Bast’s grin turned sly as a fox’s. “It means the cleverest of clever. The perfect friend. The fucking boss.”
 
-I laughed—a true laugh, the first in what felt like days—and let the title settle onto my shoulders like a well-worn cloak.  
+I laughed, a true laugh, the first in what felt like days. I let the title settle onto my shoulders as easily as a well-worn cloak.
 
 ### ~ ~ ~
 
