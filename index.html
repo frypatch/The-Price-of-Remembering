@@ -69,7 +69,6 @@ th {
   color: white;
   font-size: 0.8em;
 }
-
 /* Big used for chapters for sudo-drop caps*/
 big {
   font-size: 1.5em;
@@ -106,11 +105,21 @@ p.no-indent {
 blockquote p {
   text-indent: 0em !important;
 }
-
+img {
+    width: 100%;
+}
+blockquote {
+    margin-left: 1em; /* Creates a left margin */
+    border-left: 3px solid; /* Adds a left border */
+    padding: 10px; /* Adds padding inside the blockquote */
+}
 body {
-    max-width: 30em;
+    max-width: 32em;
+    margin-left: auto;  
+    margin-right: auto;  
+    padding-left: 1em;  
+    padding-right: 1em;  
     font-size: 20px;
-    margin:0 auto;
     /* Better Hyphens */
     overflow-wrap: break-word;
     word-wrap: break-word;
@@ -119,14 +128,7 @@ body {
     -moz-hyphens: auto;
     hyphens: auto;
 }
-img {
-    width: 100%;
-}
-blockquote {
-    margin-left: 20px; /* Creates a left margin */
-    border-left: 3px solid; /* Adds a left border */
-    padding: 10px; /* Adds padding inside the blockquote */
-}
+/* default-palette */
 body {
   background-color: #b6ab90;
   color: black;
@@ -163,7 +165,6 @@ body {
     color: #ffd166; /* Yellow-ish for active clicks */  
   }
 }
-
 
 </style>
 <script>
