@@ -241,7 +241,7 @@ def publish_html_book():
     all_css = ""
     for css_filename in ["general", "chapter", "index"]:
         with open(os.path.join(work_dir, "css", css_filename + ".css"),"r") as some_css:
-            all_css += some_css.read() + "\n"
+            all_css += some_css.read().strip() + "\n"
     ######################################################
     ## Create HTML Book Table of contents
     toc_md = """# CONTENTS.\n"""
