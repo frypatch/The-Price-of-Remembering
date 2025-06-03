@@ -237,10 +237,17 @@ def publish_md_book():
 ##########################################################
 def publish_html_book():
     ######################################################
+    ## Create the HTML book CSS
+    all_css = ""
+    for css_filename in ["general", "chapter", "index"]:
+        with open(os.path.join(work_dir, "css", css_filename + ".css"),"r") as some_css:
+            all_css += some_css.read() + "\n"
+    ######################################################
     ## Create HTML Book Table of contents
     toc_md = """# CONTENTS.\n"""
     toc_md += """\n"""
     toc_md += """* [*Cover*](#).\n"""
+    toc_md += """* [*Settings*](#Settings).\n"""
     for entry in get_TOC_dict()["entries"]:
         filename = entry["filename"]
         titles = ". ".join(entry["titles"])
@@ -259,16 +266,39 @@ def publish_html_book():
     html_data = """<!DOCTYPE html>
 <html lang="en-US">
 <head>
-<meta charset="UTF-8">
+<meta charset="ISO-8859-1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The-Price-of-Remembering</title>
-<link rel="stylesheet" href="book/css/general.css">
-<link rel="stylesheet" href="book/css/code_styles.css">
-<link rel="stylesheet" href="book/css/chapter.css">
+<style>
+""" + all_css + """
+</style>
+<script>
+function store_palette() {
+   if (localStorage.getItem('palette') == 'night') {
+     localStorage.setItem('palette', 'day');
+   } else {
+     localStorage.setItem('palette', 'night');
+   }
+}
+function display_palette() {
+   var element = document.body;
+   var currentPalette = element.classList.contains("night-palette") ? "night" : "day"
+   var storedPalette = localStorage.getItem('palette') || 'day'
+   if (currentPalette != storedPalette) {
+     element.classList.toggle("night-palette");
+   }
+}
+</script>
 </head>
 <body>
+<script>
+    display_palette();
+</script>
 <img alt="The Price of Remembering Cover" src="book/images/cover.jpg" />
+<hr />
+<a name="Settings"></a>
+<button onclick="store_palette();display_palette();">Toggle Dark Mode</button>
 <hr />"""
     for chapter_md_filename in chapter_md_filenames():
         if chapter_md_filename == "Contents.md":
