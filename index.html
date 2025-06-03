@@ -1,16 +1,197 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-<meta charset="UTF-8">
+<meta charset="ISO-8859-1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The-Price-of-Remembering</title>
-<link rel="stylesheet" href="book/css/general.css">
-<link rel="stylesheet" href="book/css/code_styles.css">
-<link rel="stylesheet" href="book/css/chapter.css">
+<style>
+body {
+  /* in general, serif fonts are easier on the eyes to read. */
+  font-family: "Times New Roman", "Times", "Georgia", "Palatino", "Times New Roman", Caecilia, serif;
+  font-size: 1.0em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  hyphens: none;
+  margin-top: 2.0em;
+  margin-bottom: 2.0em;
+  font-variant: small-caps;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+/* By default, do not indent paragraphs. */
+p {
+  text-indent: 0;  
+}
+
+p {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+  hyphenate-after: 3;
+  hyphenate-before: 3;
+  hyphenate-lines: 2;
+  -webkit-hyphenate-after: 3;
+  -webkit-hyphenate-before: 3;
+  -webkit-hyphenate-lines: 2;
+  line-height: 1.2em;
+  margin: 1em 0em 1em 0em;
+  text-align: left;
+  orphans: 2;
+  widows: 2;
+}
+
+img {
+    max-width: 100%;
+    height: auto;      
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.5em;
+}
+td,th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+tr:nth-child(even){background-color: #f2f2f2;}
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #444444;
+  color: white;
+  font-size: 0.8em;
+}
+
+/* Big used for chapters for sudo-drop caps*/
+big {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+/* Indent all paragraphs except the first paragraph. Mobi will need class='first-para' */
+p {
+  text-indent: 1em;
+}
+h1 + p, 
+h2 + p, 
+h3 + p, 
+h4 + p, 
+h5 + p, 
+h6 + p {
+  text-indent: 0em;
+}
+
+/* Paragraph formatting. Mostly to remove space between paragraphs. */
+p {
+  margin: 0em;
+  text-align: justify;
+  text-align-last: left;
+}
+p.first-para, p.first-para-chapter, p.note-p-first {
+  text-indent: 0em; 
+}
+p.no-indent {
+  text-indent: 0em;
+}
+
+/* Never indent block-quote. */
+blockquote p {
+  text-indent: 0em !important;
+}
+
+body {
+    max-width: 30em;
+    font-size: 20px;
+    margin:0 auto;
+    /* Better Hyphens */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+}
+img {
+    width: 100%;
+}
+blockquote {
+    margin-left: 20px; /* Creates a left margin */
+    border-left: 3px solid; /* Adds a left border */
+    padding: 10px; /* Adds padding inside the blockquote */
+}
+body {
+  background-color: #b6ab90;
+  color: black;
+  a {
+    color: #174ea6; /* Deep Blue for tan backgrounds */  
+    text-decoration: underline;  
+  }
+  a:visited {  
+    color: #823173; /* Plumb for visited links */  
+  }
+  a:hover, a:focus {
+    color: #c05c21; /* Brick/Orange for active clicks */  
+    text-decoration: underline;  
+  }
+  a:active {  
+    color: #6a8019; /*  Olive green for hover/focus */  
+  }
+}
+.night-palette {
+  background-color: #21252b;
+  color: #999999;
+  a {
+    color: #4ea1ff; /* Soft blue for dark backgrounds */  
+    text-decoration: underline;  
+  }
+  a:visited {  
+    color: #9a79ff; /* Purple-ish for visited links */  
+  }
+  a:hover, a:focus {  
+    color: #90dbff; /* Light cyan for hover/focus */  
+    text-decoration: underline;  
+  }
+  a:active {  
+    color: #ffd166; /* Yellow-ish for active clicks */  
+  }
+}
+
+
+</style>
+<script>
+function store_palette() {
+   if (localStorage.getItem('palette') == 'night') {
+     localStorage.setItem('palette', 'day');
+   } else {
+     localStorage.setItem('palette', 'night');
+   }
+}
+function display_palette() {
+   var element = document.body;
+   var currentPalette = element.classList.contains("night-palette") ? "night" : "day"
+   var storedPalette = localStorage.getItem('palette') || 'day'
+   if (currentPalette != storedPalette) {
+     element.classList.toggle("night-palette");
+   }
+}
+</script>
 </head>
 <body>
+<script>
+    display_palette();
+</script>
 <img alt="The Price of Remembering Cover" src="book/images/cover.jpg" />
+<hr />
+<a name="Settings"></a>
+<button onclick="store_palette();display_palette();">Toggle Dark Mode</button>
 <hr />
 <a name="Half_Title_Page"></a>
 <h1><big>T</big>HE <big>P</big>RICE OF <big>R</big>EMEMBERING</h1>
@@ -29,7 +210,7 @@
 <h1><big>T</big>HE <big>D</big>OORS OF <big>S</big>TONE <big>S</big>PECULATIVE <big>M</big>USINGS</h1>
 <h2>THE KINGKILLER CHRONICLE DAY THREE</h2>
 <h3>NOT PATRICK ROTHFUSS</h3>
-<h3>VERSION 3.06.01</h3>
+<h3>VERSION 3.06.02</h3>
 <hr />
 <a name="Legal_Disclaimer"></a>
 <h1><big>L</big>EGAL <big>D</big>ISCLAIMER.</h1>
@@ -69,6 +250,7 @@
 <h1><big>C</big>ONTENTS.</h1>
 <ul>
 <li><a href="#"><em>Cover</em></a>.</li>
+<li><a href="#Settings"><em>Settings</em></a>.</li>
 <li><a href="#Half_Title_Page"><em>Half Title Page</em></a>.</li>
 <li><a href="#Series_Title_Page"><em>Series Title Page</em></a>.</li>
 <li><a href="#Title_Page"><em>Title Page</em></a>.</li>

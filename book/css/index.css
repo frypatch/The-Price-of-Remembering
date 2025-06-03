@@ -1,0 +1,56 @@
+body {
+    max-width: 30em;
+    font-size: 20px;
+    margin:0 auto;
+    /* Better Hyphens */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+}
+img {
+    width: 100%;
+}
+blockquote {
+    margin-left: 20px; /* Creates a left margin */
+    border-left: 3px solid; /* Adds a left border */
+    padding: 10px; /* Adds padding inside the blockquote */
+}
+body {
+  background-color: #b6ab90;
+  color: black;
+  a {
+    color: #174ea6; /* Deep Blue for tan backgrounds */  
+    text-decoration: underline;  
+  }
+  a:visited {  
+    color: #823173; /* Plumb for visited links */  
+  }
+  a:hover, a:focus {
+    color: #c05c21; /* Brick/Orange for active clicks */  
+    text-decoration: underline;  
+  }
+  a:active {  
+    color: #6a8019; /*  Olive green for hover/focus */  
+  }
+}
+.night-palette {
+  background-color: #21252b;
+  color: #999999;
+  a {
+    color: #4ea1ff; /* Soft blue for dark backgrounds */  
+    text-decoration: underline;  
+  }
+  a:visited {  
+    color: #9a79ff; /* Purple-ish for visited links */  
+  }
+  a:hover, a:focus {  
+    color: #90dbff; /* Light cyan for hover/focus */  
+    text-decoration: underline;  
+  }
+  a:active {  
+    color: #ffd166; /* Yellow-ish for active clicks */  
+  }
+}
