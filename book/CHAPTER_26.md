@@ -163,7 +163,7 @@ She said it as if it were truth. A commission, a patron, and a sonnet’s whim a
 
 But I knew.
 
-Not with certainty, though not the way I know a chord that rings true or the feel of perfect pitch under my fingers. It was a deeper sort of knowing, the quiet kind you keep tucked behind your ribs.
+Not with certainty, not the way I know a chord that rings true or the feel of perfect pitch under my fingers. It was a deeper sort of knowing, the quiet kind you keep tucked behind your ribs.
 
 She lied.
 
