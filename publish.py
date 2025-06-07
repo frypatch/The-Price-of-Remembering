@@ -343,7 +343,7 @@ function display_palette() {
 <picture>
   <source srcset="book/media/cover.avif" type="image/avif">
   <source srcset="book/images/cover.jpg" type="image/jpeg">
-  <img src="book/images/cover.jpg" alt="''' + dc_title + '''">
+  <img class="book_cover" src="book/media/cover.jpg" alt="''' + dc_title + '''">
 </picture>
 <hr />
 <a name="Settings"></a>

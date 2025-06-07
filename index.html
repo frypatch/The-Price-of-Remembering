@@ -136,8 +136,10 @@ p.no-indent {
 blockquote p {
   text-indent: 0em !important;
 }
-img {
+.book_cover {
     width: 100%;
+    max-width: 100%;
+    height: auto;
     aspect-ratio: 512/917;
 }
 blockquote {
@@ -224,7 +226,7 @@ function display_palette() {
 <picture>
   <source srcset="book/media/cover.avif" type="image/avif">
   <source srcset="book/images/cover.jpg" type="image/jpeg">
-  <img src="book/images/cover.jpg" alt="The Price of Remembering; Or, The Doors of Stone Speculative Musings: The Kingkiller Chronicle Day Three">
+  <img class="book_cover" src="book/media/cover.jpg" alt="The Price of Remembering; Or, The Doors of Stone Speculative Musings: The Kingkiller Chronicle Day Three">
 </picture>
 <hr />
 <a name="Settings"></a>
