@@ -1,4 +1,4 @@
-![THE PRICE OF REMEMBERING](book/images/cover.jpg)
+![{}](book/images/cover.jpg)
 
 # THE PRICE OF REMEMBERING
 
@@ -10,7 +10,7 @@
 
 **NOT PATRICK ROTHFUSS**
 
-**LATEST VERSION**
+**VERSION3.06.06**
 
 ## THE KINGKILLER CHRONICLE
 

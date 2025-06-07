@@ -1,5 +1,6 @@
 img {
     width: 100%;
+    aspect-ratio: 512/917;
 }
 blockquote {
     margin-left: 1em; /* Creates a left margin */
