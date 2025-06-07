@@ -1,4 +1,4 @@
-![THE PRICE OF REMEMBERING](book/images/cover.jpg)
+![The Price of Remembering; Or, The Doors of Stone Speculative Musings: The Kingkiller Chronicle Day Three](book/images/cover.jpg)
 
 # THE PRICE OF REMEMBERING
 
@@ -10,7 +10,7 @@
 
 **NOT PATRICK ROTHFUSS**
 
-**LATEST VERSION**
+**VERSION 3.06.06**
 
 ## THE KINGKILLER CHRONICLE
 

@@ -1,5 +1,8 @@
-img {
+.book_cover {
     width: 100%;
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 512/917;
 }
 blockquote {
     margin-left: 1em; /* Creates a left margin */
