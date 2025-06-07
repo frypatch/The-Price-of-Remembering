@@ -135,9 +135,9 @@ def update_md_readme():
 
 ## THE KINGKILLER CHRONICLE DAY THREE
 
-**""" + dc_creator.upper() + """**
+**{}**
 
-**VERSION""" + publish_version + """**
+**VERSION {}**
 
 ## THE KINGKILLER CHRONICLE
 
@@ -145,7 +145,7 @@ def update_md_readme():
 
 **DAY TWO: THE WISE MAN'S FEAR**
 
-**DAY THREE: THE PRICE OF REMEMBERING**\n""".format(dc_title)
+**DAY THREE: THE PRICE OF REMEMBERING**\n""".format(dc_title, dc_creator.upper(), publish_version)
     md_data += md_page_break
     md_data += "#" + get_chapter_MD("Legal_Disclaimer.md").strip('\n') + "\n"
     md_data += md_page_break
