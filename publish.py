@@ -7,6 +7,7 @@ import sys
 import json
 import re
 import datetime
+import hashlib
 
 ##########################################################
 ## mark2epub
@@ -27,9 +28,19 @@ publish_version = """{}.{}.{}""".format(
     today.year-2022, 
     str(today.month).zfill(2), 
     str(today.day).zfill(2))
-isbn = "the-price-of-remembering-v" + publish_version
-output_filename = "The.Price.of.Remembering.-.The.Kingkiller.Chronicle.-.Day.Three.-.V" + publish_version
-
+with open(os.path.join(work_dir,"description.json"),"r") as f:
+    json_metadata = json.load(f)["metadata"]
+dc_description = json_metadata["dc:description"].replace('"', '')
+dc_title = json_metadata["dc:title"].replace('"', '')
+dc_creator = json_metadata["dc:creator"].replace('"', '')
+dc_subject = json_metadata["dc:subject"].replace('"', '')
+dc_rights = json_metadata["dc:rights"].replace('"', '')
+dc_publisher = json_metadata["dc:publisher"].replace('"', '')
+dc_source = json_metadata["dc:source"]
+isbn_msg = dc_title.lower().replace('"', '').replace("'", "").replace(";", "").replace(":", "").replace(" ", "-") + "-v" + publish_version
+isbn = hashlib.sha1(isbn_msg.encode()).hexdigest()
+output_filename = dc_title.replace('"', '').replace("'", "").replace(";", "").replace(":", "").replace(" ", ".") + ".-.V" + publish_version
+website = dc_source
 
 ##########################################################
 ## called from __main__
@@ -114,7 +125,7 @@ def update_md_readme():
     ## Now creating README.md
     md_page_break = "\n\n\n\n\n"
     md_data = ""
-    md_data += """![THE PRICE OF REMEMBERING](book/images/cover.jpg)
+    md_data += """![{}](book/images/cover.jpg)
 
 # THE PRICE OF REMEMBERING
 
@@ -124,9 +135,9 @@ def update_md_readme():
 
 ## THE KINGKILLER CHRONICLE DAY THREE
 
-**NOT PATRICK ROTHFUSS**
+**{}**
 
-**LATEST VERSION**
+**VERSION {}**
 
 ## THE KINGKILLER CHRONICLE
 
@@ -134,7 +145,7 @@ def update_md_readme():
 
 **DAY TWO: THE WISE MAN'S FEAR**
 
-**DAY THREE: THE PRICE OF REMEMBERING**\n"""
+**DAY THREE: THE PRICE OF REMEMBERING**\n""".format(dc_title, dc_creator.upper(), publish_version)
     md_data += md_page_break
     md_data += "#" + get_chapter_MD("Legal_Disclaimer.md").strip('\n') + "\n"
     md_data += md_page_break
@@ -219,7 +230,7 @@ def publish_md_book():
     ## Now creating the MD book
     md_page_break = "\n\n\n\n--------------------\n\n\n\n"
     md_data = ""
-    md_data += "![The Price of Remembering](book/images/cover.jpg)"
+    md_data += """![{}](book/images/cover.jpg)""".format(dc_title)
     md_data += md_page_break
     for chapter_md_filename in chapter_md_filenames():
         if chapter_md_filename == "Contents.md":
@@ -261,17 +272,51 @@ def publish_html_book():
             toc_md += """ {}.""".format(titlecase(subtitle.lower()))
         toc_md += """\n"""
     ######################################################
+    ## Create rich snippets for Google
+    rich_snippet = '''<!-- rich snippet for an eBook -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "''' + dc_title + '''",
+  "author": {
+    "@type": "Person",
+    "name": "''' + dc_creator + '''"
+  },
+  "datePublished": "''' + publish_date + '''",
+  "description": "''' + dc_description + '''",
+  "genre": "''' + dc_subject + '''",
+  "license": "''' + dc_rights + '''",
+  "isbn": "''' + isbn + '''",
+  "publisher": {
+    "@type": "Organization",
+    "name": "''' + dc_publisher + '''"
+  },
+  "image": "''' + website + '''book/images/cover.jpg",
+  "bookFormat": "https://schema.org/EBook",
+  "offers": {
+    "@type": "Offer",
+    "url": "''' + website + '''",
+    "price": "0.00",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}
+</script>'''
+    ######################################################
     ## Now creating the HTML book
     html_page_anchor_template = """<a name="{}"></a>"""
-    html_data = """<!DOCTYPE html>
+    html_data = '''<!DOCTYPE html>
 <html lang="en-US">
 <head>
 <meta charset="ISO-8859-1">
+<title>'''+ dc_title + '''</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>The-Price-of-Remembering</title>
+<meta name="description" content="''' + dc_description + '''">
+''' + rich_snippet + '''
 <style>
-""" + all_css + """
+''' + all_css + '''
 </style>
 <script>
 function store_palette() {
@@ -295,11 +340,15 @@ function display_palette() {
 <script>
     display_palette();
 </script>
-<img alt="The Price of Remembering Cover" src="book/images/cover.jpg" />
+<picture>
+  <source srcset="book/media/cover.avif" type="image/avif">
+  <source srcset="book/images/cover.jpg" type="image/jpeg">
+  <img class="book_cover" src="book/media/cover.jpg" alt="''' + dc_title + '''">
+</picture>
 <hr />
 <a name="Settings"></a>
 <button onclick="store_palette();display_palette();">Toggle Dark Mode</button>
-<hr />"""
+<hr />'''
     for chapter_md_filename in chapter_md_filenames():
         if chapter_md_filename == "Contents.md":
             html_data += "\n" + html_page_anchor_template.format("resources")
@@ -769,9 +818,9 @@ def get_sitemap_XML():
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">"""
     all_xhtml += """
   <url>
-    <loc>https://frypatch.github.io/The-Price-of-Remembering/</loc>
+    <loc>{}</loc>
     <lastmod>{}</lastmod>
-  </url>""".format(lastmod)
+  </url>""".format(website, lastmod)
     locs = ["Cover_Page", "Resources"]
     for entry in get_TOC_dict()["entries"]:
         locs.append(entry["filename"])
@@ -780,9 +829,9 @@ def get_sitemap_XML():
         lastmod = datetime.datetime.fromtimestamp(epoch_seconds, datetime.UTC).strftime('%Y-%m-%d')
         all_xhtml += """
   <url>
-    <loc>https://frypatch.github.io/The-Price-of-Remembering/book/{}.html</loc>
+    <loc>{}{}/{}.html</loc>
     <lastmod>{}</lastmod>
-  </url>""".format(loc, lastmod)
+  </url>""".format(website, work_dir, loc, lastmod)
     all_xhtml += "\n</urlset>"
     return all_xhtml
 
