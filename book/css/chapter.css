@@ -3,20 +3,10 @@ big {
   font-size: 1.5em;
   font-weight: bold;
 }
-
 /* Indent all paragraphs except the first paragraph. Mobi will need class='first-para' */
 p {
   text-indent: 1em;
 }
-h1 + p, 
-h2 + p, 
-h3 + p, 
-h4 + p, 
-h5 + p, 
-h6 + p {
-  text-indent: 0em;
-}
-
 /* Paragraph formatting. Mostly to remove space between paragraphs. */
 p {
   margin: 0em;
@@ -29,7 +19,6 @@ p.first-para, p.first-para-chapter, p.note-p-first {
 p.no-indent {
   text-indent: 0em;
 }
-
 /* Never indent block-quote. */
 blockquote p {
   text-indent: 0em !important;
