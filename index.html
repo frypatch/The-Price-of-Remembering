@@ -16,11 +16,11 @@
     "@type": "Person",
     "name": "Not Patrick Rothfuss"
   },
-  "datePublished": "2025-06-06",
+  "datePublished": "2025-06-10",
   "description": "Calling all 'Old Knowers' and 'Proud Dreamers'. This speculative companion explores potential conclusions to Patrick Rothfuss's Kingkiller Chronicle trilogy. Enjoy this concise, theory-driven version of The Doors of Stone which resolves major plot-lines while staying respectful to the established narrative.",
   "genre": "Fan Fiction, Fan Theories, Literary Criticism, Alternate Endings, Speculative Fiction, Fantasy, Epic Fantasy, Fantasy Series, Pop Culture Commentary, The Kingkiller Chronicle, Patrick Rothfuss, The Doors of Stone (Speculative)",
   "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-  "isbn": "88f08ff73f345b93b696c022a02df6c7056194fb",
+  "isbn": "aecac9241ef0716058c68fd8908d7481bf6b4ccf",
   "publisher": {
     "@type": "Organization",
     "name": "frypatch"
@@ -64,9 +64,7 @@ p {
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
   hyphens: auto;
-  hyphenate-after: 3;
-  hyphenate-before: 3;
-  hyphenate-lines: 2;
+  hyphenate-limit-chars: 6 3 3; /* Hyphenate words with 6 or more characters, with at least 3 characters before and 3 after the hyphen. */
   -webkit-hyphenate-after: 3;
   -webkit-hyphenate-before: 3;
   -webkit-hyphenate-lines: 2;
@@ -105,20 +103,10 @@ big {
   font-size: 1.5em;
   font-weight: bold;
 }
-
 /* Indent all paragraphs except the first paragraph. Mobi will need class='first-para' */
 p {
   text-indent: 1em;
 }
-h1 + p, 
-h2 + p, 
-h3 + p, 
-h4 + p, 
-h5 + p, 
-h6 + p {
-  text-indent: 0em;
-}
-
 /* Paragraph formatting. Mostly to remove space between paragraphs. */
 p {
   margin: 0em;
@@ -131,73 +119,76 @@ p.first-para, p.first-para-chapter, p.note-p-first {
 p.no-indent {
   text-indent: 0em;
 }
-
 /* Never indent block-quote. */
 blockquote p {
   text-indent: 0em !important;
 }
 .book_cover {
-    width: 100%;
-    max-width: 100%;
-    height: auto;
     aspect-ratio: 512/917;
+    height: auto;
+    max-width: 100%;
+    width: 100%;
 }
 blockquote {
-    margin-left: 1em; /* Creates a left margin */
     border-left: 3px solid; /* Adds a left border */
+    margin-left: 1em; /* Creates a left margin */
     padding: 10px; /* Adds padding inside the blockquote */
 }
 body {
-    max-width: 32em;
-    margin-left: auto;  
-    margin-right: auto;  
-    padding-left: 1em;  
-    padding-right: 1em;  
     font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 32em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+body {
     /* Better Hyphens */
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
     overflow-wrap: break-word;
     word-wrap: break-word;
-    -webkit-hyphens: auto;
-    -ms-hyphens: auto;
-    -moz-hyphens: auto;
-    hyphens: auto;
 }
 /* default-palette */
 body {
   background-color: #b6ab90;
   color: black;
-  a {
-    color: #174ea6; /* Deep Blue for tan backgrounds */  
-    text-decoration: underline;  
-  }
-  a:visited {  
-    color: #823173; /* Plumb for visited links */  
-  }
-  a:hover, a:focus {
-    color: #c05c21; /* Brick/Orange for active clicks */  
-    text-decoration: underline;  
-  }
-  a:active {  
-    color: #6a8019; /*  Olive green for hover/focus */  
-  }
 }
+body a:link {
+  color: #174ea6; /* Deep Blue for tan backgrounds */  
+  text-decoration: underline;  
+}
+body a:visited {  
+  color: #823173; /* Plumb for visited links */  
+}
+body a:hover, a:focus {
+  color: #c05c21; /* Brick/Orange for active clicks */  
+  text-decoration: underline;  
+}
+body a:active {  
+  color: #6a8019; /*  Olive green for hover/focus */  
+}
+/* night-palette */
 .night-palette {
   background-color: #21252b;
   color: #999999;
-  a {
-    color: #4ea1ff; /* Soft blue for dark backgrounds */  
-    text-decoration: underline;  
-  }
-  a:visited {  
-    color: #9a79ff; /* Purple-ish for visited links */  
-  }
-  a:hover, a:focus {  
-    color: #90dbff; /* Light cyan for hover/focus */  
-    text-decoration: underline;  
-  }
-  a:active {  
-    color: #ffd166; /* Yellow-ish for active clicks */  
-  }
+}
+.night-palette a:link {
+  color: #4ea1ff; /* Soft blue for dark backgrounds */  
+  text-decoration: underline;  
+}
+.night-palette a:visited {  
+  color: #9a79ff; /* Purple-ish for visited links */  
+}
+.night-palette a:hover, a:focus {  
+  color: #90dbff; /* Light cyan for hover/focus */  
+  text-decoration: underline;  
+}
+.night-palette a:active {  
+  color: #ffd166; /* Yellow-ish for active clicks */  
 }
 
 </style>
@@ -223,10 +214,11 @@ function display_palette() {
 <script>
     display_palette();
 </script>
+<a name="Cover"></a>
 <picture>
-  <source srcset="book/media/cover.avif" type="image/avif">
-  <source srcset="book/images/cover.jpg" type="image/jpeg">
-  <img class="book_cover" src="book/media/cover.jpg" alt="The Price of Remembering; Or, The Doors of Stone Speculative Musings: The Kingkiller Chronicle Day Three">
+  <source srcset="https://frypatch.github.io/The-Price-of-Remembering/book/media/cover.avif" type="image/avif">
+  <source srcset="https://frypatch.github.io/The-Price-of-Remembering/book/images/cover.jpg" type="image/jpeg">
+  <img class="book_cover" src="https://frypatch.github.io/The-Price-of-Remembering/book/media/cover.png" alt="Cover">
 </picture>
 <hr />
 <a name="Settings"></a>
@@ -234,29 +226,29 @@ function display_palette() {
 <hr />
 <a name="Half_Title_Page"></a>
 <h1><big>T</big>HE <big>P</big>RICE OF <big>R</big>EMEMBERING</h1>
-<h2>OR,</h2>
+<h3>OR,</h3>
 <h1><big>T</big>HE <big>D</big>OORS OF <big>S</big>TONE <big>S</big>PECULATIVE <big>M</big>USINGS</h1>
 <hr />
 <a name="Series_Title_Page"></a>
 <h1><big>T</big>HE <big>K</big>INGKILLRR <big>C</big>HRONICLE</h1>
-<h2>DAY ONE: THE NAME OF THE WIND</h2>
-<h2>DAY TWO: THE WISE MAN'S FEAR</h2>
-<h2>DAY THREE: THE PRICE OF REMEMBERING</h2>
+<h3>DAY ONE: THE NAME OF THE WIND</h3>
+<h3>DAY TWO: THE WISE MAN'S FEAR</h3>
+<h3>DAY THREE: THE PRICE OF REMEMBERING</h3>
 <hr />
 <a name="Title_Page"></a>
 <h1><big>T</big>HE <big>P</big>RICE OF <big>R</big>EMEMBERING</h1>
-<h2>OR,</h2>
+<h3>OR,</h3>
 <h1><big>T</big>HE <big>D</big>OORS OF <big>S</big>TONE <big>S</big>PECULATIVE <big>M</big>USINGS</h1>
-<h2>THE KINGKILLER CHRONICLE DAY THREE</h2>
+<h3>THE KINGKILLER CHRONICLE DAY THREE</h3>
 <h3>NOT PATRICK ROTHFUSS</h3>
-<h3>VERSION 3.06.06</h3>
+<h3>VERSION 3.06.10</h3>
 <hr />
 <a name="Legal_Disclaimer"></a>
 <h1><big>L</big>EGAL <big>D</big>ISCLAIMER.</h1>
 <p>The authors of this fan fiction attest that they neither sought permission from nor consulted with Patrick Rothfuss, the creator of the Kingkiller Chronicles series. This is a fan fiction work and is in no way endorsed by or affiliated with Patrick Rothfuss or the Kingkiller Chronicles series.</p>
 <hr />
 <a name="Acknowledgements"></a>
-<h1><big>A</big>CKNOWLEDGEMENTS.</h1>
+<h1 class='chapter_title'><big>A</big>CKNOWLEDGEMENTS.</h1>
 <blockquote>
 <p>"We are like dwarfs on the shoulders of giants, so that we can see more than they, and things at a greater distance, not by virtue of any sharpness of sight on our part, or any physical distinction, but because we are carried high and raised up by their giant size." - Bernard de Chartres.</p>
 </blockquote>
@@ -266,7 +258,7 @@ function display_palette() {
 <p>And last, let me thank all the quiet transcribers, those patient souls who listen and set words in careful rows. Hours of interviews and stories distilled into a card catalogue so that their secrets might be found and plucked from the shadows. Audio is a bramble, full of thorns and snags, but you gave me a lantern to see by, a path where before was only dark.</p>
 <hr />
 <a name="Forward"></a>
-<h1><big>F</big>ORWARD.</h1>
+<h1 class='chapter_title'><big>F</big>ORWARD.</h1>
 <p>Welcome fellow &lsquo;Old Knowers&rsquo; and &lsquo;Proud Dreamers&rsquo;. As an exercise I thought it might be interesting to try piecing together some of the prevailing book 3 theories together into a cut down version of what we may potentially get. Let me preface this by saying that this interpretation is unquestionably going to deviate, on many, if not all accounts from what I imagine will be Pat&rsquo;s final version. At present I don&rsquo;t believe there is sufficient information to truly piece The Doors of Stone together in its entirety, that doesn&rsquo;t mean however it&rsquo;s not worth trying. After so many years, it&rsquo;s unlikely the fanbase would be able to settle on any one specific conclusion, a problem Pat himself will likely run into eventually, with that in mind, though it should go without saying, this is merely an ending, not the ending. It's also worth noting, given the considerably shorter length this will lack a lot of the intricacy and nuance that are the hallmarks of the series, and though there is potential to expand, it's worth gleaning community feedback first.</p>
 <p>Though Kvothe states that stories seldom take the straightest way, for this fan version I&rsquo;ve attempted to be as forthright as possible, employing as little artistic license as I can, using only what we can logically surmise from the existing books, Interviews, and other official media, in combination with some of the more accepted fan favourite theories developed over the years. The idea being to resolve as many plot threads as possible, whilst delivering as satisfying a conclusion to what&rsquo;s already been established as I can. For the areas where I&rsquo;ve been forced to fill in the gaps with original elements I&rsquo;ve tried to do so in a limited and respectful manner.</p>
 <p>My hope with this endeavor other than to entertain is that members of the community will consider the broader implications of theories posed, and that, like Kvothe when attempting to understand the Lethani, we can somehow pull the answers from within ourselves :)</p>
@@ -275,7 +267,7 @@ function display_palette() {
 <p>That all said, please enjoy.</p>
 <hr />
 <a name="resources"></a>
-<h1><big>R</big>ESOURCES.</h1>
+<h1 class='chapter_title'><big>R</big>ESOURCES.</h1>
 <ul>
 <li><a href="https://frypatch.github.io/The-Price-of-Remembering/">HTML</a> ~ 850KB</li>
 <li><a href="https://github.com/frypatch/The-Price-of-Remembering/releases/latest">EPUB</a> ~ 500KB</li>
@@ -286,7 +278,7 @@ function display_palette() {
 </ul>
 <hr />
 <a name="contents"></a>
-<h1><big>C</big>ONTENTS.</h1>
+<h1 class='chapter_title'><big>C</big>ONTENTS.</h1>
 <ul>
 <li><a href="#"><em>Cover</em></a>.</li>
 <li><a href="#Settings"><em>Settings</em></a>.</li>
@@ -356,9 +348,9 @@ function display_palette() {
 <main>
 <hr />
 <a name="Prologue"></a>
-<h1><big>P</big>ROLOGUE.</h1>
-<h2>A SILENCE OF THREE PARTS.</h2>
-<p><big>N</big>IGHT HAD SETTLED OVER Newarre, and the Waystone Inn lay in silence, a silence of three parts.</p>
+<h1 class='chapter_title'><big>P</big>ROLOGUE.</h1>
+<h2 class='chapter_subtitle'>A SILENCE OF THREE PARTS.</h2>
+<p class='no-indent'><big>N</big>IGHT HAD SETTLED OVER Newarre, and the Waystone Inn lay in silence, a silence of three parts.</p>
 <p>The first was an absence, hollow and wide. Doors stayed shut. Windows slept dark. No crackle of kindling stirred hearths, no footsteps brushed dew from the grass. If there had been music, there would have been some measure of comfort. But, there was no music. And so the silence lingered, caught in the spaces where life could have been.</p>
 <p>In the inn&rsquo;s basement, the second silence curled sharp and anxious. Coals in a small forge glowed faintly, their heat fading into whispers of orange light. Tools lay scattered on a workbench, the tongs still tipped with blackened soot and the copper chisel tarnished green. Nearby, acid stained the stone. It hissed as it ate its way inward. Its soft and steady whisper adding tension to the stillness. This wasn't the silence of peace. This was the silence of effort begun and abandoned.</p>
 <p>The third silence wrapped around the inn itself, heavy and unmoving. It crept into the locks that were turned tight and lingered in stones that drank more sound than they should. Upstairs, it burdened the man who slowly undressed by the dim light of a single candle.</p>
@@ -367,9 +359,9 @@ function display_palette() {
 <p>And so the Waystone lay still. The silence waited on him.</p>
 <hr />
 <a name="CHAPTER_01"></a>
-<h1><big>C</big>HAPTER 1.</h1>
-<h2>THE WEIGHT OF SILENCE.</h2>
-<p><big>M</big>ORNING CREPT INTO THE Waystone Inn. It did not rush. It came on quiet feet, as if ashamed to wake what darkness might still be dreaming. It pooled in the corners, thin as old regret, gathering where the stones cracked, settling in the bones where ache begins and numbness ends.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 1.</h1>
+<h2 class='chapter_subtitle'>THE WEIGHT OF SILENCE.</h2>
+<p class='no-indent'><big>M</big>ORNING CREPT INTO THE Waystone Inn. It did not rush. It came on quiet feet, as if ashamed to wake what darkness might still be dreaming. It pooled in the corners, thin as old regret, gathering where the stones cracked, settling in the bones where ache begins and numbness ends.</p>
 <p>The red-haired innkeeper lay still, counting his breaths. A pain pulsed through his ribs, waiting for movement before deciding if it was real. Deeper, joints murmured their old complaints, and not all their muttering was from yesterday&rsquo;s beating. He had been many things in his life, quick and clever and more, but today he was simply sore.</p>
 <p>Yesterday, he&rsquo;d run on borrowed strength. He'd swept the floor and served supper on the back of adrenaline. For Bast. For Chronicler. For the memory of himself. But stamina keeps its own ledger and the reckoning always arrives.</p>
 <p>And so pain greeted him now with the familiar patience of an old collector. Cruel. Exacting. Thorough. </p>
@@ -422,9 +414,9 @@ function display_palette() {
 <p>The words came to rest. Subtle, but colder than silence. Chronicler bent to the page, pen trembling once more into motion, and Kote, or at least the man who hid behind that name, spoke the first true words of the day.</p>
 <hr />
 <a name="CHAPTER_02"></a>
-<h1><big>C</big>HAPTER 2.</h1>
-<h2>THE FRAGILE WEIGHT OF PEACE.</h2>
-<p><big>F</big>OR THE FIRST TIME since the road swallowed my family and spat me into its dust, I found peace. Not the brittle kind that vanishes with the slightest breath, but something richer and heavier. The Maer&rsquo;s coin had loosened the tight, strangling fingers of debt around my throat. My deal with Riem had let me breathe easier still. Together, they made the world feel almost manageable.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 2.</h1>
+<h2 class='chapter_subtitle'>THE FRAGILE WEIGHT OF PEACE.</h2>
+<p class='no-indent'><big>F</big>OR THE FIRST TIME since the road swallowed my family and spat me into its dust, I found peace. Not the brittle kind that vanishes with the slightest breath, but something richer and heavier. The Maer&rsquo;s coin had loosened the tight, strangling fingers of debt around my throat. My deal with Riem had let me breathe easier still. Together, they made the world feel almost manageable.</p>
 <p>This is what peace looked like. Mornings heavy with the scent of ink and parchment. Afternoons caught in tangled chords and experimental rhythms. Evenings thick with honey-gold light and silken laughter. I studied. I played music that made the heart rise and falter. I charmed women whose fire matched my own. Time felt like water cupped in my hands, precious and fleeting.</p>
 <p>But I was young, and youth burns like kindling. It does not plan nor ask questions. I thought myself clever, brilliant even. I believed I could shape the world to my will, one turn of brass and one twist of wire at a time. And that unbridled confidence, as with so many stories, is how &ldquo;The Stainless&rdquo; was born.</p>
 <h3>* * *</h3>
@@ -467,9 +459,9 @@ function display_palette() {
 <p>The world rarely grants peace without a cost. And even then, the toll is never paid up front but instead settles on you slowly, like ash after a far-off fire.</p>
 <hr />
 <a name="CHAPTER_03"></a>
-<h1><big>C</big>HAPTER 3.</h1>
-<h2>THE SILENT TOLL.</h2>
-<p><big>T</big>HE ARCHIVES BREATHED around me, quiet and heavy.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 3.</h1>
+<h2 class='chapter_subtitle'>THE SILENT TOLL.</h2>
+<p class='no-indent'><big>T</big>HE ARCHIVES BREATHED around me, quiet and heavy.</p>
 <p>I had claimed a narrow table beneath an arched window, where the light of last bell spilled through old glass like liquid amber. It wasn&rsquo;t warm. Not really. But it had the suggestion of warmth, the way the word home might rest on your tongue even when the fire&rsquo;s gone out.</p>
 <p>Around me, I built a small fortress of books. "Numbered Names." "Feyda&rsquo;s Legacy." "Child-Charms of the Western Vale." "Hashar&rsquo;s Curtain." Each one a brick, placed carefully, lovingly. A scholar might have called it comparative research. A sympathist might have said I was drawing lines, looking for patterns. But the truth was simpler, I was chasing shadows. Shadows wearing old names. </p>
 <p>I was three pages deep into "Numbered Names", working my way through a tangled verse of Mid-Shaldaic couplets, when Ambrose Jakis stepped into view. His robes were a bright Vintish red that did nothing to flatter the smug tilt of his lips and his hair was swept back with such deliberation it looked like it cost gold. His scent arrived before he did, cloying with rose oil and a hint of whatever powder arrogance is made from.</p>
@@ -610,9 +602,9 @@ function display_palette() {
 <p>Wil groaned. &ldquo;This is going to end well. So very well.&rdquo;</p>
 <hr />
 <a name="CHAPTER_04"></a>
-<h1><big>C</big>HAPTER 4.</h1>
-<h2>EARS IN THE WIND.</h2>
-<p><big>I</big> DID NOT KNOW WHAT I expected to find in the Chancellor&rsquo;s gram. Only that Mola had called it off-key, broken in a way she could not name. I needed help, something unorthodox. Eyes that might see what hers had missed. Ears attuned to secrets strung quiet and strange, humming just beneath the surface.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 4.</h1>
+<h2 class='chapter_subtitle'>EARS IN THE WIND.</h2>
+<p class='no-indent'><big>I</big> DID NOT KNOW WHAT I expected to find in the Chancellor&rsquo;s gram. Only that Mola had called it off-key, broken in a way she could not name. I needed help, something unorthodox. Eyes that might see what hers had missed. Ears attuned to secrets strung quiet and strange, humming just beneath the surface.</p>
 <p>And so, my feet carried me to Devi's door. I hadn&rsquo;t even knocked twice before she opened it.</p>
 <p>"Kvothe. Always a delight." She said, her smile already half a dare. "Have you come to lose more of your rare and celebrated dignity? Or merely to bask in my natural radiance?"</p>
 <p>&ldquo;Neither,&rdquo; I said, stepping inside as the cinnamon warmth curled around my boots. &ldquo;Though if you're offering radiance, I'll take a double helping.&rdquo;</p>
@@ -677,9 +669,9 @@ function display_palette() {
 <p>What I know is this. I spent long nights awake, staring at the ceiling, chasing the thought. Wondering if I might have found it sooner. If I had tugged at the thread before it knotted. If it would have made a difference. If it would have mattered.</p>
 <hr />
 <a name="CHAPTER_05"></a>
-<h1><big>C</big>HAPTER 5.</h1>
-<h2>THE ART OF LISTENING.</h2>
-<p><big>I</big> LINGERED OUTSIDE THE Archives after the trial. I hadn&rsquo;t meant to. My feet found their way there, tracing old steps, following a thread I could not see. The quiet hung around me, heavy and damp, like wool soaked through with rain. Each breath pressed down against my chest. Thick. Close. The walls leaned in and tightened the space, taking the easy air and leaving only the weight behind.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 5.</h1>
+<h2 class='chapter_subtitle'>THE ART OF LISTENING.</h2>
+<p class='no-indent'><big>I</big> LINGERED OUTSIDE THE Archives after the trial. I hadn&rsquo;t meant to. My feet found their way there, tracing old steps, following a thread I could not see. The quiet hung around me, heavy and damp, like wool soaked through with rain. Each breath pressed down against my chest. Thick. Close. The walls leaned in and tightened the space, taking the easy air and leaving only the weight behind.</p>
 <p>Somewhere, a bell called out. Its voice came soft and distant, blurred by stone and the stretch of empty halls.</p>
 <p>Silence settled over me and refused to leave. It pressed close and closer still. It pressed out the world, the questions that had no answers, the frayed places in my memory, the guilt that clung like a second skin. Silence smothered it all, leaving nothing but its own cold comfort.</p>
 <p>&ldquo;You&rsquo;ve been thinking too loud.&rdquo;</p>
@@ -725,9 +717,9 @@ function display_palette() {
 <p>I barely heard him. I was still caught in the moment before, held captive by the raw and fragile truth of what I&rsquo;d just touched. It wasn&rsquo;t just a moment or a trick. It was proof that I had crossed some invisible line.</p>
 <hr />
 <a name="CHAPTER_06"></a>
-<h1><big>C</big>HAPTER 6.</h1>
-<h2>THE BREATH OF THE PEAKS.</h2>
-<p><big>T</big>HE HUM OF VOICES and the clinking of tankards seeped upward from the packed common room at Anker&rsquo;s, muffled but steady, like the pulse of a living thing. It was a sound I should have been part of, thickening the air with chords from my lute, stoking laughter with stories. Instead, I sat on the edge of my narrow bed, staring at the pack I had thrown together in no more than ten minutes.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 6.</h1>
+<h2 class='chapter_subtitle'>THE BREATH OF THE PEAKS.</h2>
+<p class='no-indent'><big>T</big>HE HUM OF VOICES and the clinking of tankards seeped upward from the packed common room at Anker&rsquo;s, muffled but steady, like the pulse of a living thing. It was a sound I should have been part of, thickening the air with chords from my lute, stoking laughter with stories. Instead, I sat on the edge of my narrow bed, staring at the pack I had thrown together in no more than ten minutes.</p>
 <p>The bag was simple. Too simple, perhaps, for everything I meant to do. Inside, a waterskin, a loaf of bread gone dry at the edges, a tightly rolled blanket. And my lute in its case, strapped to the side. It looked at me, silent. Disapproving.</p>
 <p>I hesitated. The air hung heavy in the room, thick with the stale tang of ale and old wood.  </p>
 <p>It was foolish. I knew that. Irresponsible, maybe even dangerous. But another voice answered, softer than a secret, sharper than a knife. When has that ever stopped you?</p>
@@ -788,9 +780,9 @@ function display_palette() {
 <p>Her laughter echoed briefly before fading into the stillness. When at last her movements slowed and my music trailed off, she collapsed into a heap of soft blue cloak and tangled golden hair, grinning up at me as though she&rsquo;d captured the sky itself.  </p>
 <hr />
 <a name="CHAPTER_07"></a>
-<h1><big>C</big>HAPTER 7.</h1>
-<h2>A SONG WITHOUT WORDS.</h2>
-<p><big>T</big>HE NEWS ARRIVED QUIETLY at first, like the faint rumble of thunder through distant hills. It moved in whispers, trailing through the Courtyards and across the stone benches of the Medica, brushing against ears and tightening brows. By midmorning, it gained weight, carried on the sharp gestures of students gathering under the shadow of the Archives.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 7.</h1>
+<h2 class='chapter_subtitle'>A SONG WITHOUT WORDS.</h2>
+<p class='no-indent'><big>T</big>HE NEWS ARRIVED QUIETLY at first, like the faint rumble of thunder through distant hills. It moved in whispers, trailing through the Courtyards and across the stone benches of the Medica, brushing against ears and tightening brows. By midmorning, it gained weight, carried on the sharp gestures of students gathering under the shadow of the Archives.</p>
 <p>Kilvin was Chancellor.</p>
 <p>Those words sat like a great stone in the air. Strange. Unyielding. Kilvin of the forges, Kilvin with his heavy hands and thick voice. Kilvin who spoke carefully, who shaped fire and brass. Now seated at the high table, at the head of all things. It was hard to imagine. As if a bear had been asked to rule among books. Strong, yes. Capable. But still out of place.</p>
 <p>I heard no proclamation. No formal announcement rang across the University. Not yet, that would come later. But the evidence was everywhere. In the Hall of Stones, Herma&rsquo;s name had been carefully filed away into history. On the slab of dense, polished rock that bore the names of Chancellors past and present, Kilvin&rsquo;s name gleamed freshly carved, sharp-edged like it might cut you if pressed too hard.</p>
@@ -821,9 +813,9 @@ function display_palette() {
 <p>I stood there, my lute still in my hands, the silence of the stones all the more deafening in her wake. If there was anything sacred left in me, it was sitting in the space where the song had lived for just a moment longer.</p>
 <hr />
 <a name="CHAPTER_08"></a>
-<h1><big>C</big>HAPTER 8.</h1>
-<h2>RARE THINGS VANISH.</h2>
-<p><big>I</big> WOKE WITH MUSIC in my veins and a singular question on my tongue. Where could I find Denna today?</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 8.</h1>
+<h2 class='chapter_subtitle'>RARE THINGS VANISH.</h2>
+<p class='no-indent'><big>I</big> WOKE WITH MUSIC in my veins and a singular question on my tongue. Where could I find Denna today?</p>
 <p>There are mornings when the world feels newly-minted, and even a threadbare room above Anker&rsquo;s hums with promise. Sunlight slipped through the shutters, painting gold across the battered neck of my lute. I wondered, not for the first time, what song I could play that would truly reach Denna. I thought about what melody might stir her heart and touch her soul, drawing her closer to me.</p>
 <p>The day before sparkled crisp and clear in my memory. Laughter twined with song and a score of flavors were shared across Imre&rsquo;s scattered tables. At parting, there was Denna&rsquo;s lips, a sudden, starlit touch. It was the kind of day that makes a man believe that perhaps, this time, the story is taking a turn for the better.</p>
 <p>As I dressed, hope made me foolish and I was happy because of it. I rehearsed clever observations, half-remembered poetry, and a compliment carefully crafted to slip past the sharpness of her wit. Maybe I would find her sunning herself on Stonebridge, or browsing the bookstalls, or picking her way through the market square with that smile that cut the dust like light. I tuned my lute softly and practiced a phrase I hoped she might coax from me.</p>
@@ -889,9 +881,9 @@ function display_palette() {
 <p>One way or another, I would find a way inside.</p>
 <hr />
 <a name="CHAPTER_09"></a>
-<h1><big>C</big>HAPTER 9.</h1>
-<h2>A FOOLISH BARGIN.</h2>
-<p><big>I</big> FOUND MYSELF AT Devi&rsquo;s door once more.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 9.</h1>
+<h2 class='chapter_subtitle'>A FOOLISH BARGIN.</h2>
+<p class='no-indent'><big>I</big> FOUND MYSELF AT Devi&rsquo;s door once more.</p>
 <p>This time, I had no tidy reason. No excuse I could claim. Not to myself. Not to the sly whisper of my pride. There was nothing I could offer that would satisfy my better judgment.</p>
 <p>Perhaps this was her intention. She scattered secrets, left clues about the Four-Plate Door behind her like breadcrumbs. She led me through the hollow places of my mind, certain I would poke and prod and dwell. Or perhaps it was something simpler, exhaustion, slow and stubborn as river silt.</p>
 <p>I was tired. Tired of pacing my narrow room. Tired of gnawing at the bitter bone of Lorren&rsquo;s injustice. In the end I stood before her door, spent and empty, lacking even the thinnest excuse.</p>
@@ -974,9 +966,9 @@ function display_palette() {
 <p>Devi stepped aside, and I walked in. Greed pressed me forward, and doubt trailed behind like a shadow I refused to see.</p>
 <hr />
 <a name="CHAPTER_10"></a>
-<h1><big>C</big>HAPTER 10.</h1>
-<h2>KEYS TO THE PAST.</h2>
-<p><big>B</big>REAKING INTO LORREN&rsquo;S rooms was a terrible idea. It was dangerous and foolish, likely to end with me thrown from the University like an unwanted book. Still, what was one more terrible idea in a life already full of them?</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 10.</h1>
+<h2 class='chapter_subtitle'>KEYS TO THE PAST.</h2>
+<p class='no-indent'><big>B</big>REAKING INTO LORREN&rsquo;S rooms was a terrible idea. It was dangerous and foolish, likely to end with me thrown from the University like an unwanted book. Still, what was one more terrible idea in a life already full of them?</p>
 <p>The real danger wasn&rsquo;t sneaking into the administrative wing of the University. It wasn't slipping through shadows or carefully manipulating the lock on Lorren&rsquo;s door. Those things were simple mechanics, familiar steps in a dance I&rsquo;d practiced before. The true threat was the tiny vial nestled in my pocket. Devi trusted me to test it on myself, and that was what worried me most.</p>
 <p>I could still hear her voice, crisp and confident.</p>
 <blockquote>
@@ -1014,9 +1006,9 @@ function display_palette() {
 <p>I slept for two days.</p>
 <hr />
 <a name="CHAPTER_11"></a>
-<h1><big>C</big>HAPTER 11.</h1>
-<h2>THE PRICE WE PAY.</h2>
-<p><big>I</big> WOKE TO THE GROAN of a chair, soft and uneasy, like an argument left unresolved. My room swam around me as I blinked myself into awareness. Devi sat a few feet away, hunched forward, her elbows balanced on her knees. Shadows pooled under her eyes, and her sharp edges seemed dulled, as if her usual confidence had been shaken loose and left somewhere I couldn&rsquo;t see.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 11.</h1>
+<h2 class='chapter_subtitle'>THE PRICE WE PAY.</h2>
+<p class='no-indent'><big>I</big> WOKE TO THE GROAN of a chair, soft and uneasy, like an argument left unresolved. My room swam around me as I blinked myself into awareness. Devi sat a few feet away, hunched forward, her elbows balanced on her knees. Shadows pooled under her eyes, and her sharp edges seemed dulled, as if her usual confidence had been shaken loose and left somewhere I couldn&rsquo;t see.</p>
 <p>&ldquo;Devi,&rdquo; I croaked. My voice was brittle and scraped against the dryness in my throat. The sound startled me, jagged and unfamiliar, as if it belonged to someone else entirely. &ldquo;What are you doing here?&rdquo;</p>
 <p>She didn&rsquo;t answer right away. Her hands were busy weaving and unweaving her hair like restless spiders threading and unthreading their web. The motion wasn&rsquo;t precise, not the efficient and deliberate movements I expected from Devi. It was unsure. Nervous. When she finally looked at me, her eyes glinted with something I wasn&rsquo;t used to seeing in them. Regret.</p>
 <p>&ldquo;Kvothe,&rdquo; she began. Just my name, quiet and weighty as a stone dropped into still water. Then, softer, &ldquo;I&rsquo;m sorry.&rdquo;</p>
@@ -1052,9 +1044,9 @@ function display_palette() {
 <p>&ldquo;Serious as anything,&rdquo; I said. But my voice held its own hesitation. My work wasn&rsquo;t done. A storm gathered inside me, flickering with shame and ambition in equal measure. But for now, I had a foothold. And I wasn&rsquo;t done climbing yet.</p>
 <hr />
 <a name="CHAPTER_12"></a>
-<h1><big>C</big>HAPTER 12.</h1>
-<h2>THREADS UNRAVEL.</h2>
-<p><big>D</big>EVI&rsquo;S ROOM SMELLED SHARP, like ink left too long on a hot iron. There was a hunger in the air, a thin tension that vibrated in the spaces between oil-slicked brass, faintly glowing sympathy wax, and pages full of frantic, scrawled equations. It felt like the room itself was restless, as though our sleepless nights had seeped into the wood of the walls.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 12.</h1>
+<h2 class='chapter_subtitle'>THREADS UNRAVEL.</h2>
+<p class='no-indent'><big>D</big>EVI&rsquo;S ROOM SMELLED SHARP, like ink left too long on a hot iron. There was a hunger in the air, a thin tension that vibrated in the spaces between oil-slicked brass, faintly glowing sympathy wax, and pages full of frantic, scrawled equations. It felt like the room itself was restless, as though our sleepless nights had seeped into the wood of the walls.</p>
 <p>Our creation sat on the only cleared surface in the room, cobbled together from wire and wood, shaped not with elegance but desperation. It was a strange, squat thing, a birdcage mangled and bent into something new. It whirred quietly, its uneven rhythm filling the room like the breath of something alive.</p>
 <p>Devi sat cross-legged on the table next to it, her hair loose and wild, like she&rsquo;d run her fingers through it too many times to count. Her sharp eyes were locked on the device. I was leaning over its delicate lattice of bindings, adjusting its sympathy alignments with the kind of care I usually reserved for tuning my lute. One wrong move and the whole thing might collapse.</p>
 <p>"Again," Devi said, her voice like the snap of a bowstring.</p>
@@ -1116,9 +1108,9 @@ function display_palette() {
 <p>I nodded, the weight of that accomplishment settling over me like a heavy cloak. But this was merely the first thread pulled free. The unraveling had only begun.</p>
 <hr />
 <a name="CHAPTER_13"></a>
-<h1><big>C</big>HAPTER 13.</h1>
-<h2>I WILL NOT BE HELD.</h2>
-<p><big>L</big>OVE IS A SOFT THING. Precarious, too. It grows in quiet places, in the hush between words. Born of nearness. Fed by purpose, drawn taut between two souls. I did not see it at first. My thoughts tangled quietly around Devi&rsquo;s name, roots curling unseen and slow. Easy to step past, in the beginning. She was bristling and clever, quick as spilled wine, bright as broken glass, and just as sharp. Lovely and dangerous, a knife honed on both edges, promising pain for anyone who came too close.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 13.</h1>
+<h2 class='chapter_subtitle'>I WILL NOT BE HELD.</h2>
+<p class='no-indent'><big>L</big>OVE IS A SOFT THING. Precarious, too. It grows in quiet places, in the hush between words. Born of nearness. Fed by purpose, drawn taut between two souls. I did not see it at first. My thoughts tangled quietly around Devi&rsquo;s name, roots curling unseen and slow. Easy to step past, in the beginning. She was bristling and clever, quick as spilled wine, bright as broken glass, and just as sharp. Lovely and dangerous, a knife honed on both edges, promising pain for anyone who came too close.</p>
 <p>Yet her warmth lived elsewhere, never in her words but in smaller things. In the snug tumult of her little room, steeped in the hum of sympathy wax and the sharp tang of hot iron, I watched her sharper lines go soft. A stray strand of hair brushed behind her ear, lost in thought. Firelight moving in her eyes. Her laughter, sharp and rare, blooming fierce as a frost-lotus, always with softness nestled at the heart.</p>
 <p>And there was purpose. Shared purpose. Standing shoulder to shoulder against the impossible. Together, we made a new sort of art, pulling secrets from stubborn doors, bending what ought not to bend. For all her keen edges, she never felt like a threat.</p>
 <p>Devi became the only person in my life who seemed to understand the hunger inside me. For knowledge, for answers, for more. And it was beautiful, wasn&rsquo;t it? To share this kind of closeness with someone who didn&rsquo;t just tolerate my ambition but matched it, stroke for stroke.</p>
@@ -1172,9 +1164,9 @@ function display_palette() {
 <p>And then, all at once, the blackness took me.</p>
 <hr />
 <a name="CHAPTER_14"></a>
-<h1><big>C</big>HAPTER 14.</h1>
-<h2>NAME IN THE WALL.</h2>
-<p><big>B</big>ELLS.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 14.</h1>
+<h2 class='chapter_subtitle'>NAME IN THE WALL.</h2>
+<p class='no-indent'><big>B</big>ELLS.</p>
 <p>They rang at odd intervals, distant and hollow in one breath, unbearably close in the next. They split the world into sharp, uneven slices, carving time into something thin and wrong.</p>
 <p>I woke between them. Or maybe I didn&rsquo;t wake at all. Maybe I had always been here.</p>
 <p>The walls loomed smooth as quarried glass, and the damp air pressed cold against my skin. A thin sliver of light fractured the air above, though it was pale and almost colorless. It seemed as if the light had traveled so far to find me that it had worn itself thin along the way.</p>
@@ -1343,9 +1335,9 @@ function display_palette() {
 <p>The rush of dawn air left me dizzy, and I let it carry me to the edge of the world. Pressing the ring to my lips, I whispered into the wind, &ldquo;Wait for me, Auri.&rdquo;</p>
 <hr />
 <a name="CHAPTER_15"></a>
-<h1><big>C</big>HAPTER 15.</h1>
-<h2>MISSING.</h2>
-<p><big>F</big>or someone on the run, I was a poor sort of fugitive. My legs were hollow things, trembling beneath me, threatening to betray me. The rags from Haven clung to my skin, torn and wet, heavy with the sour bite of sweat and mildew. I should have planned. I should have rested. But planning was remembering. Resting was thinking. I did everything I could to avoid both.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 15.</h1>
+<h2 class='chapter_subtitle'>MISSING.</h2>
+<p class='no-indent'><big>F</big>or someone on the run, I was a poor sort of fugitive. My legs were hollow things, trembling beneath me, threatening to betray me. The rags from Haven clung to my skin, torn and wet, heavy with the sour bite of sweat and mildew. I should have planned. I should have rested. But planning was remembering. Resting was thinking. I did everything I could to avoid both.</p>
 <p>The streets of Imre pressed in, bristling with danger. Every clatter of wheels and every flickering shadow sent my heart leaping into my throat. The city felt sharp and alive, waiting to cut me down for daring its streets. When a shutter snapped shut above me, I stumbled sideways like a startled colt, all legs and bone, and too thin for this world. A younger me would have laughed. Perhaps a wiser me would have done the same. Now my fear was a mirror. In its depths, I saw only the madmen I thought I&rsquo;d left behind.</p>
 <p>Still, I found myself before Simmon&rsquo;s door, shivering and small. My hand hovered, uncertain, my knuckles pale against dark wood. I could hear the rumors already, circling like hungry birds. Kvothe expelled. Kvothe, locked away in Haven. Kvothe, half-mad and guilty of what? Murder, perhaps. Theft, perhaps. The truth was worse, for lacking a name. I did not deserve Sim&rsquo;s help. Not his kindness. Not even his pity.</p>
 <p>But I needed it.</p>
@@ -1392,10 +1384,10 @@ function display_palette() {
 <p>One way or another, I would follow that thread to the end. I would go through cold, through darkness, and through every shadow of that damned city where he might try to escape. Holding my lute close, I slipped into the night and left behind what little I did not carry.</p>
 <hr />
 <a name="CHAPTER_16"></a>
-<h1><big>C</big>HAPTER 16.</h1>
-<h2>INTERLUDE.</h2>
-<h2>OMENS.</h2>
-<p><big>T</big>HE DECK BOARDS outside the Waystone creaked, groaning with the weight of age and weather, or perhaps with the secrets they held. Inside, the low hum of conversation fell abruptly silent, the way it does when an autumn chill presses against the windows, and the wind whips a tired shutter against its home.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 16.</h1>
+<h2 class='chapter_subtitle'>INTERLUDE.</h2>
+<h2 class='chapter_subtitle'>OMENS.</h2>
+<p class='no-indent'><big>T</big>HE DECK BOARDS outside the Waystone creaked, groaning with the weight of age and weather, or perhaps with the secrets they held. Inside, the low hum of conversation fell abruptly silent, the way it does when an autumn chill presses against the windows, and the wind whips a tired shutter against its home.</p>
 <p>A moment passed, and the door swung inward with a weary reluctance. Old Cob stepped through, familiar and worn as an old coin, his boots scuffing against the hardwood as if even the floor itself resisted interrupting the quiet.</p>
 <p>&ldquo;A pint o&rsquo; cider, Kote,&rdquo; he grunted, stomping dust and dead grass from his boots before making his way to the bar. He slid into his usual place, the grooves of the stool seeming to fit him by now. &ldquo;Helluva long morning. Don&rsquo;t s&rsquo;pose there&rsquo;s any o&rsquo; that pie left?&rdquo;</p>
 <p>&ldquo;No pie, I&rsquo;m afraid,&rdquo; Kote said, his voice polite, apologetic. But his hands worked with the assurance of long habit as he pulled a tankard off the shelf, wiping its rim reflexively before pouring the cider. Each movement was efficient, unhurried. If the creak of the boards outside had put a sliver of tension into him, it didn&rsquo;t show.</p>
@@ -1418,9 +1410,9 @@ function display_palette() {
 <p>&ldquo;Yes,&rdquo; Kote said softly. &ldquo;Renere.&rdquo;</p>
 <hr />
 <a name="CHAPTER_17"></a>
-<h1><big>C</big>HAPTER 17.</h1>
-<h2>OF DANCING STONES.</h2>
-<p><big>T</big>HE FROST THAT PAINTED the edges of windows and cobblestones seemed like quiet promises, each finger curling into itself, delicate and doomed. It gripped at the world as if it might shatter under the weight of the next breath. In this way, it mirrored me. The air was thin beneath the stars, and the night was thick with a kind of silence that made it easy to believe I was the only soul left breathing.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 17.</h1>
+<h2 class='chapter_subtitle'>OF DANCING STONES.</h2>
+<p class='no-indent'><big>T</big>HE FROST THAT PAINTED the edges of windows and cobblestones seemed like quiet promises, each finger curling into itself, delicate and doomed. It gripped at the world as if it might shatter under the weight of the next breath. In this way, it mirrored me. The air was thin beneath the stars, and the night was thick with a kind of silence that made it easy to believe I was the only soul left breathing.</p>
 <p>The road ahead was little more than a gray scar stretching into the night. The lantern I&rsquo;d borrowed from Anker hung heavy in my hand, its light carving a small, uncertain circle in the darkness. Above, the stars blinked faintly, smeared across the sky like chalk, their pale light offering nothing but a vague sense of distance.</p>
 <p>Renere seemed impossibly far. Its name echoed quietly in the back of my mind, soft and slippery with doubt. Somewhere ahead, Ambrose pressed onward, and Auri was dragged along with him. To what end, I did not dare imagine. Thoughts of her drifted close, insistent and bright, like moths drawn to a candle flame. I forced them away. I could not let myself linger on Auri, not if I meant to keep the despair at bay.</p>
 <p>And so I kept walking. Each step on the uneven dirt road felt like a small rebellion against common sense and better footwear. My boots were borrowed, and they made sure I never forgot it, gnawing at my heels like an insult that clung fast. If my feet bled, at least they had the decency to match the rest of me.</p>
@@ -1474,9 +1466,9 @@ function display_palette() {
 <p>We had crossed into the Fae.</p>
 <hr />
 <a name="CHAPTER_18"></a>
-<h1><big>C</big>HAPTER 18.</h1>
-<h2>DEFINE LOST.</h2>
-<p><big>T</big>HE SKY UNRAVELED, thread by thread, as if an unseen hand were plucking it apart. Stars wheeled and drifted through it like embers shaken from a dying fire, their positions subtly, maddeningly wrong. The constellations twisted, caught in some unseen current, spiraling deeper into the dark.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 18.</h1>
+<h2 class='chapter_subtitle'>DEFINE LOST.</h2>
+<p class='no-indent'><big>T</big>HE SKY UNRAVELED, thread by thread, as if an unseen hand were plucking it apart. Stars wheeled and drifted through it like embers shaken from a dying fire, their positions subtly, maddeningly wrong. The constellations twisted, caught in some unseen current, spiraling deeper into the dark.</p>
 <p>A watching sort of sky. A waiting one.</p>
 <p>I led us dayward, or what should have been dayward in a place where no sun shone. Felurian had once told me that moving dayward in the Fae brought you closer to stability, but the air here rang like plucked glass strings, and the ground sloped in ways that changed between blinks. If this was stability, I wanted no part of it. </p>
 <p>Sim stumbled at my side, filling the silence with nervous chatter, his voice straining to sound casual. Wilem kept behind us, scanning the horizon with dark, flat eyes, like a wolf pushed too far into the open.</p>
@@ -1666,9 +1658,9 @@ function display_palette() {
 <p>Within the Waystone, Bast looked over the table indignantly. &ldquo;Who are you calling an urchin?&rdquo;</p>
 <hr />
 <a name="CHAPTER_19"></a>
-<h1><big>C</big>HAPTER 19.</h1>
-<h2>AMBER AND IVORY.</h2>
-<p><big>T</big>HE AIR BIT at my skin as we stepped out of the Fae. Sharp, cold, honest.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 19.</h1>
+<h2 class='chapter_subtitle'>AMBER AND IVORY.</h2>
+<p class='no-indent'><big>T</big>HE AIR BIT at my skin as we stepped out of the Fae. Sharp, cold, honest.</p>
 <p>I hadn&rsquo;t realized how thick the air had been there, thick as amber poured too slowly. How warm and sweet the light had been, pressing against my skin like a hand held too long on the back of my neck. I hadn&rsquo;t noticed, not until it was gone.</p>
 <p>Now the world was crisp again, cut clean in hard-edged light and scent. The earth felt real under my feet. My own body felt heavier, my limbs made of flesh and bone instead of silk and story.</p>
 <p>I let out a slow breath. We'd made it.</p>
@@ -1850,9 +1842,9 @@ function display_palette() {
 <p>&ldquo;It&rsquo;s not a question of trust,&rdquo; I murmured. &ldquo;But of choice.&rdquo;</p>
 <hr />
 <a name="CHAPTER_20"></a>
-<h1><big>C</big>HAPTER 20.</h1>
-<h2>LURED INTO THE CURRENT.</h2>
-<p><big>T</big>HE PALAZZO DE CONTRAIER did not demand attention the way the White Citadel did. It wasn&rsquo;t ostentatious or desperate to impress. It didn&rsquo;t reach for gold or jeweled embellishments like a noble fumbling for titles.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 20.</h1>
+<h2 class='chapter_subtitle'>LURED INTO THE CURRENT.</h2>
+<p class='no-indent'><big>T</big>HE PALAZZO DE CONTRAIER did not demand attention the way the White Citadel did. It wasn&rsquo;t ostentatious or desperate to impress. It didn&rsquo;t reach for gold or jeweled embellishments like a noble fumbling for titles.</p>
 <p>Instead, its wealth was quiet. The mahogany walls had the sort of polish that only old money leaves, as if no one thinks much about it. Rugs lay thick as river moss and softened every footfall. The travertine tile seemed to drink the light, so the whole place felt drenched in quiet. Statues lingered in the corners, each one a figure in mid-stride, caught in some silent moment of elegance.</p>
 <p>There, still at the entrance, the half-harp found me. It lilted through the grand halls, running fingers along the ribs of the palace, seeking. It knew where it wanted to go. It led me, and I followed.</p>
 <p>I moved carefully, smoothing the deep green waistcoat I'd bought for the occasion. It cost too much. It felt too much. The cloth was too fine, and the fit too precise. Still, it was better to wince at the expense than to stand out as an obvious intruder.</p>
@@ -2043,9 +2035,9 @@ function display_palette() {
 <p>Instead of trying a third time, I drew in a slow breath. I let the tension spill out of my body, then walked on toward home. By the time I reached the Blind Beggar, I had given myself a promise. If I managed to live through tomorrow, I would not waste another moment.</p>
 <hr />
 <a name="CHAPTER_21"></a>
-<h1><big>C</big>HAPTER 21.</h1>
-<h2>KAYSERA.</h2>
-<p><big>T</big>HE WHITE CITADEL baked under the noon sun, its sandstone walls almost glowing in the heat. The courtyard stretched wide and empty, save for the crowd pressed along the edges. Their whispers curled through the air like smoke. Trellises of red selas flowers framed the space, as if this duel were part of some cruel performance.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 21.</h1>
+<h2 class='chapter_subtitle'>KAYSERA.</h2>
+<p class='no-indent'><big>T</big>HE WHITE CITADEL baked under the noon sun, its sandstone walls almost glowing in the heat. The courtyard stretched wide and empty, save for the crowd pressed along the edges. Their whispers curled through the air like smoke. Trellises of red selas flowers framed the space, as if this duel were part of some cruel performance.</p>
 <p>We'd drawn a sizable crowd, a few hundred strong watching from the courtyard&rsquo;s fringes or staring down from the Citadel's stone walkways. At its center stood Lord Vatis. His cream shirt clung to his skin, the cut of his leather armor tight and precise. His rapier sliced through the air in slow arcs, the whistling blade drawing attention like a hawk circling above. As I approached, his eyes landed on me with bright satisfaction.</p>
 <p>Beyond him, the Jakis family gathered, impossible to miss with their garish ornamentation. Silks the color of spilled wine, collars stiff as judgment, gold glinting at every wrist and throat.</p>
 <p>Ambrose leaned forward, his smirk wound tight as a knotted snare. Behind him, his father lounged with the quiet confidence of a man who expected to win. His patience held steady, measured and sure, the kind practiced a thousand times and always met with its due reward.</p>
@@ -2165,10 +2157,10 @@ function display_palette() {
 <p>The courtyard faded behind me as I turned and walked away, pressing my hand against my wound. My focus lingered only on the thought of the tower. If I couldn&rsquo;t save her through Roderick, I would find another way.</p>
 <hr />
 <a name="CHAPTER_22"></a>
-<h1><big>C</big>HAPTER 22.</h1>
-<h2>INTERLUDE.</h2>
-<h2>CROSSCURRENTS.</h2>
-<p><big>A</big> QUIET SETTLED over the Waystone Inn after that. Not the soft hush of an inn at peace, but the brittle stillness that follows a wound. The sort that lingers when the story, and the telling of it, have not quite finished with you, and you are loath to recall the ending. Kote stood and drifted to the bar. Perhaps he only meant to tidy, to keep his hands busy. But cloth in hand, his motions slowed. He polished in thoughtless, deliberate circles, letting the motion carry him away from the memory.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 22.</h1>
+<h2 class='chapter_subtitle'>INTERLUDE.</h2>
+<h2 class='chapter_subtitle'>CROSSCURRENTS.</h2>
+<p class='no-indent'><big>A</big> QUIET SETTLED over the Waystone Inn after that. Not the soft hush of an inn at peace, but the brittle stillness that follows a wound. The sort that lingers when the story, and the telling of it, have not quite finished with you, and you are loath to recall the ending. Kote stood and drifted to the bar. Perhaps he only meant to tidy, to keep his hands busy. But cloth in hand, his motions slowed. He polished in thoughtless, deliberate circles, letting the motion carry him away from the memory.</p>
 <p>&ldquo;You made a promise,&rdquo; Bast said. His voice was lazy as his posture, but sharp enough to cut through to Kote. &ldquo;Before the duel. You said you wouldn&rsquo;t waste another moment.&rdquo;</p>
 <p>Kote didn&rsquo;t look up. &ldquo;I did.&rdquo;</p>
 <p>&ldquo;I don&rsquo;t recall you straining your back over it,&rdquo; Bast said, too casual to be kind.</p>
@@ -2203,9 +2195,9 @@ function display_palette() {
 <p>&ldquo;And that,&rdquo; he said softly, &ldquo;was close enough.&rdquo;  </p>
 <hr />
 <a name="CHAPTER_23"></a>
-<h1><big>C</big>HAPTER 23.</h1>
-<h2>THE THREAD UNRAVELS.</h2>
-<p><big>T</big>HE COMMON ROOM of the Blind Beggar smelled of stale ale, dying embers, and the kind of silence that follows a knife fight no one talks about.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 23.</h1>
+<h2 class='chapter_subtitle'>THE THREAD UNRAVELS.</h2>
+<p class='no-indent'><big>T</big>HE COMMON ROOM of the Blind Beggar smelled of stale ale, dying embers, and the kind of silence that follows a knife fight no one talks about.</p>
 <p>Sim lounged like a man intending to look at ease. His cup rolled between restless fingers, the dregs of his drink tilting back and forth against the firelight.</p>
 <p>Wilem, steady as ever, sat stiff-backed with his hands folded too precisely in his lap. His posture looked effortless. Still, I knew what it meant. His tension lived somewhere behind his ribs, buried deep enough to be dangerous.</p>
 <p>Bast looked the most at ease, though he had no real reason for it. Draped over a chair like a cat in a patch of sunlight, he set about paring his fingernails with a small knife, the motion as thoughtless as breathing.</p>
@@ -2431,9 +2423,9 @@ function display_palette() {
 <p>&ldquo;Follow your prince to The Whispering Quarter, Reshi,&rdquo; he murmured. &ldquo;But don't be surprised if the city forgets you when you're gone.&rdquo;</p>
 <hr />
 <a name="CHAPTER_24"></a>
-<h1><big>C</big>HAPTER 24.</h1>
-<h2>THE WHISPERING QUARTER.</h2>
-<p><big>T</big>HERE WAS NO THRESHOLD marking the entrance to the Whispering Quarter.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 24.</h1>
+<h2 class='chapter_subtitle'>THE WHISPERING QUARTER.</h2>
+<p class='no-indent'><big>T</big>HERE WAS NO THRESHOLD marking the entrance to the Whispering Quarter.</p>
 <p>No walls. No guardhouses. No watchful merchant guilds staking claim over its streets. You simply stepped forward, and the city around you, though it still felt familiar, began to unravel.</p>
 <p>The air grew thinner. The streets pressed closer. The roads you could name folded in on themselves, like the pages of a closed book. The only paths that remained led to places no one could explain.</p>
 <p>Bast hesitated first.</p>
@@ -2542,9 +2534,9 @@ function display_palette() {
 <p>I measured our odds, they weren&rsquo;t good. Not in this tight space. Not against four watchers who had been expecting trouble.  </p>
 <hr />
 <a name="CHAPTER_25"></a>
-<h1><big>C</big>HAPTER 25.</h1>
-<h2>RESHI.</h2>
-<p><big>T</big>HE FIRST MAN spoke before weapons could be drawn.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 25.</h1>
+<h2 class='chapter_subtitle'>RESHI.</h2>
+<p class='no-indent'><big>T</big>HE FIRST MAN spoke before weapons could be drawn.</p>
 <p>&ldquo;Peace.&rdquo;</p>
 <p>The word sat poorly in his mouth, like an ill-forged coin pressed into the wrong hand. His voice was rough-sewn, shaped by stone roads and cold mornings. A voice that did not beg and did not barter.</p>
 <p>The others shifted around him, hands resting too close to their weapons to be coincidence. Not an open threat. Not yet.</p>
@@ -2655,9 +2647,9 @@ function display_palette() {
 <p>I laughed, a true laugh, the first in what felt like days. I let the title settle onto my shoulders as easily as a well-worn cloak.</p>
 <hr />
 <a name="CHAPTER_26"></a>
-<h1><big>C</big>HAPTER 26.</h1>
-<h2>STORIES WE TELL OURSELVES.</h2>
-<p><big>&ldquo;S</big>TAPLES.&rdquo;</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 26.</h1>
+<h2 class='chapter_subtitle'>STORIES WE TELL OURSELVES.</h2>
+<p class='no-indent'><big>&ldquo;S</big>TAPLES.&rdquo;</p>
 <p>I didn&rsquo;t raise my voice.</p>
 <p>I didn&rsquo;t need to.</p>
 <p>It passed through the morning air with the weight of a name long withheld. The street was full of the usual market din. Traders bellowed over bruised apples, boots struck stone, and pigeons rustled as they claimed the eaves. Yet my word threaded beneath it all. It was thin as a blade and cold as a bell&rsquo;s first ring in winter. The name was not spoken louder than the noise, but truer.</p>
@@ -2784,9 +2776,9 @@ function display_palette() {
 <p>And neither of us were ready for that.</p>
 <hr />
 <a name="CHAPTER_27"></a>
-<h1><big>C</big>HAPTER 27.</h1>
-<h2>OLD ACQUAINTANCES.</h2>
-<p><big>T</big>HE GATES OF Severen opened slowly.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 27.</h1>
+<h2 class='chapter_subtitle'>OLD ACQUAINTANCES.</h2>
+<p class='no-indent'><big>T</big>HE GATES OF Severen opened slowly.</p>
 <p>Inside, the city was not loud. Yet it complained with unrest. Soldiers gathered in knots outside taverns. Wagons rattled and bowed low along the cobblestones. Proclamations fluttered from doorposts, thin and papery, like the brittle skins of trees long dead.</p>
 <p>After we stabled the horses, Denna and I parted. A word. A glance. An understanding. We would meet again, when nighttime turned the city to gold.</p>
 <p>After we stabled the horses, Denna and I parted. A word. A glance. An unspoken promise to meet again when evening fell.</p>
@@ -2983,9 +2975,9 @@ function display_palette() {
 <p>I forced a smile of my own, though we both pretended not to notice the sting of the lie hanging between us.  </p>
 <hr />
 <a name="CHAPTER_28"></a>
-<h1><big>C</big>HAPTER 28.</h1>
-<h2>FOR THE GREATER GOOD.</h2>
-<p><big>L</big>EVENTIS WASN&rsquo;T MUCH to look at, a gathering of crooked rooftops and muddy streets where the Four Corners tangled in trade. Nothing about it demanded notice. Yet such unremarkable places often held remarkable secrets.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 28.</h1>
+<h2 class='chapter_subtitle'>FOR THE GREATER GOOD.</h2>
+<p class='no-indent'><big>L</big>EVENTIS WASN&rsquo;T MUCH to look at, a gathering of crooked rooftops and muddy streets where the Four Corners tangled in trade. Nothing about it demanded notice. Yet such unremarkable places often held remarkable secrets.  </p>
 <p>Denna fell into step beside me as we approached the center of town, her dappled mare trailing lazily behind her. The breeze toyed with the ribbon in her hair, its bright red band a rare bit of color against the town&rsquo;s dreary dust.  </p>
 <p>&ldquo;So, what&rsquo;s the plan?&rdquo; she asked, her tone light but curious. &ldquo;I&rsquo;m guessing you&rsquo;re not here for a quiet pint and an early bed.&rdquo;  </p>
 <p>I hesitated before answering, knowing what I had to say and dreading the fallout regardless. &ldquo;I need to go in alone.&rdquo;  </p>
@@ -3047,9 +3039,9 @@ function display_palette() {
 <p>If the Amyr wouldn&rsquo;t act, <em>I would.</em>   </p>
 <hr />
 <a name="CHAPTER_29"></a>
-<h1><big>C</big>HAPTER 29.</h1>
-<h2>LOCKLESS.</h2>
-<p><big>T</big>HE ROAD SOUTH TO Renere stretched long and winding, dust rising in thin plumes behind our horses as we rode in silence. Denna was focused on the Lockless box, her lips forming occasional fragments of words as her fingers traced its carvings. Meanwhile, my mind churned with its own puzzle.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 29.</h1>
+<h2 class='chapter_subtitle'>LOCKLESS.</h2>
+<p class='no-indent'><big>T</big>HE ROAD SOUTH TO Renere stretched long and winding, dust rising in thin plumes behind our horses as we rode in silence. Denna was focused on the Lockless box, her lips forming occasional fragments of words as her fingers traced its carvings. Meanwhile, my mind churned with its own puzzle.  </p>
 <p>The Amyr. For years, I had pinned my hopes on them, imagining them as avenging shadows&mdash;scholars and warriors who might stand alongside me, who might help me unravel the mystery of my family&rsquo;s deaths. Instead, I&rsquo;d found a hollow echo of legend, an order content to endure rather than act, to hide rather than strike. If the Chandrian were to be confronted, it would fall to me alone.  </p>
 <p>Lost in thought, I barely registered Denna&rsquo;s sudden cry.  </p>
 <p>&ldquo;I&rsquo;ve got it!&rdquo; she exclaimed, her voice cutting through the quiet like a plucked string.  </p>
@@ -3108,9 +3100,9 @@ function display_palette() {
 <p>And I did. </p>
 <hr />
 <a name="CHAPTER_30"></a>
-<h1><big>C</big>HAPTER 30.</h1>
-<h2>SWIRLS IN THE WATER.</h2>
-<p><big>T</big>HE NIGHT STRETCHED on, calm and quiet but for the faint rustling of leaves and the occasional chirp of crickets. I sat by the dying embers of our fire, unable to sleep. Denna lay nearby, her head resting on her bundled cloak, the soft rise and fall of her breathing a rare, peaceful rhythm. My cloak had slipped across her shoulder, and I resisted the urge to adjust it for fear of waking her. Instead, I watched her for a long while, caught between thoughts of what could be and what might never come.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 30.</h1>
+<h2 class='chapter_subtitle'>SWIRLS IN THE WATER.</h2>
+<p class='no-indent'><big>T</big>HE NIGHT STRETCHED on, calm and quiet but for the faint rustling of leaves and the occasional chirp of crickets. I sat by the dying embers of our fire, unable to sleep. Denna lay nearby, her head resting on her bundled cloak, the soft rise and fall of her breathing a rare, peaceful rhythm. My cloak had slipped across her shoulder, and I resisted the urge to adjust it for fear of waking her. Instead, I watched her for a long while, caught between thoughts of what could be and what might never come.  </p>
 <p>For the first time in weeks, my mind strayed toward something simpler. What might life look like when&mdash;and if&mdash;this was all over? Ralien in the Caeld, maybe, or distant Iskur by the Commonwealth&rsquo;s edge. I pictured us going somewhere no one knew my name, somewhere without Chandrian or Amyr. But even that small dream felt fragile, like something held in trembling hands.  </p>
 <p>The ground trembled faintly beneath me, breaking the stillness. A distant rumble reached my ears like thunder without a storm. I pressed my ear to the ground. Hoofbeats. Dozens of them. No. More.  </p>
 <p>&ldquo;Denna.&rdquo; My voice was low but urgent. &ldquo;Denna, wake up.&rdquo;  </p>
@@ -3191,9 +3183,9 @@ function display_palette() {
 <p>Denna nodded, though her eyes stayed fixed on the soldiers below, sharp with thought. The wind stirred, flaring the flag once more, and the serpent seemed to coil tighter.</p>
 <hr />
 <a name="CHAPTER_31"></a>
-<h1><big>C</big>HAPTER 31.</h1>
-<h2>THE DECEIT.</h2>
-<p><big>D</big>IRT CLUNG TO every inch of me&mdash;my boots, my shirt, even my teeth. By the time we reached the Blind Beggar, night had folded over the city like worn velvet. My ribs ached with every breath, but I didn&rsquo;t let us slow. Denna followed without a sound.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 31.</h1>
+<h2 class='chapter_subtitle'>THE DECEIT.</h2>
+<p class='no-indent'><big>D</big>IRT CLUNG TO every inch of me&mdash;my boots, my shirt, even my teeth. By the time we reached the Blind Beggar, night had folded over the city like worn velvet. My ribs ached with every breath, but I didn&rsquo;t let us slow. Denna followed without a sound.</p>
 <p>I knocked. A shuffle, the scrape of a chair, then Bast swung the door open. &ldquo;Finally. I was starting to think you'd gone and gotten yourself&mdash;oh!&rdquo; His eyes widened as he caught sight of Denna. </p>
 <p>Behind him, Sim and Wil leaned forward from their seats, their expressions shifting from relief to alarm. </p>
 <p>&ldquo;Denna! Good lord, what happened to you?&rdquo; Sim asked, half-rising. His voice brimmed with that anxious kindness that might irritate if it weren&rsquo;t so unerringly genuine. </p>
@@ -3259,9 +3251,9 @@ function display_palette() {
 <p>And I couldn&rsquo;t answer her. Not yet.  </p>
 <hr />
 <a name="CHAPTER_32"></a>
-<h1><big>C</big>HAPTER 32.</h1>
-<h2>THE FALL.</h2>
-<p><big>T</big>HE WIND WRITHED around me, humming a note I could almost taste. It was everywhere&mdash;pushing my hair, stinging my eyes, filling the space between my ribs and the stone wall I clung to. With it came the pull of an impossible thought: <em>Let go. Trust it. Let it take you, as it took Taborlin.</em> I considered it for half a heartbeat, but every inch of my body screamed in defiance. A story is fine for Taborlin the Great, but I wasn&rsquo;t great. Not yet.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 32.</h1>
+<h2 class='chapter_subtitle'>THE FALL.</h2>
+<p class='no-indent'><big>T</big>HE WIND WRITHED around me, humming a note I could almost taste. It was everywhere&mdash;pushing my hair, stinging my eyes, filling the space between my ribs and the stone wall I clung to. With it came the pull of an impossible thought: <em>Let go. Trust it. Let it take you, as it took Taborlin.</em> I considered it for half a heartbeat, but every inch of my body screamed in defiance. A story is fine for Taborlin the Great, but I wasn&rsquo;t great. Not yet.</p>
 <p>Auri clung to my back, fragile but steady. &ldquo;You won&rsquo;t,&rdquo; she whispered. She said it so softly, like the wind wouldn&rsquo;t hear. &ldquo;You&rsquo;ll hold on.&rdquo;</p>
 <p>I shifted my focus, forcing myself to see the stones beneath my fingers, broad and ancient. I felt their cold weight as the wind roared indignantly, demanding my attention. Then, as clear as my own name, I felt it: not one stone, but three. I reached for the name that bound them, and something inside me shifted. As I spoke, the tension in the rock eased, and the block beneath my toes pushed itself forward.</p>
 <p>A step.</p>
@@ -3303,9 +3295,9 @@ function display_palette() {
 <p>But as the screaming continued above us, I turned toward the Tower. &ldquo;Not without them.&rdquo; And with a crash of steel behind us, we ran into what remained.  </p>
 <hr />
 <a name="CHAPTER_33"></a>
-<h1><big>C</big>HAPTER 33.</h1>
-<h2>THE TOWER.</h2>
-<p><big>T</big>HE SMELL STRUCK first: sour ale soaked into wood, a rancid smear of spilled grease, and the cloying tang of too many unwashed bodies packed into one space. The garrison was a shattered remnant of what it should have been. Sixteen guards sat or slumped in a room built to hold twice their number, most clutching bottles with lethargic grips. Some blinked at me glassily, their faces slack with drink. Others ignored my entrance altogether, their shoulders slumped like scarecrows abandoned in a storm.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 33.</h1>
+<h2 class='chapter_subtitle'>THE TOWER.</h2>
+<p class='no-indent'><big>T</big>HE SMELL STRUCK first: sour ale soaked into wood, a rancid smear of spilled grease, and the cloying tang of too many unwashed bodies packed into one space. The garrison was a shattered remnant of what it should have been. Sixteen guards sat or slumped in a room built to hold twice their number, most clutching bottles with lethargic grips. Some blinked at me glassily, their faces slack with drink. Others ignored my entrance altogether, their shoulders slumped like scarecrows abandoned in a storm.</p>
 <p>This was no fortress. It was a hollow shell drowning in surrender.  </p>
 <p>Roderick paced near the center of the room, his voice sharp against the drunken murmurs. &ldquo;Ready yourselves! Get moving, damn you! They&rsquo;ll be at the gates any moment!&rdquo; His words stumbled against their indifference, the authority in his tone stretched thin&mdash;something brittle pretending to be stone.  </p>
 <p>For a moment, my eyes met his, and I saw it plainly: the panic behind the orders. The words weren&rsquo;t just for his men. They were for himself, a faltering refrain against the crushing weight of betrayal.  </p>
@@ -3360,9 +3352,9 @@ function display_palette() {
 <p>For a moment, hope flickered. Then I saw the mangonel.  </p>
 <hr />
 <a name="CHAPTER_34"></a>
-<h1><big>C</big>HAPTER 34.</h1>
-<h2>COMMAND IN THE CHAOS.</h2>
-<p><big>T</big>HE MANGONEL CREAKED AS Fascino&rsquo;s men prepared the first strike, its massive arm drawn taut against ropes groaning under the strain. They loaded a stone the size of a small child into the sling, and I felt the ember of hope in my chest flicker dangerously low.</p>
+<h1 class='chapter_title'><big>C</big>HAPTER 34.</h1>
+<h2 class='chapter_subtitle'>COMMAND IN THE CHAOS.</h2>
+<p class='no-indent'><big>T</big>HE MANGONEL CREAKED AS Fascino&rsquo;s men prepared the first strike, its massive arm drawn taut against ropes groaning under the strain. They loaded a stone the size of a small child into the sling, and I felt the ember of hope in my chest flicker dangerously low.</p>
 <p>&ldquo;We don&rsquo;t have the defenses for this,&rdquo; I muttered bitterly, sagging back against the cold stone wall. Pain radiated from my shoulder with every slight movement as though reminding me of its presence, its cost.</p>
 <p>Wil&rsquo;s hand fell heavily onto my good shoulder. &ldquo;What is it?&rdquo; he said, his voice clipped and serious.</p>
 <p>&ldquo;They&rsquo;re bringing a mangonel,&rdquo; I said, the taste of failure bitter in my mouth. &ldquo;If they hit us with that, this tower is done.&rdquo;</p>
@@ -3413,9 +3405,9 @@ function display_palette() {
 <p>Instead, I turned toward the others preparing for the next assault, blood seeping through the bandages on my shoulder, my voice soft and steady for Sim: &ldquo;Whatever you need, I&rsquo;ll still be here.&rdquo;  </p>
 <hr />
 <a name="CHAPTER_35"></a>
-<h1><big>C</big>HAPTER 35.</h1>
-<h2>THE PRICE OF LOYALTY.</h2>
-<p><big>T</big>HE MANGONEL&rsquo;S ARM creaked, ropes groaning as they drew back the heavy stone for another deadly blow. I leaned against the frozen wall, my shoulder aflame, my breaths shallow. Every movement felt like shards of glass grinding against bone. I wanted to act, to move, but my body betrayed me, shaking with weakness and exhaustion.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 35.</h1>
+<h2 class='chapter_subtitle'>THE PRICE OF LOYALTY.</h2>
+<p class='no-indent'><big>T</big>HE MANGONEL&rsquo;S ARM creaked, ropes groaning as they drew back the heavy stone for another deadly blow. I leaned against the frozen wall, my shoulder aflame, my breaths shallow. Every movement felt like shards of glass grinding against bone. I wanted to act, to move, but my body betrayed me, shaking with weakness and exhaustion.  </p>
 <p>And then the horns came.  </p>
 <p>The sound cut sharp over the battlefield, louder and more terrible than the hiss of violence below. I twisted toward the arrow slit, the motion wrenching at my wound. Beneath me, the battlefield churned like a broken tide. Fascino&rsquo;s forces&mdash;slick with blood and still jeering in their grim work&mdash;turned sharply at the sound.  </p>
 <p>Knights surged forward, their armor flashing in sapphire and ivory. Their banners flew, one over the other. The first, House Calanthis, bore red and gold, trampled in mud and tarnished with soot. But the second banner made my stomach twist in place: sapphire and silver, the seal of the Maer Alveron.  </p>
@@ -3460,10 +3452,10 @@ function display_palette() {
 <p>And then the Wind was all that remained as I fell.  </p>
 <hr />
 <a name="CHAPTER_36"></a>
-<h1><big>C</big>HAPTER 36.</h1>
-<h2>INTERLUDE.</h2>
-<h2>BURDENS.</h2>
-<p><big>K</big>OTE STOOD BEHIND THE Waystone Inn's bar, wiping the same mug for the third time, though it gleamed clean under the amber flicker of the hearth. His movements were slow, deliberate, like a man trying to tether himself to the present. Outside, wind pressed against the shutters, a soft howling that always seemed to find its way into this quiet corner of the world.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 36.</h1>
+<h2 class='chapter_subtitle'>INTERLUDE.</h2>
+<h2 class='chapter_subtitle'>BURDENS.</h2>
+<p class='no-indent'><big>K</big>OTE STOOD BEHIND THE Waystone Inn's bar, wiping the same mug for the third time, though it gleamed clean under the amber flicker of the hearth. His movements were slow, deliberate, like a man trying to tether himself to the present. Outside, wind pressed against the shutters, a soft howling that always seemed to find its way into this quiet corner of the world.  </p>
 <p>&ldquo;You&rsquo;ve stopped, you know,&rdquo; Kote said suddenly, his voice low and flat.  </p>
 <p>The scratch of the Chronicler&rsquo;s quill ceased on the parchment. Kote didn&rsquo;t look up, his hands still tracing the rim of the mug. &ldquo;Your pen. It&rsquo;s silent. Why?&rdquo;  </p>
 <p>Chronicler hesitated before answering. &ldquo;I suppose&hellip;&rdquo; He shifted in his seat. &ldquo;I suppose I thought this part of the story wasn&rsquo;t something you&rsquo;d want&hellip; written down.&rdquo;  </p>
@@ -3495,9 +3487,9 @@ function display_palette() {
 <p>He turned toward the hearth again, his voice distant now. &ldquo;Their story deserves the telling. Even if the world doesn&rsquo;t deserve them.&rdquo;  </p>
 <hr />
 <a name="CHAPTER_37"></a>
-<h1><big>C</big>HAPTER 37.</h1>
-<h2>THE BREATH AFTER THE FALL.</h2>
-<p><big>I</big> FELL, AND the world unraveled in the breathless rush of wind against my ears. The white walls of the Citadel blurred into a chalk line above me, and the jagged hole from the mangonel stared down like an empty, unblinking eye. For a moment, the city&rsquo;s distant rooftops and cobblestone streets painted themselves as a cruel certainty&mdash;hard, cold, and absolute.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 37.</h1>
+<h2 class='chapter_subtitle'>THE BREATH AFTER THE FALL.</h2>
+<p class='no-indent'><big>I</big> FELL, AND the world unraveled in the breathless rush of wind against my ears. The white walls of the Citadel blurred into a chalk line above me, and the jagged hole from the mangonel stared down like an empty, unblinking eye. For a moment, the city&rsquo;s distant rooftops and cobblestone streets painted themselves as a cruel certainty&mdash;hard, cold, and absolute.  </p>
 <p>The wind tore at my clothes and whipped through my hair. My ribs screamed with every movement, each breath a jagged edge. Still, something clawed at my mind&mdash;not just panic or instinct, but a part of me that would not surrender. My fingers curled against empty air, reaching like a drowning man toward a memory of strength. Then, past the haze of pain and fear, the light waiting at the edges of my unraveling: the Name of the Wind.  </p>
 <p>I called it with desperation, wrenching the word from somewhere deep enough to feel primal and raw. The wind hesitated for the briefest moment. Then it obeyed&mdash;not gently or kindly, but with brutal, jarring force. The air caught my body in uneven fits, pushing and pulling me like a cruel child toying with a doll. My descent slowed, but the impact still came as an unforgiving shock.  </p>
 <p>When I finally struck the ground, pain exploded across me like lightning splintering every bone. I lay in the damp grass, my breaths broken and shallow. Faces flickered above me in the distance, pale and stunned as they leaned over the Citadel&rsquo;s jagged wall. Shouts blurred into the background, faint and distant. But my body stayed fixed in its small crater of bruised earth, too broken to heed them. Darkness poured over me, heavy and certain.  </p>
@@ -3543,9 +3535,9 @@ function display_palette() {
 <p>For the first time since the Tower, a flicker of resolve sparked within me. I was alive, and I intended to make that matter. There was still so much to do, so much to reckon with. For now, I clung to hope: that Denna was still out there, that Auri had survived, that somewhere in all of this, I would find a way forward.  </p>
 <hr />
 <a name="CHAPTER_38"></a>
-<h1><big>C</big>HAPTER 38.</h1>
-<h2>THE WOLF AND THE OWL.</h2>
-<p><big>T</big>HE STREETS OF Renere twisted around me like a cruel, unending maze. My steps wavered, each one a sharp reminder of the bruises still painted across my body. The shadows stretched as the sun fell lower, blurring the crooked architecture into jagged silhouettes. I had been following the compass for what felt like hours, the bobbing needle&rsquo;s frantic motion my only guide. When it suddenly surged and stilled, my pulse quickened.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 38.</h1>
+<h2 class='chapter_subtitle'>THE WOLF AND THE OWL.</h2>
+<p class='no-indent'><big>T</big>HE STREETS OF Renere twisted around me like a cruel, unending maze. My steps wavered, each one a sharp reminder of the bruises still painted across my body. The shadows stretched as the sun fell lower, blurring the crooked architecture into jagged silhouettes. I had been following the compass for what felt like hours, the bobbing needle&rsquo;s frantic motion my only guide. When it suddenly surged and stilled, my pulse quickened.  </p>
 <p>I turned a corner, entering another narrow alley, and finally heard something: a man shouting. His voice was gruff and gravel-edged, the kind that cracked with too many years of practiced anger. I slowed, pressing myself to the damp brick walls. The sound came from a derelict tavern ahead, its sign hanging crooked on rusted chains.  </p>
 <p>Moving carefully, I approached one of the boarded windows. Through the gaps, I caught sight of Denna. She was sitting inside, her head bowed, arms folded tightly in her lap. The man standing before her was tall and white-haired, his back to me as he leaned in close, his gestures wide and furious. His voice was too muffled to make out, but his tone sliced through the air like the edge of a knife.  </p>
 <p>Instead of entering immediately, I circled to a side door and found it unlocked. Slipping inside, I stayed low and silent, creeping toward the sound of their argument. Only fragments of the conversation reached me at first.  </p>
@@ -3590,9 +3582,9 @@ function display_palette() {
 <p>The darkness reached for me.  </p>
 <hr />
 <a name="CHAPTER_39"></a>
-<h1><big>C</big>HAPTER 39.</h1>
-<h2>THE WEIGHT OF SHADOWS.</h2>
-<p><big>T</big>HE WORLD FOLDED and turned inside out, and I was torn from the decrepit taproom. Haliax didn&rsquo;t cast a spell, not in any sense I recognized. This magic was old&mdash;primal, raw. It turned the air to syrup, thick and heavy, pulling at me like unseen hands. For a moment, I stood empty in a howling void, shaken and weightless, before reality reformed around me.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 39.</h1>
+<h2 class='chapter_subtitle'>THE WEIGHT OF SHADOWS.</h2>
+<p class='no-indent'><big>T</big>HE WORLD FOLDED and turned inside out, and I was torn from the decrepit taproom. Haliax didn&rsquo;t cast a spell, not in any sense I recognized. This magic was old&mdash;primal, raw. It turned the air to syrup, thick and heavy, pulling at me like unseen hands. For a moment, I stood empty in a howling void, shaken and weightless, before reality reformed around me.  </p>
 <p>Cold air hit my face, sharp as a razor. The darkness peeled away like storm clouds, revealing a jagged outcrop of stone jutting high above the world. The moon hung low on the horizon, swollen and pale, its light cold against the cracked expanse of the mountain landscape. The ground beneath my feet felt wrong&mdash;foreign. The stones were too smooth, their edges too sharp, as if the earth here still remembered the Shapers' hands.  </p>
 <p>A sputtering red light flared ahead. Haliax held a pale candle in the crook of his shadowed hand, its flame unnaturally bright and crimson, throwing jagged splinters of light across the uneven cliff. &ldquo;We move,&rdquo; he said, his voice quiet but cutting, like a sword drawing from its sheath. &ldquo;There is much yet to do.&rdquo;  </p>
 <p>A hard shove pressed into my back. I turned, unsteady, to find a woman with eyes like frostbitten glass staring at me. Her mouth was covered by a crude stitch of pigskin, leaving her features disturbingly incomplete. Her eyeless smile told me more than words would have anyway. She tilted her head, gesturing with a short silver blade toward the path ahead.  </p>
@@ -3662,9 +3654,9 @@ function display_palette() {
 <p>The blade sank deep, and Lanre collapsed, the bitter smile still gracing his face as shadows stirred and the candle hissed out.  </p>
 <hr />
 <a name="CHAPTER_40"></a>
-<h1><big>C</big>HAPTER 40.</h1>
-<h2>CINDER.</h2>
-<p><big>&ldquo;W</big>E&rsquo;RE FREE,&rdquo; CINDER said, his voice spilling over with a relief so vast it bordered on reverence. He turned to the other Chandrian, the remnants of shadow still licking at their forms as they came together, each embracing the others with something raw, desperate, and uncomfortably human.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 40.</h1>
+<h2 class='chapter_subtitle'>CINDER.</h2>
+<p class='no-indent'><big>&ldquo;W</big>E&rsquo;RE FREE,&rdquo; CINDER said, his voice spilling over with a relief so vast it bordered on reverence. He turned to the other Chandrian, the remnants of shadow still licking at their forms as they came together, each embracing the others with something raw, desperate, and uncomfortably human.  </p>
 <p>The sight turned my stomach. This wasn&rsquo;t freedom&mdash;they didn&rsquo;t deserve joy. My parents, my troupe, the cities they had reduced to ash&mdash;every atrocity they had so effortlessly wrought stacked like cords of firewood in my mind. They deserved punishment. Justice. Not this celebration. Yet as my hands curled into fists at my side, a bitter truth struck me: what could I, alone, truly do? Even with all my anger, all my fury, I was still only one man standing against centuries of slaughter.  </p>
 <p>And then it happened. A thread of memory, faint but clear, drifted through the chaos. Marten&rsquo;s words, dry with meaning. &ldquo;Call me the proper way, and I will come.&rdquo; The Eld had shown me more than I had understood at the time. Perhaps, even now, there was still a chance.  </p>
 <p>I stepped forward, feeling the air in my lungs burn as I drew it deeper. Then, I spoke.  </p>
@@ -3712,9 +3704,9 @@ function display_palette() {
 <p>And so, we fled into the night.  </p>
 <hr />
 <a name="CHAPTER_41"></a>
-<h1><big>C</big>HAPTER 41.</h1>
-<h2>THREADBARE AND BOUNDLESS.</h2>
-<p><big>W</big>E DIDN&rsquo;T RUN so much as stagger from the battle. The screams of the Chandrian and the thunder of Tehlu&rsquo;s angels tore holes in the night behind us, but we kept moving, one agonizing step after another. Denna clutched her side, her hand slick with blood, and the dusk-light of her face grew paler with every uneven stride. My mouth was dry. My legs ached. My mind replayed the scene again and again: the flash of Cinder&rsquo;s blade, Denna&rsquo;s knife buried in his neck. Her gasp when he struck her.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 41.</h1>
+<h2 class='chapter_subtitle'>THREADBARE AND BOUNDLESS.</h2>
+<p class='no-indent'><big>W</big>E DIDN&rsquo;T RUN so much as stagger from the battle. The screams of the Chandrian and the thunder of Tehlu&rsquo;s angels tore holes in the night behind us, but we kept moving, one agonizing step after another. Denna clutched her side, her hand slick with blood, and the dusk-light of her face grew paler with every uneven stride. My mouth was dry. My legs ached. My mind replayed the scene again and again: the flash of Cinder&rsquo;s blade, Denna&rsquo;s knife buried in his neck. Her gasp when he struck her.  </p>
 <p>Down the craggy mountain slopes we fled, boots scraping against loose stone, the cold air burning our lungs. When the first dim flickers of sunlight appeared on the horizon, we reached the foothills, a sparse scattering of ironwood and desert willow. Finally, we stopped, collapsing into the shadows of the thickets. I peeled off my shirt, which was damp with sweat, and wiped the blood clear from my hands. Then I turned to Denna.  </p>
 <p>"I'm fine," she muttered, though she couldn&rsquo;t lift her head.  </p>
 <p>"No, you&rsquo;re not." My voice was harsher than I intended.  </p>
@@ -3749,9 +3741,9 @@ function display_palette() {
 <p>Thin clouds shifted lazily above me, pale and distant&mdash;out of reach.  </p>
 <hr />
 <a name="CHAPTER_42"></a>
-<h1><big>C</big>HAPTER 42.</h1>
-<h2>SEVEN WORDS FOR SILENCE.</h2>
-<p><big>W</big>E LAY THERE in the endless desert, the sun a hot hammer beating down on both of us. I kept Denna&rsquo;s hand in mine, as if the contact alone was enough to keep her tethered to the world. Around us, the sand shimmered, an ocean without a shore. Somewhere far away, I could hear the dry screaming of the wind, but here, where we lay, there was only silence. A silence I dreaded, because I knew it would grow deeper if Denna took her last breath.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 42.</h1>
+<h2 class='chapter_subtitle'>SEVEN WORDS FOR SILENCE.</h2>
+<p class='no-indent'><big>W</big>E LAY THERE in the endless desert, the sun a hot hammer beating down on both of us. I kept Denna&rsquo;s hand in mine, as if the contact alone was enough to keep her tethered to the world. Around us, the sand shimmered, an ocean without a shore. Somewhere far away, I could hear the dry screaming of the wind, but here, where we lay, there was only silence. A silence I dreaded, because I knew it would grow deeper if Denna took her last breath.  </p>
 <p>The thirst was maddening. My lips were split and bleeding, each swallow catching in my throat like broken glass. I tried not to think of it. Eyes half-lidded, thoughts dulled by exhaustion, I reached out to the world. I searched for water with every scrap of Naming I could summon. I felt the deep pull of the sand, but the water buried there was too far down. Too far to hear. Too far to Name.  </p>
 <p>Denna stirred beside me, drawing in a sharp, ragged breath. I turned to her and saw her lips moving faintly, though no words came. For a moment, I thought she was leaving me already. Then I heard it. A strange throaty chanting, carried faintly by the wind. My cracked mind dismissed it as delirium, but it was real. The rhythm of the voices shifted and grew louder, closer.  </p>
 <p>Strength I didn&rsquo;t know I had flared in me, enough to lift my ruined hand into the air. I waved it weakly, felt the dried blood crack along my bandaged fingers. &ldquo;Help!&rdquo; My voice came out hoarse, more a whisper than a shout. I tried again, biting through the pain of my parched throat. &ldquo;Please&hellip; help us&hellip;&rdquo;  </p>
@@ -3791,10 +3783,10 @@ function display_palette() {
 <p>Under the swaying trees, I held her as the fires died.  </p>
 <hr />
 <a name="CHAPTER_43"></a>
-<h1><big>C</big>HAPTER 43.</h1>
-<h2>INTERLUDE.</h2>
-<h2>OUT OF THE CHILL.</h2>
-<p><big>K</big>OTE TRAILED OFF, his voice dwindling like a wick near its end. The quill in Chronicler&rsquo;s hand hovered over the page, ink threatening to drop. The quiet in the Waystone Inn thickened, heavy as a sodden cloak. Chronicler shifted in his chair, uncomfortable, while Bast&rsquo;s fingers fidgeted with the edge of his sleeve.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 43.</h1>
+<h2 class='chapter_subtitle'>INTERLUDE.</h2>
+<h2 class='chapter_subtitle'>OUT OF THE CHILL.</h2>
+<p class='no-indent'><big>K</big>OTE TRAILED OFF, his voice dwindling like a wick near its end. The quill in Chronicler&rsquo;s hand hovered over the page, ink threatening to drop. The quiet in the Waystone Inn thickened, heavy as a sodden cloak. Chronicler shifted in his chair, uncomfortable, while Bast&rsquo;s fingers fidgeted with the edge of his sleeve.  </p>
 <p>Finally, Bast broke the silence, his voice soft. &ldquo;Oh, Reshi. I never knew.&rdquo;  </p>
 <p>Kote didn&rsquo;t look up. His jaw tightened, his gaze boring into the table as if it might collapse under the weight of everything unsaid. Then, at last, he rose. The scrape of his chair across the floor made them flinch.  </p>
 <p>&ldquo;It&rsquo;s late,&rdquo; he said, his voice too steady, too careful. &ldquo;There are things I need to tend to before dark.&rdquo; He managed a faint, brittle smile. &ldquo;Eat something. We&rsquo;ve more to get through tonight.&rdquo; Without waiting for a reply, he turned and slipped through the kitchen flap, leaving the two men in uneasy stillness.  </p>
@@ -3811,9 +3803,9 @@ function display_palette() {
 <p>Inside, the room was warm, but warmth was never enough.  </p>
 <hr />
 <a name="CHAPTER_44"></a>
-<h1><big>C</big>HAPTER 44.</h1>
-<h2>THE HOLLOW CROWN.</h2>
-<p><big>F</big>OR THE NEXT two days, I was not a man. I was a hollow shell, emptied of everything but the dark tide of my grief. The Tahl brought food I couldn&rsquo;t eat, water I drank out of reflex. My moments of lucidity were few, and I dreaded them.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 44.</h1>
+<h2 class='chapter_subtitle'>THE HOLLOW CROWN.</h2>
+<p class='no-indent'><big>F</big>OR THE NEXT two days, I was not a man. I was a hollow shell, emptied of everything but the dark tide of my grief. The Tahl brought food I couldn&rsquo;t eat, water I drank out of reflex. My moments of lucidity were few, and I dreaded them.  </p>
 <p>When I closed my eyes, my mind filled with dreams that tore at me like claws. I saw Wil&rsquo;s face, blood streaking his brow, his trembling lips shaping words of accusation I couldn&rsquo;t hear. I saw Sim, eyes wide and wet, looking more broken-hearted than betrayed. Then there was Denna&mdash;not as she was when I held her, but distant and unyielding, turning her back to me again and again, slipping further away no matter how hard I reached for her. She didn&rsquo;t need words to make me feel the weight of my failure. And Auri&mdash;Auri telling me to live. Her last words to me were the only warmth I felt in those dreams. The only thread that tied me back to the waking world.  </p>
 <p>On the third day, I came fully to myself. Denna&rsquo;s body was gone, the pyres cold, and the circle at the camp&rsquo;s center cleared away. I never learned where the Tahl had taken her. When I asked, they gestured vaguely, signs I barely understood. <em>Gone,</em> was all they could say. Whether this meant buried or burned, I would never know, and the not-knowing lodged itself like a thorn in my chest.  </p>
 <p>Part of me wanted to scour the camp for answers, to demand a way to say goodbye. But part of me knew that even if I found her grave, I might not rise again after kneeling there. And so, with Denna&rsquo;s shadow heavy in my heart, I left the Tahl.  </p>
@@ -3861,9 +3853,9 @@ function display_palette() {
 <p>&ldquo;That wasn&rsquo;t all I learned, Reshi,&rdquo; he said, flashing me a knowing grin. &ldquo;Auri is alive.&rdquo;  </p>
 <hr />
 <a name="CHAPTER_45"></a>
-<h1><big>C</big>HAPTER 45.</h1>
-<h2>ONCE KING, ALWAYS KING.</h2>
-<p><big>&ldquo;R</big>ESHI, IS THIS really necessary? It&rsquo;s colder than the Fae Queen&rsquo;s heart up here,&rdquo; Bast groused, hugging his arms tight against himself.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 45.</h1>
+<h2 class='chapter_subtitle'>ONCE KING, ALWAYS KING.</h2>
+<p class='no-indent'><big>&ldquo;R</big>ESHI, IS THIS really necessary? It&rsquo;s colder than the Fae Queen&rsquo;s heart up here,&rdquo; Bast groused, hugging his arms tight against himself.  </p>
 <p>"Shhh," I hissed, motioning for silence. My eyes stayed fixed on the streets below, scanning the trails of torchlight that wound through Renere&rsquo;s dark alleys.  </p>
 <p>The rooftop of the Counting House wasn&rsquo;t a comfortable perch. Loose tiles shifted underfoot, and the air was sharp with the bite of winter. But none of that mattered. Auri was out there somewhere.  </p>
 <p>&ldquo;She deserves better than this, Bast,&rdquo; I murmured.  </p>
@@ -3936,9 +3928,9 @@ function display_palette() {
 <p>"Take me home, Kvothe. Back to the Underthing, where everything is proper and safe and true.&rdquo;  </p>
 <hr />
 <a name="CHAPTER_46"></a>
-<h1><big>C</big>HAPTER 46.</h1>
-<h2>THE ILLUSION OF WHOLENESS.</h2>
-<p><big>W</big>E LEFT RENERE under a cloak of darkness, slipping through the eastern gate like shadows fleeing the light. Caesura was sheathed at my hip, its weight a cold reminder of everything I wanted to forget. I didn&rsquo;t look back for long. The city&rsquo;s walls loomed in the distance, pale and sharp as teeth in the night. It was a place that had gutted me, and I swore, as I turned my back on it, that I would never cross its threshold again.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 46.</h1>
+<h2 class='chapter_subtitle'>THE ILLUSION OF WHOLENESS.</h2>
+<p class='no-indent'><big>W</big>E LEFT RENERE under a cloak of darkness, slipping through the eastern gate like shadows fleeing the light. Caesura was sheathed at my hip, its weight a cold reminder of everything I wanted to forget. I didn&rsquo;t look back for long. The city&rsquo;s walls loomed in the distance, pale and sharp as teeth in the night. It was a place that had gutted me, and I swore, as I turned my back on it, that I would never cross its threshold again.  </p>
 <p>Bast led the way to the nearest Waystone, guiding Auri and me through unseen paths with the quiet confidence only he could muster. Crossing through the Waystone paths was a disjointed affair, the twists and turns feeling like someone had taken reality apart and put it back together wrong. Bast eased us through, and I trusted his guidance despite the unease curling at the edges of my awareness.  </p>
 <p>We emerged closer to Imre than I thought possible, stepping into a breeze as familiar as a forgotten melody. Stonebridge rose against the deep blue of the Omethi River, and the rustle of distant voices from the far bank reminded me of the life I had once known. For a fleeting moment, it felt like coming home. And then my stomach turned. It would never be the same. Wil and Sim were gone, and their absence shadowed every street and corner. The University, once a lantern lighting my way, now seemed like only dim and fading embers.  </p>
 <h3>* * *</h3>
@@ -3975,9 +3967,9 @@ function display_palette() {
 <p>I sat alone after he left, staring at the crooked shelf Auri had made for me. I thought of Wil and Sim, of Auri and Bast. And for the first time in weeks, though faint and thready, I felt the stirrings of something like hope. Something like strength.  </p>
 <hr />
 <a name="CHAPTER_47"></a>
-<h1><big>C</big>HAPTER 47.</h1>
-<h2>THE RECKONING.</h2>
-<p><big>T</big>HE UNDERTHING WAS no place for Bast. He was young and eager, restless and brimming with a hunger to <em>do</em>. Expecting him to cloister himself underground, even for my sake, was selfish and unfair. I told him as much. Reassured him that he was free to leave whenever the mood struck him. But he didn&rsquo;t.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 47.</h1>
+<h2 class='chapter_subtitle'>THE RECKONING.</h2>
+<p class='no-indent'><big>T</big>HE UNDERTHING WAS no place for Bast. He was young and eager, restless and brimming with a hunger to <em>do</em>. Expecting him to cloister himself underground, even for my sake, was selfish and unfair. I told him as much. Reassured him that he was free to leave whenever the mood struck him. But he didn&rsquo;t.  </p>
 <p>I knew why, of course. Bast was worried about me&mdash;not that I deserved it. He pretended at indifference most days, teasing me as he always had. But I could see it in the way his eyes lingered too long when he thought I wasn&rsquo;t looking, the way his words sometimes faltered mid-sentence.  </p>
 <p>I let him go topside as often as he liked, knowing he needed it. Auri had shown him the way&mdash;her strange paths through climbs and grates and hidden doors. Then, one Hepten morning, Bast came back too soon. His steps lacked their usual carefree bounce, and his bright smile had faded into something darker.  </p>
 <p>&ldquo;You look troubled,&rdquo; I said, blowing absently on a bowl of porridge. &ldquo;Anything the matter, Bast?&rdquo;  </p>
@@ -4042,9 +4034,9 @@ function display_palette() {
 <p>So, I ran.  </p>
 <hr />
 <a name="CHAPTER_48"></a>
-<h1><big>C</big>HAPTER 48.</h1>
-<h2>A TRAP OF MEMORY.</h2>
-<p><big>K</big>OTE SAT HUNCHED at the table, shoulders pulled inward as though sheltering from some unseen storm. Quietly, he nodded to himself before speaking, his voice burdened by the weight of memory. </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 48.</h1>
+<h2 class='chapter_subtitle'>A TRAP OF MEMORY.</h2>
+<p class='no-indent'><big>K</big>OTE SAT HUNCHED at the table, shoulders pulled inward as though sheltering from some unseen storm. Quietly, he nodded to himself before speaking, his voice burdened by the weight of memory. </p>
 <p>&ldquo;And the rest,&rdquo; Kote began, his voice dry as parchment, &ldquo;is just what you&rsquo;d imagine.&rdquo; His lips quirked into a ghost of a smile as though at some private jest. &ldquo;With a price on my head and folks poking their noses where they shouldn&rsquo;t, we disappeared.&rdquo;  </p>
 <p>&ldquo;Disguises,&rdquo; added Bast from the corner of the room, his tone tinged with distaste.  </p>
 <p>Disguises,&rdquo; Kote repeated, voice flat. He gave Chronicler a small, knowing look. &ldquo;Stolen names, shadows for companions. This time, I was searching for somewhere no one else would think to look&mdash;hidden in the teeth between nowhere and nothing.&rdquo;</p>
@@ -4151,9 +4143,9 @@ function display_palette() {
 <p>Kvothe stood, his back straightening fully as he turned to face the shadow that awaited him.  </p>
 <hr />
 <a name="CHAPTER_49"></a>
-<h1><big>C</big>HAPTER 49.</h1>
-<h2>TO ASH ALL THINGS RETURN.</h2>
-<p><big>C</big>INDER APPEARED, ONE step from the doorway, his dull grey sword in hand. His lips curled into an eerie half-smile, more wolf than man.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 49.</h1>
+<h2 class='chapter_subtitle'>TO ASH ALL THINGS RETURN.</h2>
+<p class='no-indent'><big>C</big>INDER APPEARED, ONE step from the doorway, his dull grey sword in hand. His lips curled into an eerie half-smile, more wolf than man.  </p>
 <p>"There you are, little rabbit," he said softly, voice as cold and thin as frost. "It&rsquo;s time you joined your parents."  </p>
 <p>I stood across the room, calm on the surface but raw beneath&mdash;anger, fear, and something sharper all tangled in my chest. My fingers brushed the scarred grain of the bar as I replied, the words coming with a steady precision. "Not yet," I said, voice laced with a taunting edge. "I've still something to show you."  </p>
 <p>Cinder tilted his head, pale locks catching the ebbing firelight, his dark, sunken eyes narrowing. "Such cowardice. If you won&rsquo;t come to me," he said, mockingly quiet, "then I shall come to you."  </p>
@@ -4219,9 +4211,9 @@ function display_palette() {
 <p>I stepped closer and, without a word, brought <em>Folly</em> down. The blade severed his hands cleanly at the wrist. Blood pooled around him as his shattered form collapsed further into the dirt.  </p>
 <hr />
 <a name="CHAPTER_50"></a>
-<h1><big>C</big>HAPTER 50.</h1>
-<h2>THE PROPER WAY.</h2>
-<p><big>W</big>HEN I STEPPED through the jagged wound in the Waystone Inn&rsquo;s wall, dragging it back into Temerant, the air outside clung to me. Sharp, cold, unnatural. Bast and Chronicler stood waiting, their faces full of questions.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 50.</h1>
+<h2 class='chapter_subtitle'>THE PROPER WAY.</h2>
+<p class='no-indent'><big>W</big>HEN I STEPPED through the jagged wound in the Waystone Inn&rsquo;s wall, dragging it back into Temerant, the air outside clung to me. Sharp, cold, unnatural. Bast and Chronicler stood waiting, their faces full of questions.  </p>
 <p>Bast broke the silence first, his voice tight. &ldquo;Kvothe&mdash;&rdquo;  </p>
 <p>I held up my ruined hand to stop him. The fresh wound throbbed, a steady pulse in time with my heart. &ldquo;Later,&rdquo; I said with a finality that left no room for argument. &ldquo;There&rsquo;ll be time enough for questions later. But now, there&rsquo;s this.&rdquo;</p>
 <p>I shrugged the heavy burlap sack higher onto my shoulder, feeling its damp weight shift slightly. The smell had settled in&mdash;iron and something darker, something cloying that turned in your stomach like sour milk.</p>
@@ -4250,9 +4242,9 @@ function display_palette() {
 <p>&ldquo;Get me the ladder,&rdquo; I said.  </p>
 <hr />
 <a name="CHAPTER_51"></a>
-<h1><big>C</big>HAPTER 51.</h1>
-<h2>A SILENCE OF THREE PARTS.</h2>
-<p><big>I</big>T WAS MORNING AGAIN. Dawn had crept quietly over the hills, painting the sky in soft hues of gray and gold, but the world itself seemed reluctant to wake. The town crouched on the horizon like a wounded beast, blackened scars visible even at a distance. Ash lingered in the air, so faint it was almost a memory. The road stretched wide and dry before us, open and empty, and in that emptiness lay silence&mdash;a silence of three parts.  </p>
+<h1 class='chapter_title'><big>C</big>HAPTER 51.</h1>
+<h2 class='chapter_subtitle'>A SILENCE OF THREE PARTS.</h2>
+<p class='no-indent'><big>I</big>T WAS MORNING AGAIN. Dawn had crept quietly over the hills, painting the sky in soft hues of gray and gold, but the world itself seemed reluctant to wake. The town crouched on the horizon like a wounded beast, blackened scars visible even at a distance. Ash lingered in the air, so faint it was almost a memory. The road stretched wide and dry before us, open and empty, and in that emptiness lay silence&mdash;a silence of three parts.  </p>
 <p>The first silence was the most obvious, sharp-edged and hollow. It was the silence of things lost and broken. Once, there might have been a crackling hearth here, its warm fingers plucking laughter and conversation from the throats of men and women. There might have been tankards clinking, chairs creaking, the fumbling, joyful notes of a fiddler&rsquo;s jig. But the inn was gone now&mdash;reduced to soot and rubble. No fire. No fiddler. No laughter. Where once there was noise and life, there was now only the brittle silence of their absence, loud and immense. I could feel it pressing against my skin like winter&rsquo;s first frost.  </p>
 <p>The second silence hung heavier, closer, as if the air itself held its breath in witness. It was the silence of the townsfolk who had come to grieve but found their grief too private, too raw to share. There had been no eulogy for the innkeeper, no flowers dropped like whispers onto a coffin, no songs sung for the dead. Most had simply come to gawk at the ruin, shuffling away with their heads down before the ashes could stain their memories too deeply. In their place they left behind only this&mdash;an unanswered quiet, deep as a well and cold as stone.   </p>
 <p>The third silence was the faintest and the truest, and it lay on my shoulders alone. It was harder to hear, though if someone listened closely, they might sense it curling in the stillness like smoke. It was not the silence of an empty road or an abandoned home. It was my silence: the stubborn, unyielding quiet of a man who had lost too much and held what little remained with trembling hands. A silence full of weight and sharp edges, older than I cared to admit.   </p>
@@ -4274,9 +4266,9 @@ function display_palette() {
 <p>The end.  </p>
 <hr />
 <a name="Epilogue"></a>
-<h1><big>E</big>PILOGUE.</h1>
-<h2>THE LAST NAME SPOKEN.</h2>
-<p><big>P</big>EHYN DREW A long breath, steadying herself. The morning air was sharp and cold, as if to remind her that the moment was real. Vashet had said she was ready, but doubt clung to her all the same. What if the words failed her? She&rsquo;d practiced until her throat burned, repeating the Atas under her breath even in the dark of night. Still, Vashet&rsquo;s teasing words rang in her head: &ldquo;Three days was all it took, once.&rdquo; Pehyn had said nothing, but her cheeks had flushed in quiet frustration.  </p>
+<h1 class='chapter_title'><big>E</big>PILOGUE.</h1>
+<h2 class='chapter_subtitle'>THE LAST NAME SPOKEN.</h2>
+<p class='no-indent'><big>P</big>EHYN DREW A long breath, steadying herself. The morning air was sharp and cold, as if to remind her that the moment was real. Vashet had said she was ready, but doubt clung to her all the same. What if the words failed her? She&rsquo;d practiced until her throat burned, repeating the Atas under her breath even in the dark of night. Still, Vashet&rsquo;s teasing words rang in her head: &ldquo;Three days was all it took, once.&rdquo; Pehyn had said nothing, but her cheeks had flushed in quiet frustration.  </p>
 <p>Her mother waited for her outside, wrapped in white, sharp-featured and steady as weathered stone. Penthe&rsquo;s hands rose, asking a silent question: <em>Are you ready?</em> Pehyn nodded, though the motion felt heavier than she expected. Penthe tilted her chin in the barest approval and turned, leading her daughter through Haert&rsquo;s winding streets.  </p>
 <p>The pathway beneath their feet was ancient, pale stones smoothed with use. Shadows played across the old village walls as the sun broke higher. The breeze teased Pehyn&rsquo;s hair, red as flame, and for a fleeting moment, she imagined herself something closer to courage.</p>
 <h3>* * *</h3>
@@ -4295,19 +4287,19 @@ function display_palette() {
 <p>Pehyn followed her mother home, her legs steady now, her shadow no longer dancing ahead but moving alongside her own.  </p>
 <hr />
 <a name="Appendix"></a>
-<h1><big>A</big>PPENDIX.</h1>
-<h2>COLLABORATIVE MANUSCRIPT</h2>
-<p><big>T</big>he living workspace containing the latest changes.  </p>
+<h1 class='chapter_title'><big>A</big>PPENDIX.</h1>
+<h2 class='chapter_subtitle'>COLLABORATIVE MANUSCRIPT</h2>
+<p class='no-indent'><big>T</big>he living workspace containing the latest changes.  </p>
 <ul>
 <li>https://github.com/frypatch/The-Price-of-Remembering</li>
 </ul>
-<h2>ORIGINAL MANUSCRIPT</h2>
-<p><big>T</big>acticalDo's original fan fiction release.  </p>
+<h2 class='chapter_subtitle'>ORIGINAL MANUSCRIPT</h2>
+<p class='no-indent'><big>T</big>acticalDo's original fan fiction release.  </p>
 <ul>
 <li>https://www.reddit.com/r/KingkillerChronicle/comments/1dgnqjd/the_price_of_remembering_bk3_fan_fiction_release/</li>
 </ul>
-<h2>SOURCES AND CITATIONS</h2>
-<p><big>D</big>evi, behind FPD is knowledge, K&rsquo;s heart&rsquo;s desire.  </p>
+<h2 class='chapter_subtitle'>SOURCES AND CITATIONS</h2>
+<p class='no-indent'><big>D</big>evi, behind FPD is knowledge, K&rsquo;s heart&rsquo;s desire.  </p>
 <ul>
 <li>https://old.reddit.com/r/KingkillerChronicle/comments/6vmwt9/final_theory_before_i_head_off_to_vintasthe_story/</li>
 </ul>
@@ -4391,7 +4383,7 @@ function display_palette() {
 <ul>
 <li>https://www.reddit.com/r/KingkillerChronicle/comments/gcv88c/is_there_a_list_of_chapters_for_the_present_day</li>
 </ul>
-<h2>CAST</h2>
+<h2 class='chapter_subtitle'>CAST</h2>
 <h3>(in order of appearance)</h3>
 <ul>
 <li>Kvothe - custom</li>
@@ -4429,9 +4421,9 @@ function display_palette() {
 </ul>
 <hr />
 <a name="Notes"></a>
-<h1><big>N</big>OTES.</h1>
-<h2>BOOK 3 PLOT POINTS ADDRESSED</h2>
-<p><big>T</big>wenty things stand before, the beginning of book four:</p>
+<h1 class='chapter_title'><big>N</big>OTES.</h1>
+<h2 class='chapter_subtitle'>BOOK 3 PLOT POINTS ADDRESSED</h2>
+<p class='no-indent'><big>T</big>wenty things stand before, the beginning of book four:</p>
 <ul>
 <li>How Kvothe got to Newarre and became Kote <em>(see chapter 47/48)</em></li>
 <li>Where/what are the Human Amyr and what became of them <em>(28)</em></li>
@@ -4454,7 +4446,7 @@ function display_palette() {
 <li>Who betrays Kvothe - The Maer <em>(35)</em> and to a lesser extent Denna</li>
 <li>What is the significance of the Lackless Rhyme. <em>(39)</em> Seven things stand before The entrance to the Lackless door, One of them a ring unworn (The ring of unearthed standing stones that form the portal), One a word that is forsworn, (Denna made to sing out a phrase to unlock the door, one of the reasons she was being trained by Cinder), One a time that must be right (phase of the moon, has to be a full moon(seems more poetic that way)), One a candle without light (Haliax&rsquo;s negative light candle which reveals the standing stones that are the Doors of Stone) One a son who brings the blood (Kvothe is a lackless heir his blood opens the Loeclos box), One a door that holds the flood, (the Doors of Stone are the cell doors constructed at Drossen Tor imprisoning Iax and his shaped army, opening them allows Iax and his army to flood out into Temerant) One a thing tight-held in keeping (the Loeclos box), Then comes that which comes with sleeping.(I suspect this involves needing to sleep/dream to open the DoS somehow, maybe passing through Faeriniel, however there isn't enough info to go on, and it is just another impediment to opening the doors, which is the main plot point, so i&rsquo;ve unfortunately opted to skip it)</li>
 </ul>
-<h2>PERCEIVED CHAIN OF EVENTS</h2>
+<h2 class='chapter_subtitle'>PERCEIVED CHAIN OF EVENTS</h2>
 <p><strong>Source:</strong></p>
 <ul>
 <li>https://www.reddit.com/r/KingkillerChronicle/comments/1i6vq6c/a_beginning/</li>
@@ -4517,7 +4509,7 @@ function display_palette() {
 <p>With Aleph being the original creator/shaper of man, and thus having sway in how they are treated. We know from Felurian that mankind didn't exist at one stage, so why would they become embroiled in a war with the Shapers unless possibly forced or tricked into it by the Ruarch?</p>
 <p>Where Tehlu states: "I will leave this world behind so that I might better serve it, serving you.&rdquo; This would imply the Ruarch come from another world, and via a means (implied immaculate conception based on Trapis's tale) are able to access Temerant. I wonder if Lanre learnt this. Possibly from Lyra?</p>
 <p>Lyra was probably of the Ruarch (see Laniel young again), and sought Aleph's council in order to obtain better conditions for humanity, however the other Ruarch murdered her, so they could retain the status quo. This being the final straw for Lanre who then started the rebellion. Which is referenced here as a betrayal, the idea that a mere human, a lesser race, would oppose them.</p>
-<h2>RATIONAL BEHIND CERTAIN PLOT CHOICES</h2>
+<h2 class='chapter_subtitle'>RATIONAL BEHIND CERTAIN PLOT CHOICES</h2>
 <ul>
 <li>As Pat doesn't strike me as the sort to write one-dimensional, good-vs-evil characters, it was important to give the Chandrian justification and some form of redemption. This is backed up by Denna&rsquo;s song, which appears to indicate that the Chandrian, or at least some of them, want to set the historical record straight. They feel slighted.</li>
 <li>Though I agree there is some merit that Denna is a Lackless, ( see https://www.reddit.com/r/KingkillerChronicle/comments/1pvew4/is_denna_a_lackless_long_post_spoilers/?utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=KingkillerChronicle&amp;utm_content=t1_e7ityff) I really hope Pat doesn&rsquo;t opt to go in this direction, and thus ruled it out.</li>
@@ -4525,7 +4517,7 @@ function display_palette() {
 <li>Kvothe is descended from Iax on his mother&rsquo;s side, again I hope there isnt any any substance around Iax somehow raping Laurian/Netalia from beyond the Doors of Stone. It would get really messy if the plot goes in that direction. Also the text clearly implies Kvothe resembles both Laurian and Arliden. Mother's eyes. Father's hands and voice.</li>
 <li>What's in the box; I like Zhorangi&rsquo;s theory Auri is in the Waystone, and maybe in the box, but it's really hard to write that in a way that doesn't come off as stupid. So went with the implication that he may have retrieved a part of himself and his shaed which has now healed.</li>
 </ul>
-<h2>ELEMENTS I CONSIDERED CHANGING</h2>
+<h2 class='chapter_subtitle'>ELEMENTS I CONSIDERED CHANGING</h2>
 <ul>
 <li>This one only came to recently and I would change it if I wasn't so near completion, inside the Lackless box is the moonshard used to bind the moon to the Fae realm, this is said to be Iax/Jax&rsquo;s greatest desire, Haliax bargains it to Iax in return for freeing him from life.</li>
 <li>https://www.reddit.com/r/KingkillerChronicle/comments/le2ucq/severen_is_located_where_myr_tyraniel_used_to_be/ This thread makes a great case for Severen being Myr Taraniel and the seat of original power for the Amyr possibly, could have had Dagon reveal the human chapter are within Severen still, Instead of having him ride slightly further out to the Leveritis.</li>
@@ -4547,7 +4539,7 @@ function display_palette() {
 <li>Scene with Manet when he takes up the Master&rsquo;s chair.</li>
 <li>Scene near the end before nightfall and Cinder arrives where Kote shaves, maybe add a line about it being proper to be clean shaven in some cultures before death.</li>
 </ul>
-<h2>ALTERNATE ENDINGS</h2>
+<h2 class='chapter_subtitle'>ALTERNATE ENDINGS</h2>
 <ul>
 <li>All the Chandrian come to the Waystone, but Kvothe has more help waiting in secret, i.e. Elodin, Auri, Devi possibly ect.</li>
 <li>In his battle with Cinder, Kvothe blows a horn in the Fae which summons the Scythe who in turn take Cinder.</li>

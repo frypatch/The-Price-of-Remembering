@@ -1,0 +1,29 @@
+.book_cover {
+    aspect-ratio: 512/917;
+    height: auto;
+    max-width: 100%;
+    width: 100%;
+}
+blockquote {
+    border-left: 3px solid; /* Adds a left border */
+    margin-left: 1em; /* Creates a left margin */
+    padding: 10px; /* Adds padding inside the blockquote */
+}
+body {
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 32em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+body {
+    /* Better Hyphens */
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
