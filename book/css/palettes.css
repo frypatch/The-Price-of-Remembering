@@ -1,0 +1,38 @@
+/* default-palette */
+body {
+  background-color: #b6ab90;
+  color: black;
+}
+body a:link {
+  color: #174ea6; /* Deep Blue for tan backgrounds */  
+  text-decoration: underline;  
+}
+body a:visited {  
+  color: #823173; /* Plumb for visited links */  
+}
+body a:hover, a:focus {
+  color: #c05c21; /* Brick/Orange for active clicks */  
+  text-decoration: underline;  
+}
+body a:active {  
+  color: #6a8019; /*  Olive green for hover/focus */  
+}
+/* night-palette */
+.night-palette {
+  background-color: #21252b;
+  color: #999999;
+}
+.night-palette a:link {
+  color: #4ea1ff; /* Soft blue for dark backgrounds */  
+  text-decoration: underline;  
+}
+.night-palette a:visited {  
+  color: #9a79ff; /* Purple-ish for visited links */  
+}
+.night-palette a:hover, a:focus {  
+  color: #90dbff; /* Light cyan for hover/focus */  
+  text-decoration: underline;  
+}
+.night-palette a:active {  
+  color: #ffd166; /* Yellow-ish for active clicks */  
+}

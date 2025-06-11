@@ -8,6 +8,7 @@ import json
 import re
 import datetime
 import hashlib
+from xhtml2pdf import pisa
 
 ##########################################################
 ## mark2epub
@@ -60,17 +61,20 @@ def publish():
     ## Now updating the sitemap
     update_xml_sitemap()
     ######################################################
-    ## Now creating the txt book
+    ## Now creating the text book
     publish_txt_book()
     ######################################################
-    ## Now creating the md book
+    ## Now creating the makrdown book
     publish_md_book()
     ######################################################
-    ## Now creating the html book
+    ## Now creating the HTML book
     publish_html_book()
     ######################################################
     ## Now creating the ePUB book
-    publish_epub_book()    
+    publish_epub_book()
+    ######################################################
+    ## Now creating the PDF book
+    publish_pdf_book()
     ######################################################
     ## Success!
     print("INFO: eBook creation complete")
@@ -202,6 +206,14 @@ def publish_txt_book():
             markdown_data = get_chapter_MD(chapter_md_filename)
             txt_data += get_chapter_TXT(markdown_data)
         txt_data += "\n\n\n\n"
+    txt_data = txt_data.replace("“", '"')
+    txt_data = txt_data.replace("”", '"')
+    txt_data = txt_data.replace("‘", "'")
+    txt_data = txt_data.replace("’", "'")
+    txt_data = txt_data.replace("–", "-")
+    txt_data = txt_data.replace("—", "-")
+    txt_data = txt_data.replace("…", "...")
+    txt_data = txt_data.replace("* * *", "***")
     txt_file = open(os.path.join(build_dir, output_filename + ".txt"), "w")
     txt_file.write(txt_data)
     txt_file.close()
@@ -230,7 +242,7 @@ def publish_md_book():
     ## Now creating the MD book
     md_page_break = "\n\n\n\n--------------------\n\n\n\n"
     md_data = ""
-    md_data += """![{}](book/images/cover.jpg)""".format(dc_title)
+    md_data += """![Cover]({}book/images/cover.jpg)""".format(website)
     md_data += md_page_break
     for chapter_md_filename in chapter_md_filenames():
         if chapter_md_filename == "Contents.md":
@@ -240,6 +252,13 @@ def publish_md_book():
         else:
             md_data += get_chapter_MD(chapter_md_filename).strip('\n')
         md_data += md_page_break
+    md_data = md_data.replace("“", '"')
+    md_data = md_data.replace("”", '"')
+    md_data = md_data.replace("‘", "'")
+    md_data = md_data.replace("’", "'")
+    md_data = md_data.replace("–", "-")
+    md_data = md_data.replace("—", "-")
+    md_data = md_data.replace("…", "...")
     md_file = open(os.path.join(build_dir, output_filename + ".md"), "w")
     md_file.write(md_data)
     md_file.close()
@@ -250,7 +269,7 @@ def publish_html_book():
     ######################################################
     ## Create the HTML book CSS
     all_css = ""
-    for css_filename in ["general", "chapter", "index"]:
+    for css_filename in ["general", "chapter", "webpage", "palettes"]:
         with open(os.path.join(work_dir, "css", css_filename + ".css"),"r") as some_css:
             all_css += some_css.read().strip() + "\n"
     ######################################################
@@ -340,10 +359,11 @@ function display_palette() {
 <script>
     display_palette();
 </script>
+<a name="Cover"></a>
 <picture>
-  <source srcset="book/media/cover.avif" type="image/avif">
-  <source srcset="book/images/cover.jpg" type="image/jpeg">
-  <img class="book_cover" src="book/media/cover.jpg" alt="''' + dc_title + '''">
+  <source srcset="''' + website + '''book/media/cover.avif" type="image/avif">
+  <source srcset="''' + website + '''book/images/cover.jpg" type="image/jpeg">
+  <img class="book_cover" src="''' + website + '''book/media/cover.png" alt="Cover">
 </picture>
 <hr />
 <a name="Settings"></a>
@@ -375,7 +395,64 @@ function display_palette() {
     html_file = open("index.html", "w")
     html_file.write(html_data)
     html_file.close()
+    html_file = open(os.path.join(build_dir, output_filename + ".html"), "w")
+    html_file.write(html_data)
+    html_file.close()
 
+##########################################################
+def publish_pdf_book():
+    ######################################################
+    ## Create the HTML book CSS
+    all_css = ""
+    for css_filename in ["general", "chapter", "webpage", "pdf"]:
+        with open(os.path.join(work_dir, "css", css_filename + ".css"),"r") as some_css:
+            all_css += some_css.read().strip() + "\n"
+    ######################################################
+    ## Now creating the HTML book
+    html_data_page_break = "<pdf:nextpage></pdf:nextpage>\n"
+    html_page_anchor_template = html_data_page_break + """<a name="{}"></a>"""
+    html_toc = '''
+<h1><big>C</big>ontents.</h1>
+<div>
+    <pdf:toc></pdf:toc>
+</div>'''
+    html_data = '''<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="ISO-8859-1">
+<style>
+''' + all_css + '''
+@page {
+    size: a5 portrait;
+    background-image: url("''' + os.path.abspath(os.path.join("book", "images", "cover.jpg")) + '''");
+    background-width: 148mm; /* A5 width */
+    background-height: 210mm; /* A5 height */
+    background-page-step: 10000;
+    margin: .5in;
+}
+</style>
+</head>
+<body>
+<a name="Cover"></a>
+'''
+    for chapter_md_filename in chapter_md_filenames():
+        filename, extension = os.path.splitext(chapter_md_filename)
+        html_data += "\n" + html_page_anchor_template.format(filename)
+        if chapter_md_filename == "Contents.md":
+            html_data += html_toc
+        else:
+            html_data += "\n" + get_chapter_HTML(get_chapter_MD(chapter_md_filename))
+    html_data += "\n</body>"
+    html_data += "\n</html>"
+    html_data = html_data.replace("“", "&ldquo;")
+    html_data = html_data.replace("”", "&rdquo;")
+    html_data = html_data.replace("‘", "&lsquo;")
+    html_data = html_data.replace("’", "&rsquo;")
+    html_data = html_data.replace("–", "&mdash;")
+    html_data = html_data.replace("—", "&mdash;")
+    html_data = html_data.replace("…", "&hellip;")
+    with open(os.path.join(build_dir, output_filename + ".pdf"), "wb") as file:
+        pdf = pisa.CreatePDF(html_data, file)
 
 ##########################################################
 def publish_epub_book():
@@ -767,6 +844,13 @@ def get_chapter_HTML(markdown_data):
               "<big>C</big>"
            )
     )
+    html_text = (
+        html_text
+          .replace(
+            "<h2>",
+            "<h2 class='chapter_subtitle'>",
+          )
+    )
     for c in ("ABCDEFGHIJKLMNOPQRSTUVWXYZ"):
       html_text = (
         html_text
@@ -778,17 +862,17 @@ def get_chapter_HTML(markdown_data):
               "<big>R</big>"
           )
           .replace(
-            "<h1>"+c,
-            "<h1><big>"+c+"</big>")
-          .replace(
             "</h2>\n<p>"+c,
-            "</h2>\n<p><big>"+c+"</big>")
+            "</h2>\n<p class='no-indent'><big>"+c+"</big>")
           .replace(
             "</h2>\n<p>\""+c,
-            "</h2>\n<p><big>\""+c+"</big>")
+            "</h2>\n<p class='no-indent'><big>\""+c+"</big>")
           .replace(
             "</h2>\n<p>“"+c,
-            "</h2>\n<p><big>“"+c+"</big>")
+            "</h2>\n<p class='no-indent'><big>“"+c+"</big>")
+          .replace(
+            "<h1>"+c,
+            "<h1 class='chapter_title'><big>"+c+"</big>")
       )
     return html_text
 

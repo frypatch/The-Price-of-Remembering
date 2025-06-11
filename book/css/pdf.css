@@ -1,0 +1,33 @@
+body {
+    font-size: 14px;
+    padding-left: 0em;
+    padding-right: 0em;
+}
+body {
+    /* Better Hyphens */
+    -epub-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+h1, h2, h3, h4, h5, h6 {
+  -pdf-outline: false;
+  -pdf-outline-open: false;
+}
+.chapter_title {
+  -pdf-outline: true;
+  -pdf-outline-level: 0;
+}
+.chapter_subtitle {
+  -pdf-outline: true;
+  -pdf-outline-level: 1;
+}
+pdftoc.pdftoclevel0 {
+    margin-left: 1em;
+}
+pdftoc.pdftoclevel1 {
+    margin-left: 2em;
+}

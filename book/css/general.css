@@ -25,9 +25,7 @@ p {
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
   hyphens: auto;
-  hyphenate-after: 3;
-  hyphenate-before: 3;
-  hyphenate-lines: 2;
+  hyphenate-limit-chars: 6 3 3; /* Hyphenate words with 6 or more characters, with at least 3 characters before and 3 after the hyphen. */
   -webkit-hyphenate-after: 3;
   -webkit-hyphenate-before: 3;
   -webkit-hyphenate-lines: 2;
