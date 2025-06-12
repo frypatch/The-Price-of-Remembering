@@ -21,10 +21,7 @@ from xhtml2pdf import pisa
 work_dir = "book"
 build_dir = "published_versions"
 today = datetime.date.today()
-publish_date = """{}-{}-{}""".format(
-    today.year, 
-    str(today.month).zfill(2), 
-    str(today.day).zfill(2))
+publish_date = datetime.date.today().strftime('%Y-%m-%d')
 publish_version = """{}.{}.{}""".format(
     today.year-2022, 
     str(today.month).zfill(2), 
@@ -38,9 +35,9 @@ dc_subject = json_metadata["dc:subject"].replace('"', '')
 dc_rights = json_metadata["dc:rights"].replace('"', '')
 dc_publisher = json_metadata["dc:publisher"].replace('"', '')
 dc_source = json_metadata["dc:source"]
-isbn_msg = dc_title.lower().replace('"', '').replace("'", "").replace(";", "").replace(":", "").replace(" ", "-") + "-v" + publish_version
+isbn_msg = dc_title.lower().replace('"', '').replace("'", "").replace(";", "").replace(":", "").replace(",", "").replace(" ", "-") + "-v" + publish_version
 isbn = hashlib.sha1(isbn_msg.encode()).hexdigest()
-output_filename = dc_title.replace('"', '').replace("'", "").replace(";", "").replace(":", "").replace(" ", ".") + ".-.V" + publish_version
+output_filename = dc_title.replace('"', '').replace("'", "").replace(";", "").replace(":", "").replace(",", "").replace(" ", ".") + ".-.V" + publish_version
 website = dc_source
 
 ##########################################################
@@ -897,20 +894,19 @@ def get_chapter_XML(markdown_data,css_filenames):
 
 def get_sitemap_XML():
     ## Returns the XML sitemap data
-    lastmod = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d')
     all_xhtml = """<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">"""
     all_xhtml += """
   <url>
     <loc>{}</loc>
     <lastmod>{}</lastmod>
-  </url>""".format(website, lastmod)
+  </url>""".format(website, publish_date)
     locs = ["Cover_Page", "Resources"]
     for entry in get_TOC_dict()["entries"]:
         locs.append(entry["filename"])
     for loc in locs:
         epoch_seconds = os.path.getmtime(os.path.join(work_dir, loc + ".md"))
-        lastmod = datetime.datetime.fromtimestamp(epoch_seconds, datetime.UTC).strftime('%Y-%m-%d')
+        lastmod = datetime.datetime.fromtimestamp(epoch_seconds).strftime('%Y-%m-%d')
         all_xhtml += """
   <url>
     <loc>{}{}/{}.html</loc>
