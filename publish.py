@@ -38,9 +38,9 @@ dc_subject = json_metadata["dc:subject"].replace('"', '')
 dc_rights = json_metadata["dc:rights"].replace('"', '')
 dc_publisher = json_metadata["dc:publisher"].replace('"', '')
 dc_source = json_metadata["dc:source"]
-isbn_msg = dc_title.lower().replace('"', '').replace("'", "").replace(";", "").replace(":", "").replace(" ", "-") + "-v" + publish_version
+isbn_msg = dc_title.lower().replace('"', '').replace("'", "").replace(";", "").replace(":", "").replace(",", "").replace(" ", "-") + "-v" + publish_version
 isbn = hashlib.sha1(isbn_msg.encode()).hexdigest()
-output_filename = dc_title.replace('"', '').replace("'", "").replace(";", "").replace(":", "").replace(" ", ".") + ".-.V" + publish_version
+output_filename = dc_title.replace('"', '').replace("'", "").replace(";", "").replace(":", "").replace(",", "").replace(" ", ".") + ".-.V" + publish_version
 website = dc_source
 
 ##########################################################
