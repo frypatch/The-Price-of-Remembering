@@ -256,7 +256,7 @@ def publish_md_book():
     md_data = md_data.replace("–", "-")
     md_data = md_data.replace("—", "-")
     md_data = md_data.replace("…", "...")
-    md_file = open(os.path.join(release_dir, output_filename + ".md"), "w")
+    md_file = open(os.path.join(release_dir, output_filename + ".md.txt"), "w")
     md_file.write(md_data)
     md_file.close()
 
@@ -908,7 +908,7 @@ def get_sitemap_XML():
   </url>""".format(website, release_dir, output_filename, publish_version, publish_date)
     all_xhtml += """
   <url>
-    <loc>{}{}/{}.-.V{}.md</loc>
+    <loc>{}{}/{}.-.V{}.md.txt</loc>
     <lastmod>{}</lastmod>
   </url>""".format(website, release_dir, output_filename, publish_version, publish_date)
     locs = ["Cover_Page", "Resources"]
