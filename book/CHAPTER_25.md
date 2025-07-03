@@ -199,23 +199,39 @@ I took it anyway. The Maer’s court was a knife edge. And I’d be treadding it
 
 ### * * *
 
-On our way back to the inn, we passed a place that didn’t so much beckon as lean. A bar stooped low against the street, its timbers warped and crooked as a drunkard’s grin. The windows wore a fog of old smoke and older whispers, curling up to rest against the ceiling like lazy ghosts with no one left to haunt.
+On our way back to the inn, we passed a place that leaned into the street instead of calling us in. It huddled there, the roof sagging and the door a halfhearted apology to the night. Smoke fogged the windows, soft and stained with years of laughter, the dust of old hopes. A bar that wore its age openly. Inside, the glow of oil lamps curled against the glass and spilled golden pools onto crooked tables.
 
-We stepped inside, guided by the sort of whim that always seems to know precisely when to tug at your coat. Bast halted in mid-step, his eyes drawn to something in the corner. There sat a vessel made of glass and brass, its form twisting upward in a shape that might have been inspired by a chimera's wild imagining. It stood tall and coiled, glowing from within where slow-burning charcoal cast a gentle, restless light.
+I hesitated in the streetlight, letting the hush of evening settle on my shoulders. There are places in every town where the sharp scent of tobacco and cinnamon clings to the stones, and laughter hangs thick as honey in the air. I have seen such places, and always watched from the street, a passerby pretending not to stare. That changed with Bast.
 
-“What’s that?” he asked, tilting his head like a crow watching a ring glint in the dust.
+He saw me hesitate and gave me that fox-bright grin. Mischief already shining in his eyes.
 
-“A hookah,” I said. The words did not really answer the question. I explained it as I always did, weaving together half-truth and poetry. I spoke of water mingling with heat, of smoke and flame curling and coiling together. By the time I finished, Bast’s grin had grown impossibly wide. It was the kind of smile a boy wears the first time someone places a blade in his hand. He drew in a deep breath, then coughed so hard it almost seemed like a performance, and laughed so brightly and suddenly that the whole bar turned to look.
+“You’ve never been in a smokehouse, Reshi?” His voice was soft, playful. The question more a dare than a curiosity.
 
-“Mortals make the strangest things,” he said once he caught his breath. “These were mentioned in the ‘Celum Tinture’, you know. A glass heart that breathes, gifted to men by a fae who thought them too glum.”
+I shook my head, feeling like a boy caught peeking into a cabinet meant for grown men. “It always seemed a little much. Too fine for a trouper. Too easy an invitation to spend coin I never had.”
 
-It was then the men at the table across the room began to mutter, their voices low and sharp as flint. The biggest of them lumbered over, his eyes flicking between the hookah and Bast’s unearthly beauty. “Pretty boys like you don’t belong here,” he growled, reaching out to shove him.
+Bast’s smile grew wider, all milk teeth. “Oh, Reshi, you must. It’s a wicked thing. Delightful.” He leaned in, confiding. “I once spent a week in a place like this with three bottles of plum wine and two girls with clever hands. We smoked until dawn came crawling up the wall.” His eyes sparkled with impossible mischief. “We started a minor scandal and two marriage proposals. Maybe three. Time grows strange round a good smokehouse.”
 
-I stepped between them, my voice soft, precise, and edged like a whetted blade. “It might be best if you went back to your table,” I said, looking him dead in the eye. He hesitated long enough for the others to lose their nerve and drag him away.
+He laughed, an easy, musical sound. “If you won’t go in for yourself, will you go in for me? It’s been too long, and a man needs his vices.” He tugged at my sleeve, a gentle mockery of reluctance. I followed, knowing already my resistance was only for show—a wall of straw against Bast’s quick fire.
 
-Later, when the quiet returned, Bast’s golden eyes turned to mine. “Thank you, Reshi,” he said, quiet but warm.
+Inside, the air was all velvet and smoke, thick as a crooked promise. Screens softened the light, and corners unfolded like secrets. Hookahs coiled on the tables, glass bellies lit with low, restless embers.
 
-“And what does that mean, then?” I asked, the word curling like the smoke between us.
+Bast signaled for service with the confidence of one who has known the price of everything and paid it in laughter. He filled the pipe with deft hands and drew a breath so deep it might reach the back of the world. The smoke left his lips in pale rivers.
+
+“Did you know,” I said, keeping my voice soft, letting the moment gather weight, “that the old stories say the first hookah was a gift from the fae? They call it a glass heart that breathes. It was said to be given to mortal men, to ease their winter gloom.”
+
+Bast startled, a breath freezing on his lips, watching me with gold-flecked eyes. For a heartbeat he seemed the apprentice again, hungry for tales. “Is that so?”
+
+“So they say.” I shrugged, letting the story do its work. “But stories lie, now and then.”
+
+Before Bast could answer, a table across the room erupted in mutters. The biggest of them stood, heavy and mean, his eyes flickering from the shining hookah to Bast’s too-bright smile. “Pretty boys like you don’t belong here,” he growled, hand half-raised.
+
+Bast only smiled, all innocence and moonlight, but I stood and let my words fall softly, each one sharp as a new-minted coin. “It’s late. Go back to your table, and let the world turn as it should.”
+
+For a moment, resistance in him like a bent bow. But I have a way with words, and he let them carry him back.
+
+Later, when the quiet returned, Bast turned those impossibly old, impossibly young eyes on me. “Thank you, Reshi,” he said, warmth and mischief and something softer tucked in behind.
+
+I arched an eyebrow, letting the silence curl like smoke between us. “And what does that mean, then?”
 
 Bast’s grin turned sly as a fox’s. “It means the cleverest of clever. The perfect friend. The fucking boss.”
 
