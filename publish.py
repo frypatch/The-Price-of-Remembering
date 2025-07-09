@@ -20,7 +20,6 @@ from xhtml2pdf import pisa
 ## global variables
 work_dir = "book"
 build_dir = "published_versions"
-release_dir = "releases"
 today = datetime.date.today()
 publish_date = datetime.date.today().strftime('%Y-%m-%d')
 publish_version = """{}.{}.{}""".format(
@@ -48,6 +47,10 @@ def publish():
     ## Now creating build directory (if it doesn't exist)
     if not os.path.exists(build_dir):
       os.makedirs(build_dir)
+    ######################################################
+    ## Now creating build version directory (if it doesn't exist)
+    if not os.path.exists(os.path.join(build_dir, publish_version)):
+      os.makedirs(os.path.join(build_dir, publish_version))
     ######################################################
     ## Now updating book/CONTENTS.md
     update_md_contents()
@@ -211,7 +214,7 @@ def publish_txt_book():
     txt_data = txt_data.replace("—", "-")
     txt_data = txt_data.replace("…", "...")
     txt_data = txt_data.replace("* * *", "***")
-    txt_file = open(os.path.join(release_dir, output_filename + ".txt"), "w")
+    txt_file = open(os.path.join(build_dir, publish_version, output_filename + ".txt"), "w")
     txt_file.write(txt_data)
     txt_file.close()
 
@@ -256,7 +259,7 @@ def publish_md_book():
     md_data = md_data.replace("–", "-")
     md_data = md_data.replace("—", "-")
     md_data = md_data.replace("…", "...")
-    md_file = open(os.path.join(release_dir, output_filename + ".md.txt"), "w")
+    md_file = open(os.path.join(build_dir, publish_version, output_filename + ".md"), "w")
     md_file.write(md_data)
     md_file.close()
 
@@ -392,7 +395,7 @@ function display_palette() {
     html_file = open("index.html", "w")
     html_file.write(html_data)
     html_file.close()
-    html_file = open(os.path.join(build_dir, output_filename + ".-.V" + publish_version + ".html"), "w")
+    html_file = open(os.path.join(build_dir, publish_version, output_filename + ".html"), "w")
     html_file.write(html_data)
     html_file.close()
 
@@ -448,7 +451,7 @@ def publish_pdf_book():
     html_data = html_data.replace("–", "&mdash;")
     html_data = html_data.replace("—", "&mdash;")
     html_data = html_data.replace("…", "&hellip;")
-    with open(os.path.join(build_dir, output_filename + ".-.V" + publish_version + ".pdf"), "wb") as file:
+    with open(os.path.join(build_dir, publish_version, output_filename + ".pdf"), "wb") as file:
         pdf = pisa.CreatePDF(html_data, file)
 
 ##########################################################
@@ -490,7 +493,7 @@ def publish_epub_book():
         toc_md += """\n"""
     ######################################################
     ## Now creating the ePUB book
-    with zipfile.ZipFile(os.path.join(build_dir, output_filename + ".-.V" + publish_version + ".epub"), "w" ) as myZipFile:
+    with zipfile.ZipFile(os.path.join(build_dir, publish_version, output_filename + ".epub"), "w" ) as myZipFile:
 
         ## First, write the mimetype
         myZipFile.writestr("mimetype","application/epub+zip", zipfile.ZIP_DEFLATED )
@@ -825,7 +828,7 @@ def get_chapter_HTML(markdown_data):
           "<h1>THE KINGKILLER C",
           "<h1>" +
               "<big>T</big>HE " +
-              "<big>K</big>INGKILLRR " +
+              "<big>K</big>INGKILLER " +
               "<big>C</big>"
            )
         .replace(
@@ -901,16 +904,6 @@ def get_sitemap_XML():
     <loc>{}</loc>
     <lastmod>{}</lastmod>
   </url>""".format(website, publish_date)
-    all_xhtml += """
-  <url>
-    <loc>{}{}/{}.-.V{}.txt</loc>
-    <lastmod>{}</lastmod>
-  </url>""".format(website, release_dir, output_filename, publish_version, publish_date)
-    all_xhtml += """
-  <url>
-    <loc>{}{}/{}.-.V{}.md.txt</loc>
-    <lastmod>{}</lastmod>
-  </url>""".format(website, release_dir, output_filename, publish_version, publish_date)
     locs = ["Cover_Page", "Resources"]
     for entry in get_TOC_dict()["entries"]:
         locs.append(entry["filename"])

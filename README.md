@@ -1,4 +1,4 @@
-![The Price of Remembering; Or, The Doors of Stone Speculative Musings: The Kingkiller Chronicle Day Three](book/images/cover.jpg)
+![The Kingkiller Chronicle Day Three](book/images/cover.jpg)
 
 # THE PRICE OF REMEMBERING
 
@@ -10,7 +10,7 @@
 
 **NOT PATRICK ROTHFUSS**
 
-**VERSION 3.07.02**
+**VERSION 3.07.08**
 
 ## THE KINGKILLER CHRONICLE
 
@@ -72,11 +72,11 @@ That all said, please enjoy.
 ## RESOURCES.
 
 
-* [HTML](https://frypatch.github.io/The-Price-of-Remembering/) ~ 650KB
-* [EPUB](https://github.com/frypatch/The-Price-of-Remembering/releases/latest) ~ 500KB
-* [PDF](https://github.com/frypatch/The-Price-of-Remembering/releases/latest) ~ 1MB
-* [TXT](https://frypatch.github.io/The-Price-of-Remembering/releases/The.Price.of.Remembering.Or.The.Doors.of.Stone.Speculative.Musings.The.Kingkiller.Chronicle.Day.Three.txt) ~ 600KB
-* [MD](https://frypatch.github.io/The-Price-of-Remembering/releases/The.Price.of.Remembering.Or.The.Doors.of.Stone.Speculative.Musings.The.Kingkiller.Chronicle.Day.Three.md.txt) ~ 600KB
+* [HTML](https://frypatch.github.io/The-Price-of-Remembering/) ~ 700KB
+* [EPUB](https://github.com/frypatch/The-Price-of-Remembering/releases/latest/The.Kingkiller.Chronicle.Day.Three.epub) ~ 500KB
+* [PDF](https://github.com/frypatch/The-Price-of-Remembering/releases/latest/The.Kingkiller.Chronicle.Day.Three.pdf) ~ 1MB
+* [TXT](https://github.com/frypatch/The-Price-of-Remembering/releases/latest/The.Kingkiller.Chronicle.Day.Three.txt) ~ 600KB
+* [MD](https://github.com/frypatch/The-Price-of-Remembering/releases/latest/The.Kingkiller.Chronicle.Day.Three.md) ~ 600KB
 * [Workspace](https://github.com/frypatch/The-Price-of-Remembering/)
 * [Archive](https://web.archive.org/web/2/https://frypatch.github.io/The-Price-of-Remembering/)
 
