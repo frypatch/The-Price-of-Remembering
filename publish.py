@@ -206,14 +206,6 @@ def publish_txt_book():
             markdown_data = get_chapter_MD(chapter_md_filename)
             txt_data += get_chapter_TXT(markdown_data)
         txt_data += "\n\n\n\n"
-    txt_data = txt_data.replace("“", '"')
-    txt_data = txt_data.replace("”", '"')
-    txt_data = txt_data.replace("‘", "'")
-    txt_data = txt_data.replace("’", "'")
-    txt_data = txt_data.replace("–", "-")
-    txt_data = txt_data.replace("—", "-")
-    txt_data = txt_data.replace("…", "...")
-    txt_data = txt_data.replace("* * *", "***")
     txt_file = open(os.path.join(build_dir, publish_version, output_filename + ".txt"), "w")
     txt_file.write(txt_data)
     txt_file.close()
@@ -250,7 +242,12 @@ def publish_md_book():
             md_data += md_page_break
             md_data += toc_md.strip('\n')
         else:
-            md_data += get_chapter_MD(chapter_md_filename).strip('\n')
+            markdown_data = get_chapter_MD(chapter_md_filename).strip('\n')
+            for line in markdown_data.splitlines():
+                if "# **" in line and line.endswith("**"):
+                    md_data += line[:-2].replace("# **", " ") + "\n"
+                else:
+                    md_data += line + "\n"
         md_data += md_page_break
     md_data = md_data.replace("“", '"')
     md_data = md_data.replace("”", '"')
@@ -795,7 +792,12 @@ def get_chapter_MD(md_filename):
         return markdown_data
 
 def get_chapter_TXT(markdown_data):
-    all_txt = markdown_data
+    all_txt = ""
+    for line in markdown_data.splitlines():
+        if "# **" in line and line.endswith("**"):
+          all_txt += line[:-2].replace("# **", " ") + "\n"
+        else:
+          all_txt += line + "\n"
     all_txt = all_txt.replace("###### ", "                    ")
     all_txt = all_txt.replace("##### ", "                ")
     all_txt = all_txt.replace("#### ", "            ")
@@ -803,6 +805,14 @@ def get_chapter_TXT(markdown_data):
     all_txt = all_txt.replace("## ", "    ")
     all_txt = all_txt.replace("# ", "")
     all_txt = all_txt.replace("> ", "    ")
+    all_txt = all_txt.replace("“", '"')
+    all_txt = all_txt.replace("”", '"')
+    all_txt = all_txt.replace("‘", "'")
+    all_txt = all_txt.replace("’", "'")
+    all_txt = all_txt.replace("–", "-")
+    all_txt = all_txt.replace("—", "-")
+    all_txt = all_txt.replace("…", "...")
+    all_txt = all_txt.replace("* * *", "***")
     return all_txt
 
 def get_chapter_HTML(markdown_data):
@@ -813,22 +823,6 @@ def get_chapter_HTML(markdown_data):
     ## Use some HTML elements to style capitals because many ereaders do not support small-caps css
     html_text = (
       html_text
-        .replace(
-          "<h1>THE PRICE OF R",
-          "<h1>" +
-              "<big>T</big>HE " +
-              "<big>P</big>RICE OF " +
-              "<big>R</big>"
-           )
-        .replace(
-          "<h1>THE DOORS OF STONE SPECULATIVE M",
-          "<h1>" +
-              "<big>T</big>HE " +
-              "<big>D</big>OORS OF " +
-              "<big>S</big>TONE " +
-              "<big>S</big>PECULATIVE " +
-              "<big>M</big>"
-            )
         .replace(
           "<h1>THE KINGKILLER C",
           "<h1>" +
@@ -842,13 +836,17 @@ def get_chapter_HTML(markdown_data):
               "<big>L</big>EGAL " +
               "<big>D</big>"
            )
-        .replace(
-          "<h1>TABLE OF C",
-          "<h1>" +
-              "<big>T</big>ABLE OF " +
-              "<big>C</big>"
-           )
     )
+    for h in ("123456"):
+        html_text = (
+          html_text
+            .replace(
+              "<h"+h+"><strong>",
+              "<h"+h+"><big>")
+            .replace(
+              "</strong></h"+h+">",
+              "</big></h"+h+">")
+        )
     html_text = (
         html_text
           .replace(
@@ -859,13 +857,6 @@ def get_chapter_HTML(markdown_data):
     for c in ("ABCDEFGHIJKLMNOPQRSTUVWXYZ"):
       html_text = (
         html_text
-          .replace(
-            "<h1> THE PRICE OF R",
-            "<h1>" +
-              "<big>T</big>HE " +
-              "<big>P</big>RICE OF " +
-              "<big>R</big>"
-          )
           .replace(
             "</h2>\n<p>"+c,
             "</h2>\n<p class='no-indent'><big>"+c+"</big>")
