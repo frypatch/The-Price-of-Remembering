@@ -10,7 +10,7 @@
 
 **NOT PATRICK ROTHFUSS**
 
-**VERSION 3.07.14**
+**VERSION 3.07.16**
 
 ## THE KINGKILLER CHRONICLE
 
@@ -24,7 +24,7 @@
 
 
 
-## LEGAL DISCLAIMER.
+## DISCLAIMER.
 
 
 The authors of this fan fiction attest that they neither sought permission from nor consulted with Patrick Rothfuss, the creator of the Kingkiller Chronicles series. This is a fan fiction work and is in no way endorsed by or affiliated with Patrick Rothfuss or the Kingkiller Chronicles series.
@@ -89,9 +89,9 @@ That all said, please enjoy.
 
 * [*Cover Page*](book/Cover_Page.md).
 * [*Half Title Page*](book/Half_Title_Page.md).
-* [*Series Title Page*](book/Series_Title_Page.md).
 * [*Title Page*](book/Title_Page.md).
-* [*Legal Disclaimer*](book/Legal_Disclaimer.md).
+* [*Series*](book/Series.md).
+* [*Disclaimer*](book/Disclaimer.md).
 * [*Acknowledgements*](book/Acknowledgements.md).
 * [*Forward*](book/Forward.md).
 * [*Contents*](book/Contents.md).

@@ -16,11 +16,11 @@
     "@type": "Person",
     "name": "Not Patrick Rothfuss"
   },
-  "datePublished": "2025-07-14",
+  "datePublished": "2025-07-16",
   "description": "Calling all 'Old Knowers' and 'Proud Dreamers'. This speculative companion explores potential conclusions to Patrick Rothfuss's Kingkiller Chronicle trilogy. Enjoy this concise, theory-driven version of The Doors of Stone which resolves major plot-lines while staying respectful to the established narrative.",
   "genre": "Fan Fiction, Fan Theories, Literary Criticism, Alternate Endings, Speculative Fiction, Fantasy, Epic Fantasy, Fantasy Series, Pop Culture Commentary, The Kingkiller Chronicle, Patrick Rothfuss, The Doors of Stone (Speculative)",
   "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-  "isbn": "ead4135ae1510d57b31450449527793fa948fa8d",
+  "isbn": "7702b3a5ccd27dc0dca8c3dbacfd6670d7138abe",
   "publisher": {
     "@type": "Organization",
     "name": "frypatch"
@@ -55,6 +55,12 @@ h1 {
   text-transform: uppercase;
 }
 
+/* Big used for chapters for sudo-drop caps*/
+big {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
 /* By default, do not indent paragraphs. */
 p {
   text-indent: 0;  
@@ -78,30 +84,6 @@ p {
 img {
     max-width: 100%;
     height: auto;      
-}
-
-table {
-  border-collapse: collapse;
-  width: 100%;
-  font-size: 0.5em;
-}
-td,th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-tr:nth-child(even){background-color: #f2f2f2;}
-th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: left;
-  background-color: #444444;
-  color: white;
-  font-size: 0.8em;
-}
-/* Big used for chapters for sudo-drop caps*/
-big {
-  font-size: 1.5em;
-  font-weight: bold;
 }
 /* Indent all paragraphs except the first paragraph. Mobi will need class='first-para' */
 p {
@@ -151,6 +133,24 @@ body {
     hyphens: auto;
     overflow-wrap: break-word;
     word-wrap: break-word;
+}
+h1 {
+ font-size: clamp(1.9rem, 5vw, 3.2rem);
+}
+h2 {
+ font-size: clamp(1.5rem, 3vw, 2.3rem);
+}
+h3 {
+ font-size: 1.5rem;
+}
+h4 {
+  font-size: 1.3rem;
+}
+h5 {
+  font-size: 1.2rem;
+}
+h6 {
+  font-size: 1.1rem
 }
 /* default-palette */
 body {
@@ -233,22 +233,23 @@ function display_palette() {
 <h1><big>T</big>HE <big>K</big>INGKILLER <big>C</big>HRONICLE</h1>
 <h3><big>DAY THREE: THE PRICE OF REMEMBERING</big></h3>
 <hr />
-<a name="Series_Title_Page"></a>
-<h1><big>T</big>HE <big>K</big>INGKILLER <big>C</big>HRONICLE</h1>
-<h3>DAY ONE: THE NAME OF THE WIND</h3>
-<h3>DAY TWO: THE WISE MAN'S FEAR</h3>
-<h3>DAY THREE: THE PRICE OF REMEMBERING</h3>
-<hr />
 <a name="Title_Page"></a>
 <h1><big>T</big>HE <big>K</big>INGKILLER <big>C</big>HRONICLE</h1>
 <h3><big>DAY THREE: THE PRICE OF REMEMBERING</big></h3>
 <h3>A COMPILATION OF SPECULATIVE MUSINGS</h3>
 <h3>REGARDING THE DOORS OF STONE</h3>
 <h3>NOT PATRICK ROTHFUSS</h3>
-<h3>VERSION 3.07.14</h3>
+<h3>VERSION 3.07.16</h3>
 <hr />
-<a name="Legal_Disclaimer"></a>
-<h1><big>L</big>EGAL <big>D</big>ISCLAIMER.</h1>
+<a name="Series"></a>
+<h1 class='chapter_title'><big>S</big>ERIES.</h1>
+<h3><big>THE KINGKILLER CHRONICLE</big></h3>
+<h3>DAY ONE: THE NAME OF THE WIND</h3>
+<h3>DAY TWO: THE WISE MAN'S FEAR</h3>
+<h3>DAY THREE: THE PRICE OF REMEMBERING</h3>
+<hr />
+<a name="Disclaimer"></a>
+<h1 class='chapter_title'><big>D</big>ISCLAIMER.</h1>
 <p>The authors of this fan fiction attest that they neither sought permission from nor consulted with Patrick Rothfuss, the creator of the Kingkiller Chronicles series. This is a fan fiction work and is in no way endorsed by or affiliated with Patrick Rothfuss or the Kingkiller Chronicles series.</p>
 <hr />
 <a name="Acknowledgements"></a>
@@ -288,9 +289,9 @@ function display_palette() {
 <li><a href="#"><em>Cover</em></a>.</li>
 <li><a href="#Settings"><em>Settings</em></a>.</li>
 <li><a href="#Half_Title_Page"><em>Half Title Page</em></a>.</li>
-<li><a href="#Series_Title_Page"><em>Series Title Page</em></a>.</li>
 <li><a href="#Title_Page"><em>Title Page</em></a>.</li>
-<li><a href="#Legal_Disclaimer"><em>Legal Disclaimer</em></a>.</li>
+<li><a href="#Series"><em>Series</em></a>.</li>
+<li><a href="#Disclaimer"><em>Disclaimer</em></a>.</li>
 <li><a href="#Acknowledgements"><em>Acknowledgements</em></a>.</li>
 <li><a href="#Forward"><em>Forward</em></a>.</li>
 <li><a href="#Contents"><em>Contents</em></a>.</li>

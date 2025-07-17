@@ -16,6 +16,12 @@ h1 {
   text-transform: uppercase;
 }
 
+/* Big used for chapters for sudo-drop caps*/
+big {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
 /* By default, do not indent paragraphs. */
 p {
   text-indent: 0;  
@@ -39,23 +45,4 @@ p {
 img {
     max-width: 100%;
     height: auto;      
-}
-
-table {
-  border-collapse: collapse;
-  width: 100%;
-  font-size: 0.5em;
-}
-td,th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-tr:nth-child(even){background-color: #f2f2f2;}
-th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: left;
-  background-color: #444444;
-  color: white;
-  font-size: 0.8em;
 }

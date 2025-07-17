@@ -1,8 +1,3 @@
-/* Big used for chapters for sudo-drop caps*/
-big {
-  font-size: 1.5em;
-  font-weight: bold;
-}
 /* Indent all paragraphs except the first paragraph. Mobi will need class='first-para' */
 p {
   text-indent: 1em;
