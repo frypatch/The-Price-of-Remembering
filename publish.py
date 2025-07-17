@@ -151,7 +151,7 @@ def update_md_readme():
 
 **DAY THREE: THE PRICE OF REMEMBERING**\n""".format(dc_title, dc_creator.upper(), publish_version)
     md_data += md_page_break
-    md_data += "#" + get_chapter_MD("Legal_Disclaimer.md").strip('\n') + "\n"
+    md_data += "#" + get_chapter_MD("Disclaimer.md").strip('\n') + "\n"
     md_data += md_page_break
     md_data += "#" + get_chapter_MD("Acknowledgements.md").strip('\n') + "\n"
     md_data += md_page_break
@@ -234,8 +234,6 @@ def publish_md_book():
     ## Now creating the MD book
     md_page_break = "\n\n\n\n--------------------\n\n\n\n"
     md_data = ""
-    md_data += """![Cover]({}book/images/cover.jpg)""".format(website)
-    md_data += md_page_break
     for chapter_md_filename in chapter_md_filenames():
         if chapter_md_filename == "Contents.md":
             md_data += get_chapter_MD("Resources.md").strip('\n')
@@ -387,13 +385,6 @@ function display_palette() {
     html_data += "\n</main>"
     html_data += "\n</body>"
     html_data += "\n</html>"
-    html_data = html_data.replace("“", "&ldquo;")
-    html_data = html_data.replace("”", "&rdquo;")
-    html_data = html_data.replace("‘", "&lsquo;")
-    html_data = html_data.replace("’", "&rsquo;")
-    html_data = html_data.replace("–", "&mdash;")
-    html_data = html_data.replace("—", "&mdash;")
-    html_data = html_data.replace("…", "&hellip;")
     html_file = open("index.html", "w")
     html_file.write(html_data)
     html_file.close()
@@ -414,7 +405,7 @@ def publish_pdf_book():
     html_data_page_break = "<pdf:nextpage></pdf:nextpage>\n"
     html_page_anchor_template = html_data_page_break + """<a name="{}"></a>"""
     html_toc = '''
-<h1><big>C</big>ontents.</h1>
+<h1><big>C</big>ONTENTS.</h1>
 <div>
     <pdf:toc></pdf:toc>
 </div>'''
@@ -446,13 +437,6 @@ def publish_pdf_book():
             html_data += "\n" + get_chapter_HTML(get_chapter_MD(chapter_md_filename))
     html_data += "\n</body>"
     html_data += "\n</html>"
-    html_data = html_data.replace("“", "&ldquo;")
-    html_data = html_data.replace("”", "&rdquo;")
-    html_data = html_data.replace("‘", "&lsquo;")
-    html_data = html_data.replace("’", "&rsquo;")
-    html_data = html_data.replace("–", "&mdash;")
-    html_data = html_data.replace("—", "&mdash;")
-    html_data = html_data.replace("…", "&hellip;")
     with open(os.path.join(build_dir, publish_version, output_filename + ".pdf"), "wb") as file:
         pdf = pisa.CreatePDF(html_data, file)
 
@@ -830,12 +814,6 @@ def get_chapter_HTML(markdown_data):
               "<big>K</big>INGKILLER " +
               "<big>C</big>"
            )
-        .replace(
-          "<h1>LEGAL D",
-          "<h1>" +
-              "<big>L</big>EGAL " +
-              "<big>D</big>"
-           )
     )
     for h in ("123456"):
         html_text = (
@@ -870,6 +848,13 @@ def get_chapter_HTML(markdown_data):
             "<h1>"+c,
             "<h1 class='chapter_title'><big>"+c+"</big>")
       )
+    html_text = html_text.replace("“", "&ldquo;")
+    html_text = html_text.replace("”", "&rdquo;")
+    html_text = html_text.replace("‘", "&lsquo;")
+    html_text = html_text.replace("’", "&rsquo;")
+    html_text = html_text.replace("–", "&mdash;")
+    html_text = html_text.replace("—", "&mdash;")
+    html_text = html_text.replace("…", "&hellip;")
     return html_text
 
 

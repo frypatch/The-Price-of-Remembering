@@ -13,4 +13,4 @@ And last, let me thank all the quiet transcribers, those patient souls who liste
 
 ### ~ ~ ~
 
-[Legal Disclaimer](Legal_Disclaimer.md) | [Contents](Contents.md) | [Forward](Forward.md)
+[Disclaimer](Disclaimer.md) | [Contents](Contents.md) | [Forward](Forward.md)
