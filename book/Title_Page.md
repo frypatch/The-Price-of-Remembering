@@ -11,4 +11,4 @@
 
 ### ~ ~ ~
 
-[Cover Page](Cover_Page.md) | [Contents](Contents.md) | [Legal Disclaimer](Legal_Disclaimer.md)
+[Cover Page](Cover_Page.md) | [Contents](Contents.md) | [Series](Series.md)

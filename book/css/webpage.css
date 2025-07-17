@@ -27,3 +27,21 @@ body {
     overflow-wrap: break-word;
     word-wrap: break-word;
 }
+h1 {
+ font-size: clamp(1.9rem, 5vw, 3.2rem);
+}
+h2 {
+ font-size: clamp(1.5rem, 3vw, 2.3rem);
+}
+h3 {
+ font-size: 1.5rem;
+}
+h4 {
+  font-size: 1.3rem;
+}
+h5 {
+  font-size: 1.2rem;
+}
+h6 {
+  font-size: 1.1rem
+}

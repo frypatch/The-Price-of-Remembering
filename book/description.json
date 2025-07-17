@@ -15,9 +15,9 @@
 "default_css":["code_styles.css","general.css"],
 "chapters":[
             {"markdown":"Half_Title_Page.md","css":""},
-            {"markdown":"Series_Title_Page.md","css":""},
             {"markdown":"Title_Page.md","css":""},
-            {"markdown":"Legal_Disclaimer.md","css":"chapter.css"},
+            {"markdown":"Series.md","css":""},
+            {"markdown":"Disclaimer.md","css":"chapter.css"},
             {"markdown":"Acknowledgements.md","css":"chapter.css"},
             {"markdown":"Forward.md","css":"chapter.css"},
             {"markdown":"Contents.md","css":""},

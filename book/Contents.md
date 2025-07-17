@@ -3,9 +3,9 @@
 
 * [*Cover Page*](Cover_Page.md).
 * [*Half Title Page*](Half_Title_Page.md).
-* [*Series Title Page*](Series_Title_Page.md).
 * [*Title Page*](Title_Page.md).
-* [*Legal Disclaimer*](Legal_Disclaimer.md).
+* [*Series*](Series.md).
+* [*Disclaimer*](Disclaimer.md).
 * [*Acknowledgements*](Acknowledgements.md).
 * [*Forward*](Forward.md).
 * [*Contents*](Contents.md).
