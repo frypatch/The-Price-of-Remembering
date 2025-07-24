@@ -3,11 +3,11 @@
 ## THE FRAGILE WEIGHT OF PEACE.
 
 
-FOR THE FIRST TIME since the road swallowed my family and spat me into its dust, I found peace. Not the brittle kind that vanishes with the slightest breath, but something richer and heavier. The Maer’s coin had loosened the tight, strangling fingers of debt around my throat. My deal with Riem had let me breathe easier still. Together, they made the world feel almost manageable.
+FOR THE FIRST TIME since the road swallowed up my family and spat me back into its dust, I found peace. Not the brittle kind that vanishes with the slightest breath, but something richer and heavier. The Maer’s coin had loosened the tight, strangling fingers of debt around my throat. My deal with Riem had let me breathe easier still. Together, they made the world feel almost manageable.
 
 This is what peace looked like. Mornings heavy with the scent of ink and parchment. Afternoons caught in tangled chords and experimental rhythms. Evenings thick with honey-gold light and silken laughter. I studied. I played music that made the heart rise and falter. I charmed women whose fire matched my own. Time felt like water cupped in my hands, precious and fleeting.
 
-But I was young, and youth burns like kindling. It does not plan nor ask questions. I thought myself clever, brilliant even. I believed I could shape the world to my will, one turn of brass and one twist of wire at a time. And that unbridled confidence, as with so many stories, is how “The Stainless” was born.
+But I was young, and youth burns like kindling. It does not plan nor ask questions. I thought myself clever, brilliant even. I believed that I could shape the world to my will, one turn of brass and one twist of wire at a time. And that unbridled confidence, as with so many stories, is how “The Stainless” was born.
 
 ### * * *
 
@@ -34,7 +34,7 @@ I stiffened, confused. “Costs, Master Kilvin? It’s harmless. It can’t hurt
 
 Kilvin shifted his gaze to me, his eyes shadowed beneath his heavy brow. “Harmless?” he said softly, his thumb brushing the polished brass. “Resilience is strength, strength is power, and power rarely keeps to itself.”
 
-Before I could defend myself, he continued, “You are too quick, Re’lar Kvothe. Quick to make and quicker to solve,” he said. “But wisdom is slow to grow. Always slower than the fire of cleverness.”
+Before I could defend myself, he continued, “You are too quick, Re’lar Kvothe. Quick to make and quicker to solve,” he said. “But wisdom is slow to grow. Always slower than the fires of cleverness.”
 
 I wanted to snap back, but the weight of his words landed where I did not expect. My chest, my stomach, my hands. I felt Kilvin’s gaze press into me when I left the workshop with “The Stainless” tucked under one arm. Its polished surface was cool and smooth against my skin, yet strangely heavy on my heart.
 
@@ -44,13 +44,13 @@ That weight followed me into the Archives the next morning. The stillness there 
 
 Herma’s hands trembled as they worked the rope, his fingers brushing over a tangle of knots like they were alive and needing soothing. The tremor was small at first, a faint note in the symphony of the quiet room.
 
-Then, *snap*.
+Then, snap.
 
 The knot came undone, loose fibers unwinding with a sharp finality. Herma’s breath hitched, and his shoulders tightened. The strands in his hands lay limp as dead snakes.
 
 “Master?” I stood, suddenly aware of the stillness my own movement disturbed. “Should I summon someone from the Medica?”
 
-Herma lifted a slow, deliberate hand, as if turning away a tide. “No,” he said, his voice quiet but resolute. He drew a deeper breath and let his fingers rest against the limp cords. It was a gesture of comfort, meant perhaps for them, but more likely for himself.
+Herma slowly lifted his hand as if to deliberately turn away a tide. “No,” he said, his voice quiet but resolute. He drew a deeper breath and let his fingers rest against the limp cords. It was a gesture of comfort, meant perhaps for them, but more likely for himself.
 
 “These little betrayals,” he said after a moment, his usual steady baritone only slightly rough, “are nothing new, Kvothe. A bit like old friends who overstay their welcome. Bitter draughts and black poultices are our ways of shaking hands.”
 
@@ -81,3 +81,4 @@ The world rarely grants peace without a cost. And even then, the toll is never p
 ### ~ ~ ~
 
 [Chapter 1](CHAPTER_01.md) | [Contents](Contents.md) | [Chapter 3](CHAPTER_03.md)
+
