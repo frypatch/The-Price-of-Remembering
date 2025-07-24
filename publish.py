@@ -129,27 +129,11 @@ def update_md_readme():
     ## Now creating README.md
     md_page_break = "\n\n\n\n\n"
     md_data = ""
-    md_data += """![{}](book/images/cover.jpg)
-
-# THE PRICE OF REMEMBERING
-
-**OR,**
-
-# THE DOORS OF STONE SPECULATIVE MUSINGS
-
-## THE KINGKILLER CHRONICLE DAY THREE
-
-**{}**
-
-**VERSION {}**
-
-## THE KINGKILLER CHRONICLE
-
-**DAY ONE: THE NAME OF THE WIND**
-
-**DAY TWO: THE WISE MAN'S FEAR**
-
-**DAY THREE: THE PRICE OF REMEMBERING**\n""".format(dc_title, dc_creator.upper(), publish_version)
+    md_data += """![{}](book/images/cover.jpg)""".format(dc_title)
+    md_data += md_page_break
+    md_data += "#" + get_chapter_MD("Title_Page.md").strip('\n').replace("### ", "") + "\n"
+    md_data += md_page_break
+    md_data += "#" + get_chapter_MD("Series.md").strip('\n').replace("### ", "") + "\n"
     md_data += md_page_break
     md_data += "#" + get_chapter_MD("Disclaimer.md").strip('\n') + "\n"
     md_data += md_page_break
