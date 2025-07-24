@@ -5,13 +5,13 @@
 
 THE ARCHIVES BREATHED around me, quiet and heavy.
 
-I had claimed a narrow table beneath an arched window, where the light of last bell spilled through old glass like liquid amber. It wasn’t warm. Not really. But it had the suggestion of warmth, the way the word home might rest on your tongue even when the fire’s gone out.
+I had claimed a narrow table beneath an arched window, where the light of last bell spilled through old glass like liquid amber. It wasn’t warm. Not really. But it had the suggestion of warmth, the way that word might rest on your tongue even when the fire’s gone out.
 
-Around me, I built a small fortress of books. "Numbered Names." "Feyda’s Legacy." "Child-Charms of the Western Vale." "Hashar’s Curtain." Each one a brick, placed carefully, lovingly. A scholar might have called it comparative research. A sympathist might have said I was drawing lines, looking for patterns. But the truth was simpler, I was chasing shadows. Shadows wearing old names. 
+Around me, I had built a small fortress of books. “Numbered Names.” “Feyda’s Legacy.” “Child-Charms of the Western Vale.” “Hashar’s Curtain.” Each one a brick, placed carefully, lovingly. A scholar might have called it comparative research. A sympathist might have said I was drawing lines, looking for patterns. But the truth was simpler, I was chasing shadows. Shadows wearing old names. 
 
-I was three pages deep into "Numbered Names", working my way through a tangled verse of Mid-Shaldaic couplets, when Ambrose Jakis stepped into view. His robes were a bright Vintish red that did nothing to flatter the smug tilt of his lips and his hair was swept back with such deliberation it looked like it cost gold. His scent arrived before he did, cloying with rose oil and a hint of whatever powder arrogance is made from.
+I was three pages deep into “Numbered Names”, working my way through a tangled verse of Mid-Shaldaic couplets, when Ambrose Jakis stepped into view. His robes were a bright Vintish red that did nothing to flatter the smug tilt of his lips and his hair was swept back with such deliberation it looked like it cost gold. His scent arrived before he did, cloying with rose oil and a hint of whatever powder arrogance is made from.
 
-“Re’lar Kvothe,” he said, stopping three paces from my chair. “Conquering the  Archives one aisle at a time, I see.”
+“Re’lar Kvothe,” he said, stopping three paces from my chair. “Conquering the Archives one aisle at a time, I see.”
 
 He stood and waited, the silence pacing beside him. When I did not rise to the bait, he shifted, like a man seeking dry ground.
 
@@ -21,7 +21,7 @@ I did what any man does when he finds a roach loose on his dinner plate. I set m
 
 He leaned closer, “Still charmingly tight-lipped. Must be exhausting, all that silent brilliance.”
 
-He reached forward, slow as disdain, and rested his hand on the open copy of "Numbered Names".
+He reached forward, slow as disdain, and rested his hand on the open copy of “Numbered Names”.
 
 I looked up at last.
 
@@ -37,7 +37,7 @@ Ambrose smiled. Not the gentle smile of courtesy. Not a smile at all, really. It
 
 He withdrew the book, gently, lovingly, like he meant to mount it on a plaque. He turned a few pages as he did, pretending to skim.
 
-I reached for "Feyda’s Legacy" instead, but Ambrose just tutted and lifted the carved leather from the stack. “Ah, this one too, I’m afraid.”
+I reached for “Feyda’s Legacy” instead, but Ambrose just tutted and lifted the carved leather from the stack. “Ah, this one too, I’m afraid.”
 
 He turned to go.
 
@@ -45,13 +45,13 @@ He turned to go.
 
 He paused. The set of his shoulders softened, just slightly. As if he carried a private joke, and it warmed him from within.
 
-“Then you’ll need to learn to place requests like grown students do. Hunched over your scrolls doesn’t make them yours. This isn't a midden.”
+“Then you’ll need to learn to place requests like grown students do. Hunching over some scrolls doesn’t just make them yours. This isn't a midden.”
 
 He walked away then. Not quickly. Not reluctant. He moved with the resolve of a draccus deciding to cross a grove. A thick silence crept in behind him. The sort of hush that settles after something has been stolen, expertly and unfairly, leaving behind no course for the victim to remediate.
 
-Renner’s eyes flicked up. Just for a moment. Then back to the ledger, as if nothing had happened. As if watching justice slip past had become commonplace, stitched into the quiet rhythm of his days. Rules over reason. Rules over mercy. Always the rules. 
+Renner’s eyes flicked up. Just for a moment. Then, back to the ledger, as if nothing had happened. As if watching justice slip past had become commonplace, stitched into the quiet rhythm of his days. Rules over reason. Rules over mercy. Always the rules. 
 
-I let my fingers rest on the empty space where "Numbered Names" had been. The wood was cool under my skin, the empty space colder still.
+I let my fingers rest on the empty space where “Numbered Names” had been. The wood was cool under my skin, the empty space colder still.
 
 I hadn’t logged the books. It was as simple and foolish as that. But part of me hadn't wanted anyone knowing what old shadows I was chasing. That's the trouble with pride. It blinds you to foxes wearing silk smiles.
 
@@ -83,7 +83,7 @@ Wil, Simmon, Mola, Fela, and I sat in our usual corner booth. It was not the sha
 
 Classes had been canceled for the span, an occurrence that rarely happened. The official notice mentioned administrative shortages, reassignment of duties, and necessary meetings. But everyone knew better. The University never made space for grief unless it absolutely had to. And the absence of Herma, who had been kind, measured, and constant, left a gap you could hear in the silence of the bells.
 
-Wil raised his mug first, the gesture slow, deliberate. “To Herma,” he said, voice coarse with something quieter than anger, sharper than sorrow. He didn’t look at us. He stared down into the dark ale like it might answer a question he’d forgotten how to ask.
+Wil raised his mug first, the gesture slow and deliberate. “To Herma,” he said, voice coarse with something quieter than anger, sharper than sorrow. He didn’t look at us. He stared down into the dark ale like it might answer a question he’d forgotten how to ask.
 
 “To a steady hand,” Sim added, gentle-voiced. His drink paused halfway to his mouth, hand hovering. A flicker of tension in his jaw. He drank anyway.
 
@@ -257,7 +257,7 @@ Wil’s brow lifted. Sim’s creased with concern.
 
 Sim cut in before I could answer. “Whatever you think’s crawling under the floorboards, Kvothe, it isn’t going to undo a funeral.”
 
-I pushed the journal toward them, past the line of dice. "Look anyway."
+I pushed the journal toward them, past the line of dice. “Look anyway.”
 
 Wil didn’t reach for it. Sim did. His fingers brushed against the page I’d marked, one of the later ones where Herma’s writing began to slip sideways into gibberish and broken rhythm.
 
@@ -269,7 +269,7 @@ Sim didn’t smile. He turned another page.
 
 “I’m not saying I know,” I said, my throat tight. “But something doesn’t fit. These are the last notes Herma left. They’re unfinished, cryptic, written like he meant to return to them. Now, just days after his death, they’re locked away, and there’s Bursar ink on one of the final pages.” 
 
-Sim looked up, his voice careful now. "Kvothe, do you think you’re following a thread?" He hesitated, clearly trying not to hurt me. "Or are you just trying not to let go?"
+Sim looked up, his voice careful now. “Kvothe, do you think you’re following a thread?” He hesitated, clearly trying not to hurt me. “Or are you just trying not to let go?”
 
 That hit harder than I expected. Not cruel. True.
 
@@ -284,3 +284,4 @@ Wil groaned. “This is going to end well. So very well.”
 ### ~ ~ ~
 
 [Chapter 2](CHAPTER_02.md) | [Contents](Contents.md) | [Chapter 4](CHAPTER_04.md)
+
