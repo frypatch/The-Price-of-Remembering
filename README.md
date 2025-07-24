@@ -61,7 +61,7 @@ My hope with this endeavor, other than to entertain, is that members of the comm
 
 For those of you reading this, there are no expectations put upon you for doing so, but should you wish to, and you have input, it would be greatly appreciated. You will find that a lot of this is still quite rough, but I’m hoping that, with your assistance, we can iron out its flaws. In regard to editing, I am open to the concept of making changes, particularly in the vein of matching the tone and prose of the existing novels, but am also open to plot changes, so long as the proposed alterations are not too extensive.
 
-I appreciate this won't be for everyone. However, I offer it without obligation, let, or lean :)
+I appreciate this won't be for everyone, however, I offer it without obligation, let, or lean :)
 
 That all said, please enjoy.
 
