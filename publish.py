@@ -27,7 +27,9 @@ publish_version = """{}.{}.{}""".format(
     str(today.month).zfill(2), 
     str(today.day).zfill(2))
 with open(os.path.join(work_dir,"description.json"),"r") as f:
-    json_metadata = json.load(f)["metadata"]
+    json_description = json.load(f)
+    json_metadata = json_description["metadata"]
+short_title = json_description["short_title"].replace('"', '')
 dc_description = json_metadata["dc:description"].replace('"', '')
 dc_title = json_metadata["dc:title"].replace('"', '')
 dc_creator = json_metadata["dc:creator"].replace('"', '')
@@ -308,7 +310,7 @@ def publish_html_book():
 <html lang="en-US">
 <head>
 <meta charset="ISO-8859-1">
-<title>'''+ dc_title + '''</title>
+<title>'''+ short_title + '''</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="''' + dc_description + '''">
