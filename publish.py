@@ -79,7 +79,7 @@ def publish():
     publish_pdf_book()
     ######################################################
     ## Success!
-    print("INFO: eBook creation complete")
+    print("INFO: eBook creation is complete")
 
 
 ##########################################################
@@ -195,7 +195,16 @@ def publish_txt_book():
     txt_file = open(os.path.join(build_dir, publish_version, output_filename + ".txt"), "w")
     txt_file.write(txt_data)
     txt_file.close()
-
+    ######################################################
+    ## Now count words in the TXT book
+    word_count = 0
+    for line in txt_data.splitlines():
+        for word in line.strip().split():
+            for char in word.strip():
+                if char.isalpha():
+                    word_count = word_count + 1
+                    break
+    print("INFO: eBook word count is " + str(word_count))
 
 ##########################################################
 def publish_md_book():
