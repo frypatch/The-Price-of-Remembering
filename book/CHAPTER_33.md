@@ -3,111 +3,111 @@
 ## THE TOWER.
 
 
-THE SMELL STRUCK first: sour ale soaked into wood, a rancid smear of spilled grease, and the cloying tang of too many unwashed bodies packed into one space. The garrison was a shattered remnant of what it should have been. Sixteen guards sat or slumped in a room built to hold twice their number, most clutching bottles with lethargic grips. Some blinked at me glassily, their faces slack with drink. Others ignored my entrance altogether, their shoulders slumped like scarecrows abandoned in a storm.
+THE SMELL STRUCK first, sour ale soaked into wood, rancid grease spilled and left to linger, the close, heavy scent of unwashed bodies pressed too tight together. The garrison was a shattered remnant of itself. Sixteen guards slumped in a space built for twice their number, fingers curled loosely around bottles, eyes glazed by drink. Some regarded me blankly, faces slack, while others ignored me entirely, heads bowed and shoulders limp like scarecrows abandoned to a storm.  
 
 This was no fortress. It was a hollow shell drowning in surrender.  
 
-Roderick paced near the center of the room, his voice sharp against the drunken murmurs. “Ready yourselves! Get moving, damn you! They’ll be at the gates any moment!” His words stumbled against their indifference, the authority in his tone stretched thin—something brittle pretending to be stone.  
+Roderick paced the center of the room, his voice sharp against the drunken murmurs. “Ready yourselves! Get moving, damn you! They’ll be at the gates any moment!” His commands stumbled uselessly against their indifference. The strength he tried to summon was fragile, a brittle mask pretending to be stone.  
 
-For a moment, my eyes met his, and I saw it plainly: the panic behind the orders. The words weren’t just for his men. They were for himself, a faltering refrain against the crushing weight of betrayal.  
+My eyes met his then, and in that instant I understood. The panic behind his commands was not meant for his men alone. It was a refrain he spoke for himself, something to hold back the crushing weight of betrayal.  
 
-“Kvothe!” Auri’s voice snapped me back. She darted toward me, her wide eyes fixed on the fresh stain blooming across my shoulder. “You’re hurt!”
+“Kvothe!” Auri’s voice snapped me back. She hurried toward me, eyes wide with worry fixed upon the crimson stain blossoming slowly across my shoulder. “You’re hurt!”  
 
-I glanced at my shoulder to finally appraise the crossbow bolt that had lodged itself beneath my clavicle. Four inches of blackened oak jutted out like a cruel joke, just shallow enough to let me stand, just deep enough to remind me of the delicate symmetry that might let me live another hour. *Lucky,* I thought, but saying that felt wrong. What kind of fool calls himself lucky with a piece of wood sticking out of his chest?
+Glancing downward, I finally took measure of the crossbow bolt lodged beneath my clavicle. Four inches of blackened oak jutted out mockingly, shallow enough to let me stand yet deep enough to remind me how thin the line was between breathing and silence. Lucky, I thought, though the word felt bitter on my tongue. What kind of fool calls himself lucky with a shard of wood buried in his chest?  
 
-“I’ll live,” I said, though the sharp sting when I moved told a different story.
+“I’ll live,” I said, though every movement sent fire blooming beneath my skin.  
 
-“Looks pretty awful,” Sim said, paling as he came up behind me.
+Sim paled visibly behind me, stepping closer to peer at the wound. “Looks pretty awful.”  
 
-“I know what to do!” Auri said suddenly. Her voice, as always, had a lightness to it, but a sharpness crept in as she grabbed my arm and pulled me to a stool. *Auri wanting to help—of course—but Auri taking charge?* That was new.
+“I know what to do!” Auri announced suddenly. Her voice, always airy and light, now held a firmness I’d never heard before. She grasped my arm, guiding me firmly toward a nearby stool. Auri wanting to help was expected. But Auri taking charge felt like stepping into another world entirely.  
 
-Auri was already pulling a fresh strip from the sleeve of her dress. She dropped her voice into something soothing but curt, like a mother speaking to a child who refused to sit still. “You’re going to sit here. And stay. No moving about until I’ve dealt with this mess.”
+She was already tearing a strip from her sleeve. Her voice softened, patient yet firm as a mother’s command to a restless child. “You’ll sit right here. No moving around until I've set this straight.”  
 
-When I started to argue, she pressed a wad of linen between my teeth. “Bite down. A hedgehog with a bolt in its chest isn’t very convincing.”  
+I opened my mouth to protest but found linen pressed firmly between my teeth. “Bite down,” she instructed sharply. “A hedgehog with a bolt sticking out of him isn't fooling anyone.”  
 
-I glared, but her calm defiance left no room for protest. She gestured briskly to Sim, who hovered nearby. “Steady the bolt. Just behind the base, yes—there. And you,” she barked at Wil, “snap the shaft, clean and quick.”  
+I glared, but her quiet strength allowed no room for argument. She gestured quickly toward Sim, who hovered uncertainly. “Steady the bolt. Just behind the base, yes, good.” Then her eyes flashed toward Wil. “Break the shaft. Quick and clean.”  
 
-Wil’s expression soured. “Quick’s easy. Clean’s the problem.”  
+Wil frowned deeply. “Quick I can do. Clean is the trick.”  
 
-Auri didn’t answer, her small hands already gathering what she needed. Then, without preamble, Wil broke the shaft. The room narrowed to a single sharp crack, like stone splitting under frost.  
+Auri offered no response, busying herself with quick, confident movements. Wil reached forward and snapped the bolt. The sound was sharp, like stone cracking in frost.  
 
-Pain seared through me, pure and hot, scattering every coherent thought. My vision blurred. I barely registered Auri pulling the bolt free, her movements precise but pitiless, her smallest motions practiced and deliberate. Somewhere beyond the haze of agony, Sim dry-heaved, and Wil turned away, muttering sharp curses under his breath.  
+Pain flared bright and blinding, scattering every thought into splinters. The world narrowed sharply to agony. I hardly felt Auri draw the bolt free, her small hands swift and merciless, each motion practiced and exact. Somewhere beyond the edges of pain, Sim choked back nausea, and Wil turned aside, murmuring dark curses.  
 
-“You’re lucky it hit where it did,” Auri said after a long, breathless moment, tying the final strip snugly around my shoulder. “No bone, no veins. Just your pride.”  
+“You’re lucky,” Auri murmured finally, after tying the last strip snugly about my shoulder. Her voice had gentled again, soothing as a cool breeze after fever. “No bone, no veins. Only your pride damaged.”  
 
-I blinked away tears of pain to look at her clearly. This wasn’t the shy hermit I had coaxed out from quiet corners. This was someone else, someone steady and quick and knowing. Was she trained in the Medica? That wasn’t right—I would have known.
+I blinked away the tears clouding my vision and looked clearly at her then. This was not the shy hermit I'd coaxed from shadowed corners. This was someone else entirely, steady, certain, capable. Had she trained in the Medica? No, surely I would have known.  
 
-Nearby, Roderick watched her with an expression I couldn’t entirely place—a strange mix of confusion, pride, and what might have been guilt.  
+Nearby, Roderick watched her with an expression I could not easily name, a tangled blend of confusion, pride, and perhaps a shadow of guilt.  
 
-“Did you learn that at the University?” the King asked carefully.  
+“Did you learn that at the University?” the King asked cautiously.  
 
-Auri’s hands stilled for the briefest of moments. She met his gaze head-on and nodded. “Of course,” she said softly.  
+Auri’s hands paused, just for an instant, and she lifted her gaze calmly to his. “Of course,” she said softly.  
 
-Roderick opened his mouth to say something more but stopped himself. He turned sharply away, his jaw clenched tight.  
-
-### * * *
-
-The tower groaned as I stumbled to the narrow arrow slits. Some men had roused themselves enough to join me, their faces pale against the lamplight. The scene outside defied any hope I might have clung to.  
-
-Fascino’s forces moved with rhythmic precision, their scarlet banners streaming like fire in the wind. Tight formations surged around the tower’s base, shield bearers at the front, the sharpened hunger of battle reflected in every step. In their midst, the massive timber battering ram loomed like a dark god, the heads of its crew bent over it as they prepared for their approach.  
-
-I pressed a hand into the cold stone, breathing through the ache in my shoulder. From beside me, Sim spoke softly. “We’re trapped, aren’t we?”
-
-I didn’t answer.  
-
-“Lugosi will come,” Roderick muttered behind me, his voice brittle and distant. “He has to—any hour now—his men—”
-
-“No one’s coming,” I said, the words heavier than I’d intended. “This is what we have.”  
-
-Wil swore under his breath. Sim stayed quiet, his fingers brushing the window frame. I could feel his thoughts turn like grinding gears.  
-
-“What do we have left?” he asked, looking to one of the few sober guards.  
-
-The man shrugged. “Oil. Pitch. Mishmash of gear upstairs. No bloody tunnels out, though. Just us. That’s it.”
-
-Sim shot me a glance, his eyes flicking to my shoulder. “You can’t lead like this,” he said bluntly.  
-
-“I’ll manage,” I said, even as black spots danced in my vision.  
-
-“Tehlu’s breath, you can barely stand! Let me help,” Sim snapped, something sharp beneath his usual softness.  
-
-I stepped back, leaning heavily against the wall. My voice came quieter now. “Alright.”
-
-For so long, I had wondered why Sim never truly stepped forward despite all his potential. He’d once told me that his father, the Duke of Daloni, had tried to mold him into a leader—tried and failed. Sim lacked the sharpness of ambition, the hunger for power or control. Kind-hearted people don’t seize the reins. They shy from them.
-
-But perhaps his father had been right to hope after all. Perhaps leadership didn’t always come from hunger. Sometimes it came from necessity. 
-
-Sim squared his shoulders, his mouth tightening into a line I recognized—not nervous, for once, but resolute. “Wil, start bringing the oil down. Focus on the murderholes first.” He turned to the guards, his voice firm enough to cut through their haze. “You two—secure anything sharp. Swords, arrows, godsdamned chair legs if you have to. Bring them all here.”
-
-To my surprise, the men obeyed. Sim’s words carried weight now.  
-
-Outside, Fascino began his ultimatum, his smooth voice rising like venom on the wind. “Surrender the King, and the rest of you may leave with your lives. Refuse me, and you’ll see the inside of your bellies before the day is done.”  
-
-The guards shifted nervously, but before doubt could sink teeth into them, Sim raised his voice. “Don’t believe him.” He stepped deeper into the lamplight, his face calm and leveled. “Look outside. Look at the street. Tell me how many of our brothers and sisters Fascino left alive. Go ahead. *Count them.*”
-
-The room stilled. Sim let the heavy silence swell.  
-
-“That’s what I thought,” he said. “He doesn’t want mercy. He wants your fear. Don’t give it to him.”  
-
-It was the first time I’d seen him like this, standing not as a faithful companion but as a leader. And for the first time, under the tension fraught canopy of blood and fire, the room stayed steady.  
+Roderick began to speak again but caught himself sharply. He turned away instead, jaw clenched tight as stone.  
 
 ### * * *
 
-The ram came first.
+The tower groaned as I stumbled to the narrow arrow slits. A few men had risen, their faces pale beneath flickering lamplight. I peered outside and felt hope wither inside my chest.  
 
-From the tower, I watched as Fascino’s soldiers surged forward, wielding shields while others carried the massive timber battering ram. Men scrabbled into place, Sim barking orders with a sureness that felt foreign on his lips but suited him just the same.  
+Fascino’s forces moved in rhythmic precision, scarlet banners streaming like tongues of flame. Tight ranks surged around the tower’s base, shield bearers pressed at the front. Their every step spoke a sharp hunger for battle. At their center, the massive timber ram loomed, a dark god surrounded by men with bowed heads, preparing their charge.  
 
-Roderick’s voice boomed from behind. “For Vintas! Hold the fort, men!”
+I pressed a palm against cold stone, breathing through the ache in my shoulder. Beside me, Sim spoke softly, “We're trapped, aren't we?”  
 
-Even in the chaos, I bitterly noted that his stolen valor sounded hollow. But there was no time for anger. As the ram crossed the bridge, Sim called: “Loose!”
+I did not answer.  
 
-Arrows struck the unshielded front ranks. Soldiers fell, their weight pitching the ram awkwardly into the ground. But more came to replace them. Behind the first ranks, shield bearers pressed forward, and the battered gate shuddered under repeated blows.
+“Lugosi will come,” Roderick muttered behind me, his voice thin and distant. “He has to. Any hour now.”  
 
-The tower groaned, dust creeping from the crevices. I felt the vibrations of each strike in my bones. “Ready the cauldron!” Sim shouted, rushing to help the others maneuver the boiling oil into position.
+“No one's coming,” I said, my words heavier than I intended. “This is what we have.”  
 
-“Now!” The cauldron tipped. The ram crew below screamed as liquid fire poured over them, and bottles of dreg followed. The courtyard lit up, and Fascino’s soldiers scattered like startled insects.
+Wil swore quietly. Sim stayed silent, fingers brushing the stone window frame. I felt the turning of his thoughts like slow, grinding wheels.  
 
-For a moment, hope flickered. Then I saw the mangonel.  
+“What do we have left?” he asked, looking toward one of the sober guards.  
+
+The guard shrugged. “Oil. Pitch. Some gear upstairs. No tunnels out. Just us. That's all.”  
+
+Sim glanced at me, eyes lingering on my wounded shoulder. “You can't lead like this,” he said bluntly.  
+
+“I'll manage,” I replied, even as darkness threatened the edges of my vision.  
+
+“Tehlu’s breath, you can barely stand. Let me help,” Sim snapped, a rare edge in his usually gentle voice.  
+
+I stepped back, leaning against the wall. My voice softened. “Alright.”  
+
+For a long while, I'd wondered why Sim had never stepped forward despite his quiet strength. Once he'd told me that his father, the Duke of Daloni, had tried to mold him into a leader. Tried and failed. Sim had no craving for power, no hunger for control. Kind hearts never grasped the reins. They shied away.  
+
+But perhaps his father had been right to hope. Perhaps leadership did not always grow from ambition. Perhaps it grew from necessity.  
+
+Sim squared his shoulders, mouth tightening into a resolute line. “Wil, bring down the oil. Start with the murderholes.” He turned to the guards, voice clear enough to pierce their fog. “You two, gather anything sharp. Swords, arrows, chair legs if you must. Bring everything here.”  
+
+To my surprise, they obeyed. Sim’s voice now carried weight.  
+
+Outside, Fascino began his ultimatum, his smooth words rising like poison on the breeze. “Surrender the King and the rest of you leave alive. Refuse me and you'll see your own bellies spilled before the sun sets.”  
+
+The guards shifted uneasily. Before doubt could set its roots, Sim lifted his voice. “Don't believe him.” He stepped further into the lamplight, calm and steady. “Look outside. Look at the street. Tell me how many brothers and sisters Fascino has left alive. Go on. Count them.”  
+
+A heavy silence filled the room. Sim let it linger.  
+
+“That's what I thought,” he said. “He doesn't want mercy. He wants your fear. Don't give it to him.”  
+
+I'd never seen him like this, standing not as a friend but as a leader. For the first time, beneath the darkening shadow of battle, the room steadied itself.  
+
+### * * *
+
+The ram came first.  
+
+From the tower, I watched Fascino’s soldiers surge forward. Some bore shields, others shouldered the massive timber, heavy as a felled tree. They swarmed into place. Sim barked orders, his voice steady, a note of certainty new to his tongue yet fitting all the same.  
+
+Roderick’s voice rang out behind us. “For Vintas! Hold the fort, men!”  
+
+Even amid the uproar, I heard how his cry rang false. There was no time to dwell on it. The ram reached the bridge. Sim’s command snapped through the air. “Loose!”  
+
+A volley of arrows met the front ranks, striking where the shields were thin. Soldiers tumbled, their bodies dragging the ram askew. Yet others stepped forward to fill the gaps, shield bearers pressing onward, and the gate trembled beneath the weight of the blows.  
+
+The tower groaned, sending a shiver of dust down from the old stones. Each strike found its way into my bones. Sim shouted again. “Ready the cauldron!” He rushed to help the others, together heaving the vat of boiling oil above the gate.  
+
+“Now!” The cauldron tipped. Fire poured down, cruel and bright. The ram crew screamed. Bottles of dreg crashed after, igniting wherever they struck. The courtyard flared with sudden light, and Fascino’s soldiers scattered like startled insects beneath a sudden torch.  
+
+For a breath, hope lived. Then, on the far side of the field, I saw the mangonel rise.  
 
 ### ~ ~ ~
 
