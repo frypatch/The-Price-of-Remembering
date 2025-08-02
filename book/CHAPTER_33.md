@@ -7,7 +7,7 @@ THE SMELL STRUCK first, sour ale soaked into wood, rancid grease spilled and lef
 
 This was no fortress. It was a hollow shell drowning in surrender.  
 
-Roderick paced the center of the room, his voice sharp against the drunken murmurs. "Ready yourselves! Get moving, damn you! They’ll be at the gates any moment!" His commands stumbled uselessly against their indifference. The strength he tried to summon was fragile, a brittle mask pretending to be stone.  
+Roderick paced the center of the room, his voice sharp against the drunken murmurs. “Ready yourselves! Get moving, damn you! They’ll be at the gates any moment!” His commands stumbled uselessly against their indifference. The strength he tried to summon was fragile, a brittle mask pretending to be stone.  
 
 My eyes met his then, and in that instant I understood. The panic behind his commands was not meant for his men alone. It was a refrain he spoke for himself, something to hold back the crushing weight of betrayal.  
 
@@ -51,43 +51,43 @@ The tower groaned as I stumbled to the narrow arrow slits. A few men had risen, 
 
 Fascino’s forces moved in rhythmic precision, scarlet banners streaming like tongues of flame. Tight ranks surged around the tower’s base, shield bearers pressed at the front. Their every step spoke a sharp hunger for battle. At their center, the massive timber ram loomed, a dark god surrounded by men with bowed heads, preparing their charge.  
 
-I pressed a palm against cold stone, breathing through the ache in my shoulder. Beside me, Sim spoke softly, "We're trapped, aren't we?"  
+I pressed a palm against cold stone, breathing through the ache in my shoulder. Beside me, Sim spoke softly, “We're trapped, aren't we?”  
 
 I did not answer.  
 
-"Lugosi will come," Roderick muttered behind me, his voice thin and distant. "He has to. Any hour now."  
+“Lugosi will come,” Roderick muttered behind me, his voice thin and distant. “He has to. Any hour now.”  
 
-"No one's coming," I said, my words heavier than I intended. "This is what we have."  
+“No one's coming,” I said, my words heavier than I intended. “This is what we have.”  
 
 Wil swore quietly. Sim stayed silent, fingers brushing the stone window frame. I felt the turning of his thoughts like slow, grinding wheels.  
 
-"What do we have left?" he asked, looking toward one of the sober guards.  
+“What do we have left?” he asked, looking toward one of the sober guards.  
 
-The guard shrugged. "Oil. Pitch. Some gear upstairs. No tunnels out. Just us. That's all."  
+The guard shrugged. “Oil. Pitch. Some gear upstairs. No tunnels out. Just us. That's all.”  
 
-Sim glanced at me, eyes lingering on my wounded shoulder. "You can't lead like this," he said bluntly.  
+Sim glanced at me, eyes lingering on my wounded shoulder. “You can't lead like this,” he said bluntly.  
 
-"I'll manage," I replied, even as darkness threatened the edges of my vision.  
+“I'll manage,” I replied, even as darkness threatened the edges of my vision.  
 
-"Tehlu’s breath, you can barely stand. Let me help," Sim snapped, a rare edge in his usually gentle voice.  
+“Tehlu’s breath, you can barely stand. Let me help,” Sim snapped, a rare edge in his usually gentle voice.  
 
-I stepped back, leaning against the wall. My voice softened. "Alright."  
+I stepped back, leaning against the wall. My voice softened. “Alright.”  
 
 For a long while, I'd wondered why Sim had never stepped forward despite his quiet strength. Once he'd told me that his father, the Duke of Daloni, had tried to mold him into a leader. Tried and failed. Sim had no craving for power, no hunger for control. Kind hearts never grasped the reins. They shied away.  
 
 But perhaps his father had been right to hope. Perhaps leadership did not always grow from ambition. Perhaps it grew from necessity.  
 
-Sim squared his shoulders, mouth tightening into a resolute line. "Wil, bring down the oil. Start with the murderholes." He turned to the guards, voice clear enough to pierce their fog. "You two, gather anything sharp. Swords, arrows, chair legs if you must. Bring everything here."  
+Sim squared his shoulders, mouth tightening into a resolute line. “Wil, bring down the oil. Start with the murderholes.” He turned to the guards, voice clear enough to pierce their fog. “You two, gather anything sharp. Swords, arrows, chair legs if you must. Bring everything here.”  
 
 To my surprise, they obeyed. Sim’s voice now carried weight.  
 
-Outside, Fascino began his ultimatum, his smooth words rising like poison on the breeze. "Surrender the King and the rest of you leave alive. Refuse me and you'll see your own bellies spilled before the sun sets."  
+Outside, Fascino began his ultimatum, his smooth words rising like poison on the breeze. “Surrender the King and the rest of you leave alive. Refuse me and you'll see your own bellies spilled before the sun sets.”  
 
-The guards shifted uneasily. Before doubt could set its roots, Sim lifted his voice. "Don't believe him." He stepped further into the lamplight, calm and steady. "Look outside. Look at the street. Tell me how many brothers and sisters Fascino has left alive. Go on. Count them."  
+The guards shifted uneasily. Before doubt could set its roots, Sim lifted his voice. “Don't believe him.” He stepped further into the lamplight, calm and steady. “Look outside. Look at the street. Tell me how many brothers and sisters Fascino has left alive. Go on. Count them.”  
 
 A heavy silence filled the room. Sim let it linger.  
 
-"That's what I thought," he said. "He doesn't want mercy. He wants your fear. Don't give it to him."  
+“That's what I thought,” he said. “He doesn't want mercy. He wants your fear. Don't give it to him.”  
 
 I'd never seen him like this, standing not as a friend but as a leader. For the first time, beneath the darkening shadow of battle, the room steadied itself.  
 
