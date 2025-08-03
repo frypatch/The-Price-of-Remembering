@@ -5,65 +5,65 @@
 ## BURDENS.
 
 
-KOTE STOOD BEHIND THE Waystone Inn's bar, wiping the same mug for the third time, though it gleamed clean under the amber flicker of the hearth. His movements were slow, deliberate, like a man trying to tether himself to the present. Outside, wind pressed against the shutters, a soft howling that always seemed to find its way into this quiet corner of the world.  
+KOTE STOOD BEHIND THE bar at the Waystone Inn, wiping the same mug for the third time. It gleamed already, clean beneath the amber flicker of the hearth. His hands moved slowly, as if tethering himself to the here and now. Outside, the wind pressed against the shutters. Its low howl found its way in, threading the quiet corners of the room.  
 
 “You’ve stopped, you know,” Kote said suddenly, his voice low and flat.  
 
-The scratch of the Chronicler’s quill ceased on the parchment. Kote didn’t look up, his hands still tracing the rim of the mug. “Your pen. It’s silent. Why?”  
+The scratch of Chronicler’s quill fell silent. Kote did not look up. His hands still circled the rim of the mug, tracing patterns. “Your pen is quiet. Why?”  
 
-Chronicler hesitated before answering. “I suppose…” He shifted in his seat. “I suppose I thought this part of the story wasn’t something you’d want… written down.”  
+Chronicler shifted in his chair before answering. “I thought this part of the story might not be something you wanted written.”  
 
-Kote exhaled sharply, a bitter sound. “You’re not wrong.” He placed the mug down harder than necessary, the faint clink of it against the wood sharper than the quiet around them. “Some things shouldn’t survive the telling.”  
+Kote let out a sharp breath. It carried the taste of bitterness. “You’re not wrong.” He set the mug down with too much force, and the sound rang clear and hard in the hush. “Some things should not survive the telling.”  
 
-He turned toward the hearth, one hand bracing himself against the bar, the other pressed to the hollow of his chest. His breathing hitched once, almost imperceptibly. Then it came, heavy and jagged—a sob that ripped free of him like a wound reopened. There it was, the grief he had tucked away in some deep, forgotten corner finally surfacing.  
+He turned toward the hearth. One hand braced him against the bar. The other pressed against his chest as if to keep something in. His breath caught, barely enough to notice, and then it broke. A sound escaped him, a heavy and jagged sob that ripped free of him like a wound reopened.  
 
-“I led them to their deaths,” he said, his voice cracking under the weight of the words. “Wil. Sim. They didn’t hesitate. Not once. They walked into that fight knowing they wouldn’t come out because…” Kote laughed bitterly, shaking his head. “Because of me. Because I couldn’t stand on my own, and they—” He broke off, his knuckles whitening as they gripped the bar.  
+“I led them to their deaths.” His voice broke under the weight of those words. “Wil. Sim. They never hesitated. Not once. They walked into that fight knowing what would happen because of me.” Kote tried to laugh, but the sound was thin and bitter. “Because I could not stand alone. And they tried.”  
 
-Chronicler set down his pen with care, the sound deliberate. “Kote—”  
+His knuckles whitened where they gripped the edge of the bar. Chronicler set his pen down with care, making the smallest sound.  
 
-“No, let me say this.” He finally turned, eyes glassy and rimmed red, but his voice steadied through sheer force of will. “Heroes don’t save the day. Not always. The world weaves stories, songs, tales of triumph and wit. But the truth—the brutal, bloody truth—is men like Wil don’t get songs. No bard carries their name. No melody hums their feats.”  
+“Kote.”  
 
-He fumbled into his pocket and pulled out a small vial of milky liquid. For a moment, he simply held it, the firelight refracting through the glass. “Wil was one of them,” he murmured. “Just a man with an axe. All brawn. No training. And yet, when the room filled with knights, when Sim and I were on the edge of breaking, Wil stood. He stood.”  
+“Let me finish.” Kote turned at last. His eyes were rimmed with red, glassy in the firelight, but his voice steadied. “Heroes do not always save the day. The world weaves its stories and songs, bright with wit and triumph. The truth is harder. Men like Wil are forgotten. No bard remembers their names. No melody keeps their deeds alive.”  
 
-Kote uncorked the vial, tipping some of the liquid into his mouth. His features slackened slightly, smoothing into something quieter, though his voice retained its edge. “He threw himself into them, swinging wildly. Not with skill, no, but with purpose—enough to buy us another few moments. He knew he wouldn’t survive it. Wil always knew where his story would end, and he didn’t try to change it. Tehlu forgive me, it should’ve been mine instead.”
+He fumbled into his pocket and pulled out a small vial of milky liquid. For a moment, he simply held it, the firelight refracting through the glass. “Wil was one of them,” he murmured. “Just a man with an axe. All brawn. No training. And yet, when the room filled with knights, when Sim and I were on the edge of breaking, Wil stood.”  
 
-### * * *
+Kote opened the vial and took a small swallow. His features softened, but his voice kept its edge.  
 
-“And Sim…” Kote’s hand trembled as he set the vial down on the counter. For a long moment, he stared at it as though the answers he sought might be found swirling in its depths. “Simmon the gentle, Sim the scholar,” he said, his voice softening. “The boy who could hardly hold a blade without complaining about the balance. I never thought… Gods, not Sim.”  
+“He threw himself into the fight, swinging not with skill but with purpose. It was enough to buy us a few more moments. He knew he would not survive. Wil always knew where his story would end. He never tried to change it. Tehlu forgive me. That ending should have been mine.”  
 
-He ran a hand down his face, the movement slow and wearied. “I don’t even know how it happened. One moment, he’s the same Sim I’ve always known—anxious, overthinking. And the next… He wasn’t just brave. He was something else. Something I don’t have the words for.”  
+“And Sim.” Kote’s hand trembled as he set the vial on the counter. For a long moment he stared at it, as if the answers he needed might be hiding in the dark swirl of liquid within. “Simmon the gentle. Sim the scholar.” His voice softened with each word. “The boy who could hardly hold a blade without grumbling about its balance. I never thought I would see it. Gods, not Sim.”  
 
-Kote closed his eyes, the silence between his words stretching taut. “He called the Name of Iron. I’ll never know how he found it in him, but he did. There’s something terrifying about seeing someone you love become wrath. He wasn’t swinging a sword—he *was* the sword. Moving like he’d been born to wield it, like his life had been meant for that single moment.”  
+He drew a hand down his face, slow and wearied. “I do not know how it happened. One moment he was the same Sim I had always known, anxious and thoughtful, turning every trouble over in his mind. And the next, he was something else.”  
 
-Chronicler broke the silence this time, a quiet question in his tone. “What did he sacrifice for it?”  
+Kote closed his eyes, letting the silence fill the space between his words. “He called the Name of Iron. I will never know how he found that in himself, but he did. There is a terror in watching someone you love become wrath. He did not simply swing a sword. He was the sword. He moved as if born for it, as if his whole life had led him to that single moment.”  
 
-“Everything,” Kote said simply. His eyes opened, and for the first time, there was no anger—only fatigue. “Each strike cost him a piece of himself. And when it was over, when the knights were scattered around him in bloody heaps…” A bitter smile tugged at his lips. “He died on his knees. Not from fear. Not from the wounds. From the weight of it. He carried us that day, and it crushed him.”  
+Chronicler’s voice broke the hush, carrying a quiet question. “What did he give for it?”  
 
-### * * *
+“Everything,” Kote answered. His eyes opened, empty of anger, filled instead with weariness. “Each blow took something from him. When it ended, when the knights lay scattered in blood, he died on his knees. Not from fear. Not from wounds. He died beneath the weight of it. He carried us that day, and it crushed him.”  
 
-The fire crackled, filling the empty spaces between words. Kote leaned forward, resting his forearms on the counter as though trying to ground himself.  
+The fire crackled, filling the empty spaces between words. Kote leaned forward, resting his forearms on the counter as if he might anchor himself in the present.  
 
 After a long pause, he spoke again, quieter now. “The world won’t remember Wil. Or Sim. People like that slip through the cracks of history.” He glanced up at Chronicler, his gaze sharper than before. “But you will. That’s why you’re here, isn’t it? The pen only stops when you choose to let something die.”  
 
-Chronicler’s jaw tightened, but he didn’t look away. “What are you asking me to do?”  
+Chronicler’s jaw tightened, but he held Kote’s gaze. “What do you want me to do?”  
 
-“Write them,” Kote said firmly. “Not tomorrow. Not today. But someday, when you’re holed up in some frozen cabin with nothing but ink for company, write them. Not the versions the world would want. Write Wil’s clumsy, graceless fight. Write Sim’s quiet acts of brilliance. Let them live again, even if it’s only in the flicker of a lantern and the scratch of quill on parchment.”  
+“Write them,” Kote said, his words firm and clear. “Not today. Not tomorrow. Someday, when you find yourself in some frozen place, with only ink for company, write them. Do not shape them into the heroes the world would ask for. Write Wil’s awkward, graceless fight. Write Sim’s quiet moments of brilliance. Let them live again. If only for the flicker of a lantern and the scratch of a quill across parchment.”  
 
 Chronicler nodded once, his throat bobbing as he swallowed back whatever words he might have said in return.  
 
-Kote exhaled and leaned back. “They deserve more than this poor telling,” he added, softer now. “But it’s all I have left to give.”  
+Kote leaned back, letting out a slow breath. “They deserve more than what I can give. But this is all I have left.”  
 
-The innkeeper reached for the vial again but held back, his hand hovering over it. His eyes drifted toward the hearth, unfocused, distant. Finally, he whispered something under his breath, so softly that Chronicler had to lean forward to catch it.  
+He reached for the vial once more but held back, his hand hovering over it. His eyes drifted toward the hearth, unfocused, distant. After a moment, he spoke again, so softly that Chronicler had to lean forward to hear.  
 
-“Sim… Wil…”  
+“Sim. Wil.”  
 
-And then the silence closed in, gentle and heavy as snowfall. 
+The silence that followed settled around them like a heavy snowfall.  
 
-At that, Kote pushed himself upright and straightened his apron, the mask of the innkeeper settling back over him. He gestured toward the Chronicler’s pen.
+At that, Kote pushed himself upright and straightened his apron, the mask of the innkeeper settling back over him. He gestured toward the pen in Chronicler’s hand.  
 
-“And for now, this part of the story remains yours to write. So keep writing, Chronicler. That’s why you’re here after all, isn’t it?”
+“For now, this part of the story is yours to tell. Keep writing, Chronicler. That is why you are here.”  
 
-He turned toward the hearth again, his voice distant now. “Their story deserves the telling. Even if the world doesn’t deserve them.”  
+He turned back to the hearth, his voice grown distant. “Their story deserves to be told, even if the world does not deserve them.”  
 
 ### ~ ~ ~
 
