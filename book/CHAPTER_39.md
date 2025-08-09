@@ -3,137 +3,189 @@
 ## THE WEIGHT OF SHADOWS.
 
 
-THE WORLD FOLDED and turned inside out, and I was torn from the decrepit taproom. Haliax didn’t cast a spell, not in any sense I recognized. This magic was old—primal, raw. It turned the air to syrup, thick and heavy, pulling at me like unseen hands. For a moment, I stood empty in a howling void, shaken and weightless, before reality reformed around me.  
+THE WORLD BENT itself backward and I fell through the center of nothing.  
 
-Cold air hit my face, sharp as a razor. The darkness peeled away like storm clouds, revealing a jagged outcrop of stone jutting high above the world. The moon hung low on the horizon, swollen and pale, its light cold against the cracked expanse of the mountain landscape. The ground beneath my feet felt wrong—foreign. The stones were too smooth, their edges too sharp, as if the earth here still remembered the Shapers' hands.  
+There was no spell here, not as the University taught them. This was older magic, the kind that lived in the spaces between heartbeats, in the moment before a candle dies. The air became thick as amber honey, pulling at my bones with patient, ancient fingers. For a breath that lasted forever, I hung suspended in a void that howled without sound, weightless as smoke, heavy as stone.  
 
-A sputtering red light flared ahead. Haliax held a pale candle in the crook of his shadowed hand, its flame unnaturally bright and crimson, throwing jagged splinters of light across the uneven cliff. “We move,” he said, his voice quiet but cutting, like a sword drawing from its sheath. “There is much yet to do.”  
+Then reality remembered itself, and I landed.  
 
-A hard shove pressed into my back. I turned, unsteady, to find a woman with eyes like frostbitten glass staring at me. Her mouth was covered by a crude stitch of pigskin, leaving her features disturbingly incomplete. Her eyeless smile told me more than words would have anyway. She tilted her head, gesturing with a short silver blade toward the path ahead.  
+Cold struck my face like an open palm. The darkness peeled away in layers, each one revealing a jagged outcrop of stone jutting high above the world. The moon hung low on the horizon, swollen and pale, its light cold against the cracked expanse of the mountain landscape. The ground beneath my feet felt foreign. The stones were too smooth, their edges too sharp, as if the earth here still remembered the Shapers' hands.  
 
-I stumbled forward, each reluctant step crunching against loose stone. Denna drifted to my side, her face pale and tight, her arms folded against the chill. “I didn’t know,” she whispered, voice low but urgent, like a confession meant for both of us. “I swear, I didn’t know what they were—what he was.”  
+A red flame guttered to life ahead, bright as fever-dreams. Haliax cupped it in his shadowed palm, and the light struggled against the darkness that clung to him like a living thing. Where it won free, it threw wild splinters of light across the uneven cliff.  
 
-“You couldn’t have,” I said, though the words felt heavier than I meant them to. “You trusted him. We both did.”  
+“We move,” Haliax said. His voice was quiet in the way that deep water is quiet. “There is much yet to do.”  
 
-Her eyes flicked toward the hulking shapes in the distance—Cinder, Alenta, and the others. Her voice cracked, trembling with something raw. “Kvothe, I never meant for this to happen. I didn’t—”  
+Something hard pressed between my shoulder blades. I turned to find a woman watching me with eyes like frostbitten glass, cold and clear and pitiless. Pigskin covered her mouth, stitched crude and tight,leaving her features disturbingly incomplete. She tilted her head, a motion too smooth to be entirely human, and gestured forward with a short silver blade toward the path ahead.  
 
-“It’s fine,” I said too quickly. “We’ll figure this out. But I need to know everything. What did Ash—what did *he* want from you?”  
+I walked. Each step crunched against loose stone, the sound too loud in the mountain quiet. Denna drifted to my side, her face pale as paper, arms wrapped around herself to ward off the chill.  
 
-Denna hesitated, her gaze locked on the ground as she walked. “Research,” she admitted finally. “He had me looking into old families—names like Loeclos and Laclith. Stories about Lanre, half-forgotten songs. He kept me moving from one city to the next, gathering scraps. At first, I thought it was harmless. Call me naive if you want. I thought... I thought he was helping me.” Denna folded in on herself, her arms tightening. “Now I’m not so sure.”  
+“I didn't know,” she whispered. The words came quick and desperate. “I swear to you, Kvothe. I didn't know what they were. What he was.”  
 
-I kept my tone neutral. “And the Loeclos Box? How did it end up with him?”  
+“You couldn't have.” The words felt heavier than I meant them to. “You trusted him. We both did.”  
 
-“I thought it might protect you,” she said, her voice soft and brittle. “There was so much I didn’t understand. He promised it would help, that he’d translate the markings. That it would keep you safe.” Her eyes begged for forgiveness, but I couldn’t find the words to give it.  
+Her eyes found the shapes moving in the darkness ahead. Cinder. Alenta. The others whose names I'd learned from stories meant to frighten children. Denna's voice cracked, trembling with something raw. “I never meant for any of this.”  
 
-Instead, I pressed the question rattling in my skull. “Denna, what do you think they want with us?”  
+“I know,” I said, though knowing changed nothing.  
 
-Her answer didn’t come in words, just a look—a tightening of her lips, a flicker of fear in her eyes. I didn’t need her to say it aloud. She didn’t know.  
+She walked in silence for three steps, then four, then five. When she spoke again, her words came halting, like stones across a river. “He had me searching. Old families with older names. Loeclos. Laclith. Songs about Lanre that nobody sings anymore, the kind that make old women cross themselves and look away.” She paused, gathering herself. “I traveled from city to city, collecting pieces of things that made no sense alone. Like gathering smoke in my hands.”  
 
-Ahead, Cinder turned, his grin sharp and predatory in the moonlight. “Patience,” he called, the word dripping with mockery. “All will be revealed soon enough.”  
+Her arms tightened around herself, and her voice dropped to barely more than breath. “When you showed me those knots on the box, the ones that you couldn't read, I thought I could help. I thought if could get Master Ash to translate them, then maybe you'd stay.” She stopped, swallowed hard, then started again with words that came out smaller. “Maybe you wouldn't need to go searching elsewhere for answers.”  
 
-I stumbled closer, heat pulling into my chest. It was reckless, but the question boiled over anyway. “Why should we believe anything you say? You’re Chandrian. Betrayers. Murderers. You’ve spent centuries lording over ash and ruin.”  
+The words hit me like cold water. She thought she needed to earn my presence, to purchase my attention with usefulness. As if I wouldn't have stayed simply because she asked. As if I hadn't been hers since the first time I heard her laugh across the caravan's campfire.  
 
-The grin dropped from Cinder’s face like a stone cast into deep water. Haliax turned slowly, shadows thickening around him, swallowing the light from the crimson flame. The ground trembled beneath his voice. “You think you *know* something?” he seethed. “You speak the Amyr’s lies, parroting their feeble truths. You know nothing, boy.”  
+“I wanted to give you a reason to stay,” she whispered, each word a small confession. “I wanted to be the one who helped you.” Her laugh came out broken. “Look how well that turned out.”  
 
-His shadow surged forward, drowning the light of the moon, his presence pressing against me like a storm about to break. “We gave everything,” he hissed, his voice louder now, echoing against the mountains like an ancient wound reopened. “Our lives, our loves, our names, all sacrificed to save those who danced on our graves.”  
+I wanted to ask what they wanted with us, but the question died in my throat. I already knew she had no answer.  
 
-“And now you slaughter innocents.” My voice was steel, sharper than I’d expected under the crushing weight of his ire. “Families. Children. Cities turned to ash.”  
+Cinder turned then, his smile sharp as winter wind. “Patience,” he called, the word dripping sweet as poisoned honey. “All things reveal themselves to those who wait.”  
 
-He recoiled, just barely, the shadows around him flickering like dying coals. Then his voice softened, quieter than before but hitched with something hollow. “Burn,” he murmured. “Do you think we burn without reason? You would not endure the lives we’ve lived, the memories that bite and gnaw at us like dogs at our heels.”  
+Heat pulled into my chest, reckless and familiar. “Why should we believe anything from you? You're Chandrian. You're nothing but betrayal wearing human faces. Centuries of ash and ruin, and for what?”  
 
-It was Denna’s soft gasp that made me look away—a hand pressed to my chest, a pommel digging sharp into my ribs. Usnea leaned close enough that I felt her ice-edged breath against my neck. “Another word, boy,” she hissed from behind her mask, “and I’ll cut her pretty little ears clean off.”  
+“What do you think they want with us?” I asked, though I already knew she had no answer.  
+
+Her silence was answer enough, but before she could speak, Cinder turned. His smile cut through the darkness sharp as winter wind. “Patience,” he called, the word dripping sweet as poisoned honey. “All things reveal themselves to those who wait.”  
+
+I stumbled closer, and the taste of plum flooded my mouth, sweet and wrong and familiar. The anger came with it, hot and reckless, pushing words past my better judgment. “Why should we believe anything you say? You're Chandrian. Betrayers. Murderers. You've spent centuries lording over ash and ruin.”  
+
+The grin dropped from Cinder’s face like melted wax. Haliax turned slowly, shadows gathering around him thick as funeral shrouds. When he spoke, the mountain itself seemed to lean in to listen.  
+
+“You dare speak of what you know?” The words came out soft at first, then louder, building like a storm. “You parrot the Amyr's lies, their carefully crafted stories. You know nothing, boy. Nothing.”  
+
+His shadow surged forward, swallowing stars. “We gave everything. Our lives. Our loves. Our very names. All of it sacrificed to save people who later danced on our graves.”  
+
+“And now you slaughter innocents.” My voice came out harder than I expected, steel against stone. “Families. Children. Whole cities turned to smoke and memory.”  
+
+He drew back, just barely, shadows flickering like dying coals. When he spoke again, his voice had gone soft and hollow. “Burn,” he murmured. “You think we burn without reason? You could not endure one day of the life we've lived. The memories that follow us like hungry dogs.”  
+
+Then cold steel pressed against my ribs, and Usnea's breath came ice-sharp against my neck. “Another word,” she whispered through her mask, “and I'll take her pretty ears for trophies.”  
 
 I didn’t doubt her.  
 
 ### * * *  
 
-The silence of the walk stretched for what felt like hours, broken only by the crunch of gravel underfoot. The wind cut cruelly across the mountain face, coiling around us like a living thing. The path led to a flat expanse of raw stone, strewn with outcrops and jagged broken rocks. Haliax came to a stop at its edge, his gaze cutting across the massive plateau below.  
+Time moves strangely when you're walking toward something terrible.  
 
-I approached cautiously, peering over the edge. The sight below stopped my breath. A vast flat expanse stretched in every direction, but the center of the plateau held a perfect circle excavated into the earth, surrounded by a ridge of piled stone and dirt. The enormity of it was staggering—its intentional design unmistakable, but its purpose terrifyingly unclear.  
+The silence of our walk stretched for what felt like hours, broken only by the crunch of gravel underfoot and the sound of our own breathing. The wind cut across the mountain face, alive and bitter, coiling around us like something that had learned to hate. It found every gap in our clothing, every exposed bit of skin, and bit deep with teeth of ice.  
 
-“Come,” Haliax said, his tone calm once more. The rust-veined moonlight lit the edges of his shadow like embers. “It is time.”  
+The path led to a flat expanse of raw stone, strewn with outcrops and jagged broken rocks that jutted up like accusations. Haliax stopped at its edge, looking down at something I couldn't yet see.  
 
-We slid down the crater’s slope, loose earth shifting beneath our boots. Inside the bowl, the space felt even more massive, its center a shrine to quiet, ancient power. Haliax placed a pale candle on the ground first, the red flame flickering unnaturally high in the darkness. Then he lit a second candle, this one a deep, greasy black. Its flame didn’t glow—it darkened. Its mere presence swallowed any light the stars above tried to lend.  
+I approached carefully, each step measured, and looked over the edge.  
 
-As the black flame burned, shapes began to rise out of the darkness. What I’d thought were scattered stones grew into towering obelisks, forming two concentric rings. At their heart, the largest stone loomed: a massive trilithon, its top lintel spanning larger than Anker’s inn, and beneath it, a curtain of shadows darker than deep night.  
+What lay below stole my breath away. Someone or something had carved a circle from the earth itself, precise beyond nature. Stone and dirt piled high around its edges like the walls of an impossible bowl. And at the center of that circle lay a darkness I'd never seen before. Not the darkness of night or the darkness of closed eyes, but something else entirely. Something that made ordinary shadows look pale as noon.  
 
-Haliax turned his gaze to the heavens as though tracing some ancient constellation only he could see. The low moon lit his shadow-cloaked form, its light breaking across him like water against rock.  
+“Come,” Haliax said, his voice calm as death. “It is time.”  
 
-“The time has come,” he said, his voice low but unyielding. “Bring him and the box to me.”  
+We slid down the crater’s slope, loose earth shifting beneath our boots. Inside, the space felt larger than it had looked from above, the way fears grow bigger when you face them directly. Haliax placed a pale candle on the ground first, the red flame flickering unnaturally high in the darkness. Then he lit a second candle, this one a deep, greasy black.  
 
-Stercus’ hands gripped my arm, the weight of his calloused fingers biting into the bruises beneath my shirt. Alenta seized my other, her fingers cold and unrelenting. They dragged me forward, each step grinding resistance into the loose earth beneath my boots. Haliax stood ominously still, a monolith carved from darkness. From his hand, the black Loeclos Box dangled with all the careless gravity of a blade about to fall.  
+Its flame didn't burn. It darkened.  
 
-“You will open it,” Haliax commanded, his shadow-thick voice slipping past my ribs and settling somewhere deep and unshakable.  
+The black flame ate light the way silence eats sound, the way forgetting eats memory. As it burned, or whatever word describes what it did instead of burning, shapes began to rise from the darkness. What I'd taken for scattered stones became obelisks, tall and patient, arranged in two perfect circles. And at their heart, the largest stones loomed, a massive trilithon, its top lintel spanning larger than Anker’s inn, and beneath it, a curtain of shadows darker than deep night.  
 
-The box seemed to absorb the moonlight, its surface unyielding, alien. “I don’t know how,” I managed through the tight cage of my chest.  
+Haliax looked up at stars I couldn't see, tracing patterns in the sky that meant nothing to me and everything to him.  
 
-Cinder’s laugh splintered the silence, fractured and sharp as shattering glass. He stepped closer, his pale face alight with cruel delight. “That’s no trouble. We’ll teach you.”  
+“The time has come,” he said. “Bring the boy. Bring the box.”  
 
-At Haliax’s imperceptible nod, Alenta gripped my wrist with one hand as her other brought forth a blade, quicksilver under the moon. She drove it cleanly into my palm.  
+Stercus grabbed my left arm, his fingers finding every bruise Cinder had given me. Alenta took my right, her grip cold and final. They dragged me forward, and I fought them with everything except hope.  
 
-I screamed, the sound driven from me like wind through a broken pane. The heat of it—searing and alive—was unbearable, a wildfire tearing through nerves and bone. Then came the cold, immediate and unforgiving, a glacier’s breath filling the hollow left by the pain. My fingers hung limp, alien and useless. Crimson drops splattered the ebony box, soaking into its surface like rain into parched soil.  
+Haliax stood still as stone, still as waiting, the Loeclos Box hanging from his hand like a hanged man from a tree.  
 
-“Open it,” Haliax repeated, his words more profound than any marked command.  
+“You will open it,” he commanded.  
 
-I remained silent, gasping and dizzy as the weight of the moment began to tilt the world, the box swimming in and out of focus.  
+The box seemed to drink moonlight, its once-beautiful surface now gave back nothing. “I don’t know how,” I managed through the tight cage of my chest.  
 
-“Open it,” he hissed again, and this time his voice drew tight around my mind like a snare. “Or we will take that same blade to her.”  
+Cinder's laugh shattered against the ancient stones. He stepped closer, his pale face alight with cruel delight. “That’s no trouble. We’ll teach you.”  
 
-His shadow-woven arm extended, pointing past the circle of beasts and figures to Denna, who stood motionless at the edge of the gathering, her hands folded against her chest. The tremor in her stance betrayed her strength.  
+At some signal I couldn't see, Alenta grabbed my wrist with one hand while the other brought forth her blade. She drove it through my palm in one clean motion, the way you'd push a needle through cloth if the cloth could scream.  
 
-“No—” I choked out, then gathered enough air for my next words to feel sharp. “Don’t touch her.”  
+I did scream. The sound tore from me raw and ragged. First came heat, bright and impossible, a star being born in my hand. Then came cold, immediate and absolute, filling the hole the heat had left behind. My fingers went strange and distant, no longer mine, no longer anything.  
 
-“Then heed me.” Haliax’s vow hung heavy. “For every fraction of hesitation, my purpose will be carried out on her instead.”  
+Blood fell onto the box in fat drops, and the box drank them down like parched earth drinks rain.  
 
-I met Denna's gaze then—wide, fearful, and resolutely fixed on me. There was no room for stubborn defiance under that weight. I crumbled. “Edro,” I muttered.  
+“Open it,” Haliax said again.  
 
-The lid of the Loeclos Box clicked open with a sound that reverberated through the night, as though the locks of a hundred ancient vaults had suddenly disengaged. I flinched, waiting—expecting fire, light, the shattering wail of forgotten worlds to pour forth. But there was none of that.  
+I said nothing, gasping, the world tilting and swimming.  
 
-The interior was padded, lined with material dark as pitch and eerie in its perfection, as though no human hand had ever touched it. Nestled within was a single shard of black stone, no larger than Caesura’s shattered tip. Haliax plucked it out with strange reverence, holding it aloft as the moon painted eerie edges across its surface.  
+“Open it,” he repeated, and this time his voice wrapped around my mind like wire. “Or we give her the same lesson.”  
 
-“Our suffering ends tonight,” he announced, the words vibrating like the pluck of a string between the jagged stones. His shadowed figure turned toward Denna, ominous in its simplicity. “Bring her.”  
+His shadow-wrapped arm pointed past the circle of monsters to where Denna stood at the gathering's edge, her hands folded against her chest like broken birds.  
 
-“No!” I scrambled to my feet, more desperate than I’d ever been. “Take whatever you need from me—just leave her out of this!”  
+“No.” The word came out cracked. Then stronger. “Don't touch her.”  
 
-Haliax surveyed me, his head tilting beneath that gathering void of shadow. When he spoke, his voice softened, which somehow made it all the worse. “For what comes next, Kvothe, you cannot help.”  
+“Then speak the word you know.”  
 
-Suddenly, I was seized again, thrown aside like a discarded banner. I hit the ground hard, the impact punching air from my lungs. When I recovered enough to look, Denna was standing before him, her frailty outlined in the harsh moonlight.  
+I met Denna's eyes. They were wide and frightened and fixed on me with a faith I didn't deserve.  
+
+I closed my eyes and reached out with more than hands. My blood had soaked into the box, and blood remembers. I found the sympathy there, the connection between what was inside me and what was now inside the wood. Like following a thread through a labyrinth, I let my mind flow along those crimson paths.  
+
+The box revealed itself to me in layers. First the grain of the roah wood, tight and twisted as a secret. Then deeper, to the mechanisms hidden within. Three locks, each one listening for something different. The first wanted a word. The second wanted a tone, accurate and precise. The third wanted intention, pure and unflinching.  
+
+I knew it then, completely. Every joint, every hinge, every clever piece of artifice that held it closed. And in that moment of perfect knowing, I felt something more. I could unmake it. Not break it, not destroy it, but unweave it from the world entirely. Make it so it had never been. The knowledge burned in me like a star being born, and I wanted it. Wanted to watch Haliax when the thing he needed simply ceased to exist, had never existed, would never exist.  
+
+But then I saw Denna's face, and the blade still pressed against her throat, and I knew the price of that satisfaction would be paid in her blood. The cost was too high. It would always be too high.  
+
+“Edro,” I whispered, but the word was more than sound. I pitched it to the frequency the second lock craved, shaped it with the intention the third lock demanded. The word fell into the box like a key into its proper lock.  
+
+The Loeclos Box opened with a sound like every lock in the world agreeing to betray its door. I flinched, waiting for fire, for light, for the world to come apart at its seams.  
+
+Instead, there was only darkness lined with material that had never known human touch. And nestled within, a shard of black stone no larger than a broken promise.  
+
+Haliax lifted it out with the reverence reserved for holy things and terrible ones.  
+
+“Our suffering ends tonight,” he announced, the words hanging in the air like smoke. Then he turned to Denna. “Bring her.”  
+
+“No!” I scrambled to my feet, desperate as drowning. “Take whatever you need from me. Leave her out of this.”  
+
+Haliax tilted his head, considering. When he spoke, his voice had gone gentle, which made it infinitely worse. “For what comes next, young man, you are entirely the wrong instrument.”  
+
+They seized me again, threw me aside like a letter already read. I hit the ground hard, the impact punching air from my lungs. When I recovered enough to look, Denna was standing before him, her frailty outlined in the harsh moonlight.  
 
 “Cinder speaks of your talents,” Haliax said, his tone distant, almost fond. He held out the shard to her, its sharp edge casting an unnatural, liquid gleam. “Now you will sing. Look upon the door, and sing the words that are forsworn there.”  
 
-She faltered, her voice a quaking fragment. “I don’t—”  
+She trembled. “I don't understand.”  
 
-“Do not look at it,” Haliax interrupted, seizing her chin with his skeletal hand, forcing her face forward. The dark shape of the ancient stone arch loomed like a mouth against the horizon. “See it!”  
+“Look at it.” His shadowed hand caught her chin, turning her face toward the ancient arch. “See it truly.”  
 
 Denna trembled, tears slipping down her cheeks, but her gaze became distant, fixed, as though the arch were rewriting her. Seconds passed, and the silence of the gathering deepened, heavy as an executioner’s hood.  
 
-Dalcenti approached her then, her mask drawn back to reveal her ghostly, ruined face. She whispered something into Denna’s ear, her words sharp and cruel as shattered ice.  
+Dalcenti approached her then, her mask drawn back to reveal her ghostly, ruined face. She whispered something into Denna’s ear and Denna’s eyes found mine one last time. Frantic. Questioning. Betrayed.  
 
-Denna’s eyes widened as they met mine briefly—frantic, questioning, betrayed. And then, like a marionette pulled by its strings, she drew in a long, shuddering breath and opened her mouth.  
+Then, like a marionette pulled by its strings, she drew in a long, shuddering breath and opened her mouth.  
 
-What came from her was not song in any way I had ever known it. Three clear notes rippled into the air, cutting and unyielding, impossible in their perfection. They carried the texture of stones grinding beneath deep water, of doors long closed and forgotten creaking wide to let nightmares through. Light thrummed in the space between stone, bending and shivering.  
+What came from her was not song in any way I had ever known it. Three notes, perfect and terrible, each one written in a language that predated words. They carried the weight of stones grinding beneath oceans, of doors that should never open creaking wide on ancient hinges. The notes hung in the air like hanged men, like prophecies, like the last words of dying gods.  
 
-The black stone arch rippled, its curtain-like darkness bulging outward, swelling toward us as the ground beneath began to shake. A deep, resonating thrum escaped from the door—a heartbeat, dreadful and primal, echoing into bone and marrow.  
+The black curtain beneath the arch began to move. It bulged outward, pregnant with possibilities that should never be born. The ground shook, not with violence but with recognition, as if the earth remembered what was coming and tried to flee.  
 
-Shapes pressed against the dark veil, too strange to process, and then they poured forth: wolves the size of horses, their jaws dripping molten ruin; birds with human teeth glinting through their hooked beaks; spiders tall enough to blot the moon, their eyeless forms scrabbling forward.  
+A sound emerged from beyond that door. A heartbeat, if hearts could be the size of mountains. A breathing, if breath could rot the air.  
 
-The air cracked again, and through the crowd of horrors, something else emerged. Taller, larger, and infinitely worse—the spindly figure of Iax. His flesh hung in shadowed tatters, his wiry arms stretched unnaturally long, and from beneath a dripping curtain of black hair, his hollowed-out face grinned a mirthless mockery of joy.  
+Then they poured through.  
 
-“Welcome, Dreamer,” Haliax said with a strange kind of reverence.  
+Wolves the size of horses, their jaws dripping with light that burned. Birds with human teeth strung like pearls in their beaks. Spiders tall enough to cast shadows on the moon, eyeless and eager. Things that had too many joints, or not enough. Things that moved in ways that made my eyes water to follow.  
 
-Iax’s soulless eyes surveyed us, fixing on Haliax. A laugh boiled from his throat, rust on iron, wheezing and jagged. “Lanre,” he said, soft and full of dark humor. “How fitting that you would stand here, among the ruins you wrought, to set me free.”  
+And then, stepping through them all like a shepherd through his flock, came Iax.  
 
-Haliax raised the shard of black stone, his voice steady despite the tremor in his shadow. “Not free—not yet. I come seeking your power. Our curse has run long, our torment endless. I ask your boon, Dreamer. Free us.”  
+His flesh hung in tatters that might have been shadows or might have been skin. His arms stretched wrong, too long, too thin, reaching for things that weren't there. From beneath hair black as the space between stars, his face grinned without joy, without humor, without anything that could be called human.  
 
-Iax’s laugh deepened into something brutal, scarred and ancient. “Ask, then, hero of old. Tell me, what price would you have me pay for your deliverance?”  
+“Welcome, Dreamer,” Haliax said, and for the first time I heard something like reverence in his voice.  
+
+Iax’s soulless eyes surveyed us, fixing on Haliax. When he laughed, it sounded like rust on iron, like doors that hadn't opened in a thousand years suddenly remembering how. “Lanre,” he said, soft and full of dark humor. “How fitting that you would stand here, among the ruins you wrought, to set me free.”  
+
+Haliax raised the shard of black stone, steady despite the trembling in his shadow. “Not free. Not yet. I come seeking your power, Dreamer. Our curse has run too long, our torment endless. I ask your boon, Dreamer.”  
+
+Iax’s laugh deepened into something brutal, scarred and ancient. “Ask, then, hero of old. Tell me, what price would you have me pay?”  
 
 Haliax stood straighter. For the first time, I thought I saw something fragile at his core. “Shatter the curse. Burn these shadows to smoke, and let me pass through the doors of death.”  
 
-Iax considered this, his head tilting farther than it should. With a word—a sound that crushed the very air around it—he took the shard, smote it into dust, and scattered it into the wind.  
+Iax considered this with the patience of someone who had nothing but time. Then he spoke a word that made the air scream, took the shard, and crushed it to dust between fingers that weren't entirely there. The dust scattered on wind that came from nowhere, went nowhere, meant nothing.  
 
-The shadow coiling around Haliax melted away, revealing the face of a man who had fallen long before history was written. He reached up, touching his own cheek, a sob escaping his trembling lips. “It has been so long,” Lanre murmured. “Too long.”  
+The shadow that had wrapped Haliax for longer than kingdoms had stood began to peel away like paint from a burning house. Beneath it stood a man. Just a man. Old and tired and broken in ways that had nothing to do with bones.  
 
-Then, he turned, smiling faintly. “Someone… someone end it.”  
+He reached up with trembling fingers, touched his own cheek like a blind man remembering sight. A sob escaped him, small and private and devastating.  
+
+“It has been so long,” Lanre whispered. “Too long.”  
+
+Then he turned, and on his face was the kind of smile you see on men who've finally put down burdens too heavy to bear.  
+
+“Someone end it,” he said. “Please.”  
 
 Cinder obliged.  
 
