@@ -3,71 +3,117 @@
 ## THREADBARE AND BOUNDLESS.
 
 
-WE DIDN’T RUN so much as stagger from the battle. The screams of the Chandrian and the thunder of Tehlu’s angels tore holes in the night behind us, but we kept moving, one agonizing step after another. Denna clutched her side, her hand slick with blood, and the dusk-light of her face grew paler with every uneven stride. My mouth was dry. My legs ached. My mind replayed the scene again and again: the flash of Cinder’s blade, Denna’s knife buried in his neck. Her gasp when he struck her.  
+WE FLED LIKE broken things flee. Not with purpose or direction, but with the blind momentum of the wounded, the way a struck bird beats its wings against the ground, knowing only that stillness means death.  
 
-Down the craggy mountain slopes we fled, boots scraping against loose stone, the cold air burning our lungs. When the first dim flickers of sunlight appeared on the horizon, we reached the foothills, a sparse scattering of ironwood and desert willow. Finally, we stopped, collapsing into the shadows of the thickets. I peeled off my shirt, which was damp with sweat, and wiped the blood clear from my hands. Then I turned to Denna.  
+My left hand had become a stranger to me. Where three fingers should have been, there was only absence and a pulsing heat that matched my heartbeat. I had wrapped it in torn cloth, but blood still found its way through, leaving a trail of dark coins on the stones. Behind us, screams of the Chandrian and the thunder of Tehlu’s angels tore holes in the night. Thunder that was not thunder. Light that burned without flame. The screams of the Chandrian discovering what it meant to be mortal enough to fear.  
 
-"I'm fine," she muttered, though she couldn’t lift her head.  
+Denna leaned against me, her weight both a burden and a blessing. A burden because my legs already heavy and sore. A blessing because it meant she still lived. Her hand pressed against her stomach where Cinder’s sword had written its cruel message, and between her fingers seeped a darkness that looked black in the moonlight but would be crimson come the dawn.  
 
-"No, you’re not." My voice was harsher than I intended.  
+“I can walk,” she whispered.  
 
-The rising sun laid plain what darkness had concealed. The wound in her stomach was red and wet, the skin around it swollen. My heart clenched as I recognized the cruelty of the injury: a blow meant to kill slowly. A wound intended to make the victim suffer as much from despair as pain. I’d seen enough in the Medica to know the signs, to understand the odds. I swallowed hard, shoving those thoughts aside.  
+“Of course,” I said, but kept supporting her anyway.  
 
-“You’re lucky I’m desperate and clever,” I said, trying to force a quip through the tightening of my throat.  
+We both knew how to lie when lying was a kindness.  
 
-Denna gave a breathless laugh that sounded more like a cough.  
+The mountain gave way to foothills as the first light touched the world’s edge. We found shelter in a copse of ironwood and desert willow, their branches made a meager shade, but it was enough to let us stop. To let us breathe. Breathing seemed important. Breathing meant we were not dead.  
 
-I ripped the last clean strip of fabric from my now-tattered shirt and pressed it tightly against her wound. Then, with shaking fingers, I pulled at the edge of my shaed. The shadow resisted me, stubborn as a mule. It thinned and stretched, trying to snap back into place, but I dug my nails into it, and at last, a thread of darkness unraveled. I used it to stitch Denna’s wound. By the time I was done, my hands ached and sweat dripped off my nose into the dirt.  
+While we rested I took time to examine Denna’s wound. It was worse than I’d feared and better than I’d expected. Worse because it went deep, the kind of deep that speaks of organs and arteries, the kind of deep that makes even University-trained physicians shake their heads and speak in careful, quiet voices. Better because Denna was still breathing, still conscious, still herself enough to try to smile when she caught me staring.  
 
-Denna’s faint smile had faded, replaced by a pale grim line. “That looks like something out of a nightmare,” she said, staring at my work.  
+“That bad?” she asked.  
 
-“It’s keeping you alive,” I said, more sharply than I meant. “Let’s move. We need water.”  
+“I’ve seen worse,” I said. Another lie. Another kindness. In the Medica, I’d seen wounds like this. I knew their rhythm, their slow waltz toward fever and infection and the sweet smell that meant the body had begun to surrender. I pushed those thoughts away and locked them in the same place I kept my memories of my parents’ burning wagon.  
+
+I tore strips from what remained of my shirt, the fabric already more memory than cloth. My fingers worked with the careful precision I’d learned in the Medica, cleaning the wound as best I could with nothing but spit and hope. The stitching was rough work, rougher still with only three fingers on my left hand answering my commands. Each pull of the thread drew a sound from Denna that she tried to swallow, and each sound cut me deeper than Cinder’s blade ever could.  
+
+When I finished, I wrapped my shaed around her shoulders. That gift of shadow, starlight, moonlight and fire that Felurian had woven with grammarie and secrets I’d never understand.  
+
+I’d worn it through gentle summer days and bitter winter nights without harm, but I’d never asked it to endure a desert. The sun here was different. Cruel. It beat down on us, my shaed had begun to fade at the edges, dissolving like smoke into memory. But what remained still held its nature. It was cool against her fever-bright skin and dark enough to shield her from the worst of the desert’s attention.  
+
+By the time I’d bound her wound and settled the shaed around her, my hands trembled and sweat ran into my eyes. I pressed my palms against them, hard enough to see stars, hard enough to push back everything that threatened to spill over if I let it.  
+
+Denna looked at the dark threads holding her together. “I look like something from a story,” she said.  
+
+“The heroine,” I agreed. “The clever one who outsmarts death and makes it home for dinner.”  
+
+She smiled, just barely. “You’re a terrible liar.”  
+
+“I’m getting better,” I said. “I’ve had an excellent teacher.”  
 
 ### * * *  
 
-The desert stretched before us, an endless, sun-scorched expanse. I held the shaed above us to shield Denna from the worst of the heat, but the unstitched strand had frayed something vital in its magic. The edges of the shadow-borne cloak began to shred and tremble in the dry wind. It unraveled slowly—a thread curling away here, a piece of darkness tearing loose there—until all that remained was a single scrap the size of my hand.  
+The desert stretched before us, an endless, sun-scorched expanse. The sand was the color of old bones, and the heat rose from it in waves that made the air dance like fever dreams. I held the shaed above us when I could, trying to shield Denna from the worst of the heat, but my shadow cloak tired quickly beneath the desert sun. Each morning it would emerge from my pocket whole but weary. And each day it would falter, tiny holes appearing like stars in a dark sky, growing slowly wider until I had no choice but to let it rest.  
 
-I stared at it for a long moment and then tucked it gently into my pocket. Denna stirred weakly beside me.  
+By the second day, the shaed barely lasted through the afternoon. By the third, I was tucking it away as the sun reached its full height, cradling it in my pocket like a wounded bird. Even magic, it seemed, could not endure the desert’s hunger.  
 
-“Bad luck?” she asked, her voice thin.  
+“Bad luck?” Denna asked.  
 
-“For the shaed, maybe.” I gestured toward the endless sand. “We’ve still got worse to worry about.”  
+“For the shaed, maybe.” I gestured toward the endless sand. “Just a bit farther.”  
 
-We walked for hours, and Denna leaned against me more and more. When she faltered, I carried her, ignoring the fire burning in my legs and back. I counted my breaths. I counted my steps. I told myself if I reached one hundred, I’d let myself think of water. Of shade. Of sleep.  
+She laughed, or tried to. The sound was dry as sand. “You’re a terrible liar when it matters.”  
 
-On the second day, I nearly wept at the sight of a figure far ahead, shimmering in the heat haze. At first, I thought it was a mirage, a cruel trick of the desert. But the closer we came, the sharper the silhouette became: a wide-brimmed hat, a pack laden with wares, and the unmistakable hunch of a Tinker trudging across the dunes. I quickened my pace, though my every muscle screamed in protest.  
+“I’m an excellent liar,” I protested. “I’m just choosing not to be.”  
 
-The Tinker turned, and his face brightened when he saw us. "Ho there! Stragglers in the sands!"  
+“That’s the worst lie yet.”  
+
+We walked on. Denna leaned against me more and more until walking became a memory and carrying became the only truth. My legs had stopped feeling like legs sometime the day before. Now they were just things that moved when I told them to, automatic as breathing, reliable as pain.  
+
+I played the games that desperate men play with themselves. Count to one hundred steps and you can think of water. Count to fifty and you can remember shade. Count to ten and you can keep walking. Count to ten again. Again. The numbers became a song without melody, a prayer without words. My world narrowed to the rhythm of footfalls in sand, to the weight across my shoulders, to the next step, the next breath, the next lie I told myself about how much farther I could go.  
+
+I was watching my feet, mesmerized by their stubborn persistence, when a voice cut through the desert silence.  
+
+“Ho there! Stragglers in the sand!”  
+
+I looked up, certain the heat had finally won, that my mind had begun to paint salvation on the empty canvas of the desert. But the figure grew more solid with each blink, more real, until I could make out the pack on his back, the brass pots that caught the sun like fallen stars, the wide-brimmed hat that cast a shadow you could trust.  
 
 By the time we reached him, Denna was barely conscious. “Water,” I croaked.  
 
-He handed me a leather skin with a look of pity. I poured some into Denna's mouth before taking a swig myself. It tasted of sweat and old leather, but in that moment, I swore it to be more precious than wine.  
+He handed me a leather skin with a look of pity. I poured some into Denna’s mouth before taking a swig myself. It tasted of sweat and old leather, but in that moment, I swore it to be more precious than wine.  
 
-“I have little else to spare,” the Tinker said, gesturing to his pack. “A bit of hard bread. Some cloth to wrap your faces. Not much. The desert takes more than it gives.”  
+“I have little else to spare,” the Tinker said, gesturing to his pack. “Some bread hard enough to drive nails. Cloth for your faces against the sun. The desert gives less than it takes, I’m afraid.”  
 
-“We’ll take anything you can offer," I said, brushing the sand from my hand as I reached for the pouch at my belt. It wasn’t much: a few iron drabs, a chipped ring, a broken gearwheel I’d never finished repairing.  
+I reached for my purse, though I knew what I would find. Three iron drabs. A broken gear from some forgotten project. A button that had once belonged to my father’s cloak, though I’d never told anyone that, never admitted I’d kept such a useless thing for such a sentimental reason.  
 
-The Tinker shook his head. His eyes fell to Denna’s hand, where her slim silver ring glittered faintly. She must have realized it too, because she spoke just as I opened my mouth to argue.  
+The Tinker’s eyes didn’t linger on my poor offerings. Instead, they found Denna’s hand, where her silver ring caught the light like a promise about to be broken.  
 
-“Take it,” she whispered firmly, twisting the ring from her finger. “It’s fine. It was never… never mine to begin with.”  
+She saw his look. Her fingers found the ring, turned it once, twice. A gesture I’d seen her make a hundred times when she was thinking, when she was nervous, when she was about to run. But there was nowhere to run now, only the desert stretching endlessly in every direction.  
 
-The Tinker hesitated, then nodded solemnly and handed over the supplies. I tried not to look at Denna as she leaned back against me, as if no longer holding the ring had drained something out of her.  
+“Take it,” she said, pulling the ring free with a motion quick as tearing off a bandage. “It was never really mine anyway.”  
 
-"Northwest from here," the Tinker said, squinting against the horizon. "Follow the dunes until they dip. You'll find a tribe of Tahl in half a day if your legs hold out."  
+The Tinker hesitated, that moment of pause that exists between kindness and commerce. Then he took the ring, and gave us what he could spare, and pointed us northwest. “Follow the dunes until they dip,” he said. “Half a day’s walk, you’ll find the Tahl. They’re good people, though strange. They’ll help if they can.”  
 
-I nodded and helped Denna to her feet.  
+As he walked away, pack jingling with the music of small trades and smaller profits, I looked at Denna’s naked finger. There was a band of pale skin where the ring had been, like a ghost of something that had mattered.  
+
+“I’m sorry,” I said.  
+
+“Don’t be,” she replied, but her voice was smaller than before, as if she’d traded away more than silver.  
 
 ### * * *  
 
-We did not find the Tahl tribe in half a day, nor in two. By the third, the last of the bread was gone, and not a drop remained in the skin. Denna grew too weak to walk at all. Her breathing slowed, her murmurs lost the shimmer of her usual wit, and worst of all, a sweet, cloying scent began to rise from her wound.  
+We did not find the Tahl in half a day.  
 
-I carried her as far as I could, my legs trembling with each step. My world shrank to the sensation of the burning sun overhead and Denna’s weight against my chest. I spoke to her to pass the time, half to distract her and half to keep myself from breaking apart entirely. “We’ll be fine. Just a few more miles and we’ll come across an oasis. Or someone will find us. I’ll trade them… well, I haven’t much left, but I’ll think of something. You know me. Clever, remember?”  
+We did not find them in two days.  
 
-Denna didn’t reply.  
+By the third day, Denna had gone quiet in the way that people go quiet when they’re saving their strength for one last thing, though they haven’t decided what that thing will be.  
 
-I stumbled, my knees buckling beneath me. The sand gave way as I fell, my arms still wrapped around her. I lay there, tasting dust on my tongue. Weak and spent, I felt the weight of hopelessness drag across my chest, heavier than Denna had been.  
+I carried her through that third day, though my legs had begun to betray me too. They trembled with each step, buckled without warning, sent me stumbling to my knees again and again. Each time I fell, it took longer to stand. Each time I stood, I could carry her a shorter distance.  
 
-Thin clouds shifted lazily above me, pale and distant—out of reach.  
+I talked to keep us both alive. Told her stories of the University, of my friends, of all the times I’d been clever and all the times I’d been lucky and all the times I’d confused one for the other. I told her how we would escape this desert, find water, find shelter, find a bed where she could rest and heal and laugh at how close we’d come to ending.  
+
+When I fell the last time, I knew I wouldn’t be getting up again.  
+
+The sand received me without judgment. It would be easy to close my eyes, to stop fighting what had already won. I’d fought well. Sometimes that has to be enough.  
+
+I wrapped my arms around Denna and held on. Above us, the sky stretched endless and empty, too blue to look at, too vast to comprehend. The sun pressed down, patient as stones.  
+
+I thought of my mother singing while she cooked. My father’s hands painting stories in the air. I thought of Denna, who was worth more than salt or the moon on a long night of walking.  
+
+The desert waited.  
+
+I closed my eyes.  
+
+I held her close.  
+
+I listened to two hearts beating, growing slower, growing quiet.  
 
 ### ~ ~ ~
 
