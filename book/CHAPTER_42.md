@@ -3,81 +3,115 @@
 ## SEVEN WORDS FOR SILENCE.
 
 
-WE LAY THERE in the endless desert, the sun a hot hammer beating down on both of us. I kept Denna’s hand in mine, as if the contact alone was enough to keep her tethered to the world. Around us, the sand shimmered, an ocean without a shore. Somewhere far away, I could hear the dry screaming of the wind, but here, where we lay, there was only silence. A silence I dreaded, because I knew it would grow deeper if Denna took her last breath.  
+THE DESERT HAD seven words for silence, and we were learning them all.  
 
-The thirst was maddening. My lips were split and bleeding, each swallow catching in my throat like broken glass. I tried not to think of it. Eyes half-lidded, thoughts dulled by exhaustion, I reached out to the world. I searched for water with every scrap of Naming I could summon. I felt the deep pull of the sand, but the water buried there was too far down. Too far to hear. Too far to Name.  
+The first was the silence of absence. Wind that should have sung through sand dunes lay still as a held breath. The second was the silence of waiting. My cracked lips formed prayers that had no sound, only shape. The third was the silence of sand itself, endless and patient, knowing that all things eventually belonged to it.  
 
-Denna stirred beside me, drawing in a sharp, ragged breath. I turned to her and saw her lips moving faintly, though no words came. For a moment, I thought she was leaving me already. Then I heard it. A strange throaty chanting, carried faintly by the wind. My cracked mind dismissed it as delirium, but it was real. The rhythm of the voices shifted and grew louder, closer.  
+Denna lay against me like a child’s cloth doll worn soft from years of holding, her head lolling against my chest the way dolls do when their necks have lost all substance. One side of her face had gone slack with fever, the way a doll’s face sags when the stitching comes loose, leaving her mouth pulled into a stranger’s expression she couldn’t control. I kept her hand in mine, feeling the threadbare pulse beneath her skin. Weak. Growing weaker. Around us, the desert waited with the patience of stone, and the sun pressed down steady and merciless as truth.  
 
-Strength I didn’t know I had flared in me, enough to lift my ruined hand into the air. I waved it weakly, felt the dried blood crack along my bandaged fingers. “Help!” My voice came out hoarse, more a whisper than a shout. I tried again, biting through the pain of my parched throat. “Please… help us…”  
+My throat had forgotten water. Each swallow scraped like sand finding its way between stones, wearing them smooth through endless repetition. I reached out with what little Naming I had left, searching for water the way roots search through darkness. Deep beneath us, I could feel it sleeping in the earth’s hidden places. But my voice couldn’t reach that far. My will was a rope too short for such a deep well.  
 
-For what felt like an eternity, nothing changed. Then a figure stepped into view, blotting out the sun.  
+Denna stirred. Her lips moved, shaping words without breath, like thread pulled through cloth with no knot to hold it. At first I thought she was remembering how to sing. Then I heard it too. Voices threading through the heat. Not the wind’s voice, but human voices carried like seeds on its back. A rhythmic chanting that rose and fell, rose and fell, patient as breathing.  
+
+I found strength hiding in the marrow of my bones, in that last reserve the body keeps for dying. My ruined hand rose into the air, the bandages stiff with old blood. “Help.” The word came out cracked down the middle. I tried again, pushing past the sharp edges. “Please. Help us.”  
+
+The chanting stopped the way a thread stops when it reaches its knot. Silence. Then it began again, closer, as if the singers had been listening to our silence and decided to answer it. A shadow fell across us, blotting out the sun, and for a moment all I could see was darkness. I was certain death had finally come to collect what the desert had been softening for it. But the darkness had a human shape, and when it leaned down to look at us, its eyes were curious and alive.  
 
 ### * * *  
 
-The Tahl saved us. There’s no simpler way to say it. They gave us water, breaking the flask over our lips and letting it trickle down slowly. Denna sputtered but swallowed, though I could see the fever in her eyes, burning too brightly. They gave us food—flat bread and a spiced mash I couldn’t name. Denna managed only a few bites. I ate more, though my hands trembled the whole time.  
+The Tahl saved us. There’s no simpler way to say it. The woman who held the flask to our lips had hands like old leather books, creased and brown and full of stories. She gave us water in small, careful portions, not from stinginess but from wisdom. She understood thirst the way only those who live beside it understand it. She knew the body could mistake rescue for attack, that too much kindness could kill as surely as too little.  
 
-Trying to talk to the Tahl was like trying to make a bridge out of wind. I tried everything—Aturan, Temic, even broken Chaeldish—but they only stared back at me, uncomprehending. Finally, one of their women, older and gray-haired, gestured for me to wait. When she returned, she signed in halting Adem hand-talk: slow, deliberate, each motion deliberate and careful.  
+Denna drank like a baby bird, all instinct and need. Sputtered. Drank again. The fever in her eyes burned bright as new copper, but she was alive. Alive was the only word that mattered. Alive was the only prayer worth praying.  
 
-*Help her,* I pleaded in the silent, sharp hand-language. *Please.*  
+They gave us bread, flat and hard and gritty with the desert that found its way into everything. The old woman who offered it ate her own piece with the careful, grinding patience of someone whose teeth had learned the true cost of desert living. Denna managed three bites that stayed down. I managed more, though my hands shook like leaves remembering wind. The Tahl watched us with the steady curiosity of those who find unexpected seeds blown far from their proper soil.  
 
-Her sharp eyes softened. She crouched beside Denna and examined her wounds, her hands sure and steady. Then, without a word, she rose and went to speak with the others. Their voices grew heated, the cadence of disagreement clear even though I couldn’t understand their tongue. When the old woman returned, she was flanked by two men, broad and grim-faced. They carried Denna delicately, almost reverently, onto a makeshift stretcher. Her lips parted slightly, murmuring something faint and unintelligible, her brow beaded with sweat.  
+Words failed us. I tried Aturan first, and when they only tilted their heads I tried slowing down and speaking louder like one does with children or the very drunk. When that didn’t work I tried Tema, then Siaru, then the scattered pieces of other tongues I’d collected. Nothing worked. Finally, one of them gestured for me to wait. When she returned, she brought an old woman who spoke in halting Adem hand-talk, her gestures too large and too many, like someone shouting in whispers.  
 
-We walked for hours beneath the failing sun, the stretch of endless desert giving way at last to clusters of trees. They were strange things, the trees of the Tahl oasis: broad, flat-topped, with bark that gleamed faintly silver beneath the last slanting rays of light. There was sound among the trees—not the dry rustle of leaves, but something more, an eerie, melodic hum like low voices caught on the breeze.  
+“Heal her,” I tried to sign, but my left hand betrayed me. Where fingers should have shaped meaning, there were only gaps and bandages. The gestures fell apart like words with missing letters, meaningless and broken. I stared at my ruined hand for a heartbeat, then switched to my right, signing awkwardly with my clever hand where my strong hand should have spoken. “Heal her. Please.”  
 
-The nomads brought us into the heart of their encampment. Tents and yurts sprawled around the faint sparkle of the oasis, where water glinted in the moonlight. They carried Denna into the shade. Despite the relief from the sun, she worsened—her fever spiked, her words turning to desperate, senseless babble. Her hand found mine, gripping weakly as I knelt beside her.  
+The old woman’s eyes moved to Denna, taking in each thread of her unraveling. The dark stain spreading beneath makeshift bandages. The shallow pull of breath barely moving cloth. The fever writing its signature across pale skin. She spoke to the others in their rolling tongue that sounded like water over stones. Voices rose like heat. Argued. Settled like dust.  
 
-A woman approached, older than the oldest I’d ever seen, her skin marked by deep lines, her eyes sharp despite her years. She crouched low, placing a wrinkled hand on Denna’s forehead.  
+When the old woman returned, two men flanked her, their faces weathered into the same patient stone as the desert itself. They lifted Denna with the care reserved for things that might shatter if you breathed wrong. Her lips parted, releasing sounds that had forgotten how to be words. Her eyes found mine, full of questions I couldn’t answer.  
 
-“She is very weak,” she said in broken Aturan, her voice a quiet rasp.  
+We walked toward the promise of shade, toward the promise of more than just not-dying. Hours passed, or minutes that had learned to feel like hours. The desert released its grip finger by finger, reluctant as a child letting go of a favorite toy, until trees appeared on the horizon like wishes becoming solid.  
 
-My heart clenched. “I’ve heard… there are healers among your people,” I said, the words trembling as they left my lips. “People who can work magic. Please. Is there nothing you can do for her?”  
+The trees were silver things that had learned to sing. Not truly sing, but make a sound like singing, the way memory makes a sound like truth. Their broad flat crowns caught wind differently than ordinary trees, turning it into something that had almost learned to be music. Their leaves whispered harmonies that had no names, only the shapes of feelings. The sound pulled at something behind my ribs, something that remembered what songs meant before we taught them words.  
 
-The woman’s mouth pulled into a faint, almost apologetic smile. “There were days when we could heal almost anything,” she said. “We sang songs strong enough to make the trees sway, to make the river sing. But those days are long behind us. What strength we have left is faint. A shadow of what it once was.”  
+The Tahl’s camp sprawled around an oasis where water caught the late light and held it like cupped hands. They carried Denna into the largest tent. I stood there, swaying slightly, unsure if I was allowed to follow, but no one so much as looked at me or gestured. I was a stranger in their place of healing, covered in desert dust and old blood, and I didn’t know their customs. Did they permit men where women did their work? But Denna was in there, and that was the only thing that mattered. I pushed through the tent flap.  
 
-I pressed my hand against the dirt, leaning toward her. “I will take a shadow over nothing,” I said, my voice hardening with desperation. “Please. Will you try? That’s all I ask of you.”  
+Inside, they had laid Denna on a low pallet covered in worn blankets. She was getting worse the way a cloth unravels, slowly at first, one thread at a time, then faster as the weave loses its will to hold. The fever had grown teeth and appetite. Her words tumbled over each other like drunken dancers, making no sense, making too much sense. Her hand found mine and held on with the terrible strength of those who know they’re falling.  
+
+The tent flap stirred, and the eldest of the Tahl entered, her face written over with years like a palimpsest of sorrows. She placed a hand on Denna’s forehead, and her expression told me everything in the space before words arrived.  
+
+“She is far from us,” the old woman said in Aturan that had rust on its edges from disuse. “Very far.”  
+
+My heart cracked like ice in spring, the kind of cracking that means everything is about to change. “I’ve heard stories. Your people know songs that can heal. Magic that can mend what’s broken.”  
+
+The old woman gave me a sad smile. “Once, yes. We sang the sun to sleep and taught it to wake. We sang rain from cloudless skies and taught rivers their names.” She paused, looking at her hands as if they belonged to someone else. “But that was when the world was younger and believed in such things. Now we are shadows of what we were, trying to remember the shape of power. What strength remains is thin as the last light before dark.”  
+
+“Please.” The word cracked as it left me. “Anything. Whatever you have left. Please.”  
 
 She studied me for a long moment. Then, with a tired sigh, she placed her hand over mine. “I will gather the others,” she said.  
 
 ### * * *  
 
-Night fell. Flames bloomed high and bright as the nomads built their circle of pyres in the sand. The firelight danced against the silver bark of the Singing Trees, which now swayed with a wind that wasn’t there. The hum of their branches became sharper, rising and falling like a strange orchestra tuning itself before a performance.  
+Night came dressed in stars, and the Tahl built their circle of fire like setting a table for old gods.  
 
-Denna lay at the center of the circle, her skin pale, her breath rasping faintly in her chest. Five women emerged from the tents, long shadows cast behind them. Dark storm-colored shifts hung loose around their frames. They entered the ring like ghosts, and silence fell over the camp.  
+I heard them before I saw them, a rustling of robes and whispered preparation. Then five women emerged from the shadows between tents, wearing robes the color of storms that haven’t decided whether to break. They moved like water returning to its course. The camp fell quiet the way rooms fall quiet when someone starts telling a true story.  
 
-Their song began low and mournful, like mist curling off the edge of the sea. Slow and aching, it wound its way through the air. The Singing Trees seemed to recognize it, harmonizing faintly, a growing whisper of counterpoint. The wind pulsed stronger, carrying the song higher, pulling me into it. It filled my chest and bones with vibration, and something deep and primal tore free within me.  
+Denna lay in the circle’s heart, pale as paper waiting for words, fragile as the moment before everything changes.  
 
-The Witch Women raised their voices. Faster, louder. The fire bent inward, as though reaching for Denna, and the wood of the Singing Trees began to groan and creak. Then, one cry broke through the thrumming: sharp and pained. One of the women collapsed, her breath taken. Then another, until all five lay still, and the air softened. The wind died. The song ended.  
+The women began to sing.  
 
-Taeylia stepped forward, leaning heavily as if years had been added to her long life. She knelt beside Denna, placing her hands against her chest. A long quiet stretched between us. When she stood again, I saw the sorrow already written across her face.  
+Their song had no words I knew, but I knew what it meant the way you know what tears mean. It was the song of things ending and beginning in the same breath. It was the song of the space between heartbeats where everything is possible. It was the song of threads coming together and threads pulling apart, and not knowing which was which.  
 
-“She is too far gone,” Taeylia said softly. “Our song will ease her pain for a night. Perhaps a day. Beyond that, we can give no more.”  
+The singing trees joined them, their silver leaves adding harmonies that shouldn’t have existed, like colors that have no names but your eyes know anyway. The wind rose, carrying the song higher, spreading it like seeds across the desert. Like seeds finding cracks in stone, like seeds that remember what they’re meant to become. The fires leaned inward, reaching for Denna with tongues of light that wanted to taste her shadows.  
 
-I nodded, the motion hollow. My hands tightened into fists, but I didn’t beg. I couldn’t. I knew she spoke true.  
+The song grew stronger, the women’s voices braiding together into something more than music. The air itself seemed to thicken and pulse with their singing, as if remembering older magics.  
 
-“Make use of your time,” Taeylia said, her hand resting briefly on my shoulder.  
+Then one of the women cried out like a string breaking and crumpled to the sand. Another followed, then another, until all five lay still as stones that have finished falling, and the silence that followed was the fourth kind. The silence of things that have given everything and failed.  
+
+The eldest of them, the one they called Taeylia, struggled to her feet like someone carrying invisible stones. She moved as if years had been added to her life and subtracted from her strength. Her hands found Denna’s chest, stayed there for a moment that lasted as long as hope takes to die.  
+
+When she stood, I already knew what she would say. The words were already there in the careful way she moved, like someone carrying water in cupped hands, afraid to spill a drop.  
+
+“The song has done what it can,” Taeylia said, her voice soft as ash falling. “Her pain will ease. She will have peace for a night. Perhaps a day. But the wound goes deeper than our songs can reach. Some doors, once opened, will not close for any amount of singing.”  
+
+I nodded. My throat had closed around words that wanted to be screams, swallowing them back down where they could hurt only me.  
+
+“Make your time count,” she said, and her hand on my shoulder was gentle as rain on dust.  
+
+The singing trees had gone quiet, their silver harmonies fading to whispers, as if they too knew what was coming.  
 
 ### * * *  
 
-I knelt beside Denna. Around us, the fires burned low, their light soft. I watched her face, tracing the faint curve of her lips, the quiver of her breath. My eyes fell to the ground, to a leaf from one of the Singing Trees, pale and smooth and new. Carefully, I plucked it from the dirt and pressed it into her hand.  
+The fires burned low, painting the world in ember and ash, in all the colors that come after. I sat beside Denna, watching her breathe, counting each rise and fall like the last verses of something I should have memorized.  
 
-Her eyes fluttered open. “What’s this?” she whispered weakly.  
+The wind stirred once, bringing with it a single leaf from the singing trees. It settled near my foot, silver and perfect. I picked it up, turned it over in my fingers.  
 
-“You wanted a leaf from a Singing Tree,” I said, my voice catching.  
+Her eyes opened when I pressed it into her palm. They were still her eyes, despite everything. Despite the fever. Despite the stranger’s expression the sickness had written on half her face.  
 
-Denna smiled, faint but lovely. “You remembered.”  
+“What’s this?” Her voice was thin as thread about to break.  
 
-“I would always remember you,” I said, the truth cutting as it left me.  
+“You wanted a leaf from a singing tree,” I said.  
 
-“Sing for me, my Sir Savien,” she whispered, her voice trembling.  
+She smiled, and it was like watching the sun remember how to rise, even though it knows it will have to set again. “You remembered.”  
 
-“I love you, Denna. I always have.”  
+“I remember everything about you. I always have. I always will.”  
 
-Tears blurred my vision. Her lips moved faintly, but her eyes were already dimming.  
+“Liar,” she whispered, but her fingers closed around the leaf like it was the answer to a question she’d been afraid to ask.  
 
-“Hold me Kvothe,” she said, her voice no more than breath. “I can't die alone.”  
+“I love you, Denna.”  
 
-Under the swaying trees, I held her as the fires died.  
+The words hung between us, simple as breathing, terrible as the truth. Her eyes were already growing distant, looking at something behind me, or beyond me, or through me to some other place where pain was just a word and dying was something that happened to other people.  
+
+“Hold me, Kvothe,” she said, her voice barely a whisper. “I can’t die alone.”  
+
+I moved without thinking, gathering her into my arms, careful of her wounds, careful of everything, as if careful could change what was coming. She weighed nothing. She weighed everything. Under the singing trees that sang their silver song, under stars that didn’t care, under the weight of all the silences we’d learned and the ones still to come, I held her.  
+
+The fifth silence was the space between her heartbeats, growing longer. The sixth was the moment when they stopped. The seventh was everything after.  
+
+Under the singing trees, under the patient stars, under the weight of all seven silences, I kept my arms around her. Between her fingers, the silver leaf whispered the only song left to us, a song too small for the world to hear, too perfect to belong anywhere but here.  
 
 ### ~ ~ ~
 
