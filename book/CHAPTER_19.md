@@ -345,8 +345,6 @@ Fascino saw it all. And smiled again, the kind of smile that knew all the ways a
 
 I met his gaze. “Fortunate for whom?”
 
-How does this read?
-
 “Oh, for many reasons,” Fascino said easily, flicking a speck of dust from his sleeve. “For King Roderick, it means the joy of having his wayward daughter returned as if by magic. For the ladies of the court, it’s the thrill of welcoming a new curiosity among them. And, more than all these,” he let his words linger, savoring their taste, “there is something for the Jakis heir as well. He now finds himself basking in the golden company of royalty.”
 
 I felt something shift inside me, something raw and wrong.  
