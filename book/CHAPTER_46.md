@@ -1,6 +1,6 @@
-# CHAPTER 46
+# CHAPTER 46.
 
-## THE ILLUSION OF WHOLENESS
+## THE ILLUSION OF WHOLENESS.
 
 WE LEFT RENERE under cover of darkness, slipping through the eastern gate like shadows fleeing the light. Caesura lay cold against my hip, its weight a reminder of everything I wanted to forget.  
 
