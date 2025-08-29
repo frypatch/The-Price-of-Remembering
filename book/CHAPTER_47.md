@@ -2,132 +2,149 @@
 
 ## THE RECKONING.
 
+THE UNDERTHING WAS a place of stone and silence and slow water. It was not a place for Bast.  
 
-THE UNDERTHING WAS no place for Bast. He was young and eager, restless and brimming with a hunger to *do*. Expecting him to cloister himself underground, even for my sake, was selfish and unfair. I told him as much. Reassured him that he was free to leave whenever the mood struck him. But he didn’t.  
+He was young, bright as copper jots, and quick as spilled mercury. He deserved what I had once known, that precious time of carefree peace. He belonged in mornings heavy with promise and possibility. He should have afternoons caught in tangled chords and wild laughter, evenings thick with honey-gold light and the company of those whose fire matched his own. Not this patient darkness that wrapped around us like an old cloak. Every day I told him this. Every day I reminded him he was free to seek that life.  
 
-I knew why, of course. Bast was worried about me—not that I deserved it. He pretended at indifference most days, teasing me as he always had. But I could see it in the way his eyes lingered too long when he thought I wasn’t looking, the way his words sometimes faltered mid-sentence.  
+He would go topside, following Auri’s secret paths like a cat exploring familiar territory. But he always came back. Always returned to sit in the darkness with me, when he could have been dancing in the light.  
 
-I let him go topside as often as he liked, knowing he needed it. Auri had shown him the way—her strange paths through climbs and grates and hidden doors. Then, one Hepten morning, Bast came back too soon. His steps lacked their usual carefree bounce, and his bright smile had faded into something darker.  
+I knew the shape of his worry. It sat between us like a third person at our table, silent and watchful. He would catch me staring at nothing, my hands gone still over whatever task I’d set them to. He would see me press my remaining fingers against my palm, counting what was left, remembering what was lost. In those moments his smile would falter, just for a heartbeat, before blazing back twice as bright.  
 
-“You look troubled,” I said, blowing absently on a bowl of porridge. “Anything the matter, Bast?”  
+“You could leave,” I would say.  
 
-He hesitated, rubbing the back of his neck, his gaze flitting between me and something crumpled in his hand. “I didn’t want to bring this to you, Reshi.”  
+“I could dance on moonbeams,” he would answer. “I could kiss a duchess and steal her diamonds. I could do many things.”  
 
-My eyes narrowed. “Go on.”  
-
-Bast tossed the parchment onto the table. I smoothed it out, the crude ink lines staring back at me. A face—*my* face, more or less—was splashed across the page. Beneath it, in bold lettering, I read the words:  
-
-**“KVOTHE ‘KINGKILLER,’ SON OF ARIDEN. 100 MARKS.”**  
-
-I snorted, sliding it away. “Nice to know I’m appreciated at such a fine price.”  
-
-“There’s more,” Bast said, his voice lower now. “I saw him. Your old friend—the one with the stupid hat and the punchable face.”  
-
-It didn’t take much to guess. “Ambrose.”  
-
-Bast nodded grimly. “He’s in town, Reshi. He’s been spreading the word, whipping up anyone who’ll listen. Telling them you killed the king, that you’ve dirtied their streets with your Ruh filth.” His tone turned venomous at the last word, and his hands curled into fists.  
-
-“That doesn’t surprise me.” I exhaled slowly.  
-
-“He’s saying worse,” Bast continued. “He’s telling people you stole *his bride.*”  
-
-I froze.  
-
-“Ariel. He claims she’s his and that you’ve hidden her away like a thief. He’s promising to find her, drag you through the streets, and take her back to Renere.”  
-
-I felt something flicker inside me—an ember catching in a dry forest. “Take me to him.”  
-
-“Reshi, wait—”  
-
-“I mean it, Bast. Take me to him now.”  
-
-I didn’t think about the Lethani. I didn’t think about the University’s Codex, or the Iron Law, or any other piece of wisdom whispered to me over the years. I simply moved, guided by the single instinct I had left.  
+And that would be the end of it, until the next time.  
 
 ### * * *  
 
-Ambrose stood in the square, right by the fountain. His entourage flanked him like a wall of polished steel, armed with swords and spears that gleamed in the sharp morning light. It was an oddly fitting place to find him—the very spot where I’d first called the wind years ago. Where I’d broken his arm and cemented our enmity.  
+It was a Hepten morning when everything changed. Bast had gone topside as he often did, following the secret paths Auri had shown him. The way he climbed through grates and narrow spaces reminded me of a cat, all liquid grace and casual certainty. He never stayed away long, an hour or two at most, before his worry drew him back. But even those brief escapes brought him back changed, carrying stories and gossip, his words tumbling over each other like puppies at play.  
 
-He was midway through a blustering tale when I stepped into view. His voice carried easily over the gathering crowd, his wide-brimmed hat dipping as he gestured and sneered. Even at a distance, I could see the smirk curling his lips.  
+This time he returned too soon.  
 
-“I hear you’ve been looking for me,” I called out, my voice cutting cleanly through the buzzing square.  
+I heard his footsteps before I saw him. Wrong. All wrong. The usual bounce was missing, replaced by something heavier.  
 
-The murmuring died, a hush sweeping over the onlookers. Ambrose stilled, his grin faltering as his eyes scanned the crowd. When he found me, the smile snapped back into place like a blade drawn too quickly.  
+I felt myself sinking. These past days, I had begun to find my way back to something like myself. Not whole, never that, but climbing slowly toward the light. Now, with each of Bast’s heavy steps, I felt that fragile progress crumbling. The darkness I’d been holding at arm’s length rushed back in like water through a broken dam.  
 
-“You filthy Ruh bastard!” he roared, his voice trembling with hatred. “So you’ve finally shown yourself!”  
+“Reshi.” The word came out wrong.  
 
-I stood unmoving, watching as he shoved through his followers to put himself at the front of the group. The gap between us remained wide, though I caught the guarded edge in his steps. He didn’t dare come too close.  
+I looked up from the bowl of porridge I’d been letting grow cold. “You look like a man who’s trying to swallow bad news.”  
 
-“I knew I’d find you eventually,” he hissed. “Kvothe the Arcane, murderer of kings, traitor of Vintas.”  
+He pulled something from his pocket. Paper. Crumpled and worn at the edges. He set it on the table between us with the kind of care usually reserved for things that might explode.  
 
-“I’m not here for your lies, Ambrose,” I said, my words even. “I was there. But it wasn’t me. Alveron was the one who saw it through.”  
+I smoothed it flat. The ink was cheap and the drawing was worse, but there was no mistaking the face that stared back at me. My face, more or less, caught in harsh black lines.  
 
-“You lying Ruh! Nothing is ever your fault, is it?” He spat on the cobblestones. “Your blood is as filthy as your kind.”  
+> KVOTHE KINGKILLER, SON OF ARLIDEN. 100 MARKS.  
 
-He reached into his pocket and took out a small vial, holding it aloft for all to see. The blood inside sloshed in the sunlight.  
+“A hundred marks.” I pushed the paper away with one finger. “I’m almost insulted. I’d have thought I was worth at least twice that.”  
 
-I went cold.  
+“There’s more.” Bast’s voice had gone low. “Ambrose is here. In the city. He’s been making speeches in the squares, telling anyone who’ll listen that you killed the king. That you’re hiding somewhere close. That you’ve stolen Princess Ariel from him.”  
 
-“Your Copperhawk was clumsy, but they served me well enough. Did you think I wouldn’t find a way to make use of this?”  
+“Ariel?” The little porridge I had ate turned to stone. “Stolen?”  
 
-“Don’t,” I said softly, the word hanging heavy in the air between us.  
+“He says she belongs to him. Says he’ll drag you through the streets and take her back to Renere where she belongs.”  
 
-Ambrose ignored me. “Once I’ve dealt with you, I’ll take Ariel wherever I please. Renere will be delighted to see her again, I’m certain. And you? I’ll leave your body in pieces, your head on a spike for all to see!”  
+“Take me to him.” I was on my feet before the words finished leaving my mouth, the chair clattering behind me.  
 
-I took a step forward. My voice was calm when I spoke again. *“If you do this, I will kill you.”*  
+“Reshi, wait. Think about this.”  
 
-Ambrose paused. His fingers tightened around the vial, his uncertainty flickering for a brief instant. But then his smirk returned, his ego demanding a show. He unstopped the vial, dipped his fingers into the blood, and whispered a word.  
+But I was already moving. Not thinking. Not planning. The Lethani, the University’s laws, the Iron Law, all the wisdom of my years fell away. There was only motion. Only the terrible certainty that comes when thought stops and instinct takes the reins.  
+
+“Take me to him now.” My voice was calm as millpond water. As still as the moment before lightning strikes.  
 
 ### * * *  
 
-I saw Ambrose feel it—the resistance. His smirk faltered, his fingers trembling as he tried to bind me. Sweat beaded on his brow as he leaned into the effort, his lips curling into a snarl.  
+Ambrose stood in the square by the fountain. The same fountain where I’d first called the wind, all those years ago. The same stones where I’d broken his arm and earned his hatred. The wheel turns and we return to our beginnings, carrying all our endings with us.  
 
-But I wasn’t moving. I wasn’t yielding.  
+His men flanked him like a wall of sharp edges and bright steel. Eight of them. Maybe ten. It didn’t matter. Numbers had stopped mattering to me a long time ago.  
 
-The world tightened, narrowed, until it was just him and me, locked together in this terrible, silent struggle. The binding clawed at me like thorns in a furious storm, but I stood unmoving. Against me, Ambrose was nothing. Against my Alar, he was a child holding a thread, trying to tame a maelstrom.  
+He was in the middle of some story when I stepped into view. His voice carried across the square, rich with the particular poison that comes from old money and older grudges. Even from across the courtyard, I could see his rings catching the light. Could see that ridiculous hat he’d taken to wearing.  
 
-“You think you can take me?” I asked, my voice low and sharp, a blade unsheathed. “You think you can *own* me with such a pathetic trick?”  
+“I hear you’ve been looking for me,” I called.  
 
-Ambrose flinched at the venom in my words, but his ego—damn his ego—steeled him. He gestured sharply, shouted another binding, his voice cracking against the tension of what he didn’t understand.  
+The square went quiet. Not the comfortable quiet of a pause in conversation, but the terrible quiet that comes before storms. Before avalanches. Before the world changes.  
 
-He didn’t see it yet, but I already had his Name. It hovered there, unveiled, like a thread shimmering in the light. Fragile. Bare. His arrogance left him vulnerable—it always had. And now, he’d handed himself to me.  
+Ambrose turned, and for just a moment, I saw surprise flicker across his face. Then his mouth curved into that familiar sneer.  
 
-“Bind him! Now!” Ambrose shouted, summoning his men as though their crude hands and ropes could finish what he could not.  
+“The Ruh bastard shows himself at last.” His voice filled the square, playing to the crowd that had begun to gather. “Kvothe the Arcane. Murderer of kings. Thief of virtue.”  
 
-The ropes never reached me.  
+“I was there when the king died,” I said, my voice carrying without effort. “But I didn’t kill him. We both know who holds that particular honor.”  
 
-I raised my arm and spoke the Name of the wind. It wasn’t shouted. It wasn’t forced. The word flowed from my throat like the strike of steel, effortless and sure.  
+“Liar!” The word cracked like a whip. “Nothing is ever your fault, is it? Your blood is filth. Your very existence is a stain.”  
 
-The air bucked and screamed, exploding outward into a cacophonous thunderclap. Ambrose’s men were thrown like ragdolls. I didn’t see where they landed. It didn’t matter.  
+He reached into his pocket and my heart stuttered. A vial. Small and dark and familiar. He held it up so the light caught the liquid inside. Blood. My blood.  
 
-The crowd shrieked and stumbled back as debris flew in all directions, pebbles and dust scattering like the remnants of a broken world. But I didn’t care about the crowd. My gaze never left Ambrose.  
+The crowd drew back, sensing something they couldn’t name. The air grew thick and strange.  
 
-He staggered, his hat tumbling off his head, and for the first time, I saw real, unbridled fear bloom in his eyes.  
+“Your Copperhawk was careless,” Ambrose said, savoring each word. “Left this behind when they snatched her up.”  
 
-“Stop, Kvothe,” he said, and his voice wavered on the edge of begging. “You don’t know what you’re doing.”  
+“Don’t.”  
 
-“Oh, I know *exactly* what I’m doing,” I growled, my steps slow and deliberate, each footfall cracking the ruined cobblestones beneath me. “I know you, Ambrose. I *know* you better than you know yourself.”  
+One word. Firm as steel. Heavy as mountains.  
 
-I saw him shrink, his shoulders curling inward. He didn’t even run. He simply stood there, his lips trembling. He was a cornered animal now, and for the first time since I met him, I understood what that meant. Not strength. Not defiance. *Cowardice.*  
+Ambrose laughed. It was an ugly sound, like glass breaking in a beautiful room. “Or what? You’ll kill me? Add another corpse to your collection? Once I’m done with you, I’ll take Ariel wherever I please. Renere will be delighted to see her again, I’m certain. And you? I’ll leave your body in pieces, your head on a spike for all to see.”  
 
-The Name came to me in perfect clarity. Ambrose’s essence—what he was, the hateful little threads that wove him together. I didn’t hesitate. I sang it.  
+He opened the vial. Dipped his fingers in my blood. Spoke the first words of binding.  
 
-But the Name couldn’t stand alone. It wasn’t enough for how much fury I felt, how much he deserved this. His Name became part of a chorus: stone, air, fire, and water all wrapped around him, folding into a perfect note of unmaking. I wove him into the Names of the world, then tore the tapestry apart.  
+And nothing happened.  
 
-The square erupted around him.  
+No. That’s not quite right. Something happened. Ambrose felt it. I could see it in the way his face changed, the way his fingers trembled as he tried again. He pushed against me with all the sympathy he could muster, and it was like a child pushing against a cart.  
 
-The cobblestones shattered beneath his feet. The great stone fountain hissed and cracked, steam rising as the water burned itself to death. The very air around us shuddered, waves of pressure rolling outward. For a moment—just a moment—the sky itself darkened, the light winking out as though it couldn’t bear to witness what I’d done.  
+“Bind him!” His voice cracked on the command. “Bind him now!”  
 
-Ambrose screamed, but it wasn’t a human sound. It was raw and piercing, a final note before the chorus consumed him. And then, silence.  
+His men moved forward. Good men, probably. Just following orders. Just doing their job. They had rope and iron and all the things men use to hold other men.  
 
-The square stilled. My throat burned like acid, and I stumbled, my knees threatening to buckle. But I steadied, locking my legs beneath me. I had to see. I had to look.  
+I raised my hand. Spoke a word.  
 
-Less than nothing was left of him. The crowd stood frozen, their faces pale, and as I turned to them, I saw myself reflected in their eyes. There wasn’t admiration or belief there. Not even anger. Only terror.  
+The wind answered.  
 
-I saw familiar figures among them. Elodin stood like a statue, his face unreadable except for the terrible weight in his eyes. And Fela… Fela looked at me with open revulsion, as though she didn’t recognize me at all.  
+It didn’t come gently. It didn’t whisper or dance or play. It came like the scream of every storm that ever was. The fountain cracked down the middle, water erupting skyward in a geyser that turned to mist. The cobblestones beneath our feet groaned and split. Ambrose’s men flew backward like leaves before a hurricane.  
 
-Their gazes burned into me. My chest felt hollow. My throat stung. I couldn’t stay.  
+The crowd scattered, screaming.  
 
-So, I ran.  
+But Ambrose stayed where he was. Not because he was brave. Because I held him there. Because the wind that threw everyone else away left him untouched, alone in a circle of stillness while chaos raged around us.  
+
+“Stop.” His voice was small now. Young. Like the boy he’d been when we first met, before money and malice had carved him into the shape he wore. “Please.”  
+
+“You threatened her.” Each word fell like a stone into still water, sending ripples through the air. “You came here with your blood magic and your hired swords and you threatened one of the only people in this world who still matter to me.”  
+
+I took a step forward. The ground cracked beneath my foot.  
+
+“I know you, Ambrose.” Another step. Another crack spreading like a spider’s web. “I know you better than you know yourself. I know the shape of your fear. The weight of your father’s hand. The taste of every humiliation you’ve swallowed and turned into cruelty.”  
+
+He was shaking now. His fine clothes suddenly seeming a poor thing.  
+
+“Kvothe, I’m sorry,” he pleaded.  
+
+“No,” I said. “You’re not.”  
+
+And then I sang his Name.  
+
+It came to me whole and perfect, the way a melody sometimes arrives complete in your mind. Every note of him. Every harmony and discord. The proud boy who’d never been told no. The young man who’d learned that power could make truth whatever he wanted it to be. The hollow place inside him where love should have lived.  
+
+I sang his Name and wove it with the Names of stone and air and water and fire. I sang him into the heart of creation and then I sang him out of it.  
+
+The square exploded.  
+
+Stone turned to sand. Water turned to steam. The very air seemed to tear like fabric. And Ambrose...  
+
+Ambrose became nothing. Less than nothing. An absence where a person used to be.  
+
+### * * *  
+
+The silence that followed was absolute. The kind of silence that comes after lightning, when the world holds its breath and wonders if it’s still alive.  
+
+I stood in the ruined square, my throat burning like I’d swallowed coals. My knees wanted to buckle but I locked them straight. Around me, people stared with ashen faces. In their eyes I saw myself reflected, and I didn’t recognize what looked back.  
+
+There. At the edge of the crowd. Elodin stood like a statue, his face unreadable except for the terrible weight in his eyes. And beside him, Fela. Sweet Fela who’d once smiled at me over a book of pressing leaves. She looked at me with open revulsion, as though she didn’t recognize me at all.  
+
+I wanted to explain. Wanted to tell them about the blood and the threat and the terrible certainty that Auri wouldn’t be safe until Ambrose was gone. But the words turned to ash in my mouth.  
+
+So I did the only thing I could do.  
+
+I ran.  
+
+Behind me, the fountain continued to weep through its new cracks, spelling out a different kind of silence. The silence that comes after endings. The silence that says some things, once broken, can never be made whole.  
 
 ### ~ ~ ~
 
