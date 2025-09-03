@@ -174,6 +174,8 @@ def publish_txt_book():
     toc_txt += """\n\n"""
     for entry in get_TOC_dict()["entries"]:
         filename = entry["filename"]
+        if filename == "Half_Title_Page":
+            continue
         xhtml = entry["xhtml"]
         titles = ". ".join(entry["titles"])
         toc_txt +="""    {}.""".format(titles)
@@ -185,7 +187,9 @@ def publish_txt_book():
     ## Now creating the TXT book
     txt_data = ""
     for chapter_md_filename in chapter_md_filenames():
-        if chapter_md_filename == "Contents.md":
+        if chapter_md_filename == "Half_Title_Page.md":
+            continue
+        elif chapter_md_filename == "Contents.md":
             ## Generate Table of Contents from description.json
             txt_data += toc_txt
         else:
@@ -212,9 +216,10 @@ def publish_md_book():
     ## Create MD Book Table of contents
     toc_md = """# CONTENTS.\n"""
     toc_md += """\n\n"""
-    toc_md += """* [*Cover*](#).\n"""
     for entry in get_TOC_dict()["entries"]:
         filename = entry["filename"]
+        if filename == "Half_Title_Page":
+            continue
         titles = ". ".join(entry["titles"])
         link = "#" + entry["titles"][0].replace(" ","-").lower()
         if filename.startswith("CHAPTER"):
@@ -230,15 +235,17 @@ def publish_md_book():
     md_page_break = "\n\n\n\n--------------------\n\n\n\n"
     md_data = ""
     for chapter_md_filename in chapter_md_filenames():
-        if chapter_md_filename == "Contents.md":
+        if chapter_md_filename == "Half_Title_Page.md":
+            continue
+        elif chapter_md_filename == "Contents.md":
             md_data += get_chapter_MD("Resources.md").strip('\n')
             md_data += md_page_break
             md_data += toc_md.strip('\n')
         else:
             markdown_data = get_chapter_MD(chapter_md_filename).strip('\n')
             for line in markdown_data.splitlines():
-                if "# **" in line and line.endswith("**"):
-                    md_data += line[:-2].replace("# **", " ") + "\n"
+                if "# **" in line and line.strip().endswith("**"):
+                    md_data += line.strip()[:-2].replace("# **", " ") + "  \n"
                 else:
                     md_data += line + "\n"
         md_data += md_page_break
@@ -773,8 +780,8 @@ def get_chapter_MD(md_filename):
 def get_chapter_TXT(markdown_data):
     all_txt = ""
     for line in markdown_data.splitlines():
-        if "# **" in line and line.endswith("**"):
-          all_txt += line[:-2].replace("# **", " ") + "\n"
+        if "# **" in line and line.strip().endswith("**"):
+          all_txt += line.strip()[:-2].replace("# **", " ") + "  \n"
         else:
           all_txt += line + "\n"
     all_txt = all_txt.replace("###### ", "                    ")
