@@ -3,83 +3,81 @@
 ## A TRAP OF MEMORY.
 
 
-KOTE SAT HUNCHED at the table, shoulders pulled inward as though sheltering from some unseen storm. Quietly, he nodded to himself before speaking, his voice burdened by the weight of memory. 
+A SIGH FILLED THE Waystone Inn. Kote sat forward at the table, shoulders curved inward, elbows on his knees, hands clasped like a man at prayer or penance. He nodded to himself once, twice, as if settling an old argument.  
 
-“And the rest,” Kote began, his voice dry as parchment, “is just what you’d imagine.” His lips quirked into a ghost of a smile as though at some private jest. “With a price on my head and folks poking their noses where they shouldn’t, we disappeared.”  
+“And the rest,” Kote said with quiet reverence in his voice, “is what you’d expect.” A smile tugged at the corner of his mouth, as though at some private jest. “We had prices on our heads. People asking questions. So there we were. Gone.”  
 
-“Disguises,” added Bast from the corner of the room, his tone tinged with distaste.  
+“Disguises,” Bast added from his corner, spitting the bitter word from his tongue.  
 
-Disguises,” Kote repeated, voice flat. He gave Chronicler a small, knowing look. “Stolen names, shadows for companions. This time, I was searching for somewhere no one else would think to look—hidden in the teeth between nowhere and nothing.”
+“Disguises,” Kote agreed. His fingers found the table’s grain, tracing it like a map to nowhere. “Different names. Different faces. This time I went looking for a place so small that even memory might overlook it. A place between nowhere and nothing.”  
 
-His lips twisted into something like a smile, though it didn’t reach his eyes. Chronicler’s pen scratched across the page, the crash of its quill tip like boots on distant gravel. 
+Chronicler’s pen scratched against parchment with the steady rhythm of rain on leaves.  
 
-“But leaving—truly leaving—that required pieces.” Kote raised two fingers, ticking off shadows on a hand that once strummed strings. “I would need money more than anything. Enough for horses. Food. Tools. And enough left to build this place from the ground up.”
+“But leaving takes more than just walking away. Leaving properly, leaving completely, that requires things.” He raised two fingers, counting off necessities like a merchant tallying debts. “Money first. Enough for horses, for food, for tools. Enough to build this place from the ground up.” He lowered one finger. “Second, a clean break. No loose threads to follow, no trails to track.”  
 
-Here, the innkeeper’s voice grew quiet, unspooling thread by thread. “The day before we left, I made one last trip to the University. At sunrise. I took backroads and alleys with nothing but a shadow wrapped tight as a cloak. Basil was at Stocks that morning. Call it dumb luck or the turning of a coin. Either way, it worked in my favor.”
+“The morning before we left, I went back to the University,” Kote began again, his voice reverting to the storyteller’s cadence of the last three days. “Dawn was just breaking, and the sun was rising fast enough to make sticking to shadows difficult. So I took the forgotten ways, the servant stairs and maintenance passages. Basil happened to be at Stocks that morning.” He paused, considering. “Call it luck. Call it fate. Call it the turning of a card. Whatever name you give it, the timing served me well.”  
 
-Kote’s hand rested on the table. His fingers tapped once, twice. “The Stainless had done decent enough, more than I hoped. But my Bloodless? They were a king’s ransom. With all that trouble in the East—coup, rebellion, broken crowns on bloody floors—people were desperate for safety. Desperation opens pockets wider than greed.”
+Kote’s hand settled on the table, fingers drumming once, twice, then falling still. “The Stainless had done well enough. Better than I’d hoped, truth be told. But the Bloodless?” He shook his head slowly. “Those were worth their weight in gold. Maybe more. The East was drowning in troubles then. Coups and rebellions and broken crowns scattered across marble floors. When people are afraid, they’ll pay anything for the promise of safety. Fear opens purses wider than greed ever could.”  
 
-He paused, letting his words soak into the room. Chronicler’s quill faltered for a moment.  
+He paused, letting his words settle onto the Chronicler’s page.  
 
-“The irony of profiting off that chaos wasn’t lost on me,” Kote said softly, voice tinged with something like regret. 
+“The irony wasn’t lost on me,” Kote continued, awkwardly opening his hands forward. “Making coin from chaos I’d helped create.”  
 
-He shifted in his chair and continued. “Of course, once I'd emptied the Stocks of every shim and drab, I did something ill-advised. I went to Kilvin's office. I knew it was foolish, but… I couldn’t leave without saying goodbye. Old habits die slow.”  
+He shifted in his chair, the wood creaking a complaint. “After I’d emptied Stocks of every bent bit and broken drab, I did something foolish. I went to Kilvin’s office.” He shrugged. “Stupid, I know. But I couldn’t leave without saying goodbye. Some habits die harder than others.”  
 
-“And?” Chronicler asked.  
+“And?” Chronicler prompted when the silence stretched too long.  
 
-“And nothing. His forge was cold, his desk drawer open—though knowing Kilvin, I suspect my visit was expected, even without a letter to say as much.” He sighed, the sound low as a bowstring tense from disuse. “I left, heavier than I’d arrived but quieter.”
+“And nothing. His forge was cold. His desk drawer stood open. Knowing Kilvin, I suspect he expected my visit. Some messages don’t need letters.”  
 
-Chronicler finished writing the thought and glanced up. “And what then?” 
+Another pause. Another scratch of quill on parchment.  
 
-“What then?” Kote’s eyes drifted across the inn, settling on the beams above. He gestured around him. “I built this. Carved wood with my own hands. Heaved stone. Wrought iron. I put everything I had into it. Hidden edges, clever seams, and pieces I hope no one would ever examine too closely. This is what became of me. What became of Kvothe.”
+“What came next?” Chronicler asked.  
 
-He placed his hands flat on the table. His voice cracked, too quiet to echo. “Do with it what you will.”
+“What came next?” Kote’s gaze drifted upward, tracing the dark beams overhead as if reading words written there. He gestured around the common room with one hand. “I built this. Every board and nail. Every stone in the foundation. Every clever hinge and hidden compartment.”  
 
-He spread his calloused hands wide across the scarred tabletop, an old gesture weighed down by something strangely final. “I have paid the price of remembering. Do with it what you will.”  
+He spread his hands flat against the table, the gesture both offering and surrender. “This is what I made of myself. This is what became of Kvothe. Do what you will with the story.”  
 
-For a moment, neither Bast nor Chronicler spoke. The faint scrape of the fire in the hearth filled the void.  
+The silence rushed back in, filling every corner of the room. The fire in the hearth whispered secrets to itself, and somewhere in the cellar walls, old stones settled with a collective groan.  
 
-Then Chronicler set down his quill. His face twisted with hesitation, thoughts forming—and failing—on his tongue.  
+Chronicler carefully set down his last surviving quill. His mouth opened, closed, opened again. Words gathered and scattered like startled birds.  
 
-“There’s a question you aren’t sure how to ask,” Kote said, breaking the silence. It wasn’t a guess.  
+“There’s something you want to ask,” Kote said. It wasn’t a question.  
 
-“Questions, actually,” Chronicler admitted. “When you said you left Imre, you said… ‘we.’ Bast came, clearly, but what of—” He hesitated, but pressed forward. “What of Princess Ariel?”  
+“Several things,” Chronicler admitted. “When you said you left Imre, you said ’we.’ Bast came with you, obviously, but what about Princess Ariel?”  
 
-Kote’s expression darkened as a hand reflexively curled around the stem of his polished mug. “Safe,” he said tightly, centering his gaze on Chronicler. “That’s all you need know.”  
+Kote’s hand tightened around his mug until his knuckles went white. “Safe,” he said, the word sharp and final as a key turning in a lock. “That’s all you need to know.”  
 
-Chronicler deflated but nodded slowly. “And the second question?”  
+Chronicler nodded, accepting the boundary like a man acknowledging a fence. “And Folly?”  
 
-“Folly,” Chronicler murmured, looking up at the blade mounted above the bar. “You haven’t spoken of her.”  
+Kote’s gaze climbed to the sword mounted above the bar. In the firelight, the blade seemed to shimmer with colors that had no names. “She was my attempt at an apology,” he said after a long moment. “There’s an art to making a sword, and I got most of it right. The balance. The edge. The weight.” He gestured vaguely at the blade. “But the color is wrong. Maybe something in the fold of the metal. Maybe something in the quenching. Maybe just my own failure following me even there.”  
 
-Kote’s lips tugged to one side, his gaze climbing toward the weapon. “She was my attempt at an apology,” he said after a moment. “There’s an art to making a good sword, and I got most of it right. But not all.” He gestured vaguely. “She’s the wrong color. Perhaps a fault in the metals, or…” He trailed off, his expression faraway, lost to some hidden pain.  
+“You made her yourself?”  
 
-“You forged her?” Chronicler asked.  
+“I owed them that much. The Adem.” Kote’s voice carried weight beyond the words. “Her shape isn’t quite right for their style, but her edge is true. She waits here for them, for when all of this is over.”  
 
-“I owed it to them,” Kote said. “The Adem. Her shape is wrong, but her edges are keen. She waits for them when all this is over.”  
-
-The room fell silent again. Chronicler closed his ledger, but Kote’s voice stopped him mid-motion.  
+The room fell silent again, but it was a different silence now. Expectant. Watching.  
 
 “You want to see it,” Kote said flatly.  
 
-“Your hand,” Chronicler replied, trying for nonchalance.  
+“Your hand,” Chronicler replied, trying for casual and missing by miles.  
 
-Without speaking, Bast rose from the shadows and unclasped the mirage covering Kote’s left hand. The smooth illusion faded, exposing the truth beneath. Two fingers gone. The thumb cleaved above the knuckle. Ugly, puckered scars ran the length of his ruined flesh.  
+Without ceremony, Bast rose from his corner and moved to Kote’s side. His fingers worked at something invisible, and the air around Kote’s left hand shimmered and fell away like water. What remained made Chronicler’s breath catch.  
 
-For a long moment, Chronicler stared.  
+Three fingers gone entirely. The rest twisted and scarred, pale rivers of damaged flesh running across what remained.  
 
-Kote flexed what remained of his hand and spoke softly, facing no one. “Some days, they still feel whole. It’s a cruel trick of memory. Success cuts hard, but failure cuts deeper.”
+Kote flexed what remained of his hand, the movement awkward and incomplete. “Some mornings I wake and they’re still there. I can feel them. I can almost move them.” His voice was distant, contemplative. “Memory plays cruel games. Success wounds, but failure cuts to the bone.”  
 
-Chronicler stared at him, mouth parted slightly. His voice dropped several degrees. “That’s not how I see it.”
+“That’s not how I see it,” Chronicler said quietly.  
 
-Kote’s reply was bitter, nearly spat. “It doesn’t matter how *you* see it. Look around, Chronicler. Everything’s gone wrong. Every path I’ve taken turned to ash beneath my feet. So spare me your philosophy.”
+Kote’s laugh was bitter as burnt coffee. “How you see it doesn’t matter. Look around you. Everything I touched turned to ash. Every path I walked crumbled behind me. So spare me your philosophy.”  
 
-Chronicler set his quill down deliberately, standing sharply in his chair. His voice rose, trembling with something greater than anger. “No. Look around. Every stone of this place, every carved beam. You made this. You built it. And everything before wasn’t luck or misfortune—it was you. Trebon. Renere. Levenshire. The hero of those stories hasn’t vanished just because you’re too cowardly to remember what he stood for.” He slapped the table hard enough to send a tremor up the polished wood. “You’re Kvothe. And forgetting won’t change that.”
+Chronicler stood abruptly, his chair scraping against the floor. His voice rose, trembling with something between anger and desperation. “No. Look at this place. Every beam you carved. Every stone you set. You built this with your own hands. And everything that came before wasn’t luck or tragedy. It was you. The hero of Trebon. The man who faced down princes. You’re still Kvothe, whether you want to remember it or not.”  
 
-The innkeeper said nothing, his gaze hollow, sinking into the shadow of himself as silence claimed the room.
+The innkeeper said nothing. His dark green eyes lingered a moment longer before sinking into the shadow of himself.  
 
-The door creaked open.
+Silence claimed the room.  
 
-### * * *
+The door creaked open.  
 
 A figure stood in the doorway. He was thin, hunched, and pale, with wisps of white hair clinging stubbornly to his liver-spotted scalp. His shadow sprawled across the doorway, stretching unnaturally long in the flickering lamplight of the inn.
 
@@ -165,7 +163,7 @@ Kote closed his eyes for a breath, his face unreadable. Then he turned from the 
 
 “Don’t leave me...”  
 
-The words hung there, trembling, but the innkeeper didn't pay any heed. Instead, he made his way back to the stairs leading up into the common room. From his pocket, he pulled two small cubes of dull, blackened metal. Their appearance was plain, but they rang faintly against each other in his hand, a sound too high and sweet for their weight.  
+The words hung there, trembling, but the innkeeper didn’t pay any heed. Instead, he made his way back to the stairs leading up into the common room. From his pocket, he pulled two small cubes of dull, blackened metal. Their appearance was plain, but they rang faintly against each other in his hand, a sound too high and sweet for their weight.  
 
 He crouched near the doorway and placed the cubes on the floor—one to the left, one to the right. No wasted motion. His fingers lingered on them as he muttered soft words under his breath, his voice just a thread against the thickening air.  
 
