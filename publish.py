@@ -277,6 +277,8 @@ def publish_html_book():
     toc_md += """* [*Settings*](#Settings).\n"""
     for entry in get_TOC_dict()["entries"]:
         filename = entry["filename"]
+        if filename == "Half_Title_Page":
+            continue
         titles = ". ".join(entry["titles"])
         link = "#" + filename
         if filename.startswith("CHAPTER"):
@@ -372,7 +374,9 @@ function display_palette() {
 <button onclick="store_palette();display_palette();">Toggle Dark Mode</button>
 <hr />'''
     for chapter_md_filename in chapter_md_filenames():
-        if chapter_md_filename == "Contents.md":
+        if chapter_md_filename == "Half_Title_Page.md":
+            continue
+        elif chapter_md_filename == "Contents.md":
             html_data += "\n" + html_page_anchor_template.format("resources")
             html_data += "\n" + get_chapter_HTML(get_chapter_MD("Resources.md"))
             html_data += "\n<hr />"
