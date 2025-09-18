@@ -79,135 +79,149 @@ Silence claimed the room.
 
 The door creaked open.  
 
-A figure stood in the doorway, thin and hunched and pale. Wisps of white hair clung to his spotted scalp like frost clinging to stone, and his shadow stretched across the floorboards far longer and darker than it had any right to be.
+A figure stood in the doorway, thin and hunched and pale. Wisps of white hair clung to his spotted scalp like frost clinging to stone, and his shadow stretched across the floorboards far longer and darker than it had any right to be.  
 
-Kote straightened slightly and set his mug on the table with a soft, deliberate click. “We’re closed.” The words were pleasant enough, but his hands had gone perfectly still.
+Kote straightened slightly and set his mug on the table with a soft, deliberate click. “We’re closed.” The words were pleasant enough, but his hands had gone perfectly still.  
 
-The old man stepped forward, his walking stick tapping unevenly against the floorboards. “Closed to weary travelers seeking shelter from the night? Surely not,” he said in a voice as dry as fallen leaves. “I’ve come far beneath a cold moon. Won’t you share your fire with a tired old man?”
+The old man stepped forward, his walking stick tapping unevenly against the floorboards. “Closed to weary travelers seeking shelter from the night? Surely not,” he said in a voice as dry as fallen leaves. “I’ve come far beneath a cold moon. Won’t you share your fire with a tired old man?”  
 
-Kote tilted his head, considering the stranger. In the dim light of the room those pale eyes glimmered too much. They watched too closely. They lingered too long. And there was the way the man moved, in the awkward, lurching rhythm of his steps. A faint shadow of a frown crossed Kote’s face.
+Kote tilted his head, considering the stranger. In the dim light of the room those pale eyes glimmered too much. They watched too closely. They lingered too long. And there was the way the man moved, in the awkward, lurching rhythm of his steps. A faint shadow of a frown crossed Kote’s face.  
 
-He let the air hang heavy between them for three heartbeats, then four, before finally speaking. “I suppose it’s no trouble. Have a seat,” he said while gesturing to one of the scarred wooden tables nearest the hearth. His voice carried an easy cadence, as casual as commenting on the weather, but beneath the bar his hands had already curled into fists. “I can fix you something to eat. There’s not much left at this hour, though. And the bread’s a day old now.”
+He let the air hang heavy between them for three heartbeats, then four, before finally speaking. “I suppose it’s no trouble. Have a seat,” he said while gesturing to one of the scarred wooden tables nearest the hearth. His voice carried an easy cadence, as casual as commenting on the weather, but beneath the bar his hands had already curled into fists. “I can fix you something to eat. There’s not much left at this hour, though. And the bread’s a day old now.”  
 
-The man shuffled deeper into the room, each step measured and deliberate, as though he were feeling his way through darkness despite the firelight. He dragged one hand across the back of a chair as he passed, and his fingers curled over the wood like pale roots seeking purchase in foreign soil. “Beet soup, perhaps?” he asked, cocking his head in a gesture that belonged more to a crow than a man.
+The man shuffled deeper into the room, each step measured and deliberate, as though he were feeling his way through darkness despite the firelight. He dragged one hand across the back of a chair as he passed, and his fingers curled over the wood like pale roots seeking purchase in foreign soil. “Beet soup, perhaps?” he asked, cocking his head in a gesture that belonged more to a crow than a man.  
 
-“Bast,” Kote began, the furrow in his brow now deeper and his voice stripped of the earlier warmth he’d offered the guest. “Our friend here could use something to eat. Take care of that, would you? And while you’re at it, switch out the barrels in the cellar. They’ll need a firm hand tonight. Devon can help with that.”
+“Bast,” Kote began, the furrow in his brow now deeper and his voice stripped of the earlier warmth he’d offered the guest. “Our friend here could use something to eat. Take care of that, would you? And while you’re at it, switch out the barrels in the cellar. They’ll need a firm hand tonight. Devon can help with that.”  
 
-Bast blinked once, and in that blink a thousand questions lived and died. “Of course, Reshi,” he said with a subtle tightening of his jaw. His gaze flicked to the stranger for one last measuring moment before he stalked toward the stairs with a hunter’s grace.
+Bast blinked once, and in that blink a thousand questions lived and died. “Of course, Reshi,” he said with a subtle tightening of his jaw. His gaze flicked to the stranger for one last measuring moment before he stalked toward the stairs with a hunter’s grace.  
 
-Chronicler followed after him, confusion written plain across his face. “Barrels?” he muttered quietly, the word lost as the cellar door swung closed behind them.
+Chronicler followed after him, confusion written plain across his face. “Barrels?” he muttered quietly, the word lost as the cellar door swung closed behind them.  
 
-Kote’s attention returned to the pale man, who now hovered near the bar like smoke gathering before a storm. The man’s posture had grown straighter, and for the briefest moment, something flickered in his eyes. Something sharp. Something that knew exactly what it was.
+Kote’s attention returned to the pale man, who now hovered near the bar like smoke gathering before a storm. The man’s posture had grown straighter, and for the briefest moment, something flickered in his eyes. Something sharp. Something that knew exactly what it was.  
 
-“Can I get you a drink while you wait?” Kote asked, his casual manner returning like a mask sliding into place.
+“Can I get you a drink while you wait?” Kote asked, his casual manner returning like a mask sliding into place.  
 
-The man glanced at the shelves of bottles behind the bar, then smiled. It was a strange smile, thin and deliberate, the smile of a man who knows the punchline to a joke no one else has heard. “A beer, if it’s not too much trouble.”
+The man glanced at the shelves of bottles behind the bar, then smiled. It was a strange smile, thin and deliberate, the smile of a man who knows the punchline to a joke no one else has heard. “A beer, if it’s not too much trouble.”  
 
-“Not at all,” Kote said, already reaching for a tankard. As he turned toward the kegs, his right hand passed beneath the counter in a movement smooth as any stage magician’s, fingers finding the cool iron knuckles he kept there. “You seem familiar,” he added lightly, keeping his voice smooth. The beer poured with a faint hiss, foam rising to the surface. “You remind me of someone I used to know.”
+“Not at all,” Kote said, already reaching for a tankard. As he turned toward the kegs, his right hand passed beneath the counter in a movement smooth as any stage magician’s, fingers finding the cool iron knuckles he kept there. “You seem familiar,” he added lightly, keeping his voice smooth. The beer poured with a faint hiss, foam rising to the surface. “You remind me of someone I used to know.”  
 
-“Perhaps,” the man replied, and the word drifted through the air like smoke. “Far and away, perhaps. Time has a way of blurring faces, doesn’t it? Making strangers of friends and friends of enemies.”
+“Perhaps,” the man replied, and the word drifted through the air like smoke. “Far and away, perhaps. Time has a way of blurring faces, doesn’t it? Making strangers of friends and friends of enemies.”  
 
-“True enough,” Kote said, sliding the filled tankard across the bar with practiced ease. His smile was faint and polite, but it never touched his eyes. “Funny thing, though. Time usually doesn’t blur a smile quite like yours.”
+“True enough,” Kote said, sliding the filled tankard across the bar with practiced ease. His smile was faint and polite, but it never touched his eyes. “Funny thing, though. Time usually doesn’t blur a smile quite like yours.”  
 
-Something rippled across the man’s face, and his smile grew wider, impossibly wide. He took a long sip from the tankard, his eyes never leaving Kote’s. When he set it down, he spoke softly. “Ah. And here I thought you might have forgotten me.”
+Something rippled across the man’s face, and his smile grew wider, impossibly wide. He took a long sip from the tankard, his eyes never leaving Kote’s. When he set it down, he spoke softly. “Ah. And here I thought you might have forgotten me.”  
 
-The world held its breath for a single heartbeat.
+The world held its breath for a single heartbeat.  
 
-Then Kote’s hand moved faster than thought, faster than sound, with the speed of a man finally freed from the silence of his own making.
+Then Kote’s hand moved faster than thought, faster than sound, with the speed of a man finally freed from the silence of his own making.  
 
-The blow hurled the old man backward. He crashed through a table with a sound like thunder, wood splintering and scattering across the floor. For a moment, his body lay in a crumpled heap, limbs bent in ways that bones shouldn’t allow.
+The blow hurled the old man backward. He crashed through a table with a sound like thunder, wood splintering and scattering across the floor. For a moment, his body lay in a crumpled heap, limbs bent in ways that bones shouldn’t allow.  
 
-Kote steadied his breathing and flexed the fingers of his right hand, then with a movement smooth as any street performer’s final bow, he slipped the iron knuckles up his sleeve, and they were gone between one blink and the next.
+Kote steadied his breathing and flexed the fingers of his right hand, then with a movement smooth as any street performer’s final bow, he slipped the iron knuckles up his sleeve, and they were gone between one blink and the next.  
 
-The crumpled figure on the floor began to shift, and laughter bubbled up from the wreckage like blood from a wound. It was louder now, deeper, cold as winter stones. “Little rabbit,” the thing that had worn an old man’s face hissed through broken teeth.
+The crumpled figure on the floor began to shift, and laughter bubbled up from the wreckage like blood from a wound. It was louder now, deeper, cold as winter stones. “Little rabbit,” the thing that had worn an old man’s face hissed through broken teeth.  
 
-Kote’s face might have been carved from stone for all the emotion it showed. He turned and pulled Folly from her place on the wall, the blade singing a single, perfect note as her weight settled into his hands like a long-held breath finally released.
+Kote’s face might have been carved from stone for all the emotion it showed. He turned and pulled Folly from her place on the wall, the blade singing a single, perfect note as her weight settled into his hands like a long-held breath finally released.  
 
-“I was wondering when you’d show up, Cinder,” Kote said, and bitterness dripped from every syllable. “You’re early.”
+“I was wondering when you’d show up, Cinder,” Kote said, and bitterness dripped from every syllable. “You’re early.”  
 
-The figure rose from the floor in a motion that belonged to no natural thing. The old man’s body melted away like frost beneath the sun, replaced by something sharper, crueler, more truly itself. White hair fell around a pale face, and perfectly black eyes shone with their own cold light. His grin stretched wide as a wound.
+The figure rose from the floor in a motion that belonged to no natural thing. The old man’s body melted away like frost beneath the sun, replaced by something sharper, crueler, more truly itself. White hair fell around a pale face, and perfectly black eyes shone with their own cold light. His grin stretched wide as a wound.  
 
-“So clever, little rabbit. So very clever.” The words came out wrong somehow, too many syllables in all the wrong places. “Did you miss me?”
+“So clever, little rabbit. So very clever.” The words came out wrong somehow, too many syllables in all the wrong places. “Did you miss me?”  
 
-Without a word, Kote reached behind Folly’s mounting board and found the lever hidden there, one of a hundred secrets he’d built into the bones of this place. He pulled it, and the inn answered like a faithful hound. Iron bars crashed down over windows and door with a scream of metal on wood. The hearth roared to sudden life, flames leaping high and wild, painting the room in shades of rage and shadow.
+Without a word, Kote reached behind Folly’s mounting board and found the lever hidden there, one of a hundred secrets he’d built into the bones of this place. He pulled it, and the inn answered like a faithful hound. Iron bars crashed down over windows and door with a scream of metal on wood. The hearth roared to sudden life, flames leaping high and wild, painting the room in shades of rage and shadow.  
 
-Then Kote reached into his pocket and drew out a single lump of coal, kept waiting like a blade in its sheath for longer than he cared to remember. It flared to life at his touch, and his burned hand trembled with more than pain as he raised it. His voice was low and steady as bedrock. “Ferula. I bind you. By the name of stone and silence, be still as stone.”
+Then Kote reached into his pocket and drew out a single lump of coal, kept waiting like a blade in its sheath for longer than he cared to remember. It flared to life at his touch, and his burned hand trembled with more than pain as he raised it. His voice was low and steady as bedrock. “Ferula. I bind you. By the name of stone and silence, be still as stone.”  
 
-Cinder’s movements stuttered and locked, his limbs freezing as though the air itself had turned solid around him. His grin never faltered, but his eyes burned with the cold fury of winter storms. “You’re playing a dangerous game, little rabbit. You know how this story ends.”
+Cinder’s movements stuttered and locked, his limbs freezing as though the air itself had turned solid around him. His grin never faltered, but his eyes burned with the cold fury of winter storms. “You’re playing a dangerous game, little rabbit. You know how this story ends.”  
 
-“I know,” Kote replied. Then he was gone, swallowed by the cellar’s darkness.
+“I know,” Kote replied. Then he was gone, swallowed by the cellar’s darkness.  
 
-### * * *
+### * * *  
 
-“Charred body of God, what’s going on up there?” Bast hissed, his sharp voice cracking as he met Kote at the bottom of the basement stairs. His pupils were wide and wild, his usually unshakable confidence gone.  
+“Charred body of God, what’s going on up there?” Bast asked, his voice cracking halfway through the question. His pupils were wide and wild, black pools in a face gone pale as the moon. The unshakeable confidence he wore like camouflage had fallen away, leaving him exposed and young and frightened.  
 
-“It’s Cinder. He’s here,” Kote replied, his tone quiet and clean. No wasted words, no fear. His green eyes flicked over Bast and then to Chronicler, standing wooden and pale nearby. “I’ve slowed him, but we need to go.” He pointed to the far side of the room. “The cellar hatch. It’ll take us out to the stables.”  
+“It’s Cinder. He’s here,” Kote replied. The words came out measured and mechanical, each one falling into place like pieces of a plan practiced a thousand times in the dark. No wasted breath, no wasted fear. His green eyes swept over Bast with the quick efficiency of a man checking items off a list, but then they found Chronicler.  
 
-Bast moved instantly, bounding over the barrels to reach the hatch like a cat stirred to urgency. “A hand!?” he barked, glaring at Chronicler, who seemed frozen in place.  
+He stopped for a heartbeat, his fingers drumming once against his thigh. Chronicler wasn’t in the plan. A calculation flickered across his face, quick as a card turned over.  
 
-Chronicler flinched before fumbling forward, his fingers shaking as they wrapped around the heavy iron batten. With a grunt, he lifted it, casting it aside. It hit the wall with a reverberation that rolled along the stone walls and floor. Bast didn’t wait. He threw the hatch open, shoving Chronicler up the steps with impatient strength.  
+“I’ve slowed him, but not for long. We need to go.” He pointed to the far corner of the cellar, where shadows pooled deep enough to drown in. “The cellar hatch. It opens near the stables. The horses know the way to anywhere that isn’t here.”  
 
-Kote trailed them to the foot of the stairs, watching silently.  
+Bast moved instantly, bounding over the barrels like a cat touched by water. “A hand?” he snapped at Chronicler, who seemed frozen in place, caught between the desire to run and the inability to remember how legs worked.  
 
-Chronicler had barely cleared the opening when Bast turned, freezing in place. His face twisted with disbelief as Kote reached forward, his hands steady and his movements deliberate. The innkeeper grasped the thick iron bar and swung it down with a single hard motion. The latch clicked into place, the sound definitive as a snapped string.  
+Chronicler flinched, then fumbled forward. His fingers wrapped around the heavy iron bar that held the hatch closed. With a grunt that contained all his fear, he lifted it, casting it aside. It hit the wall with a reverberation that rolled through the stone like thunder through mountains.  
 
-“Reshi!” Bast’s voice cracked, loud and raw, as he slammed his hands against the hatch doors. “Reshi, what are you doing?”  
+Bast didn’t wait. He threw the hatch open with desperate strength, shoving Chronicler up the steps the way a man might throw a child from a burning building.  
 
-Kote leaned his weight against the locked door for a long, still moment. When he spoke, it was with a voice as calm as still water. “Go, Bast. Take Devon and run.”  
+Kote followed them to the foot of the stairs, watching with eyes that had already seen how this would end.  
 
-“Reshi, no! Don’t do this!” Bast pounded harder, and the impact sent small eruptions of dust from the seams of the wood, scattering like tiny stars in the pale lamplight. “OPEN THIS! Reshi, damn it, please!”  
+Chronicler had barely cleared the opening when Bast turned. His face shifted through confusion, disbelief, and understanding in the space of a single heartbeat. Kote reached forward with movements deliberate as ritual. He grasped the thick iron bar and swung it down with a single hard motion. The latch clicked into place with a sound like a bone breaking.  
 
-Kote closed his eyes for a breath, his face unreadable. Then he turned from the door and moved toward the stairs leading back into the common room. Behind him, Bast’s voice broke, spilling anguish into the dark.  
+“Reshi!” Bast’s voice came muffled through the wood, but the pain in it carried clear as breaking glass. The hatch doors shuddered as he slammed his hands against them. “Reshi, what are you doing?”  
 
-“Don’t leave me...”  
+Kote leaned his weight against the locked door for a long, still moment. When he spoke, his voice was certain, each word a small goodbye. “Go, Bast. Take Devon and run. Run far and fast and don’t look back. Run like the wind itself is chasing you.”  
 
-The words hung there, trembling, but the innkeeper didn’t pay any heed. Instead, he made his way back to the stairs leading up into the common room. From his pocket, he pulled two small cubes of dull, blackened metal. Their appearance was plain, but they rang faintly against each other in his hand, a sound too high and sweet for their weight.  
+“Reshi, no! Don’t do this!” Bast pounded harder. The impacts sent small puffs of dust from the seams, catching in the lamplight like tiny promises breaking. “Open this!” The last word broke on a sob. “Reshi, please! Please!”  
 
-He crouched near the doorway and placed the cubes on the floor—one to the left, one to the right. No wasted motion. His fingers lingered on them as he muttered soft words under his breath, his voice just a thread against the thickening air.  
+Kote closed his eyes for the space of a breath, his face smooth as still water, revealing nothing of the storm beneath. Then he turned from the door and moved toward the stairs leading back to the common room. Behind him, Bast’s voice cracked like thin ice giving way.  
 
-The room shifted the moment he finished. The weight in the air tightened further, like a drawn bowstring. The fire stuttered and leaned sideways for half a breath, then surged back with a roar. The trap was set—silent, invisible, waiting.  
+“Don’t leave me behind. Don’t leave me alone. Don’t make me remember you like this.”  
 
-Kote stood, already turning toward the chest near the forge. His gaze locked on it, a flicker of tension shadowing his otherwise controlled expression. Dust sifted from the ceiling as the boards above him creaked under heavy boots. Each step was slow and deliberate, and the sound set his teeth on edge.  
+The words hung there, raw and unfinished, but the innkeeper climbed the stairs without looking back.  
 
-He reached the chest in three strides. His hands moved automatically now, unhooking the ring of keys from the nearby shelf. The copper key first, fitting into the first lock with a satisfying click. The next lock turned with iron.  
+From his pocket, he pulled two small cubes of dull, blackened metal. They looked ordinary, worthless, forgotten. But when they touched in his hand, they sang a note too pure for their appearance, too sweet for what they were about to do.  
 
-Another step overhead. Louder this time, closer. The distinctive creak of the staircase at the far end of the common room.  
+He crouched near the doorway and placed the cubes on the floor with the care of a musician setting strings. One to the left of the doorway. One to the right. Perfect echoes of each other, waiting to harmonize. His fingers lingered on them as he whispered words under his breath, words that rang like tuning forks, each syllable finding its resonance in the waiting air.  
 
-Kote’s hand hesitated on the third lock for the briefest instant, his knuckles tightening. He inhaled once, sharply, and forced his focus back to the task at hand.  
+The room shifted the moment he finished, as if the inn itself had drawn breath to sing. The weight in the air changed, thickened into something that hummed just below hearing. The fire stuttered and leaned sideways for half a breath, drawn to the silent music, then surged back with a crackling protest. The trap was set, holding its note in perfect stillness, waiting for someone to complete the chord.  
 
-The steel key slid home. The lock clicked—louder this time, almost like an accusation. The last tumbler gave, but the lid didn’t move.  
+Kote turned toward the chest near the forge as dust sifted from the ceiling above. The boards creaked a countdown under Cinder’s deliberate steps. Three strides to the chest. Three keys from their hook, each turning with practiced precision. Copper. Iron. Steel. Three locks surrendering in sequence, each click marking time.  
 
-Of course it didn’t.   
+Above him, the footsteps paused at the top of the stairs. Then another step. Louder. Closer. The distinctive creak of the third stair from the top, the one that always announced visitors like a wooden herald.  
 
-Kote straightened, his head tilting slightly toward the stairs. Cinder was here. He could feel him, as though the man’s shadow stretched ahead to brush against his skin. The footsteps drew closer, the creaking announcing each one like the toll of a bell.  
+Kote drew in air that tasted of dust and endings. His knuckles whitened as he gripped the lid, and he forced his focus back to the task that had always been waiting for him.  
 
-Kote turned back to the chest, his breath tighter now. His throat felt dry. His fingers flexed once at his sides, then he let the words come—quiet, as though he feared even the walls would hear.  
+But the lid didn’t move.  
+
+Of course it didn’t. Some doors only open when you remember the right words. Some locks only turn when you remember who you are.  
+
+Kote straightened slightly. His head tilted toward the stairs, listening to the approaching footsteps the way a musician listens to a familiar song played slightly wrong. Cinder was coming. He could feel him the way you feel thunder in your bones before you hear it. The footsteps drew closer, each creak of wood marking time like a countdown.  
+
+Kote turned back to the chest. His throat tightened around words that didn’t want to come. His fingers flexed once at his sides, remembering shapes they used to make, names they used to know. Then, quiet as confession, he spoke.  
 
 “I am Kvothe.”  
 
-The lid didn’t stir. Dust settled. The silence thickened.  
+The lid didn’t stir. Dust settled. Silence thickened like blood.  
 
-Kote’s lips tightened and he whispered again, fiercer this time. “I am Kvothe.”  
+Kote’s lips pressed together in a thin line. He spoke again, fiercer this time, with the desperation of a man trying to strike spark from wet flint. “I am Kvothe.”  
 
-The golden insignia on the lid gleamed faintly for half a heartbeat. But still, nothing. The chest remained closed.  
+The golden insignia on the lid gleamed faintly for half a heartbeat, like a star glimpsed through clouds. But still, nothing. The chest remained closed. Locked. Waiting for truth instead of words.  
 
-The boots reached the first step of the staircase leading down into the common room.  
+The boots reached the first step of the staircase leading down into the common room. The wood groaned beneath the weight of something that shouldn’t exist.  
 
-Kote’s jaw clenched. His voice, lower and rougher now, broke the air.  
+Kote’s jaw clenched hard enough to crack teeth. His voice dropped lower, rougher, becoming something raw and dangerous and true.  
 
-“I *am* Kvothe.”  
+“I am Kvothe.”  
 
-The lid of the chest stirred, then slowly swung open, revealing a light too sharp and raw to be just light. It burned golden, yes, but there were cracks of something else within it: strands of emerald and threads of pale, flickering violet. It wasn’t clean. It wasn’t smooth. It was alive, spilling out unevenly like a bloodstain spreading across linen.  
+And this time, the words were true.  
 
-As the light touched him, Kote inhaled, his chest rising as though breathing for the first time in years. His scars didn’t fade, but something in the way he stood now felt straighter, sharper. A tension he’d carried for years seemed to melt away.  
+The lid of the chest stirred like something waking from deep sleep. Then it swung open with the deliberate grace of a door that had been waiting years to open.  
 
-For the first time in too long, Kvothe smiled—not a faint shadow of a smile, but something real and dangerous.  
+Light poured out, but poured was the wrong word. This light moved like honey from a broken jar, like molten gold remembering its way home. It wasn’t clean light or simple light. It burned golden at its heart but ran with threads of emerald and wisps of violet, colors that had no business being in light, colors that belonged to older things. It flowed upward against nature’s will, thick and viscous and alive, reaching for him the way water reaches for its level, the way a severed thing reaches for its missing half.  
 
-“Thank you,” he whispered to the chest, his voice quiet but steady. There was no time for more.  
+As it touched him, Kote drew in breath as if breathing for the first time in years. The light didn’t strike him or wash over him. It sank into him, slow and inevitable as honey soaking into bread. His chest rose. His shoulders straightened. His scars didn’t fade, but something in the way he wore them changed. They became decoration instead of definition. They became history instead of prophecy. The broken places he’d kept empty slowly filled with golden light that moved like living amber, and Kote fell away like a badly fitting coat, leaving only Kvothe behind.  
 
-The boots reached the stone floor of the common room. Behind him, the air turned cold, heavy with malice.  
+“Thank you,” Kvothe whispered to the chest, to the light, to himself. And for the first time in too long to measure, he smiled. Not a shadow of a smile. Not a memory of one. But something real and wild and uncontainable, the kind of smile that comes before stepping into a storm. “Thank you for waiting. Thank you for remembering.”  
 
-Kvothe stood, his back straightening fully as he turned to face the shadow that awaited him.  
+There was no time for more.  
+
+The boots reached the stone floor of the common room with a sound like judgment arriving at last.  
+
+Behind him, the air turned cold. Not winter cold. Not ice cold. But the cold of spaces between stars, the cold of things that had forgotten what warmth meant.  
+
+Kvothe stood. His back straightened vertebra by vertebra, like a man remembering how to be tall.  
+
+He turned.  
 
 ### ~ ~ ~
 
