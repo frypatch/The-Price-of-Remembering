@@ -3,59 +3,103 @@
 ## THE PROPER WAY.
 
 
-WHEN I STEPPED through the jagged wound in the Waystone Inn’s wall, dragging it back into Temerant, the air outside clung to me. Sharp, cold, unnatural. Bast and Chronicler stood waiting, their faces full of questions.  
+WHEN KVOTHE STEPPED through the jagged wound where the Waystone Inn’s wall had been, the world welcomed him back with teeth. The air bit sharp and cold, tasting of autumn’s death and winter’s promise. Behind him, through that impossible doorway, the Fae breathed its strange purple light into the mortal world, but already the gap was closing, the stones remembering their proper shape, their proper place. Soon there would be nothing but a scar to mark where two worlds had kissed and parted.  
 
-Bast broke the silence first, his voice tight. “Kvothe—”  
+The burlap sack hung heavy on his shoulder, its weight more than mere flesh and bone could account for. It pulled at him the way old sins pull at conscience, the way finished things pull toward earth. Inside, something shifted wetly, and the smell that escaped was iron and ending, sweet decay and bitter triumph all mingled into one.  
 
-I held up my ruined hand to stop him. The fresh wound throbbed, a steady pulse in time with my heart. “Later,” I said with a finality that left no room for argument. “There’ll be time enough for questions later. But now, there’s this.”
+Bast stood waiting in the ruins of what had been the inn’s foundation, his eyes wide as wounds. Chronicler stood beside him, still clutching his satchel as if it might anchor him to sanity. They looked at Kvothe the way men look at lightning after it strikes too close, with wonder and wariness in equal measure.  
 
-I shrugged the heavy burlap sack higher onto my shoulder, feeling its damp weight shift slightly. The smell had settled in—iron and something darker, something cloying that turned in your stomach like sour milk.
+“Kvothe,” Bast began, and his voice cracked on the name like a boy’s voice breaks on the edge of manhood.  
 
-Bast’s sharp eyes tracked it, his mouth uncertain. “Do I dare ask what that is?” he asked, one brow curving upward.
+Kvothe raised what remained of his left hand. The gesture was small, but it carried the weight of mountains, the finality of closed doors. “Later,” he said, and the word fell into the space between them like a stone into deep water. “There will be time enough for questions when this is properly done.”  
 
-“You’ll see soon enough,” I said, brushing past him before my gaze shifted purposefully to Chronicler.
+He shifted the sack higher on his shoulder. Inside, things settled with a sound like wet leaves beneath November rain.  
 
-“Where are we headed?” the scribe asked, his voice calm but tight, like a man taking great care not to show fear.
+Bast’s nostrils flared. His pupils contracted to slits, then dilated wide as midnight. “Tehlu’s burning beard,” he whispered, the oath escaping him like steam from a kettle. “Is that what I think it is?”  
 
-“Martin’s,” I said simply, already moving forward, my strides purposeful. Breath came short as the strain of the sack wore on me. But I welcomed it. It felt proper. Necessary.
+“It is what it needs to be,” Kvothe said. His green eyes had gone dark as old forests, dark as the spaces between stars where no light has ever been. “Nothing more. Nothing less.”  
 
-“Crazy Martin,” Bast muttered behind me, half to himself. “Oh, joy.” 
+Chronicler swallowed hard, his throat working like a man trying to speak around stones. “Where are we going?”  
+
+“To finish what was started.” Kvothe turned toward the road, his movements careful and deliberate as ritual. Each step was measured, weighted, considered. The sack swayed with his motion, keeping time like a pendulum counting down to judgment. “To Martin’s. To the proper way of things.”  
+
+“Crazy Martin,” Bast muttered, falling into step behind them. His voice tried for levity and failed, landing somewhere between nervous and numb. “Of course. Because this night needed more madness.”  
 
 ### * * *  
 
-The moon hung low by the time we reached Martin’s hovel, its pale light bleaching the tree line like dead bone. I knocked three sharp times and waited.  
+The moon hung low and bloated in the sky, yellow as old bone, casting shadows that seemed to reach for their feet with eager fingers. The road to Martin’s farm was a ribbon of packed earth that knew their footsteps, remembered their weight. Each bootfall echoed in the stillness, creating a rhythm that was almost music, almost prayer.  
 
-The door opened just enough to show a sliver of Martin’s face. “Tehlu’s teeth, do you know what hour it is—” His voice cut off as his eyes landed on me. Or rather, on the sack. He opened the door wider, his sharp gaze flicking from the sack to my face.  
+The sack grew heavier with each step. Not in weight, perhaps, but in meaning. In finality. In the way that carried things grow heavier the closer you come to setting them down for the last time.  
 
-“Is that what I think it is?” he asked, his voice flat.  
+Martin’s hovel squatted at the edge of his fallow field like a toad made of timber and rage. Smoke leaked from the chimney in a thin, bitter line, writing messages in the air that only the wind could read. The windows glowed dim as dying coals, and somewhere inside, a dog barked once and fell silent.  
 
-“It is,” I said, pushing past him into the hovel. The sack’s weight seemed to follow me, heavier now than when I’d first shouldered it. “Is everything ready?”  
+Kvothe knocked three times, each impact deliberate as a heartbeat. The sound carried in the still air, seeming to echo longer than wood and knuckle should allow.  
 
-Martin snorted as he bolted the door behind us. “For over a year now. But I’d hoped I’d never have to see you with… that.”  
+Time stretched. Contracted. Breathed.  
 
-The space inside was cramped and dark, the air thick with woodsmoke and something bitter underneath it. Martin moved quickly, lighting lanterns and working his way to the center of the room. He knelt and rolled back a thick, threadbare rug, revealing two large wooden trapdoors set flush with the floor.  
+The door opened just wide enough to show a slice of Martin’s face, weathered as old leather, suspicious as a miser counting coins. “Tehlu’s teeth and toes,” he began, his voice rough with sleep and sourness. “Do you know what hour—”  
 
-“Stand back,” he said curtly, grabbing an iron gaff from the wall. He hooked it into an iron ring and heaved. The trapdoors groaned as they opened, revealing the pit below.  
+His words died as his eyes found the sack. His gaze tracked from the dark stains seeping through the burlap to Kvothe’s face, and what he saw there made him step back, pulling the door wide.  
 
-Torchlight flickered across the scene: the pit was deep, the bottom layered with ash, elm, and rowan. At its center sat the wheel.  
+“So,” Martin said, and the word was flat as a blade laid against a whetstone. “It’s done then.”  
 
-The iron looked dull, heavy, and worn—but something about the way it rested gave it weight beyond its materials, as though the thing itself were waiting.  
+“As done as such things can be,” Kvothe replied, crossing the threshold without invitation. The sack brushed against the doorframe, leaving a mark that would never quite wash clean.  
 
-Chronicler shifted uneasily, his fingers twitching as if searching for his pen. Bast’s lips pressed into a thin line, his tail curling and flicking in nervous arcs.  
+Martin bolted the door behind them with movements born of long practice and longer paranoia. Three locks. Three bars. Three words muttered under his breath that might have been prayer or curse or both.  
 
-Martin folded his arms, his tone dry. “I assume you remember how this works?”  
+“Is everything ready?” Kvothe asked, though it wasn’t really a question.  
 
-I answered by stepping forward and resting the sack on the floor with slow deliberation. Its weight sagged against the boards, leaking silence into the room.  
+Martin’s laugh was dry as August dust. “Been ready for over a year now. Maybe longer. Time gets strange when you’re waiting for the world to end.” He moved to the center of the room, his footsteps careful to avoid certain boards that creaked accusations. “Though I’d hoped never to see you carrying that particular burden.”  
 
-Chronicler spoke first, his voice low, solemn. “Let me tell you what to do.”  
+The room smelled of smoke and sweat and the peculiar bitterness that comes from hope held too long, like wine turned to vinegar in the bottle. Martin knelt beside a threadbare rug that had seen better decades, grasped its edge, and pulled. Beneath lay two trapdoors set flush with the floor, their iron hinges eaten with rust but still strong, still willing.  
 
-Bast followed, his tone softer, the words laced with reluctant familiarity. “Dig a pit that’s ten by two.”  
+“Stand back,” Martin said, though no one had moved close. He took an iron gaff from the wall, the kind used to haul heavy things from dark places, and hooked it through a ring set in the wood. His shoulders bunched. His teeth showed white in the lamplight.  
 
-I finished, my voice steady as I stared into the pit. The words came easy, roots grown deep. “Ash and elm and rowan, too.”  
+The doors opened like a mouth, like a wound, like a promise finally kept.  
 
-For a moment, the hovel seemed smaller, the air too thick, the space too tight. The pit below carried its own kind of silence—a waiting void of breath and darkness.  
+Below, darkness waited with the patience of the grave.  
 
-“Get me the ladder,” I said.  
+Martin lit a torch from the fireplace, and the flames revealed what the darkness had been keeping. The pit was deep enough that the bottom seemed to exist in another country, another time. The walls were lined with stones so old their surfaces had gone smooth as water, as skin, as the inside of bells that have rung so long they’ve worn away their own voices.  
+
+At the bottom, barely visible in the torch’s wavering light, lay wood. Ash and elm and rowan, stacked with the careful precision of a pyre waiting for its sacrifice. And at the center, patient as judgment, sat the wheel.  
+
+Iron, every inch of it. Not bright iron or dark iron, but the grey iron that comes from stars, from the hearts of mountains, from the forges that existed before men knew fire had a name. It was a simple thing, unadorned, unbeautiful. But it had weight beyond its substance, presence beyond its form. It was a wheel that had been waiting to turn since before the world learned how to count its days.  
+
+Chronicler made a sound in his throat, not quite word, not quite whimper. His fingers twitched toward his satchel, reaching for pen and ink and the comfort of recording rather than experiencing.  
+
+Bast’s tail lashed once, twice, then went still. When he spoke, his voice was soft as silk, sharp as glass. “I know what this is.”  
+
+“Then you know why it must be done,” Kvothe said. He set the sack down with the careful reverence reserved for holy things and horrible things and things that are both at once.  
+
+The silence that followed had texture, had weight. It pressed against their ears like deep water, like the pause between lightning and thunder when the world holds its breath to see what will break.  
+
+Martin cleared his throat, the sound harsh as a saw through old wood. “The words, then. You remember the words?”  
+
+Kvothe’s smile was a terrible thing, beautiful and broken as a sword that’s tasted too much blood. “How could I forget? They’ve been carved into my bones since before I knew I had bones to carve.”  
+
+Chronicler stepped forward, and his voice was steady as his hands were not. “Let me tell you what to do.”  
+
+The words hung in the air like a challenge, like an invitation, like the first note of a song everyone knows but no one wants to sing.  
+
+Bast continued, his words falling into the ancient rhythm, the cadence that was older than the stones, older than the wheel, older than the darkness waiting below. “Dig a pit that’s ten by two.”  
+
+Kvothe finished it, his voice carrying harmonics that shouldn’t exist in human throat, resonances that made the flames dance and the shadows cower. “Ash and elm and rowan too.”  
+
+The words were promise and prophecy, recipe and ritual, ending and beginning all at once. They settled into the air like stones into water, sending ripples through the fabric of what was real and what was merely true.  
+
+Martin moved to the wall and returned with a ladder, old wood bound with older rope, each rung worn smooth by the grip of desperate hands. “I’ll lower it down,” he said, though his eyes said other things, older things, things that had no words in any language spoken by living men.  
+
+Kvothe picked up the sack again, cradling it almost gently now, the way a mother holds a child she knows she must give away, the way a musician holds an instrument he knows will play its last song.  
+
+“No,” he said, and the word was soft as smoke, final as the sound a candle makes when it goes out. “This is mine to finish.”  
+
+He moved to the edge of the pit, and for a moment he stood there, balanced between the light above and the darkness below, between the world of men and the older world that waited beneath, patient as stone, hungry as fire.  
+
+Then he took the ladder in his good hand and began his descent, carrying his burden down into the darkness that had been waiting since the world was young, toward the wheel that would turn one last time, toward the ending that was really just another kind of beginning.  
+
+Behind him, the torch flames bent as if bowing.  
+
+Or perhaps they were only saying goodbye.  
 
 ### ~ ~ ~
 
