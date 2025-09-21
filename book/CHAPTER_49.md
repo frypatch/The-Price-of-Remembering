@@ -179,7 +179,7 @@ Cinder threw an arm across his eyes, staggering backward, but there was nothing 
 
 “No,” he gasped, and even that word seemed thinner, less certain. “What is this?”  
 
-The thing that was the Whispering Quarter’s shadow pulsed once, and Kvothe watched as it began to feed. Not on flesh or blood, but on what made Cinder Cinder. His name. His nature. His story. It pulled at him the way it had pulled at Trenati, the way it pulled at everyone who stayed too long in places that forgot themselves.  
+The thing that was the Whispering Quarter’s shadow pulsed once, and Kvothe watched as it began to feed. Not on flesh or blood, but on the essence of what made Cinder. His name. His nature. His story. It pulled at him the way it had pulled at Trenati, the way it pulled at everyone who stayed too long in places that forgot themselves.  
 
 Cinder fell to his knees. Terror replaced rage, but even the terror was being eaten, leaving only hollow confusion. He screamed, but the sound was already forgetting what screams were supposed to be.  
 
