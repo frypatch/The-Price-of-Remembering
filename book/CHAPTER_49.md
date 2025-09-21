@@ -53,9 +53,9 @@ The inn shook like a ship in a storm. Dust cascaded from the ceiling. Tools jump
 
 “Yes.” Kvothe’s voice held calm satisfaction as he watched the ceiling crack and splinter. The game was already won. All that remained was for the pieces to finish falling.  
 
-Cinder spun, seeking escape, but the stairs were gone. Not collapsed. Gone. The waystones that had supported them now stood like monoliths, like ancient teeth, and between them yawned spaces full of that alien light.  
+Cinder spun, seeking escape, but the stairs were gone. Not collapsed. Gone. The waystones that had supported them now stood like monoliths, like ancient teeth, and between them yawned spaces full of alien light.  
 
-“What have you done?” The words tore from Cinder’s throat as timber crashed down around him. A beam caught his shoulder, spinning him sideways. Shattered glass opened red lines across his face.  
+“What have you done?” The words tore from Cinder’s throat as timber crashed down around him. A beam caught his shoulder, spinning him sideways. Shattered glass opened red lines across his face. A splinter of wood the length of a man’s hand drove deep into his thigh.  
 
 Kvothe looked up through his protective dome as the ceiling gave way completely. Floorboards splintered. Joists cracked like thunder. The weight of three stories came crashing down, and in that moment, in that breath between disaster and death, the waystones sang their loudest note.  
 
@@ -65,19 +65,17 @@ One instant Kvothe saw splintering wood and falling stone rushing toward them, h
 
 The next instant, silence.  
 
-Not true silence, but the soft, breathing quiet of the Fae. Above him stretched a sky that had forgotten what blue meant, settling instead for deep violet shot through with veins of gold. The terrible crash of the collapsing inn became a distant echo, muffled as if heard through deep water, then gone entirely.  
+Not true silence, but the soft, breathing quiet of the Fae. Above him stretched a sky that had forgotten what blue meant, settling instead for deep violet shot through with veins of gold. The terrible crash of the collapsing inn was gone, cut off as cleanly as a song stopped mid-note.  
 
-They stood in the Fae. The waystones remained, forming a rough circle around them, a primitive amphitheater of ancient stone. They rose perhaps ten feet, their tops jagged, existing here as they existed there, doors that were always doors no matter which side you stood on. Nothing else had come through. No debris. No broken bottles. No splintered wood. Only stone and flesh had made the crossing.  
+Around them, the waystones formed a rough circle, a primitive amphitheater of ancient stone rising perhaps ten feet. Their tops were jagged where they had torn free from mortal anchoring, yet they stood eternal, doors that were always doors no matter which side you stood on. Within their circle lay grass softer than silk, untouched and perfect, as if this ground had been waiting since the world was young. The air pressed thick and sweet against their skin, tasting of honey and starlight, a sweetness that had never known decay.  
 
-Cinder stood at the circle’s edge, and the moments before transition had marked him. Blood painted abstract patterns down his face where glass had cut deep. His fine clothes hung in tatters where timber had torn fabric and flesh alike. The splinter of wood still jutted from his thigh. He pulled it free without flinching, though the blood that followed was very red, very real.  
+Cinder stood at the circle’s edge, and the moments before transition had marked him. Blood ran in dark rivers down his face where glass had cut deep, following the lines of his jaw like tears made of iron. His fine clothes hung in tatters where timber had torn fabric and flesh alike. The splinter of wood still jutted from his thigh. He pulled it free without flinching, though the blood that followed was very red, very real.  
 
 The protective dome around Kvothe flickered and died as the two cubes exhausted their purpose, their song ending in a whisper. He rose slowly, legs trembling but steady.  
 
-“You brought us here,” Cinder said, understanding dawning in his black eyes. “This was always your plan.”  
+“Clever rabbit,” Cinder said, his voice winter given words. “You destroyed your own warren to wound me.” His black eyes swept the alien landscape, understanding dawning like poison spreading through water. “The Fae? Your plan was to bring us to the Fae?”  
 
-The Fae stretched beyond the waystone circle in impossible beauty. Hills rolled away covered in grass that had never bent before wind, only before will. Flowers bloomed in colors that mortal eyes shouldn’t see, their petals catching light that came from nowhere and everywhere at once. Butterflies with wings of crystallized moonlight drifted past, leaving trails of luminescence that lingered in the air like the memory of music.  
-
-“Not a plan.” Kvothe stepped over the broken remains of his bar, past the shattered pieces of his life as an innkeeper. Each step took him further from Kote and closer to himself. “A reckoning. For Trebon. For my parents. For everything you took in Renere.” His voice gained edges with each word, sharp enough to cut. “For crimes beyond counting. This is the only place fitting for you to die. Here, where the old laws still remember justice. Here, where nowhere is far enough to run.”  
+“Not a plan.” Kvothe stepped forward across the perfect grass. “A reckoning. For Trebon. For my parents. For everything you took in Renere.” His voice gained edges with each word, sharp enough to cut. “For crimes beyond counting. Here, where stories must play out to their true endings. Here, where the world itself remembers justice.”  
 
 Cinder’s smile returned, twisting across his face like a scar reopening. “You think this changes anything? Twice you’ve failed to kill me. Twice I’ve let you live.” His grip shifted on his sword, fingers finding their killing hold. “No more mercy, little rabbit.”  
 
