@@ -77,11 +77,11 @@ The protective dome around Kvothe flickered and died as the two cubes exhausted 
 
 “Not a plan.” Kvothe stepped forward across the perfect grass. “A reckoning. For Trebon. For my parents. For everything you took in Renere.” His voice gained edges with each word, sharp enough to cut. “For crimes beyond counting. Here, where stories must play out to their true endings. Here, where the world itself remembers justice.”  
 
-Cinder’s smile returned, twisting across his face like a scar reopening. “You think this changes anything? Twice you’ve failed to kill me. Twice I’ve let you live.” His grip shifted on his sword, fingers finding their killing hold. “No more mercy, little rabbit.”  
+Cinder’s smile returned, twisting across his face like a scar reopening. “You think this changes anything? Twice you’ve failed to kill me. Twice I’ve let you live.” He tightened his grip on his sword, slow and deliberate as a promise. “No more mercy, little rabbit.”  
 
 Kvothe advanced with measured steps. His voice dropped to barely more than a whisper, but it carried clear as bells. “Haven’t you heard? Third time pays for all.”  
 
-On the final word, his hand snapped upward, fingers framing empty air. The wind answered before he even called. It came rushing wild and joyous, lifting him from the earth as easily as a mother lifts a child. His feet left the ground, and his hair became a banner of copper and flame against the alien sky.  
+On the final word, Kvothe’s hand snapped upward, fingers framing empty air. The wind answered before he even called. It came rushing wild and joyous, lifting him from the earth as easily as a mother lifts a child. His feet left the ground, and his hair became a banner of copper and flame against the alien sky.  
 
 He shaped his hands in patterns old as starlight. The ground heard and answered.  
 
@@ -89,7 +89,7 @@ The hills trembled like a drumhead struck. Stones tore themselves free from the 
 
 Cinder watched with an expression that might have been appreciation. Then his blade tilted down, and he moved.  
 
-The first stone shrieked through the air with a sound like tearing silk. Cinder flowed sideways, liquid and impossibly fast, and the stone struck the ground hard enough to leave a crater. Earth fountained upward in a spray of soil and grass.  
+The first stone shrieked through the air like tearing silk. But Cinder had already flowed sideways, liquid and impossibly fast, leaving the stone to strike empty ground where he’d been a heartbeat before. Earth fountained upward in a spray of soil and grass.  
 
 Kvothe didn’t pause. Stone after stone flew toward Cinder, who danced between them with inhuman grace. He was smoke. He was water. He was everything except where the stones wanted him to be.  
 
@@ -109,7 +109,7 @@ Still he endured.
 
 When the flames finally guttered and died, Kvothe lowered himself to the ground. His legs trembled. His breath came in gasps. Through the smoke and ash, he saw movement.  
 
-“It can’t be,” he whispered, and the words tasted of copper and defeat.  
+“It can’t be,” he whispered, the words dry as ash in his mouth.  
 
 Cinder stumbled forward from the smoke. His flesh was ruin, his clothing charred rags, but his eyes still burned with that terrible emptiness. He smiled, and his teeth were black with his own burned blood. “Come, little rabbit,” he rasped through a throat torn raw by screaming. “Come and finish what you started.”  
 
@@ -125,7 +125,7 @@ Kvothe let Folly answer. Climbing Iron carried the blade toward Cinder’s heart
 
 Then came Maiden Dancing.  
 
-Kvothe spun low, and Folly drew a perfect arc upward. The blade found flesh, biting deep into muscle and scraping against bone. Cinder’s scream echoed through the impossible forest, sending those strange butterflies scattering like scattered stars.  
+Kvothe spun low, and Folly drew a perfect arc upward. The blade found flesh, biting deep into muscle and scraping against bone. Cinder’s scream echoed across the alien hills, sending those crystalline butterflies scattering like shattered starlight.  
 
 Rage made him faster. Rage made him stronger.  
 
@@ -137,13 +137,17 @@ Cinder saw it. Cinder smiled.
 
 There was no more fighting to be done here. Only survival.  
 
-Kvothe turned and ran. His legs carried him through the alien forest, past trees whose bark glimmered like wet ink, through thorns that sang as they tore his clothes. Behind him came Cinder, crashing through the undergrowth with the patience of winter, with the certainty of death.  
+Kvothe turned and ran. Not blindly, but with purpose, following a pull he’d felt since they’d arrived. His legs carried him through the alien forest, past trees whose bark glimmered like wet ink, through thorns that sang as they tore his clothes. He knew where he was going now. He could feel it, that familiar hollow ache in the air, that sense of something being slowly eaten away.  
+
+Behind him came Cinder, crashing through the undergrowth with the patience of winter, with the certainty of death.  
 
 “Run, little rabbit!” The laughter was sharp as ice breaking. “Run and know that I follow!”  
 
-The forest deepened. Trees spiraled toward a sky that had forgotten what color meant, their trunks thick as houses, their roots writhing like serpents frozen mid-strike. This was not the Fae he remembered. This was older. Colder. Strange in ways that made his teeth ache.  
+The forest deepened. Trees spiraled toward a sky that had forgotten what color meant, their trunks thick as houses, their roots writhing like serpents frozen mid-strike. The air grew thinner, harder to breathe, as if it too was being consumed. This was not just the Fae. This was where the Whispering Quarter touched it, where forgetting bled between worlds like ink through water.  
 
-When he could run no more, when his legs trembled and his breath came in knives, Kvothe stopped. His hands found the shaed and pulled it around himself. Darkness embraced him like an old friend. The forest swallowed him whole.  
+When he reached the place he’d been seeking, Kvothe stopped. Ancient stones rose around him, weathered and worn, and he recognized them with a chill. These were cemetery stones, or had been once, before the Quarter had eaten their names. Just like in Renere. Just like where he’d found Trenati, hollow and lost.  
+
+His hands found the shaed and pulled it around himself. Darkness embraced him like an old friend. The forest swallowed him whole.  
 
 Cinder stumbled into the clearing moments later. Blood made him clumsy. Rage made him careless. His blade hung loose at his side, and his breath came in ragged gasps. “Where are you, rabbit? Where do you hide?”  
 
@@ -161,43 +165,41 @@ The final “Ferula” brushed past him soft as a lover’s breath, close enough
 
 In his rage, Cinder spoke his own word of binding. Light erupted harsh and wrong, turning bark to bone, casting shadows that fell the wrong direction. It was the light of things that should not be seen, of moments that should not be remembered.  
 
-But light calls to its opposite, and in this old place, in this deep forest, something answered.  
+But in this place where the Whispering Quarter touched the Fae, light was the worst thing he could have summoned. Light called to the hunger that lived here, the thing that fed on memory and name and self.  
 
-The ground trembled. Not with violence, but with recognition. The air grew heavy, expectant, like the moment before lightning strikes. A sound came from everywhere and nowhere, soft and terrible, like velvet dragged across broken glass.  
+The ground trembled. Not with violence, but with recognition. With appetite. The air grew heavy, expectant, like the moment before something precious is lost forever. A sound came from everywhere and nowhere, soft and terrible. Not quite a whisper. Not quite a sigh. The sound of forgetting given voice.  
 
-Then came the light.  
+Then it came.  
 
-Pale and blue-white, it seared through the glade with the intensity of a star being born. Cinder threw an arm across his eyes, staggering backward.  
+Not light this time, but something that ate light. It unfolded from the spaces between, from the gaps where memory should have been. It had the shape of the Whispering Quarter’s hunger, vast and patient and older than names. It moved like Trenati had moved in those final days, uncertain of its own existence, but here in the Fae it had form. Terrible form.  
 
-Above him, something vast began to unfold.  
+At its center, where a mouth might have been, was only absence. A hollow that pulled at everything around it, trying to fill itself with what others were.  
 
-It was flesh but not flesh. It moved like something underwater, like something dreaming, like something that had never been born and so could never die. At its center, a mouth that was not a mouth began to open. A cold hollow sigh filled the space between heartbeats.  
+Cinder threw an arm across his eyes, staggering backward, but there was nothing to see. Only the sense of being slowly unmade.  
 
-Cinder fell to his knees. Terror replaced rage, fear so pure it seemed to shine from him like light. He screamed, but the sound was lost in that terrible sighing.  
+“No,” he gasped, and even that word seemed thinner, less certain. “What is this?”  
 
-The thing above pulsed once, and something bright and vital was pulled from Cinder’s chest. The sigh came again, satisfied, and the creature folded back into the nothing from which it came.  
+The thing that was the Whispering Quarter’s shadow pulsed once, and Kvothe watched as it began to feed. Not on flesh or blood, but on the essence of what made Cinder. His name. His nature. His story. It pulled at him the way it had pulled at Trenati, the way it pulled at everyone who stayed too long in places that forgot themselves.  
+
+Cinder fell to his knees. Terror replaced rage, but even the terror was being eaten, leaving only hollow confusion. He screamed, but the sound was already forgetting what screams were supposed to be.  
+
+The thing sighed, satisfied, and folded back into the nothing from which it came. But it had taken its meal. It had taken what mattered.  
 
 The air fell still. The forest held its breath.  
 
 Only when silence had settled like dust did Kvothe emerge from the shadows. Folly balanced in his hands, ready, waiting.  
 
-Cinder knelt in the dirt, broken in ways that had nothing to do with flesh. His coal-black eyes were empty windows. He moaned, wordless and lost.  
+Cinder knelt in the dirt, and Kvothe recognized the look immediately. The same empty eyes Trenati had worn. The same hollow confusion. The Whispering Quarter had found him here, had eaten him hollow just as it had eaten a prince. His coal-black eyes were white now, empty as erased pages. He moaned, wordless and lost, his hands reaching for something he could no longer name.  
 
-When Kvothe approached, Cinder lifted his hands. They trembled like leaves in autumn, reaching, seeking. Almost pleading.  
+The Cthaeh’s words echoed unbidden in memory.  
 
-The Cthaeh’s words echoed unbidden in memory. Your father begged before the end.  
+> Your father begged before the end.  
 
-This was not mercy Kvothe felt. It was completion.  
+Kvothe stepped forward with Folly, but in that moment his mercy fled. Instead, the blade took Cinder’s hands cleanly at the wrists. They fell like strange fruit to the forest floor, and blood pooled dark as old secrets around them.  
 
-He stepped forward, and Folly sang through the air. The blade took Cinder’s hands cleanly at the wrists. They fell like strange fruit to the forest floor, and blood pooled dark as old secrets around them.  
+Kvothe stood over him for a long moment, watching the strange butterflies return to settle on the cooling hands. Then he turned his back on what remained, following a path that only he could see.  
 
-Cinder collapsed forward into the dirt, into his own spreading blood, into an ending that had been written in the stars before the world was made.  
-
-Kvothe stood over him for a long moment, watching as the last of what had been Cinder leaked away into the hungry earth. The strange butterflies returned, settling on the cooling corpse with wings that whispered of light and loss.  
-
-Finally, Kvothe cleaned Folly on the grass that grew greener where Cinder’s blood had fallen. He turned his back on what remained and walked deeper into the forest, following a path that only he could see, toward whatever waited beyond the next turn of the story.  
-
-The Fae watched him go, patient as stone, old as silence, keeping its secrets for another day.  
+The Fae watched him go, patient as silence, old as disappointment, and keeping its legends for another day.  
 
 ### ~ ~ ~
 
