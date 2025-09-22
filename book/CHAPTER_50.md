@@ -3,33 +3,33 @@
 ## THE PROPER WAY.
 
 
-WHEN KVOTHE STEPPED through the jagged wound where the Waystone Inn’s wall had been, the world welcomed him back with teeth. The air bit sharp and cold, tasting of autumn’s death and winter’s promise. Behind him, through that impossible doorway, the Fae breathed its strange purple light into the mortal world, but already the gap was closing, the stones remembering their proper shape, their proper place. Soon there would be nothing but a scar to mark where two worlds had kissed and parted.  
+THE WORLD SHIFTED between one breath and the next, and Kvothe stood surrounded by the ruins of the Waystone Inn. Broken timber and shattered stone spread outward from where he stood to the waystones that encircled the wreckage of his careful trap. Above, the night sky of the mortal world stretched familiar and cold, its stars fixed in their proper places, following their proper paths.  
 
-The burlap sack hung heavy on his shoulder, its weight more than mere flesh and bone could account for. It pulled at him the way old sins pull at conscience, the way finished things pull toward earth. Inside, something shifted wetly, and the smell that escaped was iron and ending, sweet decay and bitter triumph all mingled into one.  
+His shaed hung heavy across his shoulder, bundled and knotted into a makeshift sack. Inside the dark fabric, something shifted that was no bigger than a pair of gloves but reeked of iron.  
 
-Bast stood waiting in the ruins of what had been the inn’s foundation, his eyes wide as wounds. Chronicler stood beside him, still clutching his satchel as if it might anchor him to sanity. They looked at Kvothe the way men look at lightning after it strikes too close, with wonder and wariness in equal measure.  
+Bast and Chronicler stood frozen among the settling dust. The inn had collapsed not three heartbeats ago, and now Kvothe stood in the center of the ruins as if he had always been there. As if the falling timber had simply passed through him like rain through smoke.  
 
-“Kvothe,” Bast began, and his voice cracked on the name like a boy’s voice breaks on the edge of manhood.  
+Chronicler’s mouth worked soundlessly, his mind trying to reconcile what his eyes insisted they had seen. The stories were one thing. Seeing it was another thing entirely.  
 
-Kvothe raised what remained of his left hand. The gesture was small, but it carried the weight of mountains, the finality of closed doors. “Later,” he said, and the word fell into the space between them like a stone into deep water. “There will be time enough for questions when this is properly done.”  
+Bast began to clap. Slow. Deliberate. Three times, like the beat of a ritual drum. A grin spread across his face, wild and knowing, the expression of someone who has just witnessed a magic trick so audacious that admiration is the only possible response.  
 
-He shifted the sack higher on his shoulder. Inside, things settled with a sound like wet leaves beneath November rain.  
+“You magnificent bastard,” Bast said, shaking his head with something between disbelief and delight. Then his eyes found the bundled shaed and his grin widened, showing teeth. “Took him to the Fae, where the third time always pays for all.”  
 
-Bast’s nostrils flared. His pupils contracted to slits, then dilated wide as midnight. “Tehlu’s burning beard,” he whispered, the oath escaping him like steam from a kettle. “Is that what I think it is?”  
+“Later,” Kvothe said, raising what remained of his left hand. The gesture was small but final. “First, there is one more thing that needs to be properly done.”  
 
-“It is what it needs to be,” Kvothe said. His green eyes had gone dark as old forests, dark as the spaces between stars where no light has ever been. “Nothing more. Nothing less.”  
+Chronicler swallowed hard, finally finding his voice. “Where are we going?”  
 
-Chronicler swallowed hard, his throat working like a man trying to speak around stones. “Where are we going?”  
+“To finish what was started.” Kvothe turned toward the road, his movements careful and deliberate as ritual. Each step was measured, weighted, considered. The bundled shaed swayed with his motion, keeping time like a pendulum marking the hour of ending. “To Martin’s. To the proper way of things.”  
 
-“To finish what was started.” Kvothe turned toward the road, his movements careful and deliberate as ritual. Each step was measured, weighted, considered. The sack swayed with his motion, keeping time like a pendulum counting down to judgment. “To Martin’s. To the proper way of things.”  
+“Crazy Martin,” Bast muttered, falling into step behind them. His voice tried for levity and failed, landing somewhere between nervous and numb.   
 
-“Crazy Martin,” Bast muttered, falling into step behind them. His voice tried for levity and failed, landing somewhere between nervous and numb. “Of course. Because this night needed more madness.”  
+“Of course. Because this night needed more madness.”  
 
 ### * * *  
 
-The moon hung low and bloated in the sky, yellow as old bone, casting shadows that seemed to reach for their feet with eager fingers. The road to Martin’s farm was a ribbon of packed earth that knew their footsteps, remembered their weight. Each bootfall echoed in the stillness, creating a rhythm that was almost music, almost prayer.  
+The moon hung low and bloated in the sky, yellow as old bone, casting shadows that seemed to reach with grasping fingers. The road to Martin’s farm was a ribbon of packed earth that knew their footsteps, remembered their weight. Each bootfall echoed in the stillness.  
 
-The sack grew heavier with each step. Not in weight, perhaps, but in meaning. In finality. In the way that carried things grow heavier the closer you come to setting them down for the last time.  
+The shaed grew heavier with each step. Not in weight, perhaps, but in meaning. In finality. In the way that carried things grow heavy the closer you come to setting them down for the last time.  
 
 Martin’s hovel squatted at the edge of his fallow field like a toad made of timber and rage. Smoke leaked from the chimney in a thin, bitter line, writing messages in the air that only the wind could read. The windows glowed dim as dying coals, and somewhere inside, a dog barked once and fell silent.  
 
@@ -39,11 +39,11 @@ Time stretched. Contracted. Breathed.
 
 The door opened just wide enough to show a slice of Martin’s face, weathered as old leather, suspicious as a miser counting coins. “Tehlu’s teeth and toes,” he began, his voice rough with sleep and sourness. “Do you know what hour—”  
 
-His words died as his eyes found the sack. His gaze tracked from the dark stains seeping through the burlap to Kvothe’s face, and what he saw there made him step back, pulling the door wide.  
+His words died as his eyes found the bundled shaed. His gaze tracked from the dark stains seeping through the fabric to Kvothe’s face, and what he saw there made him step back, pulling the door wide.  
 
 “So,” Martin said, and the word was flat as a blade laid against a whetstone. “It’s done then.”  
 
-“As done as such things can be,” Kvothe replied, crossing the threshold without invitation. The sack brushed against the doorframe, leaving a mark that would never quite wash clean.  
+“As done as such things can be,” Kvothe replied, crossing the threshold without invitation. The shaed brushed against the doorframe, leaving a mark that would never quite wash clean.  
 
 Martin bolted the door behind them with movements born of long practice and longer paranoia. Three locks. Three bars. Three words muttered under his breath that might have been prayer or curse or both.  
 
@@ -69,7 +69,7 @@ Chronicler made a sound in his throat, not quite word, not quite whimper. His fi
 
 Bast’s tail lashed once, twice, then went still. When he spoke, his voice was soft as silk, sharp as glass. “I know what this is.”  
 
-“Then you know why it must be done,” Kvothe said. He set the sack down with the careful reverence reserved for holy things and horrible things and things that are both at once.  
+“Then you know why it must be done,” Kvothe said. He set the bundled shaed down with the careful reverence reserved for holy things and horrible things and things that are both at once.  
 
 The silence that followed had texture, had weight. It pressed against their ears like deep water, like the pause between lightning and thunder when the world holds its breath to see what will break.  
 
@@ -89,7 +89,7 @@ The words were promise and prophecy, recipe and ritual, ending and beginning all
 
 Martin moved to the wall and returned with a ladder, old wood bound with older rope, each rung worn smooth by the grip of desperate hands. “I’ll lower it down,” he said, though his eyes said other things, older things, things that had no words in any language spoken by living men.  
 
-Kvothe picked up the sack again, cradling it almost gently now, the way a mother holds a child she knows she must give away, the way a musician holds an instrument he knows will play its last song.  
+Kvothe lifted the shaed again, cradling the bundle almost gently now, the way a mother holds a child she knows she must give away, the way a musician holds an instrument he knows will play its last song.  
 
 “No,” he said, and the word was soft as smoke, final as the sound a candle makes when it goes out. “This is mine to finish.”  
 
