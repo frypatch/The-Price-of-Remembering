@@ -159,7 +159,7 @@ I crossed the stone span to the Archives just before second bell, my best coat p
 
 Inside, the quiet felt different today. It wasn't reverent exactly, just simply drained. The scent of parchment and dust seemed thinner. The tension in the air no longer tingled with curiosity. Instead, it hung slack and unstrung, like a harp left untuned.
 
-I offered a nod as I passed the Scrivs’ counter. Only Tempi was on duty this early, his eyes bracketed with weariness. He gave a perfunctory tilt of the head that might once have been a greeting.
+I offered a nod as I passed the Scrivs’ counter. Only Renner was on duty this early, his eyes bracketed with weariness. He gave a perfunctory tilt of the head that might once have been a greeting.
 
 My feet turned of their own accord, leading me through the lower stacks, down a marble-inset hallway I’d come to know well. I moved without thinking, the same way your hand finds half-forgotten scars.
 
