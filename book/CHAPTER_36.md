@@ -5,21 +5,22 @@
 ## BURDENS.
 
 
-KOTE STOOD BEHIND THE bar at the Waystone Inn, polishing a mug that had already surrendered its every stain to his careful hands. The amber light from the hearth painted it gold, then copper, then gold again as he turned it in endless circles. His movements carried the weight of ritual, each pass of the cloth a prayer to the present moment, a tether to keep him from drifting into memory’s darker waters. Outside, the wind pressed its face against the shutters like a beggar at a feast. Its voice found the gaps between wood and nail, threading through the quiet corners of the room with a sound like old grief seeking new ears.  
+KOTE STOOD BEHIND the bar at the Waystone Inn, working his cloth over a mug long past the need for cleaning. The amber light from the hearth painted it gold, then copper, then gold again as he turned it in endless circles. Outside, the wind worried at the shutters with a low, insistent moan. It searched for gaps that weren’t there, pressing against wood fitted tight as a shipwright’s best work, but the inn stayed warm and still. Not even a candle flame wavered.  
 
 The scratch of Chronicler’s quill went silent as a held breath.  
 
-“You’ve stopped, you know,” Kote said suddenly, his voice low and flat. “Why?”  
+“You’ve stopped writing,” Kote said suddenly, his voice low and flat. He kept his eyes on the mug, his hands still moving in their endless circles. “Why?”  
 
 Chronicler shifted in his chair. The wood creaked a question. “I thought perhaps this part of your story might not be something you wanted written.”  
 
-A sound escaped Kote’s throat, sharp and bitter as winter wine. His hands stilled on the mug, the cloth frozen mid-circle. For a long moment he stood thus, caught between motion and stillness, between speaking and silence. When he finally set the mug down, his movements were careful and slow, as if the simple act required all his concentration. The mug touched the bar with barely a whisper, but his hands trembled as they released it, and he gripped the edge of the bar to hide their shaking.  
+Kote let out a slow breath, the kind that carries more weight than words. He kept polishing the mug, his hands moving in the same circles, but now the rhythm had changed. What had been smooth and thoughtless became tight, mechanical. Three more circles. Four. But when he set it down his hands trembled.  
 
-He turned toward the hearth, one hand braced against the bar’s worn wood, the other pressed to his chest as if holding closed a door that wanted desperately to open. His breath caught once, twice, then shattered into something raw and terrible. The sob that tore free from him sounded like cloth ripping, like something vital giving way beneath impossible weight.  
+He turned toward the hearth and braced himself against the bar. For a moment he stood perfectly still. Then his shoulders began to shake. The sob that came was ugly and harsh, a sound that had been swallowed back too many times to count.  
 
-“I led them to their deaths.” The words fell from him like stones into still water. “Wil. Sim. They came for me. Broke through stone and steel to pull me from that place, and I wouldn’t leave. Not without her.” His voice cracked on the last word. “They followed me to the tower because they trusted me. Because they believed I knew the way through. They walked behind me the way children follow their father through the dark, certain of the path ahead.” He tried to laugh, but the sound caught in his throat like water in a broken pipe. “An arrow in my shoulder and too much stubbornness in my bones, and still they followed. They died because I couldn’t abandon Auri. They died because they trusted me to lead them home.”  
+“I led them to their deaths. Wil. Sim. They came for me. Broke through stone and steel to pull me from that place, and I wouldn’t leave. Not without her.” His voice cracked on the last word. “They followed me to the tower because they trusted me. Because they believed I knew the way through. They walked behind me the way children follow their father through the dark, certain of the path ahead.” He tried to laugh, but the sound caught in his throat like water in a broken pipe, wet and wrong. “An arrow in my shoulder and too much stubbornness in my bones, and still they followed. They died because I couldn’t abandon her to the dark. They died because they trusted me to lead them home.”  
 
-His knuckles bloomed white where they gripped the bar’s edge. Chronicler set his pen down with the care one might use to lay a sleeping child in its bed.
+His knuckles bloomed white where they gripped the bar’s edge. Chronicler set his pen down with the care one might use to lay a sleeping child in its bed.  
+
 “Kote,” he began.  
 
 “Let me finish what I’ve started.” Kote turned, and the firelight found his eyes, red-rimmed and glassy. When he spoke again, his voice had found its footing. “Heroes are liars, Chronicler. We tell ourselves pretty stories about wit and triumph, about clever tongues and clever hands. The truth tastes different. The truth is that good men die forgotten. No bard remembers their names. No song keeps their memory warm.”  
