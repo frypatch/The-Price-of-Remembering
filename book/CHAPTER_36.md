@@ -9,7 +9,7 @@ KOTE STOOD BEHIND the bar at the Waystone Inn, working his cloth over a mug long
 
 The scratch of Chronicler’s quill went silent as a held breath.  
 
-“You’ve stopped writing,” Kote said suddenly, his voice low and flat. He kept his eyes on the mug, his hands still moving in their endless circles. “Why?”  
+“You’ve stopped writing,” Kote said, his voice low and flat. He kept his eyes on the mug, his hands still moving in their endless circles. “Why?”  
 
 Chronicler shifted in his chair. The wood creaked a question. “I thought perhaps this part of your story might not be something you wanted written.”  
 
@@ -17,13 +17,13 @@ Kote let out a slow breath, the kind that carries more weight than words. He kep
 
 He turned toward the hearth and braced himself against the bar. For a moment he stood perfectly still. Then his shoulders began to shake. The sob that came was ugly and harsh, a sound that had been swallowed back too many times to count.  
 
-“I led them to their deaths. Wil. Sim. They came for me. Broke through stone and steel to pull me from that place, and I wouldn’t leave. Not without her.” His voice cracked on the last word. “They followed me to the tower because they trusted me. Because they believed I knew the way through. They walked behind me the way children follow their father through the dark, certain of the path ahead.” He tried to laugh, but the sound caught in his throat like water in a broken pipe, wet and wrong. “An arrow in my shoulder and too much stubbornness in my bones, and still they followed. They died because I couldn’t abandon her to the dark. They died because they trusted me to lead them home.”  
+“I led them to their deaths. Wil. Sim. They found me bleeding against a wall, a crossbow bolt through my shoulder. They could have left then. Should have left. Denna was waiting at the gates.” His voice cracked like old wood. “But I told them we had to reach the Tower. The others were trapped there. Auri. The King. I wouldn’t leave them behind.” He swallowed hard. “They walked behind me into that tower the way children follow their father through the dark, certain I knew the path ahead.” He tried to laugh, but what came out was broken and bitter. “They died because I couldn’t walk away. They died because they trusted me to lead them home.”  
 
 His knuckles bloomed white where they gripped the bar’s edge. Chronicler set his pen down with the care one might use to lay a sleeping child in its bed.  
 
 “Kote,” he began.  
 
-“Let me finish what I’ve started.” Kote turned, and the firelight found his eyes, red-rimmed and glassy. When he spoke again, his voice had found its footing. “Heroes are liars, Chronicler. We tell ourselves pretty stories about wit and triumph, about clever tongues and clever hands. The truth tastes different. The truth is that good men die forgotten. No bard remembers their names. No song keeps their memory warm.”  
+“Let me finish what I’ve started.” Kote turned, and the firelight caught his eyes, red-rimmed and glassy. When he spoke again, his voice had found its footing. “Heroes are liars, Chronicler. We tell ourselves pretty stories about wit and triumph, about clever tongues and cleverer hands. The truth tastes different. The truth is that good men die forgotten. No bard remembers their names. No song keeps their memory warm.”  
 
 He reached into his pocket and drew out a small vial filled with milky liquid. For a moment he simply held it, watching the firelight break and scatter through the glass like promises through time. “Wil was one of them,” he murmured. “A man with an axe and a heart too large for his chest. No grace in his movements. No training in his bones. And yet, when the room filled with knights, when Sim and I were on the edge of breaking, Wil stood.”  
 
