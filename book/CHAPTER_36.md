@@ -59,9 +59,9 @@ Their names settled over the room like snow over gravestones.
 
 Kote straightened then, pulling the innkeeper’s mask back over his features with practiced ease. He smoothed his apron and gestured to the pen resting in Chronicler’s hand.  
 
-“Someday you’ll write their stories whole and true. But tonight, this piece of their ending belongs in my telling too. They are threads woven through my tale, and to leave them out would be to tell a lie through silence.” He gestured toward the waiting pen. “So write it down, Chronicler. Write how they died for me. Then we move forward. My story has far to go before it finds its rest.”  
+“Someday you’ll write their stories whole and true. But today, this piece of their ending belongs in my telling too. They are threads woven through my tale, and to leave them out would be to tell a lie through silence.” He gestured toward the waiting pen. “So write it down, Chronicler. Write how they died for me. Then we move forward. My story has far to go before it finds its rest.”  
 
-He turned back to the hearth, squaring his shoulders beneath the weight of memory. “The night is patient, but not endless. Best we continue while we can.”  
+He turned back to the hearth, squaring his shoulders beneath the weight of memory. “The day is patient, but not endless. Best we continue while we can.”  
 
 ### ~ ~ ~
 
