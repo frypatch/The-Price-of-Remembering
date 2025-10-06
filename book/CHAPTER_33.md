@@ -5,7 +5,7 @@
 
 SOUR ALE HAD SOAKED so deep into the floorboards that the wood itself seemed drunk. Rancid lamp oil coated the walls, thick and yellow. Bottles lay where they’d fallen, and swords leaned against walls like tired men. I knew this particular neglect. It was the same absence that fills a hearth when the last ember dies and no one reaches for the kindling.  
 
-Sixteen guards filled a room built for forty. Some sat with bottles cradled like infants against their chests. Others stared at nothing with the particular blindness that comes from years of forgotten watch, men who had looked at boredom so long they barely noticed when it turned to doom. They were scarecrows left standing after the harvest, forgotten in a tower the King had never bothered to visit until he needed them to bleed.  
+Sixteen guards filled this room built for forty. Some sat with bottles cradled like infants against their chests. Others stared at nothing with the doomed blindness that comes from years of boredom. They were forgotten men in a forgotten tower, remembered only when the King needed blood.  
 
 “Ready yourselves!” Roderick’s voice cracked against their indifference like waves against stone. “Get moving! They’ll be at the gates any moment!”  
 
@@ -41,7 +41,7 @@ She nodded, still focused entirely on the wound. “Bits that don’t belong,”
 
 I looked down at Auri’s careful work. “Bad enough.”  
 
-Auri’s fingers never stopped their patient searching. Each extraction of debris brought a small white star of pain, but her touch remained certain, unhurried. I had never seen her work like this before. The careful precision. The methodical calm. Had she studied at the Medica? No. I would have known. Wouldn’t I?  
+Each bit of debris she drew free brought a small white star of pain. Gasps broke from me, unbidden, but Auri never wavered. I had never seen such steadiness in her hands, had never witnessed such quiet certainty. Had she studied at the Medica? No. I would have known. Wouldn’t I?  
 
 When she finished, she tied the last bandage with a knot that would hold but not bind. She looked up at me with those wide eyes. “The red’s stopped running away now,” she said softly.  
 
