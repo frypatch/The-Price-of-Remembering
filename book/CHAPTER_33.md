@@ -11,7 +11,7 @@ Sixteen guards filled this room built for forty. Some sat with bottles cradled l
 
 But the words failed, as they always do when a man tries to command loyalty he never thought to earn. I watched the King pace the center of the room, his movements frantic and floundering, each gesture grasping at authority these men had no reason to grant. Behind his commands lay something else. Something like fear trying to sound like power, speaking to keep the silence at bay.  
 
-“Oh.” Auri’s voice came soft from across the room. She crossed to me in three quick steps, her eyes fixed on my shoulder with an intensity I had never seen in her before. “You’ve brought me a quill!”  
+“Oh.” Auri’s voice drifted soft from the far side of the room. In three light steps she stood before me, her eyes fixed on my shoulder with an intensity I had never seen in her before. “You’ve brought me a quill!”  
 
 I looked down at the crossbow bolt jutting from beneath my clavicle. Four inches of blackened oak, splintered where it had kissed stone before finding me. “I did,” I said, my voice tight with pain. “Tricked a porcupine out of it. Though I’m afraid I’ve stained it red.”  
 
