@@ -15,55 +15,73 @@ Behind us, Roderick’s breathing had gone quick and shallow. “Lugosi will com
 
 Wil muttered a curse. Sim glanced at him but said nothing, his fingers tracing the worn stone of the window frame. Then he turned to one of the guards who had managed to stay sober enough to stand. “What do we have left?”  
 
-The man’s shrug carried the weight of a hundred disappointed mornings. “Oil. Pitch. Some gear upstairs.” He paused, his eyes drifting to the stones beneath our feet. “No tunnels out, like you said. Just us.”  
+The man’s shrug carried the weight of a hundred disappointed mornings. “Oil. Pitch. Some gear upstairs.” He paused, his eyes drifting to the stones beneath our feet. “Like you said, no tunnels. Nothing but what we’ve got.”  
 
-Sim looked at me then, his eyes taking in my shoulder and the way I leaned against the wall. “You’re hurt worse than you’re letting on.”  
+Sim’s eyes found me where I stood against the stone. He saw what I was trying to hide. The way I favored my left side. The careful shallowness of my breathing. The weight the wall was bearing that my legs would not. “You’re hurt worse than you’re letting on.”  
 
 “I’ll manage.”  
 
 “Kvothe.” There was an edge to his voice I rarely heard. “You can barely stand. Let me help.”  
 
-I pushed myself away from the wall to prove him wrong, but my shoulder screamed and the world went soft at the edges. I caught myself against the stone again, breathing hard. My pride had kept me standing this long, but my body was too broken for it to hold much longer. “Alright.”  
+I pushed myself away from the wall to prove him wrong. My shoulder answered with a bright knife of pain that turned my vision white at the edges. The world tilted. I caught myself against the stone again, one hand flat against its patient surface while I waited for the brightness to fade. My pride had kept me standing this long, but my body was too broken for it to hold much longer. “Alright.”  
 
 We waited through the long afternoon and into evening. The light changed from gold to amber to ash. No rescue came. The city beyond our walls held its breath and said nothing.  
 
-Roderick paced. Back and forth across the worn stone floor, muttering prayers that grew quieter as the hours passed. The guards found bottles and passed them hand to hand until there was nothing left to pass. In a corner, Auri sat humming something soft I couldn’t name. Sim kept watch at the arrow slit, watching the courtyard below through its narrow stone mouth, while I sat with my back against the cold stone and tried to breathe through the pain.  
+For a time, Roderick paced. Back and forth across the worn stone floor, muttering prayers that grew quieter as the hours passed. The guards found bottles and passed them hand to hand until there was nothing left to pass. In a corner, Auri sat humming something soft I couldn’t name, while I sat with my back against the cold stone and tried to breathe through the pain.  
 
-Dawn broke gray and cold. The siege engines arrived with it.  
+Then Sim moved.  
 
-I watched their massive frames lumber into the courtyard, wheels groaning under iron weight. Then came the soldiers, hundreds of them, filling the courtyard below. Real soldiers. The army from the crags, or one much like it. Scarlet banners lifted in the morning air. Shield bearers formed perfect rows. At the center of it all, they brought the ram.  
+He started with the arrow slit, studying the courtyard below with the same focus he once gave to difficult translations. After a long moment, he turned to the nearest guard. “Show me where you keep the oil.”  
 
-Sim squared his shoulders and set his jaw. Like watching a blade emerge from its sheath. “Wil, bring down the oil. Start with the murder holes.” His voice carried through the morning air without strain. “You two, gather anything sharp. Swords, arrows, chair legs if you must. Everything comes here.”  
+The man gestured toward the stairs. Sim disappeared into the darkness above. When he returned, he knelt and began drawing in the dust. After a moment, Wil came closer to watch, then knelt beside him.  
 
-They obeyed. Wil moved first, then the others followed.  
+“Here,” Sim said, pointing. “And here. We’ll need three men at each position.” His voice carried none of his usual hesitation. “Wil, help me move the cauldron.”  
 
-Outside, Fascino’s voice carried through the morning air. “Surrender the King and the rest of you leave with your lives. Refuse me and you’ll watch your own bellies spill before the sun sets.”  
+They worked through the failing light. Sim positioned guards at windows, counted arrows, tested the weight of the pitch pot himself. When one guard protested that they had no chance, Sim squared his shoulders and picked up the heaviest oil jar, carrying it to the murder hole without a word. He began setting it in place, hands steady despite its weight.  
 
-The guards shifted, doubt creeping in like cold through a cracked foundation. Before it could weather through, Sim stepped into the lamplight. “Don’t believe him. Look at the street. Look at what he’s left behind. That’s the mercy you’ll get.”  
+The guard watched for a moment. Then he picked up a jar of his own.  
 
-I had never seen him like this. Standing there in the flickering light, he wasn’t my friend who laughed at bad jokes and worried about exams. He was something else. Something I’d never seen before.  
+Another guard followed. Then another. The bottles they’d been nursing found the floor. One by one they rose, drawn to someone who refused to surrender when surrender would have been easier. Someone who could have hidden behind his noble name but chose instead to lift and carry and prepare alongside them.  
 
-For years I had wondered why Sim never stepped forward when moments called for leadership. He had told me once that his father, the Duke of Dalonil, had tried to shape him into a commander of men. Tried and failed, he’d said, with that self-deprecating smile he wore like armor. Sim had no hunger for power, no thirst for control. Kind hearts seldom grasped for reins. They knew too well what holding them could cost.  
+Sim directed with quiet certainty, but he never asked them to do what he would not. He positioned himself at the hardest angles, took the heaviest loads, checked each firing position with his own hands.  
+
+I watched him work, and I had never seen him like this. Standing there in the dimming light, he wasn’t my friend who laughed at bad jokes and worried about exams. He was something else. Something I’d never seen before.  
+
+For years I had wondered why Sim never stepped forward when moments called for leadership. Once, over wine and late-night conversation, he’d told me his father tried to shape him into a commander of men. The Duke of Dalonil had pulled and pushed and molded. Tried and failed, Sim had said, wearing that self-deprecating smile like armor against old wounds. Sim had no hunger for power. No thirst for control. Kind hearts seldom grasped for reins. They knew too well what holding them could cost.  
 
 But perhaps his father had seen something Sim himself had missed. Leaders don’t always grow from ambition’s seed. Sometimes they grow from necessity, watered with the knowledge that someone had to stand when all others had fallen.  
 
-***
+* * *
 
-The ram came first.  
+Dawn came with the beat of drums.  
 
-From the tower, I watched Fascino’s soldiers surge forward. Some bore shields, others shouldered the massive timber, heavy as a felled tree. They swarmed into place. Sim barked orders, his voice steady, a note of certainty new to his tongue yet fitting all the same.  
+I pushed myself up from the floor, my shoulder screaming in protest. Sim stood at the arrow slit. Through the long night he had organized what defense we could manage, positioning the few guards we had, rationing our oil and arrows.  
 
-Roderick’s voice rang out behind us. “For Vintas! Hold the fort, men!”  
+“They’re moving.” Sim’s voice cut sharp and clear. “Ready yourselves!”  
 
-Even amid the uproar, I heard how his cry rang false. There was no time to dwell on it. The ram reached the bridge. Sim’s command snapped through the air. “Loose!”  
+I made it to the window beside him and looked down. Fascino’s soldiers surged forward. Some carried shields broad as doors. Others bent their backs beneath the ram, straining under its weight. They moved like a centipede scuttling toward our gate, all those legs rippling in waves, relentless and wrong.  
 
-A volley of arrows met the front ranks, striking where the shields were thin. Soldiers tumbled, their bodies dragging the ram askew. Yet others stepped forward to fill the gaps, shield bearers pressing onward, and the gate trembled beneath the weight of the blows.  
+Behind us, Roderick tried to rally his already rallied men. “For Vintas! Hold the fort!” His voice climbed too high on the last word, breaking like a boy’s.  
 
-The tower groaned, sending a shiver of dust down from the old stones. Each strike found its way into my bones. Sim shouted again. “Ready the cauldron!” He rushed to help the others, together heaving the vat of boiling oil above the gate.  
+The ram reached the bridge.  
 
-“Now!” The cauldron tipped. Fire poured down, cruel and bright. The ram crew screamed. Bottles of dreg crashed after, igniting wherever they struck. The courtyard flared with sudden light, and Fascino’s soldiers scattered like startled insects beneath a sudden torch.  
+“Loose!” Sim commanded.  
 
-For a breath, hope lived. Then, on the far side of the field, I saw the mangonel rise.  
+Arrows fell like rain, striking where shields grew thin. Men stumbled, their bodies dragging the great timber sideways for a moment before others stepped forward to take their place. The gate shuddered under the first blow, and I felt it in my bones, in the wound that wept beneath my shirt, in the teeth I clenched against the pain.  
+
+The tower groaned, dust drifting down like snow from stones that had stood for centuries. Each strike of the ram was a fist against my chest, driving breath from my lungs.  
+
+“Ready the cauldron!” Sim shouted, already moving to help the others wrestle the great pot into position above the gate. His scholar’s hands, more used to holding quills than weapons, gripped the iron without hesitation.  
+
+“Now!”  
+
+The cauldron tipped.  
+
+What fell was not water but liquid fire, bright and merciless. It found the men below with terrible accuracy. Their screams rose sharp enough to cut the air. Bottles of dreg followed, shattering against stone and flesh, each one blooming into fresh flame. The courtyard became carnage painted in red and orange against pale stone.  
+
+For a single, perfect moment, hope lived again.  
+
+Then I saw the mangonel rise on the far side of the field.  
 
 ***
 
