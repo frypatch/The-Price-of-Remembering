@@ -153,53 +153,71 @@ The next stone flew.
 
 I was waiting. My hand pressed flat against the cold wall, feeling the sure weight of it beneath my fingers. The stone was steady. The stone was still. I let its stillness settle the unsteady churn of my thoughts as I reached for the Wind.  
 
-It came slow, reluctant, like luring a shy animal from the brush. My body was too battered, my mind too frayed, to summon it with the sharpness I wanted. But Sim had been right. I did not need sharpness. I needed to be careful. I needed to be exact.  
+It came slow at first. Too slow. My body was too battered, my mind too tired, to sing clearly to it. When it finally understood, it rushed in. But the stone hurtling toward us was granite and momentum, a thing of terrible weight screaming through the air. Too heavy. Too fast. I could feel it cutting through the wind.  
 
-When I spoke the Name of the Wind, my voice was no stronger than a breath, but the world listened.  
+Panic rose in my throat, but the wall beneath my palm pressed back. Patient. Certain. The stone remembered standing. It remembered holding against wind and weather and the weight of years. It had been here long before Fascino’s betrayal, before Roderick’s crown, before the first hand laid the first stone of the citadel itself.  
 
-The air twisted outside the tower, a breath held in the throat of the world, just before the stone arrived. The great weight of it tilted. Not much. Barely enough to notice. But enough. Enough to shift its path away from the heart of the tower. The stone struck the outer parapet instead. Stone shattered. Shards of it rained down like knives. The impact rippled through the tower, rattling its bones, rattling mine. My legs buckled. I fell into the wall, clinging to it for balance, for breath.  
+Forgotten. Like the guards Sim had rallied. Overlooked.  
 
-Sim was at my side in a heartbeat. His hand found my arm, holding me upright. “You did it,” he said. His voice could not decide whether to believe it.  
+But not gone.  
 
-“I slowed it,” I said. My voice was cracked and thin. “That is all.”  
+I stopped reaching for the Wind and listened instead. The wall sang its slow song, the deep note of stone speaking to stone. And there, hurtling toward us through empty air, another stone sang back. Heavy. Ancient. Cut from the same bones of the earth.  
 
-He looked at me as if that were enough. “You bought us time.”  
+“Cyaerbasalien” I spoke, and the word felt like bedrock in my mouth.  
 
-Then he was gone again, sprinting back toward the defenders. Above us, Wil’s voice rang out. “Oil’s ready!” His shout cut through the stone and smoke. A moment later, I heard the hiss of boiling liquid, the sharp crackle as it met air. Then came the roar. A rush of sound that filled the courtyard, the hungry voice of fire finding its feast.  
+The flying stone split.  
 
-### * * *
+Not shattered. Not broken. It came apart along the lines written into it when it was still part of the mountain, when it knew itself as two pieces waiting to be divided. Both halves wheeled wide, spinning away from the tower like birds startled from their course. One crashed into the citadel’s eastern wall with a sound like thunder. The other struck west, tearing through parapet and merlon.  
 
-Through the narrow arrow slit, I watched Fascino’s crew scatter beneath the falling fire. The boiling oil had fouled the cranking mechanism, and one of the men at the mangonel stumbled back, his arm aflame. He clutched at the blackened flesh as he fell, his screams cutting sharp against the chaos below. The siege engine would not fire so swiftly now.  
+But the tower stood. Untouched.  
 
-But it still stood. The engine itself was not yet broken.  
+I sagged against the wall, my legs gone to water, my shoulder screaming. Through blurring vision I saw what we had become. The tower stood alone now, a peninsula of stone reaching out into empty air. Behind us, the parapet still connected us to the citadel’s wall. But on every other side, nothing. Just the long drop to the courtyard below and the wreckage we had made.  
 
-Wil returned, breath tight, sweat beading his brow. “That’s their last clean volley for a while,” he said. His voice lost a bit of its edge when he glanced at me. “If you’re going to play with Names again, try not to die before the rest of us.”  
+Sim was at my side again. His hand found my arm. He said nothing, but his grip was sure.  
+
+Then he was gone again, sprinting back toward the defenders. Through the arrow slit I could see movement below. Fresh soldiers streamed into the courtyard, hauling timber. They meant to try again. Already they were lifting the great ram where it had fallen, wrapping chains around its scorched length.  
+
+Wil’s voice rang out. “Oil’s ready!” His shout cut through the stone and smoke.  
+
+The ram crew gathered themselves below, positioning for another charge. They thought we were spent. They thought we had nothing left to give.  
+
+A moment later, I heard the hiss of boiling liquid, the sharp sizzle as it met air. Then came the roar. A rush of sound that filled the courtyard, the hungry crackle of fire finding another feast.  
+
+Through the narrow arrow slit, I watched them scatter beneath the falling fire. Men screamed as the oil found them, their bodies painted in flame. The great timber fell from their burned hands a second time and lay abandoned in the courtyard. No one would touch it again while it still burned.  
 
 “They’re still loading,” Sim muttered. His face had grown dark.  
 
-I stepped forward. The world wavered around me, but I moved anyway. “One more,” I rasped. The mangonel’s crew were gathering themselves, cranking the stiffened mechanism with grim determination. They worked slower now, but they worked still. My shoulder pulsed with every heartbeat, but that familiar, foolish fire inside me flared hotter than the pain. “I’ll get one more shot.”  
+Far across the field, the mangonel stood. Its crew worked on, cranking the mechanism with grim determination. They were too far for our oil to reach, too far for our arrows to find their mark with any certainty.  
 
-I reached for the Wind again, though my mind trembled on the verge of breaking.  
+The ram was broken. But the stones would keep coming.  
 
-Before I could summon it again, Sim’s hand caught my arm.  
+The world wavered around me. My shoulder pulsed with every heartbeat. My vision blurred at the edges. But I pressed my palm flat against the wall once more, reaching for that deep place where stone spoke to stone.  
 
-“No,” he said, his voice sharp and certain. “They’ll keep coming. You’ll burn out too quickly. We need to try something else.”  
+Nothing answered.  
 
-“What else is there?” I rasped. My breath came rough and uneven, tearing at my throat.  
+I reached deeper, but the Name scattered like dust through my fingers. I had asked too much. Taken too much. Stone was patient. Stone was deep. And I had nothing left to give it.  
 
-“You bought us time,” Sim said. “It’s enough for one counterstrike before they gather themselves. Let me figure out the rest.”
-  
-I sagged back against the wall as Sim turned away, his voice rising to call fresh orders to the defenders who still remained. I let my eyes slip half-closed. I was not resting. I was counting heartbeats.  
+I turned my focus downward, reaching for something close. Something already awake and hungry. The flames painting the courtyard spoke to me in their crackling voice, and I knew their name the way you know a song you learned as a child.  
+
+Fire does not need coaxing. Fire only needs permission. I spoke its name, and the flames leapt like hounds released from leash, racing across the field toward the distant siege engine. The mangonel’s crew saw them coming but had no time to run. The fire found the ropes first, those thick hemp lines that held the great arm drawn back. It kissed them. Caressed them. Consumed them.  
+
+The ropes snapped with sounds like bowstrings breaking. The mangonel’s arm lurched, shuddered, then fell slack. The stone rolled free from its cradle, tumbling down to thud against the earth with a sound like a body falling. Dead weight. Useless.  
+
+The mechanism itself groaned as fire climbed its frame, finding footholds in the wooden supports. Smoke rose thick and black. The crew scattered as flames claimed what was left, running from the wreckage of their siege engine.  
+
+They would not return. Not today.  
+
+“Kvothe.” Sim’s voice reached me from somewhere far away.  
+
+I tried to answer, but the words tangled in my throat. My legs buckled. Sim caught me before I hit the floor, lowering me against the wall with surprising gentleness.  
+
+“I’ve got you,” he said quietly.  
 
 Outside, Fascino’s voice cut through the din, smooth as silk, sharp as a blade.  
 
 “Still standing, are you?” he called. “Your tower’s a corpse on its feet. Look around you. Tell me, was this worth it?”  
 
-I gave him no answer. What was the point of trading words with a man who pretended to stand above the ruin when his world was crumbling just like mine?  
-
-Instead, I turned back to the others, the ones preparing for the next assault. Blood had begun to seep through the bandages on my shoulder, slow and steady. My voice, when it came, was soft but certain, meant only for Sim.  
-
-“Whatever you need, I’ll still be here.”  
+I gave him no answer. What was the point of trading words with a man who pretended to stand above the ruin? Instead, I turned back to the others, the ones preparing for the next assault. Blood had begun to seep through the bandages on my shoulder, slow and steady. My voice, when it came, was soft but certain, meant only for Sim. “Whatever you need, I’ll still be here.”  
 
 ### ~ ~ ~
 
