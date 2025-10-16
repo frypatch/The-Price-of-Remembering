@@ -29,7 +29,7 @@ I tried to hide it. Tried to keep my breathing even, to stand without the wall b
 
 I pushed myself away from the wall to prove him wrong. My shoulder answered with a bright knife of pain that turned my vision white at the edges. The world tilted. I caught myself against the stone again, one hand flat against its patient surface while I waited for the brightness to fade. My pride had kept me standing this long, but my body was too broken for it to hold much longer. “Alright.”  
 
-Sim was at my side in a heartbeat. His hand found my good shoulder, and he helped me across the floor to where grain sacks lay stacked against the wall. But when I finally sat, the relief was worth whatever pride I’d lost.  
+Sim was at my side in a heartbeat. His hand found my good shoulder, and he helped me across the floor to where grain sacks lay stacked against the wall. When I finally sat, the relief was worth whatever pride I’d lost.  
 
 We waited there through the long afternoon and into evening. The light changed from gold to amber to ash. No rescue came. The city beyond our walls held its breath and said nothing.  
 
@@ -57,7 +57,7 @@ But perhaps his father had seen something Sim himself had missed. Leaders don’
 
 Dawn came with the beat of drums.  
 
-I pushed myself up from the floor, my shoulder screaming in protest. Sim stood his vigil at the arrow slit. Through the long night he had organized what defense we could manage, positioning the few guards we had, rationing our oil and arrows.  
+I pushed myself up from the floor, my shoulder screaming in protest. Sim stood his vigil at the arrow slit. Through the long night he had organized what defense we could manage, helping each man find where he could fight best, rationing our oil and arrows.  
 
 “They’re moving.” Sim’s voice cut sharp and clear. “Ready yourselves!”  
 
@@ -71,7 +71,7 @@ The ram reached the bridge.
 
 Arrows fell like rain, striking where shields grew thin. Men stumbled, their bodies dragging the great timber sideways for a moment before others stepped forward to take their place. The gate shuddered under the first blow, and I felt it in my bones, in the wound that wept beneath my shirt, in the teeth I clenched against the pain.  
 
-The tower groaned, dust drifting down like snow from stones that had stood for centuries. Each strike of the ram was a fist against my chest, driving breath from my lungs.  
+The tower groaned, dust drifting down from stones that had stood for centuries. Each strike of the ram was a fist against my chest, driving breath from my lungs.  
 
 “Ready the cauldron!” Sim shouted, already moving to help the others wrestle the great pot into position above the gate. His scholar’s hands, more used to holding quills than weapons, gripped the iron without hesitation.  
 
@@ -87,11 +87,11 @@ Then I saw what they were building on the far side of the field. A mangonel.
 
 ### * * *  
 
-The siege engine stood against the morning sky like a monument to our coming destruction. Its arm drew back with the slow certainty of winter approaching, ropes singing their strain-song as they pulled taut. And in my chest, the small flame of hope guttered like a candle in sudden wind.  
+The siege engine stood against the sky like a monument to our coming destruction. Its arm drew back with the slow certainty of winter approaching, ropes singing their strain-song as they pulled taut. And in my chest, the small flame of hope guttered like a candle in sudden wind.  
 
 “We don’t have defenses for this.” The words tasted bitter as they left my mouth. I let my back find the wall again, needing its solidity to keep me upright. Every movement sent fresh lightning through my shoulder, each pulse of pain a reminder of how little I had left to give.  
 
-Wil’s hand found my good shoulder, warm and steady. He said nothing at first, just stood beside me. Sim joined us a moment later. Together we looked out at the mangonel. At the crew working with grim efficiency. At the stone settling into its sling.  
+Wil’s hand found my good shoulder, warm and steady. He said nothing, just stood beside me. Sim joined us a moment later. Together we looked out at the mangonel. At the crew working with grim efficiency. At the stone settling into its sling.  
 
 “I’m sorry,” I said, my voice small and inadequate. “I’m sorry I dragged you into this.”  
 
@@ -111,11 +111,11 @@ Then stillness. Dust hung thick in the air, turning the world gray.
 
 “Wil?” My voice came out hoarse.  
 
-“Here.” Coughing. “Sim?”  
+Coughing answered me first. Then, “Here.”  
 
-“Still breathing.” Sim’s voice, rough with dust. “Kvothe?”  
+“Sim?”  
 
-“Whole.”  
+“Still breathing.” Sim’s voice came rough with dust.  
 
 I pushed myself up on trembling arms. Above us, a ragged hole gaped where ceiling had been. Blue morning light poured through, illuminating the dust that still hung in the air. The edges looked wrong, unstable, like the rest might fall at any moment. Debris littered the floor. The tower had held, but barely.  
 
