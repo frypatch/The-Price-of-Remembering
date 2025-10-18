@@ -5,7 +5,7 @@
 
 SOUR ALE HAD SOAKED so deep into the floorboards that the wood itself seemed drunk. Rancid lamp oil coated the walls, thick and yellow. Bottles lay where they’d fallen, and swords leaned against walls like tired men. I knew this particular neglect. It was the same absence that fills a hearth when the last ember dies and no one reaches for the kindling.  
 
-Sixteen guards filled this room built for forty. Some sat with bottles cradled like infants against their chests. Others stared at nothing with the doomed blindness that comes from years of boredom. They were forgotten men in a forgotten tower, remembered only when the King needed blood.  
+Seven guards filled this room built for twenty. Some sat with bottles cradled like infants against their chests. Others stared at nothing with the doomed blindness that comes from years of boredom. They were forgotten men in a forgotten tower, remembered only when the King needed blood.  
 
 “Ready yourselves!” Roderick’s voice cracked against their indifference like waves against stone. “Get moving! They’ll be at the gates any moment!”  
 
