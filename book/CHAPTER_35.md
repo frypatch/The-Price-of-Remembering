@@ -3,7 +3,21 @@
 ## THE PRICE OF LOYALTY.
 
 
-THE ROPES GROANED as they drew the mangonel’s arm back for another blow. I leaned against the cold stone, my shoulder burning, my breath thin and shallow. Every motion sent a sharpness through me, like broken glass grinding bone to splinters. I wanted to move. I wanted to act. But my body had grown treacherous, trembling beneath the weight of pain and weariness.  
+THE SMOKE STILL ROSE from where the mangonel had been, black and thick against the sky. I leaned against the cold stone, my shoulder burning, my breath shallow. Every motion sent a sharpness through me, like broken glass grinding bone to splinters.  
+
+Below, Fascino’s men dragged timbers from the wreckage, lashing them into ladder frames. Others whirled grappling hooks through the air. And where the mangonel’s stones had torn the parapet, some tested the rubble, seeking holds.  
+
+Sim stood at the top, exposed, his eyes sharp on the broken wall below. He watched them probe the wreckage, testing paths. “There,” he said, pointing to where the mangonel’s blow had carved a rough line upward. “That’s their path. The rest won’t hold.” He gestured to the nearest guard. “Every arrow left. Make them count.”  
+
+The guard nocked his bow.  
+
+Behind them the first hook cleared the wall. Wil pounced, catching it before it could bite. He hurled it back down, chain singing as it fell.  
+
+Another hook struck and held. Wil grabbed his axe, reversed it, brought the hammer poll down. Metal screamed. The third blow shattered the link, and the hook fell with its burden still clinging.  
+
+Fresh soldiers poured into the courtyard. Their armor was unmarked and bright. They had not spent themselves against our oil and arrows. Then Fascino’s voice rang out, cold and hungry. “A barony to the first man who brings me the crown! Land and title for the hand that takes the tower!”  
+
+We had no oil left to pour. Our arrows could be counted on two hands. And I could barely stand.  
 
 Then came the horns.  
 
