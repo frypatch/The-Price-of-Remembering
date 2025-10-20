@@ -13,15 +13,15 @@ The guard nocked his bow.
 
 Behind them the first hook cleared the wall. Wil pounced, catching it before it could bite. He hurled it back down, chain singing as it fell.  
 
-Another hook struck and held. Wil grabbed his axe, reversed it, brought the hammer poll down. Metal screamed. The third blow shattered the link, and the hook fell with its burden still clinging.  
+Another hook struck and held. Wil grabbed his axe, reversed it, and brought the hammer poll down. Sparks flew. Metal rang. By the third blow the link had cracked, and with the fourth the hook fell slack.  
 
-Fresh soldiers poured into the courtyard. Their armor was unmarked and bright. They had not spent themselves against our oil and arrows. Then Fascino’s voice rang out, cold and hungry. “A barony to the first man who brings me the crown! Land and title for the hand that takes the tower!”  
+Down below, fresh soldiers poured into the courtyard, their armor unmarked and bright. They had not spent themselves against our oil and arrows. Then Fascino’s voice rang out, cold and hungry. “A barony to the first man who brings me the crown! Land and title for the hand that takes the tower!”  
 
-We had no oil left to pour. Our arrows could be counted on two hands. And I could barely stand.  
+They were relentless. We had no oil left to pour. They were rested. We could barely stand. They came in waves. Our arrows could be counted on two hands. The math was simple.  
 
 Then came the horns.  
 
-The sound split the air, sharp and cold, rising above the crackle of fire and the cries of the dying. I turned toward the arrow slit, the movement tearing at my wound. Below, the battlefield writhed, a shattered tide of bodies and blood. Fascino’s men, wild in their jeering and slick with slaughter, froze as the sound washed over them.  
+The sound split the air, sharp and cold, rising above the crackle of fire and the cries of the dying. I made it over to the arrow slit, the movement tearing at my wound. Below, the battlefield writhed, a shattered tide of bodies and blood. Fascino’s men, wild in their jeering and hungry for slaughter, froze as the sound washed over them.  
 
 Knights broke through their lines, their armor flashing with sapphire and ivory light. Two banners flew in the vanguard. The first was House Calanthis, red and gold, dragged through the mud and blackened by soot. The second banner twisted my stomach with its weight: sapphire and silver, the sigil of the Maer Alveron.  
 
