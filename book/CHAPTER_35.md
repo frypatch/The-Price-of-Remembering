@@ -11,11 +11,11 @@ Sim stood at the top, exposed, his eyes sharp on the broken wall below. He watch
 
 The guard nocked his bow.  
 
-Behind them the first hook cleared the wall. Wil pounced, catching it before it could bite. He hurled it back down, chain singing as it fell.  
+Behind them the first hook cleared the wall. Wil pounced, catching it before it could bite. He hurled it back down, chain whipping through the air.  
 
 Another hook struck and held. Wil grabbed his axe, reversed it, and brought the hammer poll down. Sparks flew. Metal rang. By the third blow the link had cracked, and with the fourth the hook fell slack.  
 
-Down below, fresh soldiers poured into the courtyard, their armor unmarked and bright. They had not spent themselves against our oil and arrows. Then Fascino’s voice rang out, cold and hungry. “A barony to the first man who brings me the crown! Land and title for the hand that takes the tower!”  
+Down below, fresh soldiers poured into the courtyard, their armor unmarked and bright. They had not spent themselves against our oil and arrows. Then Fascino’s voice rang out. “A barony to the first man who brings me the crown! Land and title for the hand that takes the tower!”  
 
 They were relentless. We had no oil left to pour. They were rested. We could barely stand. They came in waves. Our arrows could be counted on two hands. The math was simple.  
 
@@ -23,7 +23,9 @@ Then came the horns.
 
 The sound split the air, sharp and cold, rising above the crackle of fire and the cries of the dying. I made it over to the arrow slit, the movement tearing at my wound. Below, the battlefield writhed, a shattered tide of bodies and blood. Fascino’s men, wild in their jeering and hungry for slaughter, froze as the sound washed over them.  
 
-Knights broke through their lines, their armor flashing with sapphire and ivory light. Two banners flew in the vanguard. The first was House Calanthis, red and gold, dragged through the mud and blackened by soot. The second banner twisted my stomach with its weight: sapphire and silver, the sigil of the Maer Alveron.  
+Knights broke through their lines, their armor flashing with sapphire and ivory light. Two banners flew in the vanguard. The first was House Calanthis, red and gold, dragged through the mud and blackened by soot. The second bore sapphire and silver, the sigil of the Maer Alveron.  
+
+Relief flooded through my mind. The Maer had a change of heart. Reinforcements had arrived. We were saved.  
 
 I watched as the Maer’s forces carved through Fascino’s ranks, not with fury but with a cold, clean precision. Dagon was there, the Maer’s dark-eyed captain, and his saber sang as it swept through Fascino’s neck. The body crumpled. The head struck the ground. Baron Jakis fled on foot, his fine cloak torn, his hands bloody, his eyes wide with a desperate kind of fear. The Maer followed, not quickly, but with the certainty of a thing that cannot be stopped. His voice rang out, heavy as iron.  
 
@@ -31,7 +33,7 @@ I watched as the Maer’s forces carved through Fascino’s ranks, not with fury
 
 Jakis did not die quickly.  
 
-The room filled with a hollow quiet when the screams ended. It pressed against the walls and settled in our bones. Roderick’s voice cracked into that silence. “Raise the gate!” he called, brittle with hope. His words felt sharp against my skin, wrong in a way I could not name. When the portcullis lurched upward, I heard my own voice rise.  
+The room filled with a hollow quiet when the screams ended. It pressed against the walls and settled in our bones. Roderick’s voice cracked into that silence. “Raise the gate!” he called, brittle with hope. But something about this felt wrong in a way I could not name. When the portcullis lurched upward, I heard my own voice rise.  
 
 “Wait.”  
 
@@ -43,31 +45,25 @@ The boots came first, slow and steady, rising toward us one measured step at a t
 
 ### * * *
 
-Alveron entered with a measured purpose. His knights flowed around him, filling every shadow in the room until there was nowhere left untouched by their presence. The Maer’s expression was cool as an autumn lake. Whatever kindness I had once glimpsed in his sharp features was gone, not hidden but erased, as if it had never been there at all. He carried no pretense of warmth. He had no need.  
+Alveron entered with a measured purpose. His knights flowed around him, filling every shadow in the room until there was nowhere left untouched by their presence. The Maer’s expression was cool as an autumn lake. Whatever kindness I had once glimpsed in his sharp features was gone, replaced by something harder.  
 
 Roderick stumbled forward, his hand outstretched, the silver seal of his house catching a faint sliver of light. “Lerand,” he said, his voice bright with forced delight. “You came. You saved me.”  
 
 Alveron stopped him with a single word. “No.”  
 
-It was not shouted. It did not need to be. The sound of it struck Roderick as if it had been a blade. The Maer’s next words came quieter, but with a certainty that brooked no misunderstanding. “I didn’t come for you.”  
-
 The room pressed close with silence. Only the soft creak of leather stirred the air as Alveron drew his sword. Roderick stood motionless. He had seen his death. The streak of crimson that followed was almost delicate, a thin bloom that traced his throat as his crown toppled free, rolling away as though eager to be rid of him.  
 
 Auri screamed. She broke forward, trembling and desperate.  
 
-“No!” Sim’s voice rang sharp, cutting through the air.  
+I caught her first. My fingers wrapped around her wrist, though they shook as she struggled against me. Sim had stepped forward, his face bloodless but set in iron.  
 
-I caught her first. My fingers wrapped around her wrist, though they shook as she struggled against me. Sim had stepped forward, his face bloodless but set in iron. He grabbed for a weapon, finding a fallen sword. The hilt sat awkwardly in his grip, but his hands did not waver.  
-
-“For all your cleverness,” Alveron said, turning his gaze upon me, “you chose to bind yourself to this drowning wreck of a king. Did you believe you would be spared the harvest of what you have sown?”  
+Alveron’s gaze found me. “Kvothe,” he said, shaking his head. “For all your cleverness, you chose to bind yourself to this drowning wreck of a king.”  
 
 He gave Dagon a nod so slight it could have been mistaken for a breath. The captain lunged. I raised my hand and spoke the Name of Fire, ready for the struggle I had always known it to be. But there was no struggle. What came forth was fury, unchained and wild. It struck Dagon full in the chest, flames twisting around his armor, searing his face until it became a thing unrecognizable. His screams did not sound human.  
 
 But the price was steep. The fire left me hollow. I crumpled against the wall, my breath shuddering in my chest. Dagon, though burning, did not fall.  
 
-### * * *
-
-Sim stepped into the gap before I could move.  
+Sim grabbed a fallen sword. The hilt sat awkwardly in his grip, but his hands did not waver. He stepped into the gap before I could move.  
 
 “Stay back!” he roared, his voice sharp enough to make the air flinch. The knights hesitated. For a breath, I feared he would freeze as well. But then his feet shifted, steady and certain, as though the ground itself had given him leave to stand.  
 
@@ -75,9 +71,9 @@ The Name settled in him. It did not break like thunder, nor did it whisper like 
 
 Iron.  
 
-His focus narrowed into a single, unforgiving point. Sim’s first strike came swift and sure, bending his opponent’s blade as if guided by weight beyond his own strength. He stepped into the arc of the swing, moving with a precision too perfect to be chance, as though another hand steadied his own.  
+His focus narrowed into a single, unforgiving point. Simmon’s first strike came swift and sure, bending his opponent’s blade as if guided by weight beyond his own strength. He stepped into the arc of the swing, moving with a precision too perfect to be chance, as though another hand steadied his own.  
 
-The knights stumbled under Sim’s fury, their iron bowing to his will. He cut through one. Then another. Each step forward stripped the softness from his face, carving it into something harder. With every strike, his shoulders bowed, his limbs trembled, his body burning coin for coin the price his mind demanded.  
+The knights stumbled under Simmon’s fury, their iron bowing to his will. He cut through one. Then another. Each step forward stripped the softness from his face, carving it into something harder. With every strike, his shoulders bowed, his limbs trembled, his body burning coin for coin the price his mind demanded.  
 
 Wil surged to his side, his axe heavy in his hands, cleaving into a knight who dared too close. “Sim!” he bellowed, voice ragged. “Fall back!”  
 
