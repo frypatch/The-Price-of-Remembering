@@ -5,7 +5,7 @@
 
 WITHIN THE HOUR, the screaming began to fade. The clash of steel that had echoed through the citadel grew sporadic, then stopped entirely. In the silence that followed, I heard new sounds rising from below. Footsteps. Voices calling orders across the courtyard.  
 
-I moved to the arrow slit and looked down. Fascino’s men were filtering into the courtyard. Thirty, perhaps. Maybe more. They spread themselves around the tower’s base and stopped. No ladders. No torches. They simply waited.  
+I moved to the arrow slit and looked down. Below, Fascino’s men were filtering in. Thirty, perhaps. Maybe more. They spread themselves around the tower’s base and stopped. No ladders. No torches. They simply waited.  
 
 “We’re trapped, aren’t we?” Sim’s voice came from beside me. Not a question, really. More like the acknowledgment of a truth we both already knew.  
 
@@ -49,7 +49,7 @@ That guard watched for a moment. Then he picked up a jar of his own.
 
 Another guard followed. Then another. The bottles they’d been nursing found the floor. One by one they rose, drawn to someone who refused to surrender when surrender would have been easier. Someone who could have hidden behind his noble name but instead positioned himself at the hardest angles and took on the heaviest loads. As they joined in, he gave no orders. When they looked to him for guidance, he offered it with quiet certainty.  
 
-I watched him work in the dimming light, realizing I had never seen him like this. Gone was my friend who laughed at bad jokes and worried about exams. For years I had wondered why Sim never stepped forward when moments called for leadership. Once, over wine and late-night conversation, he’d told me his father tried to shape him into a commander of men. The Duke of Dalonil had pulled and pushed and molded. Tried and failed, Sim had said, wearing that self-deprecating smile like armor against old wounds. Still, Sim had no hunger for power. No thirst for control. Kind hearts seldom grasped for reins. They knew too well what holding them could cost.  
+I watched him work in the dimming light, realizing I had never seen him like this. Gone was my friend who laughed at bad jokes and worried about exams. For years I had wondered why Sim never stepped forward when moments called for leadership. Once, over wine and late-night conversation, he’d told me his father tried to shape him into a commander of men. The Duke of Dalonil had pulled and pushed and molded. “Tried and failed,” Sim had said, wearing that self-deprecating smile like armor against old wounds. Still, Sim had no hunger for power. No thirst for control. Kind hearts seldom grasped for reins. They knew too well what holding them could cost.  
 
 But perhaps his father had seen something Sim himself had missed. Leaders don’t always grow from ambition’s seed. Sometimes they grow from necessity, watered with the knowledge that someone has to stand when all others have fallen.  
 
@@ -165,7 +165,7 @@ I stopped reaching for the Wind and listened instead. The wall sang its slow son
 
 The flying stone split.  
 
-Not shattered. Not broken. It came apart along the lines written into it when it was still part of the mountain, when it knew itself as two pieces waiting to be divided. Both halves wheeled wide, spinning away from the tower. One crashed into the citadel’s eastern wall with a sound like thunder. The other struck west, tearing through parapet and merlon.  
+A clean break. It came apart along the lines written into it when it was still part of the mountain, when it knew itself as two pieces waiting to be divided. Both halves wheeled wide, spinning away from the tower. One crashed into the citadel’s eastern wall with a sound like thunder. The other struck west, tearing through parapet and merlon.  
 
 But the tower stood. Untouched.  
 
