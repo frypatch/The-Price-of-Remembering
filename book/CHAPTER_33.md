@@ -27,13 +27,13 @@ She nodded and pressed the cloth between my teeth, her touch gentle as always. �
 
 I turned to Sim and Wil. “Sim, hold it steady. Wil.” I met his eyes. “Quick and clean.”  
 
-Wil positioned his hands, grip firm. “Quick I can manage,” he muttered. “Clean is another matter.”  
+“Quick I can manage,” he said, positioning his hands in a firm grip. “But clean is another matter.”  
 
 I braced myself. Nodded once.  
 
 Wil snapped the bolt. Pain came white and sharp, scattering thought into fragments. I felt Auri’s small hands steady against my shoulder. The broken shaft scraped past bone and muscle, a long moment of white fire before it emerged from my back. Then her touch again, gentle but certain, pressing cloth against both wounds.  
 
-When the white faded from my vision, she was bent close, examining what the bolt had left behind. Her fingers worked with gentle precision, but I felt the scrape of something against my raw flesh. She made a soft sound, troubled. Her fingertips came away gritty.  
+When the white faded from my vision, she was bent close, examining what the bolt had left behind. Her fingers worked with gentle precision, but I felt something grate against my raw flesh. She made a soft sound, troubled. Her fingertips came away gritty.  
 
 “Stone dust,” I said, understanding. “From the ricochet.”  
 
