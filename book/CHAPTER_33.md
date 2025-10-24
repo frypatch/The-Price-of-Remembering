@@ -15,11 +15,11 @@ But the words failed, as they always do when a man tries to command the loyalty 
 
 I looked down at the crossbow bolt jutting from my shoulder. A length of blackened oak, its shaft split and splintered. I could feel the weight of it, the pressure at my back where the tip had lodged. “I did,” I said, my voice tight with pain. “Tricked a porcupine out of it. Though I’m afraid I’ve stained it red.”  
 
-“That happens sometimes,” Auri said, her whimsy fading as she took my arm with surprising firmness. “Sit here. We’ll make it proper again.”  
+“That happens sometimes,” Auri said, taking my arm with surprising firmness. “Sit here. We’ll make it proper again.”  
 
 Sim moved closer, studying the wound for the first time since we stopped running. “Merciful Tehlu,” he gasped. “That looks awful.”  
 
-Auri paid him no mind. She tore a strip from her sleeve with unexpected efficiency and set it aside. Her fingers traced the splintered shaft, testing its stability. She looked up at me, her eyes worried. “It kissed the stone too hard,” she whispered. “Broke itself trying. Won’t come out whole.”  
+Auri paid him no mind. She tore a strip from her sleeve with unexpected efficiency and set it aside. Her fingers traced the splintered shaft, testing how it held. She looked up at me, her eyes worried. “It kissed the stone too hard,” she whispered. “Broke itself trying. Won’t come out whole.”  
 
 Wil’s eyes traced the bolt’s length. “The fletching’s in the way.”  
 
@@ -33,7 +33,7 @@ I braced myself. Nodded once.
 
 Wil snapped the bolt. Pain came white and sharp, scattering thought into fragments. I felt Auri’s small hands steady against my shoulder. The broken shaft scraped past bone and muscle, a long moment of white fire before it emerged from my back. Then her touch again, gentle but certain, pressing cloth against both wounds.  
 
-When the white faded from my vision, she was bent close, examining what the bolt had left behind. Her fingers worked with gentle precision, but I felt something grate against my raw flesh. She made a soft sound, troubled. Her fingertips came away gritty.  
+When the white faded from my vision, she was bent close, examining what the bolt had left behind. Her fingers worked with gentle precision, but I felt something grate against my raw flesh. She made a soft, troubled sound. Her fingertips came away gritty.  
 
 “Stone dust,” I said, understanding. “From the ricochet.”  
 
@@ -43,7 +43,7 @@ She nodded, still focused entirely on the wound. “Bits that don’t belong,”
 
 I looked down at Auri’s careful work. “Bad enough.”  
 
-Each bit of debris she drew free brought a small star of pain. Gasps broke from me, unbidden, but Auri never wavered. I had never seen such steadiness in her hands, had never witnessed such quiet certainty. Had she studied at the Medica? No. I would have known. Wouldn’t I?  
+Each bit of debris she drew free brought a small star of pain. Gasps broke from me, unbidden, but Auri never wavered. I had never seen such steadiness in her hands, had never witnessed such certainty. Had she studied at the Medica? No. I would have known. Wouldn’t I?  
 
 When she finished, she tied the last bandage with a knot that would hold but not bind. She looked up at me with those wide eyes. “The red’s stopped running away now,” she said softly.  
 
