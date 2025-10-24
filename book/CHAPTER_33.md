@@ -53,7 +53,7 @@ As Roderick watched her, something moved across his face. Pride and guilt twiste
 
 Auri’s eyes lifted to his. Just for a breath. Just long enough for him to see what lived there before she looked away. “Of course,” she said softly.  
 
-The King opened his mouth, closed it, and turned away. His jaw worked as if chewing words too bitter to swallow.  
+The King opened his mouth, closed it, and turned away. The weight of all those lost years settled onto his shoulders.  
 
 ### ~ ~ ~
 
