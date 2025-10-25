@@ -41,9 +41,9 @@ But no one waited.
 
 The boots came first, slow and steady, rising toward us one measured step at a time.  
 
-Alveron entered with a measured purpose. His knights flowed around him, filling every shadow in the room until there was nowhere left untouched by their presence. The Maer’s expression was empty. Whatever kindness I had once glimpsed in his sharp features was gone, replaced by something harder.  
+Alveron entered, his knights flowing in behind him, filling every shadow in the room until none were left untouched. The Maer wore the calm that no man should carry with bloodshed. Whatever kindness I had once glimpsed in his sharp features had been scoured away, leaving only purpose.  
 
-Roderick stumbled forward, his hand outstretched, the silver seal of his house catching a faint sliver of light. “Lerand,” he said, his voice bright with forced delight. “You came. You saved me.”  
+Roderick stumbled forward, his hand outstretched, the silver seal of his house catching a faint sliver of light. “Lerand,” he said, his voice breaking with relief. “You came. You saved me.”  
 
 Alveron stopped him with a single word. “No.”  
 
@@ -51,45 +51,29 @@ The room pressed close with silence. Only the soft creak of leather stirred the 
 
 Auri screamed. She broke forward, trembling and desperate.  
 
-My body moved before my mind could think. My hand shot out and caught her wrist. Pain bloomed white and hot through my wounded shoulder, tearing loose some of Auri’s careful stitches. Something gave way deep in the socket, and a scream tore from my chest. My arm fell limp.  
+My body moved before my mind could think. My hand shot out and caught her wrist. Pain bloomed white and hot through my wounded shoulder, tearing loose some of Auri’s careful stitches. Something gave way deep in the socket, and a gasp caught in my chest. My arm fell limp.  
 
-Auri froze. Her eyes found my arm hanging useless at my side. Her face went from grief to horror in the space between heartbeats.  
-
-“No,” she whispered. “No, no.” Her small hands came up to touch my shoulder, gentle as moth wings. “You’ve broken what I made proper.”  
-
-“It’s fine,” I managed, though my voice shook. The pain sang through me in waves.  
-
-“It’s not.” Her fingers probed the wound with practiced certainty even as tears carved clean lines through the dust on her face. “The stitches have run away. And the pieces inside.” She made a sound like something vital breaking. “They were all lined up so nicely.”  
+Auri froze and stared at the blood spreading through my shirt. Her face went from grief to recognition to horror in the space between heartbeats. “No,” she whispered. “No, no.” Her small hands fluttered to my shoulder. “You’ve broken what I made proper.” Her fingers probed the wound with practiced certainty even as tears carved clean lines through the dust on her face. “The stitches have run away. And the pieces inside. They were all lined up so nicely.”  
 
 Alveron’s gaze followed Auri’s voice and found me. “Kvothe,” he said, shaking his head. “For all your cleverness, you chose to bind yourself to this drowning wreck of a king.”  
 
 He gave Dagon a nod so slight it could have been mistaken for a breath.  
 
-Wil stepped forward before anyone could think. His axe was already in his hands, and he placed himself between us and the tide like a wall made of flesh and fury.  
+Before anyone could think, Wil stepped forward. Axe in hand, he placed himself between us and the tide like a wall made of flesh and fury. At Dagon’s command they surged forward, and Wil answered with a wordless sound that shook the air. His axe bit deep into the first knight. Then the second. He fought like a man who knew his ending and walked toward it with open eyes.  
 
-“Stay back!” he roared, his voice sharp enough to make the air flinch.  
+The guards saw him fighting. Something broke in them then. Not courage exactly. But the same understanding that death was coming whether they fought or cowered, and at least fighting meant they could choose how they met it.  
 
-Dagon waved them forward.  
+A guard to Wil’s left drove his blade through a knight’s neck. Another blocked a strike meant for Wil’s blind side. Sim grabbed a fallen sword, his grip awkward, and held himself at the edges with the clumsy terror of a man who had never wanted to hold a sword. Men grunted and cursed and bled.  
 
-Wil met them with a wordless sound that shook the air. His axe bit deep into the first knight. Then the second. He fought like a man who knew his ending and walked toward it with open eyes.  
+Too many blades found Wil, piercing from every side. He fell beneath them, his body folding to the floor like a toppled stone.  
 
-The guards saw him fighting. Saw one man standing against a tide. Something broke in them then. Not courage exactly. But the understanding that death was coming whether they fought or cowered, and at least fighting meant they could choose how they met it.  
-
-They surged forward with voices raw and ragged. Steel met steel. The world became screaming chaos.  
-
-A guard to Wil’s left drove his blade through a knight’s neck. Another blocked a strike meant for Wil’s blind side. Sim grabbed a fallen sword, his grip awkward, and threw himself into the press of bodies. Men grunted and cursed and bled.  
-
-Too many blades found Wil, piercing from every side. He fell beneath them, his body folding to the earth like a toppled stone.  
-
-The guards fought on. One fell. Then another. They died buying moments with their blood. Precious moments.  
-
-Sim stood in the chaos with his borrowed blade. He swung with the clumsy terror of a man who had never wanted to hold a sword. The knights pressed forward. Death came wearing steel and certainty.  
+The guards fought on. One fell. Then another. They died buying moments with their blood. Precious moments. And as they fell, the chaos pulled Sim deeper. The knights pressed forward. Death came wearing steel and certainty.  
 
 Then something changed.  
 
 The Name settled in him like a key finding its lock. It did not break like thunder, nor did it whisper like a secret. But there was a change in how he gripped the blade. A quiet truth. As though the sword had always known his hand.  
 
-Iron.  
+“Feralthalien.”  
 
 His next strike came swift and sure, bending his opponent’s blade as if guided by weight beyond his own strength. The knights stumbled under his fury, their iron bowing to his will. He cut through one. Then another. Each step forward stripped the softness from his face, carving it into something harder.  
 
@@ -101,11 +85,9 @@ I reached then with naked desperation. I begged the Wind. I begged Tehlu. I begg
 
 But the captain’s blade was already moving. It slid into Sim, cutting deep. The sound was soft and awful. Like something vital giving way.  
 
-Sim turned toward me as he fell, eyes wide and wild, lips moving in a soundless plea. The Wind had already come, and it swallowed whatever word he meant to give me.  
+Sim turned toward me as he fell, eyes wide and wild, lips struggling to form words. But the Wind had already come, and it swallowed up whatever he meant to give me. Then it tore through the room like a thing gone mad. Knights lifted from their feet and struck stone with sounds like breaking branches. Dagon stumbled backward, his boots scraping, but somehow kept his footing against the gale.  
 
-It tore through the room like a thing gone mad. Knights lifted from their feet and struck stone with sounds like breaking branches. Dagon stumbled backward, his boots scraping, but somehow kept his footing against the gale.  
-
-The storm faltered only when I did. My legs tangled beneath me, my Alar splintered from within, no longer able to bear its own weight. I never saw Dagon’s lunge. His saber found my chest before my eyes could follow. My breath left me in a soundless gasp. That gasp was all I had left.  
+The storm faltered only when I did. My legs tangled beneath me, my Alar splintered from within. I never saw Dagon’s lunge. His saber found my chest before my eyes could follow. My breath left me in a soundless gasp. That gasp was all I had left.  
 
 But in the hollow of my ear, Auri’s voice whispered, faint and fragile. “Kvothe, live. Please.”  
 
