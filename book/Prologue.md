@@ -7,7 +7,7 @@ NIGHT HAD SETTLED OVER Newarre, and the Waystone Inn lay in silence, a silence o
 
 The first was an absence, hollow and wide. Doors stayed shut. Windows slept dark. No crackle of kindling stirred hearths, no footsteps brushed dew from the grass. If there had been music, there would have been some measure of comfort. But, there was no music. And so the silence lingered, caught in the spaces where life could have been.
 
-In the inn’s basement, the second silence curled sharp and anxious. Coals in a small forge glowed faintly, their heat fading into whispers of orange light. Tools lay scattered on a workbench, the tongs still tipped with blackened soot and the copper chisel tarnished green. Nearby, acid stained the stone. It hissed as it ate its way inward. Its soft and steady whisper adding tension to the stillness. This wasn't the silence of peace. This was the silence of effort begun and abandoned.
+In the inn’s basement, the second silence curled sharp and anxious. Coals in a small forge glowed faintly, their heat fading into whispers of orange light. Tools lay scattered on a workbench, the tongs still tipped with blackened soot and the copper chisel tarnished green. Nearby, acid stained the stone. It hissed as it ate its way inward, its soft whisper adding tension to the stillness. This wasn't the silence of peace. This was the silence of effort begun and abandoned.
 
 The third silence wrapped around the inn itself, heavy and unmoving. It crept into the locks that were turned tight and lingered in stones that drank more sound than they should. Upstairs, it burdened the man who slowly undressed by the dim light of a single candle.
 
