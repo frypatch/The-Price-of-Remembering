@@ -5,7 +5,7 @@
 
 THE SMOKE STILL ROSE from where the mangonel had been, black and thick against the sky. I leaned against the cold stone, my shoulder burning, my breath shallow. Every motion sent a sharpness through me, like broken glass grinding bone to splinters.  
 
-Below, Fascino’s men dragged timbers from the wreckage, lashing them into ladder frames. Others whirled grappling hooks through the air. And where the mangonel’s stones had torn the parapet, some tested the rubble, seeking holds.  
+Below, Fascino’s men dragged timbers from the wreckage, lashing them into ladder frames. Others whirled grappling hooks through the air. And where the mangonel’s stone had torn the inner parapet, some tested the rubble, seeking holds.  
 
 Sim stood at the top, exposed, his eyes sharp on the broken wall below. He watched them probe the wreckage, testing paths. “There,” he said, pointing to where the mangonel’s blow had carved a rough line upward. “That’s the only path up.” He gestured to the nearest guard. “If anyone makes it past that point, drop them. Make every arrow count.”  
 
@@ -90,6 +90,8 @@ Sim turned toward me as he fell, eyes wide and wild, lips struggling to form wor
 The storm faltered only when I did. My legs tangled beneath me, my Alar splintered from within. I never saw Dagon’s lunge. His saber found my chest before my eyes could follow. My breath left me in a soundless gasp. That gasp was all I had left.  
 
 But in the hollow of my ear, Auri’s voice whispered, faint and fragile. “Kvothe, live. Please.”  
+
+The world tilted. My feet found the edge where the parapet had been. Where stone ended and sky began. The doorway that once led to the outer wall now opened onto nothing. A mouth gaping over the abyss. My balance fled. The tower released me like a secret it could no longer hold.  
 
 And then, as I fell, the Wind was the only thing that remained.  
 
