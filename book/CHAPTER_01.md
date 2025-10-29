@@ -3,43 +3,39 @@
 ## THE WEIGHT OF SILENCE.
 
 
-MORNING CREPT INTO THE Waystone Inn. It did not rush. It came on quiet feet, as if ashamed to wake what darkness might still be dreaming. It pooled in the corners, gathered where the stones cracked, and settled into the bones where aches begin.
+MORNING CREPT INTO THE Waystone Inn. It did not rush. It came on quiet feet, as if ashamed to wake what darkness might still be dreaming. It pooled in the corners, gathered where the stones cracked, and settled into the bones where aches begin.  
 
-The red-haired innkeeper lay still, counting his breaths. A pain pulsed through his ribs, waiting for movement before deciding if it was real. Deeper, joints murmured their old complaints, and not all their muttering was from yesterday’s beating. He had been many things in his life, quick and clever and more, but today he was simply sore.
+The red-haired innkeeper lay still, counting his breaths. A pain pulsed through his ribs, waiting for movement before deciding if it was real. Deeper, joints murmured their old complaints, and not all their muttering was from yesterday’s beating. He had been many things in his life, quick and clever and more, but today he was simply sore.  
 
-Yesterday, he’d run on borrowed strength. He'd swept the floor and served supper on the back of adrenaline. For Bast. For Chronicler. For the memory of himself. But stamina keeps its own ledger, and the reckoning always arrives.
+Yesterday, he’d run on borrowed strength. He’d swept the floor and served supper on the back of adrenaline. For Bast. For Chronicler. For the memory of himself. But stamina keeps its own ledger, and the reckoning always arrives. And so pain greeted him now with the familiar patience of an old collector. Cruel. Exacting. Thorough.  
 
-And so pain greeted him now with the familiar patience of an old collector. Cruel. Exacting. Thorough. 
+He tried to rise. His arms pushed and his muscles trembled. But his body failed, graceless and heavy. No one watches a man fail in private. That’s what makes it real.  
 
-He tried to rise, but failed. It was not the dramatic collapse of a stage tragedy, nor a fall worth laughter. Instead, it was graceless and heavy. No one watches a man fail in private. That’s what makes it real.
+He sneezed. Last night’s coalsmoke still hung in the air, a bitter tang of scorched cloth that scratched at his lungs. Harsh as iron. Familiar as folly. He breathed. Gritted his teeth. Tried again.  
 
-He sneezed. The smoke from last night lingered, a bitter tang of scorched cloth and coal that scratched at his lungs. Coalsmoke is not like woodsmoke, not warm, not gentle. It is something harsher. Bitter as iron. Familiar as folly.
+This time, he made it. No grace, no heroics. Just a small success carved inch by painful inch. He moved like a man playing through a part once memorized. Sit. Wait. Stand. Wait again.  
 
-He breathed. Gritted his teeth. Tried again.
+As he passed the foot of the bed, his eyes dropped almost thoughtlessly to the floor. To the space once occupied by his thrice-locked chest. It was gone now. He knew it was gone. He’d moved it himself.  
 
-This time, he made it. No grace, no heroics. Just a small success carved inch by painful inch. He moved like a man playing through a part once memorized. Sit. Wait. Stand. Wait again.
+But the space stared back at him.  
 
-As he passed the foot of the bed, his eyes dropped almost thoughtlessly to the floor. To the space once occupied by his thrice-locked chest. It was gone now. He knew it was gone. He’d moved it himself.
+That was the cruelty of absence. How it left certain corners more full than any presence ever could. The floorboards beneath were paler, the grain untouched, unmarred. The quiet witness to years of weight now removed.  
 
-But the space stared back at him.
+There were grooves too, faint scars where Roah wood had kissed the floor overlong. They’d fade in time. Just like everything else.  
 
-That was the cruelty of absence. How it left certain corners more full than any presence ever could. The floorboards beneath were paler, the grain untouched, unmarred. The quiet witness to years of weight now removed.
+He sneezed again. The air caught. His back popped twice.  
 
-There were grooves too, faint scars where Roah wood had kissed the floor overlong. They’d fade in time. Just like everything else.
+Stupid.  
 
-He sneezed again. The air caught. His back popped twice.
+He remembered how he’d hurt it earlier in the predawn hours, foolish and fevered from insomnia. Too proud for patience, too tired for care. He’d dropped his walking stick under the chest and levered it an inch at a time, breath hitching all the while. Then, after he’d braced the trapdoor open, he nudged the chest until it dropped. Just like that. A clean, heavy fall into the cellar yawning beneath.  
 
-Stupid.
+The sound should’ve thundered, but it didn’t. The Waystone swallowed it whole. It ate noise the way stone eats heat. What should have been a crash became something worse. A silence too deep to echo.  
 
-He remembered how he’d hurt it earlier in the predawn hours, foolish and fevered from insomnia. Too proud for patience, too tired for care. He’d dropped his walking stick under the chest and levered it an inch at a time, breath hitching all the while. Then, after he'd braced the trapdoor open, he nudged the chest until it dropped. Just like that. A clean, heavy fall into the cellar yawning beneath.
+He’d stared after it for a time before following. Listening for anything. Waiting, maybe, for something to answer back. But the dark only answered with more dark.  
 
-The sound should’ve thundered, but it didn’t. The Waystone swallowed it whole. It ate noise the way stone eats heat. What should have been a crash became something worse. A silence too deep to echo.
+The dawn had been near when he crawled out again. He had been empty in the way that wasn’t hunger. Tired in the way that sleep couldn’t cure.  
 
-He’d stared after it for a time before following. Listening for anything. Waiting, maybe, for something to answer back. But the dark only answered with more dark.
-
-The dawn had been near when he crawled out again. Empty in the way that isn’t hunger. Hollow in the way a bell is hollow when it forgets how to sing.
-
-Another ache surfaced. Not sharp, merely insistent. Pain can be set aside. Regret will wait its turn. But nature, blunt and honest, will not be bargained with. There are some indignities a man cannot debate. 
+Another ache surfaced. Not sharp, merely insistent. Pain can be set aside. Regret will wait its turn. But nature, blunt and honest, will not be bargained with. There are some indignities a man cannot debate.  
 
 ### * * *
 
