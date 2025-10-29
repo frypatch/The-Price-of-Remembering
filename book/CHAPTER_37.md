@@ -5,7 +5,7 @@
 
 I FELL.  
 
-The world came undone in that breathless moment. Wind sang its terrible song against my ears while the white walls of the Citadel blurred to nothing more than a chalk smear above me. The mangonel’s wound gaped down like the hollow socket of a dead god’s eye. Below waited the city with its cobblestone teeth and rooftop bones. The ground promised itself to me with the certainty of stone and the patience of gravity.  
+The world came undone in that breathless moment. Wind sang its terrible song against my ears while the white walls of the Citadel blurred to nothing more than a chalk smear above me. The tower’s wound gaped down like the hollow socket of a dead god’s eye. But I was already beyond it. Beyond the courtyard where Fascino’s men might have caught me. I was falling instead down the sheer face where the outer wall met only air and appetite. Below waited not the cobblestones of the courtyard but the city with its distant rooftop bones.  
 
 Wind tore at me then. It pulled at my clothes with angry fingers and tangled itself in my hair like a scorned lover. My ribs sang their own broken song with each breath I stole from the rushing air. Pain had a voice and it was screaming.  
 

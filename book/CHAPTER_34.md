@@ -3,9 +3,11 @@
 ## COMMAND IN THE CHAOS
 
 
-WITHIN THE HOUR, the screaming began to fade. The clash of steel that had echoed through the citadel grew sporadic, then stopped entirely. In the silence that followed, I heard new sounds rising from below. Footsteps. Voices calling orders across the courtyard.  
+WITHIN THE HOUR, the screaming began to fade. The clash of steel that had echoed through the citadel grew sporadic, then stopped entirely. In the silence that followed, I heard new sounds rising from below. Footsteps. Voices carrying orders.  
 
-I moved to the arrow slit and looked down. Below, Fascino’s men were filtering in. Thirty, perhaps. Maybe more. They spread themselves around the tower’s base and stopped. No ladders. No torches. They simply waited.  
+Looking around, I saw that the tower itself hung like a stone fist thrust from the citadel’s outer wall. Two parapets bound it to the ramparts. One stretched east along the cliff’s edge. Another ran west where the wall curved back toward the courtyard. A third reached inward to kiss the inner wall. Below the eastern parapet there was nothing but air and appetite. A drop so clean and terrible that fog could drift below us.  
+
+I moved to an arrow slit for a better view. Below the western parapet lay the courtyard where Fascino’s men now filtered in. Thirty, perhaps. Maybe more. They spread themselves around the tower’s base and stopped. No ladders. No torches. They simply waited.  
 
 “We’re trapped, aren’t we?” Sim’s voice came from beside me. Not a question, really. More like the acknowledgment of a truth we both already knew.  
 
@@ -17,7 +19,7 @@ Behind us, Roderick’s breathing had gone quick and shallow. “Lugosi will com
 
 Wilem muttered a curse. Sim glanced at him but said nothing, his fingers tracing the worn stone of the window frame. Then he turned to one of the guards who had managed to stay sober enough to stand. “What do we have left?”  
 
-The man’s shrug carried the weight of a hundred disappointed mornings. “Oil. Pitch. Some gear upstairs.” He paused, his eyes drifting to the stones beneath our feet. “Like you said, no tunnels out.”  
+The man's shrug carried the weight of a hundred disappointed mornings. "Oil. Pitch. Some gear upstairs." He paused, his eyes drifting to the stones beneath our feet. "But like you guessed, no tunnels out."  
 
 Sim nodded slowly, taking in what little we had to work with. Then his attention shifted, settling on me where I leaned against the wall.  
 
@@ -165,11 +167,11 @@ I stopped reaching for the Wind and listened instead. The wall sang its slow son
 
 The flying stone split.  
 
-A clean break. It came apart along the lines written into it when it was still part of the mountain, when it knew itself as two pieces waiting to be divided. Both halves wheeled wide, spinning away from the tower. One crashed into the citadel’s eastern wall with a sound like thunder. The other struck west, tearing through parapet and merlon.  
+A clean break. It came apart along the lines written into it when it was still part of the mountain, when it knew itself as two pieces waiting to be divided. Both halves wheeled wide, spinning away from the tower. One crashed into the citadel’s inner wall with a sound like thunder. It tore through the parapet that bound us to the citadel’s heart. The other struck where the tower joined the outer wall, tearing through parapet and merlon until half the walkway simply ceased to be. Stone slid down the cliff face in a cascade that ended in silence.  
 
-But the tower stood. Untouched.  
+But the tower stood.  
 
-I sagged against the wall, my legs gone to water, my shoulder screaming. Through blurring vision I saw what we had become. The tower stood alone now, a peninsula of stone reaching out into empty air. Behind us, the parapet was all that bound us to the citadel wall. But on every other side, nothing. Just the long drop to the courtyard below and the wreckage we had made.  
+I sagged against the wall, my legs gone to water, my shoulder screaming. Through blurring vision I saw what we had become. The tower stood alone now. A peninsula of stone reaching out into empty air. Behind us, only the eastern parapet still bound us to the citadel wall. That narrow bridge along the cliff’s edge was our only tether to the world. On every other side there was nothing. Just the long drop to the courtyard below or the longer drop to death.  
 
 Sim was at my side again. His hand found my arm. He said nothing, but his grip was sure.  
 
