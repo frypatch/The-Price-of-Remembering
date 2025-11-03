@@ -3,17 +3,17 @@
 ## THE FRAGILE WEIGHT OF PEACE.
 
 
-FOR THE FIRST TIME since the road swallowed up my family and spat me back into its dust, I found peace. Not the brittle kind that vanishes with the slightest breath, but something richer and heavier. The Maer's coin had loosened the tight, strangling fingers of debt around my throat. My deal with Riem had let me breathe easier still. Together, they made the world feel almost manageable.  
+FOR THE FIRST TIME since the road swallowed up my family and spat me back into its dust, I found peace. Not the brittle kind that vanishes with the slightest breath, but something richer and heavier. The Maer’s coin had loosened the tight, strangling fingers of debt around my throat. My deal with Riem had let me breathe easier still. Together, they made the world feel almost manageable.  
 
 This is what peace looked like. Mornings heavy with the scent of ink and parchment. Afternoons caught in tangled chords and experimental rhythms. Evenings thick with honey-gold light and silken laughter. I studied. I played music that made the heart rise and falter. I charmed women whose fire matched my own. Time stretched before me like an open road, and I walked it without watching where I stepped.  
 
-But I was young, and youth burns like kindling. It does not count the cost or measure what it spends. I thought myself clever, brilliant even. I believed that I could shape the world to my will, one turn of brass and one twist of wire at a time. And that unbridled confidence, as with so many stories, is how "The Stainless" was born.  
+But I was young, and youth burns like kindling. It does not count the cost or measure what it spends. I thought myself clever, brilliant even. I believed that I could shape the world to my will, one turn of brass and one twist of wire at a time. And that unbridled confidence, as with so many stories, is how “The Stainless” was born.  
 
 ### * * *
 
-It was summer, and Kilvin's workshop buzzed like a hive. Gears ticked, water bubbled, and the air swam with the tang of hot copper and grease. I was hunched over a delicate spring mechanism at my station, sweat beading on my neck. My fingers toyed with a coil of tempered brass, its bright sheen mocking me with each defiant snap.  
+It was summer, and Kilvin’s workshop buzzed like a hive. Gears ticked, water bubbled, and the air swam with the tang of hot copper and grease. I was hunched over a delicate spring mechanism at my station, sweat beading on my neck. My fingers toyed with a coil of tempered brass, its bright sheen mocking me with each defiant snap.  
 
-"If I could," I muttered, then caught myself. My lips pursed as if that would hold back the frustrated edge in my voice. My hands shifted to my notebook, and I scrawled furiously across the page.  
+“If I could,” I muttered, then caught myself. My lips pursed as if that would hold back the frustrated edge in my voice. My hands shifted to my notebook, and I scrawled furiously across the page.  
 
 > “Bend just enough, like a reed.”  
 > “Snaps back hard. How to temper its force?”  
@@ -22,7 +22,7 @@ It was summer, and Kilvin's workshop buzzed like a hive. Gears ticked, water bub
 
 Day after day, I chased the idea around in circles. My peers came and went. They quenched iron in oil and coaxed light from reluctant sympathy lamps. They watched the mechanisms fail on my table, but no one lingered, and I preferred it that way.  
 
-It took weeks, the kind of weeks that dissolve all thought of food or rest. But when I worked the last refinement true, when I had closed the last tolerance to less than a hair's width, the design sang through me. "The Stainless." The device consisted of an elegant coil combined with a tempered brass surface that bent to punishment. Then, a collection of garnets smoothed gears that safely metered back the resulting force.  
+It took weeks, the kind of weeks that dissolve all thought of food or rest. But when I worked the last refinement true, when I had closed the last tolerance to less than a hair’s width, the design sang through me. “The Stainless.” The device consisted of an elegant coil combined with a tempered brass surface that bent to punishment. Then, a collection of garnets smoothed gears that safely metered back the resulting force.  
 
 Its purpose? Nothing profound. Just to endure.  
 
