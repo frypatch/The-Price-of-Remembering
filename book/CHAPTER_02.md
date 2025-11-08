@@ -3,9 +3,9 @@
 ## THE FRAGILE WEIGHT OF PEACE.
 
 
-FOR THE FIRST TIME since the road swallowed up my family and spat me back into its dust, I found peace. Not the brittle kind that vanishes with the slightest breath, but something richer and heavier. The Maer’s coin had loosened the tight, strangling fingers of debt around my throat. My deal with Riem had let me breathe easier still. Together, they made the world feel almost manageable.  
+FOR THE FIRST TIME since my family was murdered, I found peace. Not the kind a summer shower could wash away, but something richer and heavier. The Maer’s coin had loosened the strangling fingers of debt around my throat. My deal with Riem had let me breathe easier still. Together, they made the world feel almost manageable.  
 
-This is what peace looked like. Mornings heavy with the scent of ink and parchment. Afternoons caught in tangled chords and experimental rhythms. Evenings thick with honey-gold light and silken laughter. I studied. I played music that made the heart rise and falter. I charmed women whose fire matched my own. Time stretched before me like an open road, and I walked it without watching where I stepped.  
+This is what peace looked like. Mornings heavy with the scent of ink and parchment. Afternoons filled with tangled chords and experimental rhythms. Evenings thick with honey-gold light and silken laughter. I studied. I played music that made the heart rise and falter. I charmed women whose fire matched my own. Time stretched before me like an open road, and I walked it without watching where I stepped.  
 
 But I was young, and youth burns like kindling. It does not count the cost or measure what it spends. I thought myself clever, brilliant even. I believed that I could shape the world to my will, one turn of brass and one twist of wire at a time. And that unbridled confidence, as with so many stories, is how “The Stainless” was born.  
 
@@ -13,44 +13,42 @@ But I was young, and youth burns like kindling. It does not count the cost or me
 
 It was summer, and Kilvin’s workshop buzzed like a hive. Gears ticked, water bubbled, and the air swam with the tang of hot copper and grease. I was hunched over a delicate spring mechanism at my station, sweat beading on my neck. My fingers toyed with a coil of tempered brass, its bright sheen mocking me with each defiant snap.  
 
-“If I could,” I muttered, then caught myself. My lips pursed as if that would hold back the frustrated edge in my voice. My hands shifted to my notebook, and I scrawled furiously across the page.  
+“If I could,” I muttered, then caught myself. My lips pursed as if they could hold back the frustrated edge in my voice. My hands shifted to my notebook, and I scrawled furiously across the page.  
 
-> “Bend just enough, like a reed.”  
-> “Snaps back hard. How to temper its force?”  
-> “Needs better mounting.”  
+> “Single coil: too stiff, hard to temper.”  
+> “Snaps back hard. How to dampen its force?”  
 > “Wears out too fast.”  
+> “But how to keep costs down?”  
 
 Day after day, I chased the idea around in circles. My peers came and went. They quenched iron in oil and coaxed light from reluctant sympathy lamps. They watched the mechanisms fail on my table, but no one lingered, and I preferred it that way.  
 
-It took weeks, the kind of weeks that dissolve all thought of food or rest. But when I worked the last refinement true, when I had closed the last tolerance to less than a hair’s width, the design sang through me. “The Stainless.” The device consisted of an elegant coil combined with a tempered brass surface that bent to punishment. Then, a collection of garnets smoothed gears that safely metered back the resulting force.  
+It took weeks, the kind of weeks that dissolve all thought of food or rest. But when I worked the last refinement true, when I had closed the last tolerance to less than a hair’s width, the design sang through me. “The Stainless.” A device that married a series of elegant coils to a tempered brass plate that bent to punishment. Within, a collection of garnets smoothed gears that safely metered back the resulting force.  
 
 Its purpose? Nothing profound. Just to endure.  
 
-It became a small wonder at the University. Students tested its limits with glee, finding it all but unbreakable. My first demonstration of it drew a dry laugh from Kilvin as he watched it with what I mistook for simple fondness. But when the laughter faded, he turned the small contraption over in his hands, inspecting every detail with those thick, deliberate fingers of his.  
+It became a small wonder at the University. Students tested its limits with glee, finding it all but unbreakable. My first demonstration of it drew a dry laugh from Kilvin as he watched it with what looked like simple fondness. But when the laughter faded, he turned the small contraption over in his hands, inspecting every detail with those thick, deliberate fingers of his.  
 
 “It is beautiful, Kvothe,” Kilvin said in a calming tone. “But beauty is never untangled from its costs.”  
 
-I stiffened, confused. “Costs, Master Kilvin? It’s harmless. It can’t hurt anyone. It’s just a demonstration of resilience.”  
+“But it’s harmless,” I blurted out.  
 
-Kilvin shifted his gaze to me, his eyes shadowed beneath his heavy brow. “Harmless?” he said softly, his thumb brushing the polished brass. “Resilience is strength, strength is power, and power rarely keeps to itself.”  
+“Harmless?” he said softly, his thumb brushing the polished brass. “You made something that endures. That refuses to break. Resilience is strength, strength is power, and power rarely keeps to itself.”  
 
 Before I could defend myself, he continued, “You are too quick, Re’lar Kvothe. Quick to make and quicker to solve,” he said. “But wisdom is slow to grow. Always slower than the fires of cleverness.”  
 
-I wanted to snap back, but the weight of his words landed where I did not expect. My chest, my stomach, my hands. I felt Kilvin’s gaze press into me when I left the workshop with “The Stainless” tucked under one arm. Its polished surface was cool and smooth against my skin, yet strangely heavy on my heart.  
+I felt the weight of Kilvin’s gaze press into me as I left the workshop with “The Stainless” tucked under one arm.  
 
 ### * * *  
 
-That weight followed me into the Archives the next morning. The stillness there always brought a kind of solace, the light filtering through narrow windows soft as a secret. That day, I sat with Chancellor Herma at a wide table littered with Yllish knots. Their cords curled like spilled ink over the desk, beautiful and beguiling.  
+That weight followed me into the Archives the next morning, down through the stacks and to the Scriptorium. There, rows of desks stretched beneath tall windows where scrivers bent over their work. It smelled of fresh ink and old leather. Quills scratched softly against parchment. Here was a stillness that always brought me a kind of solace.  
 
-Herma’s hands trembled as they worked the rope, his fingers brushing over a tangle of knots like they were alive and needing soothing. The tremor was small at first, a faint note in the symphony of the quiet room.  
+Near the eastern windows, I sat with Chancellor Herma. Between us lay several coils of ancient Yllish knots and the parchment with our translations. We had already spent hours deciphering the pieces and recording their meanings in Siaru, Aturan, and Tema as was proper for archival work. Now we needed to preserve them, recreating each twist and loop onto new rope so future archivists could verify our readings against what we had seen.  
 
-Then, snap.  
-
-The knot came undone, loose fibers unwinding with a sharp finality. Herma’s breath hitched, and his shoulders tightened. The strands in his hands lay limp as dead snakes.  
+Herma was showing me how to coax an unusually intricate loop into place when his hands trembled. It was a small thing at first, a faint note in the symphony of the quiet room. But then Herma’s grip faltered. The half-formed knot slipped loose, the cord spilling from his hands. His breath hitched. His shoulders hunched forward, and he pressed one hand flat against the wood as if steadying himself.  
 
 “Master?” I stood, suddenly aware of the stillness my own movement disturbed. “Should I summon someone from the Medica?”  
 
-Herma slowly lifted his hand as if to deliberately turn away a tide. “No,” he said, his voice quiet but resolute. He drew a deeper breath and let his fingers rest against the limp cords. It was a gesture of comfort, meant perhaps for them, but more likely for himself.  
+Herma slowly lifted his hand as if to turn away a tide. “No,” he said, his voice quiet but resolute. He drew a deeper breath and let his fingers rest against the limp cords. It was a gesture of comfort, meant perhaps for them, but more likely for himself.  
 
 “These little betrayals,” he said after a moment, his usual steady baritone only slightly rough, “are nothing new, Kvothe. A bit like old friends who overstay their welcome. Bitter draughts and black poultices are our ways of shaking hands.”  
 
@@ -58,7 +56,7 @@ I frowned. My mouth wanted to smile. My heart wanted to flinch. Was that a weak 
 
 Herma cut me off, his voice growing firmer though his smile remained. “Kvothe, there’s nothing to fuss over. I am as I need to be. Some knots slip. The world keeps spinning.”  
 
-He leaned back then, his gray eyes catching the light like polished stones, and said something softer. “Who would have guessed, all those years ago? The stubborn boy sitting before me, sharp as flint, proud as a crow. Who could have known he would be unraveling knots alongside me one day?”  
+He leaned back then, his gray eyes catching the light like polished stones, and said something softer. “Who would have guessed, all those years ago, that the stubborn boy sitting before me, sharp as flint, proud as a crow, would be unraveling knots alongside me one day?”  
 
 The humor in his voice felt warm, but I heard something beneath it. A trace of wistfulness. Of finality.  
 
