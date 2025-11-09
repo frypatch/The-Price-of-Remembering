@@ -5,15 +5,15 @@
 
 FOR THE FIRST TIME since my family was murdered, I found peace. Not the kind a summer shower could wash away, but something richer and heavier. The Maer’s coin had loosened the strangling fingers of debt around my throat. My deal with Riem had let me breathe easier still. Together, they made the world feel almost manageable.  
 
-This is what peace looked like. Mornings heavy with the scent of ink and parchment. Afternoons filled with tangled chords and experimental rhythms. Evenings thick with honey-gold light and silken laughter. I studied. I played music that made the heart rise and falter. I charmed women whose fire matched my own. Time stretched before me like an open road, and I walked it without watching where I stepped.  
+This is what peace looked like. Mornings heavy with the scent of ink and parchment. Afternoons filled with tangled chords and experimental rhythms. Evenings thick with honey-gold light and laughter. I studied. I played music that made the heart rise and falter. I charmed women whose fire matched my own. Time stretched before me like an open road, and I walked it without watching where I stepped.  
 
 But I was young, and youth burns like kindling. It does not count the cost or measure what it spends. I thought myself clever, brilliant even. I believed that I could shape the world to my will, one turn of brass and one twist of wire at a time. And that unbridled confidence, as with so many stories, is how “The Stainless” was born.  
 
-### * * *
+### * * *  
 
 It was summer, and Kilvin’s workshop buzzed like a hive. Gears ticked, water bubbled, and the air swam with the tang of hot copper and grease. I was hunched over a delicate spring mechanism at my station, sweat beading on my neck. My fingers toyed with a coil of tempered brass, its bright sheen mocking me with each defiant snap.  
 
-“If I could,” I muttered, then caught myself. My lips pursed as if they could hold back the frustrated edge in my voice. My hands shifted to my notebook, and I scrawled furiously across the page.  
+“If I could,” I muttered, then caught myself. My lips pursed as if they could hold back the frustration. My hands shifted to my notebook, and I scrawled furiously across the page.  
 
 > “Single coil: too stiff, hard to temper.”  
 > “Snaps back hard. How to dampen its force?”  
@@ -22,11 +22,13 @@ It was summer, and Kilvin’s workshop buzzed like a hive. Gears ticked, water b
 
 Day after day, I chased the idea around in circles. My peers came and went. They quenched iron in oil and coaxed light from reluctant sympathy lamps. They watched the mechanisms fail on my table, but no one lingered, and I preferred it that way.  
 
-It took weeks, the kind of weeks that dissolve all thought of food or rest. But when I worked the last refinement true, when I had closed the last tolerance to less than a hair’s width, the design sang through me. “The Stainless.” A device that married a series of elegant coils to a tempered brass plate that bent to punishment. Within, a collection of garnets smoothed gears that safely metered back the resulting force.  
+It took weeks, the kind of weeks that dissolve all thought of food or rest. But when I worked the last refinement true, when I had closed the last tolerance to less than a hair’s width, the design sang through me. “The Stainless.” A device that married a series of elegant coils to a tempered brass plate that absorbed punishment. Within, a collection of garnets smoothed gears that safely metered back the resulting force.  
 
 Its purpose? Nothing profound. Just to endure.  
 
-It became a small wonder at the University. Students tested its limits with glee, finding it all but unbreakable. My first demonstration of it drew a dry laugh from Kilvin as he watched it with what looked like simple fondness. But when the laughter faded, he turned the small contraption over in his hands, inspecting every detail with those thick, deliberate fingers of his.  
+I should have left it at that. A clever curiosity, nothing more. But word spread the way it does at the University, and soon students came by my workbench to test it themselves. They bent it, twisted it, dropped it from heights that should have shattered lesser work. It held. Every time, it held.  
+
+It became a small wonder at the University. When I showed it to Kilvin, it drew a dry laugh from him as he watched it with what looked like simple fondness. But when the laughter faded, he turned the small contraption over in his hands, inspecting every detail with those thick, deliberate fingers of his.  
 
 “It is beautiful, Kvothe,” Kilvin said in a calming tone. “But beauty is never untangled from its costs.”  
 
@@ -40,7 +42,7 @@ I felt the weight of Kilvin’s gaze press into me as I left the workshop with �
 
 ### * * *  
 
-That weight followed me into the Archives the next morning, down through the stacks and to the Scriptorium. There, rows of desks stretched beneath tall windows where scrivers bent over their work. It smelled of fresh ink and old leather. Quills scratched softly against parchment. Here was a stillness that always brought me a kind of solace.  
+That weight followed me into the Archives, down through the stacks and to the Scriptorium. There, rows of desks stretched beneath tall windows where scrivers bent over their work. It smelled of fresh ink and old leather. Quills scratched softly against parchment. Here was a stillness that always brought me a kind of solace.  
 
 Near the eastern windows, I sat with Chancellor Herma. Between us lay several coils of ancient Yllish knots and the parchment with our translations. We had already spent hours deciphering the pieces and recording their meanings in Siaru, Aturan, and Tema as was proper for archival work. Now we needed to preserve them, recreating each twist and loop onto new rope so future archivists could verify our readings against what we had seen.  
 
@@ -58,9 +60,7 @@ Herma cut me off, his voice growing firmer though his smile remained. “Kvothe,
 
 He leaned back then, his gray eyes catching the light like polished stones, and said something softer. “Who would have guessed, all those years ago, that the stubborn boy sitting before me, sharp as flint, proud as a crow, would be unraveling knots alongside me one day?”  
 
-The humor in his voice felt warm, but I heard something beneath it. A trace of wistfulness. Of finality.  
-
-I forced myself to smile. My shoulders shrugged as if to shed the moment’s weight. “Good friends and teachers make all the difference,” I said. “I am proof enough of that.”  
+The humor in his voice felt warm, but I could almost feel the melancholy flowing beneath. My shoulders shrugged as if to shed the moment’s weight and I forced a smile. “Good friends and teachers make all the difference,” I said. “I am proof enough of that.”  
 
 Herma nodded slowly, a touch of pride softening his expression. “And good knots,” he muttered, drumming his fingers over the failed rope, “are worth the effort, too.”  
 
@@ -68,11 +68,11 @@ The moment passed, leaving only the faint creak of his chair as he turned back t
 
 ### * * *  
 
-Hours later, as I slid the last book back into its slot on the Archive shelves, I allowed myself a moment to breathe. The day was quiet, save for the faint rustling of pages and the occasional murmur from students shuffling between aisles. Yet a weight lingered at the outer edges of things, the kind no sunlight could dispel.  
+Hours later, as I brought the last of our boxed translations to the scrivers, I allowed myself a moment to breathe. The day was quiet, save for the faint rustling of pages and the occasional murmur from students shuffling between aisles. Yet a weight lingered at the outer edges of things, the kind no sunlight could dispel.  
 
 I shouldn’t have ignored it.  
 
-As I left the Archives, the afternoon breeze did little to shake the knot nudging restlessly at the back of my mind. Questions murmured there in whispers too dim to parse. Chancellor Herma might have dismissed his tremors, but a man steady as stone doesn’t crack without reason.  
+The days that followed did little to ease my unease. Chancellor Herma might have dismissed his tremors, but a man steady as stone doesn’t crack without reason.  
 
 The world rarely grants peace without a cost. And even then, the toll is never paid up front but instead settles on you slowly, like ash after a far-off fire.  
 
