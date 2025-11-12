@@ -3,7 +3,7 @@
 ## THE SILENT TOLL.
 
 
-I sat in the Archives, surrounded by a small fortress of books. “Numbered Names.” “Feyda’s Legacy.” “Child-Charms of the Western Vale.” “Hashar’s Curtain.” Each one a brick, placed. A scholar might have called it comparative research. A sympathist might have said I was drawing lines, looking for patterns. But the truth was simpler. I was chasing shadows. Shadows wearing old names.  
+I SAT IN THE ARCHIVES, surrounded by a small fortress of books. “Numbered Names.” “Feyda’s Legacy.” “Child-Charms of the Western Vale.” “Hashar’s Curtain.” Each one a brick, placed. A scholar might have called it comparative research. A sympathist might have said I was drawing lines, looking for patterns. But the truth was simpler. I was chasing shadows. Shadows wearing old names.  
 
 I was three pages deep into “Numbered Names", working my way through a tangled verse of Mid-Shaldaic couplets, when I caught sight of Ambrose Jakis. His Vintish robes were a bright red that did nothing to flatter his face and his hair was swept back with such deliberation that it looked like it had cost gold. His scent arrived before he did, cloying with rose oil and a hint of whatever powder arrogance is made from.  
 
