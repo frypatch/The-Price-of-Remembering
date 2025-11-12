@@ -3,77 +3,63 @@
 ## THE SILENT TOLL.
 
 
-THE ARCHIVES BREATHED around me, quiet and heavy.
+I SAT IN THE ARCHIVES, surrounded by a small fortress of books. “Numbered Names.” “Feyda’s Legacy.” “Child-Charms of the Western Vale.” “Hashar’s Curtain.” Each one a brick, placed. A scholar might have called it comparative research. A sympathist might have said I was drawing lines, looking for patterns. But the truth was simpler. I was chasing shadows. Shadows wearing old names.  
 
-I had claimed a narrow table beneath an arched window, where the light of last bell spilled through old glass like liquid amber. It wasn’t warm. Not really. But it had the suggestion of warmth, the way that word might rest on your tongue even when the fire’s gone out.
+I was three pages deep into “Numbered Names", working my way through a tangled verse of Mid-Shaldaic couplets, when I caught sight of Ambrose Jakis. His Vintish robes were a bright red that did nothing to flatter his face and his hair was swept back with such deliberation that it looked like it had cost gold. His scent arrived before he did, cloying with rose oil and a hint of whatever powder arrogance is made from.  
 
-Around me, I had built a small fortress of books. “Numbered Names.” “Feyda’s Legacy.” “Child-Charms of the Western Vale.” “Hashar’s Curtain.” Each one a brick, placed carefully, lovingly. A scholar might have called it comparative research. A sympathist might have said I was drawing lines, looking for patterns. But the truth was simpler, I was chasing shadows. Shadows wearing old names. 
+“Re’lar Kvothe,” he said, stopping short of my chair. “Conquering the Archives one aisle at a time, are we?” He waited, but when I kept my eyes on my work he made a show of gesturing at my books in mock admiration. “What is it now? Lullabies for restless children, or researching adolescent fancies?”  
 
-I was three pages deep into “Numbered Names”, working my way through a tangled verse of Mid-Shaldaic couplets, when Ambrose Jakis stepped into view. His robes were a bright Vintish red that did nothing to flatter the smug tilt of his lips and his hair was swept back with such deliberation it looked like it cost gold. His scent arrived before he did, cloying with rose oil and a hint of whatever powder arrogance is made from.
+I did what any man does when he finds a roach loose on his dinner plate. I set my eyes hard upon my notes, as if, by staring, I could burn a hole straight through the page. I hunched lower, forcing my back to him.  
 
-“Re’lar Kvothe,” he said, stopping three paces from my chair. “Conquering the Archives one aisle at a time, I see.”
+He leaned in close enough that I could feel his breath on my neck. “Still charmingly tight-lipped,” he murmured, his voice pitched for my ears alone. “Must be exhausting, all that silent brilliance.” Then his hand slid into view, coming to rest on the open pages before me. Breaking my line of sight. Claiming my book as his own.  
 
-He stood and waited, the silence pacing beside him. When I did not rise to the bait, he shifted, like a man seeking dry ground.
+I looked up at last.  
 
-“You’ve laid siege to half a shelf of Shaldaic ramblings.” He gestured at my nest of books, his mouth twisting in a mockery of admiration. “What is it now? Lullabies for restless children, or researching adolescent fancies?”
+“I’m using that,” I said evenly.  
 
-I did what any man does when he finds a roach loose on his dinner plate. I set my eyes hard upon my notes, as if, by staring, I could burn a hole straight through the page.
+Ambrose smiled. Not the gentle smile of courtesy. Not a smile at all, really. It showed his teeth, tops and bottoms, without any kind of fattening on the upper cheeks. “And yet you did not check it out.” He produced a vellum slip with the Bursar’s seal. “Filed properly. Logged and stamped,” he said, placing it atop the book like a winning hand in a game I hadn’t known we were playing. “Dreadfully unfortunate, isn’t it? Your claim only counts if you mark it.”  
 
-He leaned closer, “Still charmingly tight-lipped. Must be exhausting, all that silent brilliance.”
+“You did this on purpose.”  
 
-He reached forward, slow as disdain, and rested his hand on the open copy of “Numbered Names”.
+“Of course I did. It makes me ill to see Edema Ruh fingers paw at the University’s archive. Scrivs gave years to those shelves, binding what would’ve rotted into ruin. And you stroll in, thinking you deserve what they built.”  
 
-I looked up at last.
+He withdrew the book, gently, lovingly, like he meant to mount it on a plaque. He turned a few pages as he did, pretending to skim.  
 
-“I'm using that,” I said evenly.
+I reached for “Feyda’s Legacy” instead, but Ambrose just tutted and lifted the carved leather from the stack. “Ah, this one too, I’m afraid.”  
 
-Ambrose smiled. Not the gentle smile of courtesy. Not a smile at all, really. It showed his teeth, tops and bottoms, without any kind of fattening on the upper cheeks. “And yet you did not check it out,” he said, producing a small vellum slip sealed in the red wax of the Arcane Bursar’s desk.
+He turned to go.  
 
-“Filed properly. Logged and stamped,” he said, placing it atop the book like a winning hand in a game I hadn’t known we were playing. “Dreadfully unfortunate, isn’t it? Your claim only counts if you mark it.”
+“I still need those,” I said.  
 
-“You did this on purpose.”
+He paused. The set of his shoulders softened, just slightly. As if he carried a private joke, and it warmed him from within.  
 
-“Of course I did. It makes me ill to see Edema Ruh fingers paw at the University’s archive. Scrivs gave years to those shelves, turning dust into order. And you stroll in, thinking you deserve what they built.”
+“Then you’ll need to learn to place requests like grown students do. Hunching over some books doesn’t just make them yours. This isn’t a midden.”  
 
-He withdrew the book, gently, lovingly, like he meant to mount it on a plaque. He turned a few pages as he did, pretending to skim.
+He walked away with the resolve of a draccus deciding to cross a grove. A thick silence crept in behind him. The sort of hush that settles after something has been stolen, expertly and unfairly, leaving behind no course for the victim to remediate.  
 
-I reached for “Feyda’s Legacy” instead, but Ambrose just tutted and lifted the carved leather from the stack. “Ah, this one too, I’m afraid.”
+Renner’s eyes flicked up. Just for a moment. Then back to the ledger, as if nothing had happened. As if watching justice slip past had become commonplace, stitched into the quiet rhythm of his days. Rules over reason. Rules over mercy. Always the rules.  
 
-He turned to go.
+I let my fingers rest on the empty space where “Numbered Names” had been. The wood was cool under my skin, the empty space colder still.  
 
-“I still need those,” I said.
+I hadn’t logged the books. It was as simple as that. But part of me hadn’t wanted anyone knowing what old shadows I was chasing. That’s the trouble with pride. It blinds you to foxes wearing silk smiles.  
 
-He paused. The set of his shoulders softened, just slightly. As if he carried a private joke, and it warmed him from within.
+My hands shook.  
 
-“Then you’ll need to learn to place requests like grown students do. Hunching over some scrolls doesn’t just make them yours. This isn't a midden.”
+Before I could still them, the bell rang.  
 
-He walked away then. Not quickly. Not reluctant. He moved with the resolve of a draccus deciding to cross a grove. A thick silence crept in behind him. The sort of hush that settles after something has been stolen, expertly and unfairly, leaving behind no course for the victim to remediate.
+Not the brassy chime of a class change. Not the celebration of a well-rung peal.  
 
-Renner’s eyes flicked up. Just for a moment. Then, back to the ledger, as if nothing had happened. As if watching justice slip past had become commonplace, stitched into the quiet rhythm of his days. Rules over reason. Rules over mercy. Always the rules. 
+The Iron Bell. Low. Slow. The breath of stone lungs. The heartbeat of an old god turning over in its sleep.  
 
-I let my fingers rest on the empty space where “Numbered Names” had been. The wood was cool under my skin, the empty space colder still.
+I froze.  
 
-I hadn’t logged the books. It was as simple and foolish as that. But part of me hadn't wanted anyone knowing what old shadows I was chasing. That's the trouble with pride. It blinds you to foxes wearing silk smiles.
+The knell did not falter. It filled the hall, slow and steady as a tide. Students stilled. A scroll slipped from one hand and drifted down. A book found its place on the shelf, without thought or reason. Even Renner looked up, caught by the sound.  
 
-My hands shook. 
+The Iron Bell sang only one note.  
 
-Before I could still them, the bell rang.
+Mourning.  
 
-Not the brassy chime of a class change. Not the shrill peal of fire or folly.
-
-The Iron Bell. Low. Slow. The breath of stone lungs. The heartbeat of an old god turning over in sleep.
-
-I froze.
-
-The knell did not falter. It did not echo and fade. It did not merely pass through the hall. It filled it, slow and steady as a tide. Students stilled. A scroll slipped from one hand and drifted down. A book found its place on the shelf, without thought or reason. Even Renner looked up, caught by the sound.
-
-The Iron Bell sang only one note.
-
-Mourning.
-
-The true kind. The kind that folds the world in half, sharp as a closing book.
-
-### * * *
+### * * *  
 
 The stillness of the Eolian that evening was unnatural. The tavern, usually alive with song, music, and the clink of mugs, sat dulled and subdued. Even the chandeliers seemed dimmer, their waxy yellow glow hesitant to reach far into the corners.
 
@@ -127,7 +113,7 @@ Mola pressed her fingers briefly to my wrist. It grounded me more than I expecte
 
 No one interrupted. Nothing needed to be added.
 
-We sat there for a while in a shared silence. Thats when the raw words came. The ones I couldn't give voice.
+We sat there for a while in a shared silence. Thats when the raw words came. The ones I couldn’t give voice.
 
 The truth is, I hate losing things. More than that, I’m terrified of it.
 
@@ -157,7 +143,7 @@ A week had passed and Herma was still gone.
 
 I crossed the stone span to the Archives just before second bell, my best coat pulled high against a lazy wind. The sun blinked through thin morning mist, gray-gold and washed out.
 
-Inside, the quiet felt different today. It wasn't reverent exactly, just simply drained. The scent of parchment and dust seemed thinner. The tension in the air no longer tingled with curiosity. Instead, it hung slack and unstrung, like a harp left untuned.
+Inside, the quiet felt different today. It wasn’t reverent exactly, just simply drained. The scent of parchment and dust seemed thinner. The tension in the air no longer tingled with curiosity. Instead, it hung slack and unstrung, like a harp left untuned.
 
 I offered a nod as I passed the Scrivs’ counter. Only Renner was on duty this early, his eyes bracketed with weariness. He gave a perfunctory tilt of the head that might once have been a greeting.
 
@@ -177,7 +163,7 @@ At the nearest counter, I waited until a scriv noticed me. She had short-cropped
 
 “Excuse me,” I said as easily as I could manage. “I was working with several Yllish texts, mostly unbound knotworks sourced from the Maer’s third donation. They were shelved on level three, alcove M-fifteen. Are they being restored or are they available?”
 
-She barely looked up. “That collection's been recategorized.”
+She barely looked up. “That collection’s been recategorized.”
 
 I blinked. “Recategorized?”
 
@@ -225,7 +211,7 @@ I turned the journal gently in the light.
 
 Branded parchment.
 
-One watermark, just visible, ghosted along the page. It was the Arcane Bursar's own. If ink could tell you who owned it, this page would shout of Hemme's gatekeeping.
+One watermark, just visible, ghosted along the page. It was the Arcane Bursar’s own. If ink could tell you who owned it, this page would shout of Hemme’s gatekeeping.
 
 My fists itched. I could feel something slithering into shape, but I had too few pieces.
 
