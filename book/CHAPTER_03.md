@@ -17,7 +17,7 @@ I looked up at last.
 
 “I’m using that,” I said evenly.  
 
-Ambrose smiled. Not the gentle smile of courtesy. Not a smile at all, really. It showed his teeth, tops and bottoms, without any kind of fattening on the upper cheeks. “And yet you did not check it out.” He produced a vellum slip with the Bursar’s seal. “Filed properly. Logged and stamped,” he said, placing it atop the book like a winning hand in a game I hadn’t known we were playing. “Dreadfully unfortunate, isn’t it? Your claim only counts if you mark it.”  
+Ambrose smiled, if you could call it that. It showed his teeth, tops and bottoms, without any kind of fattening on the upper cheeks. “And yet you did not check it out.” He produced a vellum slip with the Bursar’s seal. “Filed properly. Logged and stamped,” he said, placing it atop the book like a winning hand in a game I hadn’t known we were playing. “Dreadfully unfortunate, isn’t it? Your claim only counts if you mark it.”  
 
 “You did this on purpose.”  
 
@@ -61,71 +61,61 @@ Mourning.
 
 ### * * *  
 
-The stillness of the Eolian that evening was unnatural. The tavern, usually alive with song, music, and the clink of mugs, sat dulled and subdued. Even the chandeliers seemed dimmer, their waxy yellow glow hesitant to reach far into the corners.
+The Eolian that evening carried on as it always did. Music drifted through the air, conversation hummed at the bar, and somewhere near the back came the soft, repetitive plucking of strings as someone tuned a lute before trying for their talent pipes. The world, it seemed, had not stopped turning.  
 
-No one played Tinker Tanner. Not tonight. Not even badly.
+But our usual corner table felt like another place entirely.  
 
-Wil, Simmon, Mola, Fela, and I sat in our usual corner booth. It was not the shadowed hollow of comfort it normally was. The air hung too still. The old wood of the table felt cold beneath our hands. We had the hollowed feel of a song struck just off key.
+Wil, Simmon, Mola, Fela, and I sat together. No one spoke much. No one suggested cards or dice or any of the small diversions we usually turned to. Here, we were a note struck off key, surrounded by a melody that didn’t include us. But the alternative would have been for us all to bear this alone.  
 
-Classes had been canceled for the span, an occurrence that rarely happened. The official notice mentioned administrative shortages, reassignment of duties, and necessary meetings. But everyone knew better. The University never made space for grief unless it absolutely had to. And the absence of Herma, who had been kind, measured, and constant, left a gap you could hear in the silence of the bells.
+Classes had been canceled for the span, an occurrence that rarely happened. The official notice mentioned administrative shortages, reassignment of duties, and necessary meetings. But everyone knew better. The University never made space for grief unless it absolutely had to. And the absence of Herma, who had been fair, gentle, and measured, left everyone adrift, uncertain about their duties.  
 
-Wil raised his mug first, the gesture slow and deliberate. “To Herma,” he said, voice coarse with something quieter than anger, sharper than sorrow. He didn’t look at us. He stared down into the dark ale like it might answer a question he’d forgotten how to ask.
+Wil lifted his mug and broke the silence. “To Herma,” he said stiffly, taking a long swig. Then he stared back down into his ale like it might answer a question he’d forgotten how to ask.  
 
-“To a steady hand,” Sim added, gentle-voiced. His drink paused halfway to his mouth, hand hovering. A flicker of tension in his jaw. He drank anyway.
+Sim cleared his throat. “To the man who signed my sponsorship without asking what my father thought of it first,” he said, raising his cup slowly.  
 
-“To a good man,” Mola said. She kept her eyes on the candle as she did, the flame reflected in the smooth gloss of her gaze.
+Mola sat small in her chair, hands folded in her lap. She stared at the candle flame, and something in her expression went distant and young. “To Chancellor Herma, who found me in the stacks with my face in my hands. Who had the grace to stay and didn’t say a word until I was ready.”  
 
-Fela took a long breath. Her voice, when it came, was soft and dry at the edges. “To a proper Chancellor,” she murmured. “Whatever that means now.”
+Fela took a long breath. Her voice, when it came, was quiet and careful. “To the Chancellor who walked me back to Mews after that incident with the Bursar’s son. Who didn’t ask questions or make it my fault. To a proper Chancellor. Whatever that means now.”  
 
-I hadn’t meant to say anything at all. But their words hung like threads waiting to be tied. To add nothing would’ve made me feel like the knot had slipped.
+I hadn’t meant to say anything at all. But their words hung like threads waiting to be tied. To add nothing would’ve made me feel like the knot had slipped. “To Herma,” I echoed.  
 
-“To Herma,” I echoed, though the words left my mouth without weight. They were air across a cold mirror.
+We drank.  
 
-We drank.
+A bottle arrived a few minutes later, silent and unannounced. Vintish brandy, the good kind, not something a student could afford even on a lucky term. The cork had already been split.  
 
-A bottle arrived a few minutes later, silent and unannounced. The dark glass was shaped like a hushed thought, the cork already split. It was Vintish brandy, the good kind, not something a student could afford even on a lucky term.
+The barkeep nodded toward the bar without being asked.  
 
-The barkeep nodded toward the bar without being asked.
+Deoch stood there, glass in hand, not drinking. He wasn’t watching us directly, but he was keenly aware of everything. He hadn’t known Herma. Their circles barely touched. But he knew us. Knew the air of loss when it hung around a table. He sent the bottle and left us alone. That was just like him.  
 
-Deoch stood there, glass in hand, not drinking. He wasn’t watching us directly, but he was keenly aware of everything. He hadn’t known Herma. Their circles barely touched. But he knew us. Knew the air of loss when it hung around a table. He sent the bottle and left us alone. That was just like him.
+We poured careful portions and fell quiet. The candle between us leaned in its wax cradle, its flame thinner than usual, as if mourning had its own gravity. My eyes fell to its uncertain flicker, how it trembled without wind.  
 
-We poured careful portions. No one spoke for a while.
+“Men and their walls,” Mola said at last, her eyes finding mine. “Wil went first. That’s hard.” She paused. “You went last. After hearing all of us.”  
 
-The candle between us leaned in its wax cradle, its flame thinner than usual, as if mourning had its own gravity. My eyes fell to its uncertain flicker, how it trembled without wind.
+I let my fingertips graze the side of the glass. Cool, smooth, untouched. I could have fashioned a clever retort. Some right-sounding answer to feather over the cracks. But I didn’t have any. Not the good kind.  
 
-“Men and their walls,” Fela said at last, not looking at anyone in particular.
+Fela pressed her fingers briefly to my wrist. “You don’t have to be careful with us, Kvothe. Not here.”  
 
-Wil’s brow furrowed. “What’s that supposed to mean?”
+Her touch grounded me more than I expected. The words came easier after that.  
 
-“Exactly what it means,” she said. “You toast like someone marking names off a list. Neither of you could wring a feeling into words if your life depended on it.”
+“He was the first man at the University who didn’t treat me like I’d arrived by accident,” I said. “He remembered my name before I earned it. That sounds small, but it wasn’t. Not to me.”  
 
-Wil opened his mouth, then closed it again. Sim raised both eyebrows but kept wisely silent.
+“He gave me the kind of silence that doesn’t shame you. You know the kind. The silence teachers use when they want to give you space to think instead of to apologize. He knew how to tie meaning with empty thread.”  
 
-Fela met my eyes and didn’t blink. “You usually mean your words. When you speak, Kvothe, people look up. That toast? I barely heard it.”
+No one interrupted. Nothing needed to be added.  
 
-I let my fingertips graze the side of the glass. Cool, smooth, untouched. I could have fashioned a clever retort. Some right-sounding answer to feather over the cracks. But I didn’t have any. Not the good kind.
+We sat there for a while in a shared silence. That’s when the real words came. The ones I couldn’t give voice.  
 
-“He was the first man at the University who didn’t treat me like I’d arrived by accident,” I said. “He remembered my name before I earned it. That sounds small, but it wasn’t. Not to me.”
+The truth is, I hate losing things. More than that, I’m terrified of it.  
 
-Mola pressed her fingers briefly to my wrist. It grounded me more than I expected.
+Herma’s death wasn’t just a loss. It was a knot left half-tied, a pattern begun but never finished. And I couldn’t stop picking at it. My mind circled back, over and over, searching for the thread that might unravel it all and make it make sense.  
 
-“He gave me the kind of silence that doesn’t shame you. You know the kind. The silence teachers use when they want to give you space to think instead of to apologize. He knew how to tie meaning with empty thread.”
+It’s a sickness, I think, this need to fix what was never my doing. The ache to lay the world flat on the table and name its shape when all it wants to do is twist. I don’t know how to grieve gently. So instead, I dig.  
 
-No one interrupted. Nothing needed to be added.
+I didn’t speak those thoughts aloud.  
 
-We sat there for a while in a shared silence. Thats when the raw words came. The ones I couldn’t give voice.
+But I think Mola saw something in my face. That open, unfinished part of me I work so hard to bury.  
 
-The truth is, I hate losing things. More than that, I’m terrified of it.
-
-Herma’s death wasn’t just a loss. It was a knot left half-tied, a pattern begun but never finished. And I couldn’t stop picking at it. My mind circled back, over and over, searching for the thread that might unravel it all and make it make sense.
-
-It’s a sickness, I think, this need to fix what was never my doing. The ache to lay the world flat on the table and name its shape when all it wants to do is twist. I don’t know how to grieve gently. So instead, I dig.
-
-I didn’t speak those thoughts aloud.
-
-But I think Fela saw something in my face. That open, unfinished part of me I work so hard to bury.
-
-She didn’t say anything else. She just looked at me like she understood that my toast, while incomplete, was as much as I could give. And then she looked away, letting the moment fold itself down like a letter no longer needing to be read. 
+She didn’t say anything else. She just looked at me like she understood that my toast, while incomplete, was as much as I could give. And then she looked away, letting the moment fold itself down like a letter no longer needing to be read.  
 
 ### * * *
 
