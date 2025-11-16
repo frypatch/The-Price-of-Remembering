@@ -97,9 +97,7 @@ Fela pressed her fingers briefly to my wrist. “You don’t have to be careful 
 
 Her touch grounded me more than I expected. The words came easier after that.  
 
-“He was the first man at the University who didn’t treat me like I’d arrived by accident,” I said. “He remembered my name before I earned it. That sounds small, but it wasn’t. Not to me.”  
-
-“He gave me the kind of silence that doesn’t shame you. You know the kind. The silence teachers use when they want to give you space to think instead of to apologize. He knew how to tie meaning with empty thread.”  
+“He was the first man at the University who didn’t treat me like I’d arrived by accident,” I said. “He remembered my name before I earned it. That sounds small, but it wasn’t. Not to me. He gave me the kind of silence that doesn’t shame you. You know the kind. The silence teachers use when they want to give you space to think instead of to apologize. He knew how to tie meaning with empty thread.”  
 
 No one interrupted. Nothing needed to be added.  
 
