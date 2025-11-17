@@ -40,9 +40,9 @@ He turned back to his lamp mechanisms, the conversation finished. But I felt the
 
 ### * * *  
 
-That weight followed me into the Archives, down through the stacks and to the Scriptorium. There, rows of desks stretched beneath tall windows where scrivers bent over their work. It smelled of fresh ink and old leather. Quills scratched softly against parchment. Here was a stillness that always brought me a kind of solace.  
+That weight followed me into the Archives, down through the stacks and to the Scriptorium. There, the steady glow of sympathy lamps dotted rows of desks, their cool light painting the room in shades of blue and green. Scrivs bent over their work at scattered stations throughout the space. It smelled of fresh ink and old leather. Quills scratched softly against parchment. Here was a stillness that always brought me a kind of solace.  
 
-Near the eastern windows, I sat with Chancellor Herma. Between us lay several coils of ancient Yllish knots and the parchment with our translations. We had already spent hours deciphering the pieces and recording their meanings in Siaru, Aturan, and Tema as was proper for archival work. Now we needed to preserve them, recreating each twist and loop onto new rope so future archivists could verify our readings against what we had seen.  
+Near the eastern wall, I sat with Chancellor Herma. Between us lay several coils of ancient Yllish knots and the parchment with our translations. We had already spent hours deciphering the pieces and recording their meanings in Siaru, Aturan, and Tema as was proper for archival work. Now we needed to preserve them, recreating each twist and loop onto new rope so future archivists could verify our readings against what we had seen.  
 
 Herma was showing me how to coax an unusually intricate loop into place when his hands trembled. It was a small thing at first, a faint note in the symphony of the quiet room. But then Herma’s grip faltered. The half-formed knot slipped loose, the cord spilling from his hands. His breath hitched. His shoulders hunched forward, and he pressed one hand flat against the wood as if steadying himself.  
 
@@ -66,7 +66,7 @@ The moment passed, leaving only the faint creak of his chair as he turned back t
 
 ### * * *  
 
-Hours later, as I brought the last of our boxed translations to the scrivers, I allowed myself a moment to breathe. The day was quiet, save for the faint rustling of pages and the occasional murmur from students shuffling between aisles. Yet a weight lingered at the outer edges of things, the kind no sunlight could dispel.  
+Hours later, as I brought the last of our boxed translations to the scrivs, I allowed myself a moment to breathe. The day was quiet, save for the faint rustling of pages and the occasional murmur from students shuffling between aisles. Yet a weight lingered at the outer edges of things, the kind no sunlight could dispel.  
 
 I shouldn’t have ignored it.  
 
