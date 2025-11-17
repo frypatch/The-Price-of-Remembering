@@ -26,19 +26,17 @@ It took weeks, the kind of weeks that dissolve all thought of food or rest. But 
 
 Its purpose? Nothing profound. Just to endure.  
 
-I should have left it at that. A clever curiosity, nothing more. But word spread the way it does at the University, and soon students came by my workbench to test it themselves. They bent it, twisted it, dropped it from heights that should have shattered lesser work. It held. Every time, it held.  
+I should have left it at that. A clever curiosity, nothing more. But word spread the way it does at the University, and soon students came by my workbench to test it themselves. They bent it, twisted it, dropped it from heights that would have shattered lesser work. It held. Every time, it held.  
 
-It became a small wonder at the University. When I showed it to Kilvin, it drew a dry laugh from him as he watched it with what looked like simple fondness. But when the laughter faded, he turned the small contraption over in his hands, inspecting every detail with those thick, deliberate fingers of his.  
+It became a small wonder at the University. When I showed it to Kilvin, he turned the small contraption over in his hands, those thick, deliberate fingers of his inspecting every detail. “Well made, Kvothe,” he said while bending the mechanism farther than I would have dared. It eased back into shape. “No.”  
 
-“It is beautiful, Kvothe,” Kilvin said in a calming tone. “But beauty is never untangled from its costs.”  
+“What’s wrong with it?” I asked, stunned.  
 
-“But it’s harmless,” I blurted out.  
+Kilvin was quiet for a long moment, his thumb brushing the polished brass. “‘Chan tehus medan cael Kote’. The fool creates something that evil can corrupt.” He set the device down, distancing himself. “You made something that refuses to break. It will be tested. Again and again. And men will use it for purposes you never imagined.”  
 
-“Harmless?” he said softly, his thumb brushing the polished brass. “You made something that endures. That refuses to break. Resilience is strength, strength is power, and power rarely keeps to itself.”  
+Before I could defend myself, he pushed the device toward me across the workbench and continued. “You are too quick, Re’lar Kvothe. Quick to make and quick to solve. But you do not think past the making.”  
 
-Before I could defend myself, he continued, “You are too quick, Re’lar Kvothe. Quick to make and quicker to solve,” he said. “But wisdom is slow to grow. Always slower than the fires of cleverness.”  
-
-I felt the weight of Kilvin’s gaze press into me as I left the workshop with “The Stainless” tucked under one arm.  
+He turned back to his lamp mechanisms, the conversation finished. But I felt the weight of his lesson press into me as I left the workshop with “The Stainless” tucked under one arm.  
 
 ### * * *  
 
