@@ -32,7 +32,7 @@ It became a small wonder at the University. When I showed it to Kilvin, he turne
 
 “What’s wrong with it?” I asked, stunned.  
 
-Kilvin was quiet for a long moment, his thumb brushing the polished brass. “You know the Cealdish saying, ’Chan tehus medan cael Kote’. The fool creates something that evil can corrupt.” He set the device down and distanced himself. “You made something that refuses to break. It will be tested. Again and again. And men will use it for purposes you never imagined.”  
+Kilvin was quiet for a long moment, his thumb brushing the polished brass. “‘Chan tehus medan cael Kote’. The fool creates something that evil can corrupt.” He set the device down, distancing himself. “You made something that refuses to break. It will be tested. Again and again. And men will use it for purposes you never imagined.”  
 
 Before I could defend myself, he pushed the device toward me across the workbench and continued. “You are too quick, Re’lar Kvothe. Quick to make and quick to solve. But you do not think past the making.”  
 
