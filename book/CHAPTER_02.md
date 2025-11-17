@@ -28,7 +28,7 @@ Its purpose? Nothing profound. Just to endure.
 
 I should have left it at that. A clever curiosity, nothing more. But word spread the way it does at the University, and soon students came by my workbench to test it themselves. They bent it, twisted it, dropped it from heights that would have shattered lesser work. It held. Every time, it held.  
 
-It became a small wonder at the University. When I showed it to Kilvin, he turned the small contraption over in his hands, those thick, deliberate fingers of his inspecting every detail. “Well made, Kvothe,” he said while bending the mechanism further than I would have dared. It eased back into shape. “No.”  
+It became a small wonder at the University. When I showed it to Kilvin, he turned the small contraption over in his hands, those thick, deliberate fingers of his inspecting every detail. “Well made, Kvothe,” he said while bending the mechanism farther than I would have dared. It eased back into shape. “No.”  
 
 “What’s wrong with it?” I asked, stunned.  
 
