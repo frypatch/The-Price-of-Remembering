@@ -17,23 +17,19 @@ I looked up at last.
 
 “I’m using that,” I said evenly.  
 
-Ambrose smiled, if you could call it that. It showed his teeth, tops and bottoms, without any kind of fattening on the upper cheeks. “And yet you did not check it out.” He produced a vellum slip with the Bursar’s seal. “Filed properly. Logged and stamped,” he said, placing it atop the book like a winning hand in a game I hadn’t known we were playing. “Dreadfully unfortunate, isn’t it? Your claim only counts if you mark it.”  
+Ambrose smiled, if you could call it that. It showed his teeth, tops and bottoms, without any kind of fattening on the upper cheeks. "And yet you did not properly file a request." He produced a ledger slip with the scriv's mark. "Priority claim, logged and stamped," he said, placing it atop the book like a winning hand in a game I hadn’t known we were playing. "Dreadfully unfortunate, isn't it? Your claim only counts if you mark it in the ledger."  
 
 “You did this on purpose.”  
 
-“Of course I did. It makes me ill to see Edema Ruh fingers paw at the University’s archive. Scrivs gave years to those shelves, binding what would’ve rotted into ruin. And you stroll in, thinking you deserve what they built.”  
+"Of course I did. It makes me ill to see Edema Ruh fingers paw at the University's collection. Scrivs gave years to these shelves, binding what would've rotted into ruin. And you stroll in, thinking you deserve what they built, without even the courtesy of filing a proper request."  
 
 He withdrew the book, gently, lovingly, like he meant to mount it on a plaque. He turned a few pages as he did, pretending to skim.  
 
-I reached for “Feyda’s Legacy” instead, but Ambrose just tutted and lifted the carved leather from the stack. “Ah, this one too, I’m afraid.”  
-
-He turned to go.  
+I reached for “Feyda’s Legacy” instead, but Ambrose just tutted and lifted another ledger slip from his pocket. “Ah, this one too, I’m afraid.” Then, gathering up my other book, he turned to go.  
 
 “I still need those,” I said.  
 
-He paused. The set of his shoulders softened, just slightly. As if he carried a private joke, and it warmed him from within.  
-
-“Then you’ll need to learn to place requests like grown students do. Hunching over some books doesn’t just make them yours. This isn’t a midden.”  
+He paused. The set of his shoulders softened, just slightly. As if he carried a private joke, and it warmed him from within. “Then you’ll need to learn to place requests like grown students do. I'll be using the north reading nook for the next several days."  
 
 He walked away with the resolve of a draccus deciding to cross a grove. A thick silence crept in behind him. The sort of hush that settles after something has been stolen, expertly and unfairly, leaving behind no course for the victim to remediate.  
 
@@ -41,7 +37,7 @@ Renner’s eyes flicked up. Just for a moment. Then back to the ledger, as if no
 
 I let my fingers rest on the empty space where “Numbered Names” had been. The wood was cool under my skin, the empty space colder still.  
 
-I hadn’t logged the books. It was as simple as that. But part of me hadn’t wanted anyone knowing what old shadows I was chasing. That’s the trouble with pride. It blinds you to foxes wearing silk smiles.  
+I hadn’t logged the books. It was as simple as that. But part of me hadn’t wanted even the scrivs knowing what old shadows I was chasing. That’s the trouble with pride. It blinds you to foxes wearing silk smiles.  
 
 My hands shook.  
 
@@ -67,25 +63,21 @@ But our usual corner table felt like another place entirely.
 
 Wil, Simmon, Mola, Fela, and I sat together. No one spoke much. No one suggested cards or dice or any of the small diversions we usually turned to. Here, we were a note struck off key, surrounded by a melody that didn’t include us. But the alternative would have been for us all to bear this alone.  
 
-Classes had been canceled for the span, an occurrence that rarely happened. The official notice mentioned administrative shortages, reassignment of duties, and necessary meetings. But everyone knew better. The University never made space for grief unless it absolutely had to. And the absence of Herma, who had been fair, gentle, and measured, left everyone adrift, uncertain about their duties.  
+Classes had been canceled for the span, an unprecedented occurrence. The official notice mentioned administrative shortages, reassignment of duties, and necessary meetings. But everyone knew better. The University never made space for grief unless it absolutely had to. And the absence of Herma, who had been fair, gentle, and measured, left everyone adrift, uncertain about their duties.  
 
-Wil lifted his mug and broke the silence. “To Herma,” he said stiffly, taking a long swig. Then he stared back down into his ale like it might answer a question he’d forgotten how to ask.  
+Wil lifted his mug and broke the silence. “To the Chancellor Herma,” he said stiffly, taking a long swig. Then he stared back down into his scutten like it might answer a question he’d forgotten how to ask.  
 
 Sim cleared his throat. “To the man who signed my sponsorship without asking what my father thought of it first,” he said, raising his cup slowly.  
 
-Mola sat small in her chair, hands folded in her lap. She stared at the candle flame, and something in her expression went distant and young. “To Chancellor Herma, who found me in the stacks with my face in my hands. Who had the grace to stay and didn’t say a word until I was ready.”  
+Mola sat with her hands wrapped around her cup, expression carefully neutral. When she spoke, her voice was level but quiet. “To Herma, who found me in the stacks with my face in my hands. Who sat down beside me and stayed until I could talk.”  
 
-Fela took a long breath. Her voice, when it came, was quiet and careful. “To the Chancellor who walked me back to Mews after that incident with the Bursar’s son. Who didn’t ask questions or make it my fault. To a proper Chancellor. Whatever that means now.”  
+Fela took a long breath. Her voice, when it came, was quiet and careful. “To the Chancellor who walked me back to Mews after that incident with Ambrose. Who didn’t ask questions or make it my fault. To a proper Chancellor. Whatever that means now.”  
 
 I hadn’t meant to say anything at all. But their words hung like threads waiting to be tied. To add nothing would’ve made me feel like the knot had slipped. “To Herma,” I echoed.  
 
 We drank.  
 
-A bottle arrived a few minutes later, silent and unannounced. Vintish brandy, the good kind, not something a student could afford even on a lucky term. The cork had already been split.  
-
-The barkeep nodded toward the bar without being asked.  
-
-Deoch stood there, glass in hand, not drinking. He wasn’t watching us directly, but he was keenly aware of everything. He hadn’t known Herma. Their circles barely touched. But he knew us. Knew the air of loss when it hung around a table. He sent the bottle and left us alone. That was just like him.  
+A bottle arrived a few minutes later, silent and unannounced. Vintish brandy, the good kind, not something a student could afford even on a lucky term. The cork had already been split. Deoch stood at the bar, glass in hand, not drinking. He wasn't watching us directly, but he was keenly aware of everything. He hadn't known Herma. Their circles barely touched. But he knew us. Knew the air of loss when it hung around a table. He sent the bottle and left us alone. That was just like him.  
 
 We poured careful portions and fell quiet. The candle between us leaned in its wax cradle, its flame thinner than usual, as if mourning had its own gravity. My eyes fell to its uncertain flicker, how it trembled without wind.  
 
