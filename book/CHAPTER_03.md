@@ -5,7 +5,7 @@
 
 I SAT IN THE ARCHIVES, surrounded by a small fortress of books. “Numbered Names.” “Feyda’s Legacy.” “Child-Charms of the Western Vale.” “Hashar’s Curtain.” Each one a brick, placed. A scholar might have called it comparative research. A sympathist might have said I was drawing lines, looking for patterns. But the truth was simpler. I was chasing shadows. Shadows wearing old names.  
 
-I was three pages deep into “Numbered Names", working my way through a tangled verse of Mid-Shaldaic couplets, when I caught sight of Ambrose Jakis. His Vintish robes were a bright red that did nothing to flatter his face and his hair was swept back with such deliberation that it looked like it had cost gold. His scent arrived before he did, cloying with rose oil and a hint of whatever powder arrogance is made from.  
+I was three pages deep into “Numbered Names”, working my way through a tangled verse of Mid-Shaldaic couplets, when I caught sight of Ambrose Jakis. His Vintish robes were a bright red that did nothing to flatter his face and his hair was swept back with such deliberation that it looked like it had cost gold. His scent arrived before he did, cloying with rose oil and a hint of whatever powder arrogance is made from.  
 
 “Re’lar Kvothe,” he said, stopping short of my chair. “Conquering the Archives one aisle at a time, are we?” He waited, but when I kept my eyes on my work he made a show of gesturing at my books in mock admiration. “What is it now? Lullabies for restless children, or researching adolescent fancies?”  
 
@@ -17,11 +17,11 @@ I looked up at last.
 
 “I’m using that,” I said evenly.  
 
-Ambrose smiled, if you could call it that. It showed his teeth, tops and bottoms, without any kind of fattening on the upper cheeks. "And yet you did not properly file a request." He produced a ledger slip with the scriv's mark. "Priority claim, logged and stamped," he said, placing it atop the book like a winning hand in a game I hadn’t known we were playing. "Dreadfully unfortunate, isn't it? Your claim only counts if you mark it in the ledger."  
+Ambrose smiled, if you could call it that. It showed his teeth, tops and bottoms, without any kind of fattening on the upper cheeks. “And yet you did not properly file a request.” He produced a ledger slip with the scriv’s mark. “Priority claim, logged and stamped,” he said, placing it atop the book like a winning hand in a game I hadn’t known we were playing. “Dreadfully unfortunate, isn’t it? Your claim only counts if you mark it in the ledger.”  
 
 “You did this on purpose.”  
 
-"Of course I did. It makes me ill to see Edema Ruh fingers paw at the University's collection. Scrivs gave years to these shelves, binding what would've rotted into ruin. And you stroll in, thinking you deserve what they built, without even the courtesy of filing a proper request."  
+“Of course I did. It makes me ill to see Edema Ruh fingers paw at the University’s collection. Scrivs gave years to these shelves, binding what would’ve rotted into ruin. And you stroll in, thinking you deserve what they built, without even the courtesy of filing a proper request.”  
 
 He withdrew the book, gently, lovingly, like he meant to mount it on a plaque. He turned a few pages as he did, pretending to skim.  
 
@@ -29,7 +29,7 @@ I reached for “Feyda’s Legacy” instead, but Ambrose just tutted and lifted
 
 “I still need those,” I said.  
 
-He paused. The set of his shoulders softened, just slightly. As if he carried a private joke, and it warmed him from within. “Then you’ll need to learn to place requests like grown students do. I'll be using the north reading nook for the next several days."  
+He paused. The set of his shoulders softened, just slightly. As if he carried a private joke, and it warmed him from within. “Then you’ll need to learn to place requests like grown students do. I’ll be using the north reading nook for the next several days.”  
 
 He walked away with the resolve of a draccus deciding to cross a grove. A thick silence crept in behind him. The sort of hush that settles after something has been stolen, expertly and unfairly, leaving behind no course for the victim to remediate.  
 
@@ -77,7 +77,7 @@ I hadn’t meant to say anything at all. But their words hung like threads waiti
 
 We drank.  
 
-A bottle arrived a few minutes later, silent and unannounced. Vintish brandy, the good kind, not something a student could afford even on a lucky term. The cork had already been split. Deoch stood at the bar, glass in hand, not drinking. He wasn't watching us directly, but he was keenly aware of everything. He hadn't known Herma. Their circles barely touched. But he knew us. Knew the air of loss when it hung around a table. He sent the bottle and left us alone. That was just like him.  
+A bottle arrived a few minutes later, silent and unannounced. Vintish brandy, the good kind, not something a student could afford even on a lucky term. The cork had already been split. Deoch stood at the bar, glass in hand, not drinking. He wasn’t watching us directly, but he was keenly aware of everything. He hadn’t known Herma. Their circles barely touched. But he knew us. Knew the air of loss when it hung around a table. He sent the bottle and left us alone. That was just like him.  
 
 We poured careful portions and fell quiet. The candle between us leaned in its wax cradle, its flame thinner than usual, as if mourning had its own gravity. My eyes fell to its uncertain flicker, how it trembled without wind.  
 
@@ -107,63 +107,91 @@ But I think Mola saw something in my face. That open, unfinished part of me I wo
 
 She didn’t say anything else. She just looked at me like she understood that my toast, while incomplete, was as much as I could give. And then she looked away, letting the moment fold itself down like a letter no longer needing to be read.  
 
-### * * *
+### * * *  
 
-The morning after Herma’s death arrived without ceremony. No sunbeam haloed the windows. No birds dared etch the silence. I woke late, liver aching and mouth filled with the taste of last night’s sorrow. Brandy had blunted the edge, but grief had filed it sharp again while I slept.
+The morning after Herma’s death arrived without ceremony. No sunbeam haloed the windows. No birds etched the silence. I woke late, head pounding, stomach churning, and mouth filled with the taste of last night’s sorrow. We’d toasted Herma at the Eolian, and I’d continued on when I got back to Anker’s.  
 
-I didn’t rise at first. I lay still beneath the thin blanket in Anker’s attic room, watching the ceiling crack along a lazy seam, the timber beam above me like a distant road I could never walk.
+I didn’t rise at first. I lay still beneath the thin blanket in my small upstairs room at Anker’s, tracing the ceiling crack along a lazy seam. A pattern that meant nothing. Or everything. I couldn’t tell anymore.  
 
-Memory returned slowly, not as a rush of pain but as a damp cold seeping into the joints. Herma’s face appeared, not with the sharpness brought by illness, but softened in the half-light of recollection. A crooked smile came to mind, along with the way he tilted his head when puzzling over a knot, as if it might reveal its secret if he waited long enough. There was also the rare, warm patience he offered to students who deserved none of it, myself among them.
+Memory returned slowly, as ground-damp seeping through stone. Each detail pooling in the low places grief had carved. Herma’s face appeared, not with the sharpness brought by illness, but softened in the half-light of recollection. A crooked smile came to mind, along with the way he tilted his head when puzzling over a particularly stubborn knot, fingers trembling slightly. I’d thought it merely concentration at the time. Now I wondered what else I’d missed, what other signs I’d been too wrapped in my own concerns to see.  
 
-He was gone. And the world had the gall to keep turning.
+But he was gone. And the world had the gall to keep turning.  
 
-### * * *
+Through the floor came the ordinary sounds of Anker’s common room. The scrape of a chair, the clink of plates, someone asking about the weather. The world was full of people who didn’t know Herma was dead. It felt like a betrayal.  
 
-A week had passed and Herma was still gone.
+Eventually, I would have to join them. Eventually, I would have to become one of those people for whom life simply continued. But not yet.  
 
-I crossed the stone span to the Archives just before second bell, my best coat pulled high against a lazy wind. The sun blinked through thin morning mist, gray-gold and washed out.
+### * * *  
 
-Inside, the quiet felt different today. It wasn’t reverent exactly, just simply drained. The scent of parchment and dust seemed thinner. The tension in the air no longer tingled with curiosity. Instead, it hung slack and unstrung, like a harp left untuned.
+A week had passed and Herma was still gone.  
 
-I offered a nod as I passed the Scrivs’ counter. Only Renner was on duty this early, his eyes bracketed with weariness. He gave a perfunctory tilt of the head that might once have been a greeting.
+I crossed the Stonebridge to the University just before second bell, my shaed belted against the chill. The sun peeked through the lifting fog, gray-gold and washed out.  
 
-My feet turned of their own accord, leading me through the lower stacks, down a marble-inset hallway I’d come to know well. I moved without thinking, the same way your hand finds half-forgotten scars.
+Inside, the quiet still felt tired and sad. The scent of parchment and dust seemed thinner. The tension in the air no longer tingled with curiosity. Instead, it hung slack and unstrung, like a harp left untuned.  
 
-There had been a table toward the back, half-hinged and warped with water beneath its varnish, where Herma and I had spent three measured afternoons parsing knot-codes from the Barony of Okorran. We had argued, though gently, about redundancies of vowel-float and semantic inversions embedded in the spacing.
+I offered a nod as I passed the Scrivs’ counter. Only Renner was on duty this early, his eyes bracketed with weariness. He gave a perfunctory tilt of the head that might once have been a greeting.  
 
-I reached it again. Still warped, still quiet.
+My feet turned of their own accord, leading me through the lower stacks, down a gray stone hallway I’d come to know well. I moved without thinking, the same way your hand finds half-forgotten scars.  
 
-Even the dust hadn’t been disturbed.
+There had been a table toward the back, worn smooth in shallow troughs where countless elbows had rested. Herma and I had spent several measured afternoons there, parsing knot-codes from the Barony of Okorran. We had argued, though gently, about redundancies of vowel-float and semantic inversions embedded in the spacing.  
 
-No record slips. No books left waiting for re-shelving. And most telling: no coils of knotted rope.
+I reached it again. Still warn, still quiet.  
 
-My blood ticked louder in my ears.
+Even the dust hadn’t been disturbed.  
 
-At the nearest counter, I waited until a scriv noticed me. She had short-cropped hair and the pallor of someone raised on too much lamp-light.
+No record slips. No books left waiting for re-shelving. And most telling, no coils of knotted rope.  
 
-“Excuse me,” I said as easily as I could manage. “I was working with several Yllish texts, mostly unbound knotworks sourced from the Maer’s third donation. They were shelved on level three, alcove M-fifteen. Are they being restored or are they available?”
+My blood ticked louder in my ears.  
 
-She barely looked up. “That collection’s been recategorized.”
+At the nearest counter, I waited until a scriv noticed me. She had short-cropped hair and the pallor of someone raised on too much lamp-light.  
 
-I blinked. “Recategorized?”
+“Excuse me,” I said as easily as I could manage. “I was working with several Yllish texts, mostly unbound knotworks sourced from the Maer’s third donation. They were shelved on level three, alcove M-fifteen. Are they being restored or are they available?”  
 
-“Administrative reassignment,” she clarified, brushing a ribbon of ink from her hand. “Now under the direct supervision of Archivist Brandeur. Restricted until further notice.”
+She barely looked up. “That collection’s been recategorized.”  
 
-“Restricted?” I tried, casually enough. “I’ve been working with those individual entries for over three terms. I’ve cited them in three separate admissions reviews.”
+I blinked. “Recategorized?”  
 
-She shrugged, the motion small and unconcerned. “Doesn’t change the classification. Anything under Archivist supervision requires written clearance.”
+“Administrative reassignment,” she clarified, brushing a ribbon of ink from her hand. “Now under the direct supervision of Master Brandeur. Restricted until further notice.”  
 
-That word again. Clearance. A thin veil over countless locked doors.
+“Brandeur?” I kept my face still. “The Master Arithmetician?”  
 
-“And the ledger slips?” I asked, voice just a shade cooler. “There should be records of each knotwork’s circulation.”
+“That’s right.” She said it as if it were the most natural thing in the world.  
 
-“That’s strange,” she frowned scanning the logbook. “Your name should be here. Was there another designation you used?”
+But it wasn’t. This was Lorren’s realm. Having the Master Arithmetician supervise Yllish knotworks made as much sense as asking the Master Alchemist to tune the Artificery workshops.  
 
-I didn’t answer.
+“Is that unusual?” I said carefully. “Wouldn’t Master Lorren typically handle interim linguistic duties himself?”  
 
-Because I had used my name. I logged them distinctly and consistently. Herma had even approved one under his seal for an independent study admission. That knotwork had been my connection to him these final months. And it had been erased.
+The scriv’s expression didn’t change. “I don’t make the classifications. I just record them.”  
 
-I didn’t thank the scriv. I walked away before my mouth could come to any ill-considered conclusions.
+“And when was this reassignment made?”  
+
+She consulted her ledger, running one finger down a column of entries. “Four days ago. And anything under Master supervision now requires written clearance.”  
+
+Four days. I’d been at the Eolian drinking to Herma’s memory while someone had been here. Moving books. Changing ledgers. Locking doors.  
+
+“I see,” I said. “And the ledger slips? There should be records of each knotwork’s prior circulation.”  
+
+“Let me check.” She turned to a different logbook, flipping back several pages. Her frown deepened. “That’s strange. Your name should be here. Was there another designation you used?”  
+
+I didn’t answer immediately. Because I had used my name. I logged them distinctly and consistently. The Maer’s patronage had granted me access. It had been documented, verified, sealed. Herma had even approved one under his seal for an independent study admission. That knotwork had been my connection to him these final months.  
+
+Someone had gone through the ledgers. Someone with access and authority. Someone who knew which entries to erase and which to leave untouched.  
+
+Someone who wanted them where Lorren wouldn’t look too closely.  
+
+My hand found the edge of the counter. “No,” I said finally. “Just my name. Kvothe.”  
+
+She made a small notation. “I can submit a request to Master Brandeur’s office if you need access restored.”  
+
+“Thank you, but that won’t be necessary.” Not yet, anyway. Not until I understood what game was being played.  
+
+I made my way back through the stacks, my mind turning over the pieces like a lock I couldn’t quite open. The knotworks restricted within days of Herma’s death. My access records erased from the ledgers. A Master Arithmetician given authority over linguistic texts.  
+
+Some people, it seemed, had the power to decide what was remembered.  
+
+And what was allowed to be forgotten.  
+
+Herma deserved better than that.  
 
 ### * * *
 
