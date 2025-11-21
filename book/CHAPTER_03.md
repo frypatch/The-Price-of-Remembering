@@ -123,27 +123,19 @@ Eventually, I would have to join them. Eventually, I would have to become one of
 
 ### * * *  
 
-A week had passed and Herma was still gone.  
+A week had passed, and Herma was still dead.  
 
 I crossed the Stonebridge to the University just before second bell, my shaed belted against the chill. The sun peeked through the lifting fog, gray-gold and washed out.  
 
-Inside, the quiet still felt tired and sad. The scent of parchment and dust seemed thinner. The tension in the air no longer tingled with curiosity. Instead, it hung slack and unstrung, like a harp left untuned.  
+Inside, the quiet still felt tired and sad. No footsteps echoed from the distant stacks. No whispered conversations drifted from the reading tables. No turning pages rustled in the alcoves where students normally hunched over their studies. The reading tables stood empty. The request ledger lay bare. Even the dust seemed to have settled differently, undisturbed by the constant movement of students. The atmosphere hung slack and unstrung, like a harp left untuned.
 
-I offered a nod as I passed the Scrivs’ counter. Only Renner was on duty this early, his eyes bracketed with weariness. He gave a perfunctory tilt of the head that might once have been a greeting.  
+I offered a nod as I passed the Scrivs’ counter. Only Renner was on duty, his eyes shadowed with weariness. He gave a perfunctory tilt of the head that might once have been a greeting.  
 
 My feet turned of their own accord, leading me through the lower stacks, down a gray stone hallway I’d come to know well. I moved without thinking, the same way your hand finds half-forgotten scars.  
 
 There had been a table toward the back, worn smooth in shallow troughs where countless elbows had rested. Herma and I had spent several measured afternoons there, parsing knot-codes from the Barony of Okorran. We had argued, though gently, about redundancies of vowel-float and semantic inversions embedded in the spacing.  
 
-I reached it again. Still warn, still quiet.  
-
-Even the dust hadn’t been disturbed.  
-
-No record slips. No books left waiting for re-shelving. And most telling, no coils of knotted rope.  
-
-My blood ticked louder in my ears.  
-
-At the nearest counter, I waited until a scriv noticed me. She had short-cropped hair and the pallor of someone raised on too much lamp-light.  
+But when I reached it, I saw it had been cleared. No record slips. No books left waiting for re-shelving. And most telling, no coils of knotted rope. At the nearest counter, I waited until a scriv noticed me.  
 
 “Excuse me,” I said as easily as I could manage. “I was working with several Yllish texts, mostly unbound knotworks sourced from the Maer’s third donation. They were shelved on level three, alcove M-fifteen. Are they being restored or are they available?”  
 
@@ -151,7 +143,7 @@ She barely looked up. “That collection’s been recategorized.”
 
 I blinked. “Recategorized?”  
 
-“Administrative reassignment,” she clarified, brushing a ribbon of ink from her hand. “Now under the direct supervision of Master Brandeur. Restricted until further notice.”  
+“It’s been reassigned administratively,” she clarified, brushing a ribbon of ink from her hand. “It’s under Master Brandeur’s supervision now. Restricted access until they say otherwise”  
 
 “Brandeur?” I kept my face still. “The Master Arithmetician?”  
 
@@ -173,107 +165,73 @@ Four days. I’d been at the Eolian drinking to Herma’s memory while someone h
 
 “Let me check.” She turned to a different logbook, flipping back several pages. Her frown deepened. “That’s strange. Your name should be here. Was there another designation you used?”  
 
-I didn’t answer immediately. Because I had used my name. I logged them distinctly and consistently. The Maer’s patronage had granted me access. It had been documented, verified, sealed. Herma had even approved one under his seal for an independent study admission. That knotwork had been my connection to him these final months.  
+I didn’t answer immediately. Because I had used my name. I logged them distinctly and consistently. The Maer’s patronage had granted me access. It had been documented, verified, sealed. Herma had even approved one under his seal for an independent study admission.  
 
-Someone had gone through the ledgers. Someone with access and authority. Someone who knew which entries to erase and which to leave untouched.  
+“No,” I said, turning to go. “Just my name. Kvothe.” I took a longer path back to the upper stacks while my mind turned over the pieces like a lock I couldn’t quite open. The knotworks restricted within days of Herma’s death. My access records erased from the ledgers. A Master Arithmetician given authority over linguistic texts.  
 
-Someone who wanted them where Lorren wouldn’t look too closely.  
+At Herma’s study alcove, I drew out the key he’d given me months ago. I’d thought about returning it a dozen times, but couldn’t bring myself to do it. Perhaps no one even knew I had it. Inside the narrow room, my fingers found the familiar pages. Not a journal, not exactly. Just a slim folio, always tucked away on the left shelf.  
 
-My hand found the edge of the counter. “No,” I said finally. “Just my name. Kvothe.”  
+Herma had used it to warm up his mind before sessions. A place to stretch before working real translations. More than once I’d watched him undo loops, scrawl alternate glyphs, knot half-thought riddles. Equal parts study and scribble.  
 
-She made a small notation. “I can submit a request to Master Brandeur’s office if you need access restored.”  
+He always left it here, half-buried beneath old parchment. Like a bookmark between afternoons. I’d left margin-scribbles there myself. Questions beside his thoughts. He never answered in ink.  
 
-“Thank you, but that won’t be necessary.” Not yet, anyway. Not until I understood what game was being played.  
+Then, on the third-to-last page, there was a single, complex glyph knotted in both forward and reverse syntax. The spacing between loops was irregular. Vowel markers appeared where consonant anchors should be. It repeated back on itself like a snake eating its tail, creating semantic inversions that couldn’t exist in proper Yllish. A puzzle warping the language’s own rules.
 
-I made my way back through the stacks, my mind turning over the pieces like a lock I couldn’t quite open. The knotworks restricted within days of Herma’s death. My access records erased from the ledgers. A Master Arithmetician given authority over linguistic texts.  
+I stared at it. The longer I looked, the less sense it made. And yet it wanted to be something. Not speech, certainly. But structure. The pieces were there.  
 
-Some people, it seemed, had the power to decide what was remembered.  
+I turned the folio to look at it from a different angle, but the page shifted under my fingers. Loose. I stilled, then turned it gently in the light. The binding showed a gap where thread should hold. And in that gap, the stub of a cut page, flush against the spine.  
 
-And what was allowed to be forgotten.  
+Someone had removed an entire leaf. Carefully.  
 
-Herma deserved better than that.  
+Someone who knew books.  
 
-### * * *
+I could feel something slithering into shape. The tremor in his hands. The fumbled loops. “You were never just failing, were you?” I whispered.  
 
-Back in the upper stacks, I took a different stair. Not the eastern one, where the marble had worn soft in the center.
-
-I needed to clear my head.
-
-Instead, I found my fingers tracing ink along familiar paper. Not a journal, not exactly. Just a slim folio, always tucked beneath the table’s left shelf. Barely hidden, never sealed.
-
-It wasn’t formally protected because it wasn’t meant to be. It wasn’t an archive. It was something more private, a kind of working sketchbook that Herma used to warm his hands against the cold of translation. It was a half-scribed place to stretch the mind before working real knots.
-
-More than once, I’d watched him undo loops, scrawl alternate glyphs, knot half-thought riddles like seeds scattered in dry soil. It was equal parts study and scribble. The kind of space only someone serious about understanding ever bothers to make. 
-
-He always left it here, half-buried beneath old parchment, like a bookmark between afternoons. Not forgotten. Just routine. A kind of ritual. His way of picking up the rhythm of last week so his hands wouldn’t wander today. I’d left margin-scribbles there myself before. Questions beside his thoughts, left like seeds. He never answered. Not in ink.
-
-Then, on the third-to-last page, there is a single, complex glyph. It was knotted in both forward syntax and reversed. It was repetitive. Redundant. Wrong.
-
-I stared at it. The longer I looked, the less sense it made. And yet it wanted something. Not speech, certainly. But structure. It echoed a kind of purposeful confusion. The way a cipher sometimes doubles back and eats its own tail.
-
-“You left me pieces,” I whispered to the page.
-
-And then I noticed it, a smudge. Faint. Not ink, not quite. A grayish crescent was tucked beneath one glyph’s loop, perhaps a thumbprint. It was not Herma’s. The shape was too thick, too firm.
-
-I turned the journal gently in the light.
-
-Branded parchment.
-
-One watermark, just visible, ghosted along the page. It was the Arcane Bursar’s own. If ink could tell you who owned it, this page would shout of Hemme’s gatekeeping.
-
-My fists itched. I could feel something slithering into shape, but I had too few pieces.
-
-“You were never just failing,” I said to the ghost of Herma’s hand. “Were you?”
-
-Nothing in the book answered. But absence speaks too. 
-
-Outside, bells marked third bell with a softer voice. On this side of grief, I heard it differently. There was a pattern here. I could feel it tug, taut as breath. And I wasn’t letting it slip.
+Nothing in the book answered. But absence speaks too.  
 
 ### * * *
 
-The common room at Anker’s was quieter than usual, with no bellowing arguments over dice and no half-drunken students trying to rewrite ballads louder than the competition. Just the low hum of voices and the knock of tankards on old oak. Life moving forward, as it always does.
+The common room at Anker’s held its usual chaos. Students bellowed arguments over dice, rewriting ballads half-drunk, each trying to drown out the competition. But beneath it all ran the steady current—the low hum of voices and the knock of tankards on old oak. Life moving forward, as it always does.  
 
-Simmon saw me first. He raised a hand from our corner table, two fingers lifted in lazy greeting. Wil was already seated across from him, arms crossed over his chest, one boot up on the bench. A small pile of dice sat between them, the evidence of a game grown tired or one interrupted.
+Simmon saw me first. He raised a hand from our corner table, two fingers lifted in lazy greeting. Wil was already seated across from him, mug in his hand, one boot up on the bench. A small pile of dice sat between them.  
 
-I slid onto the bench beside Sim and laid Herma’s folio carefully on the table.
+I slid onto the bench beside Sim and laid Herma’s folio carefully on the table.  
 
-Wil gave it a glance. “We drinking tonight or introducing bedtime reading to the betting table?”
+Wil gave it a glance. “We drinking or reading bedtime stories?”  
 
-“He’s brooding,” Sim murmured too gently to sting.
+“He’s brooding,” Sim murmured too gently to sting.  
 
-“I’m,” I stopped. No clever deflection came. “There’s something wrong.”
+“I’m,” I stopped. No clever deflection came. “There’s something wrong.”  
 
-They both looked at me.
+They both looked at me.  
 
-Wil’s brow lifted. Sim’s creased with concern.
+Wil’s brow lifted. Sim’s creased with concern.  
 
-“Of course there is,” Wil said, leaning back. “The Chancellor’s dead. Hemme’s stomping around with a seal he doesn’t deserve, and Brandeur’s pretending to matter.”
+“Of course there is,” Wil said, leaning back. “The Chancellor’s dead. Hemme’s stomping around with a seal he doesn’t deserve, and Brandeur’s pretending to matter.”  
 
-Sim cut in before I could answer. “Whatever you think’s crawling under the floorboards, Kvothe, it isn’t going to undo a funeral.”
+I pushed the journal toward them, past the line of dice. “Look anyway.”  
 
-I pushed the journal toward them, past the line of dice. “Look anyway.”
+Wil didn’t reach for it. Sim did. His fingers brushed against the page with the strange Yllish glyph.  
 
-Wil didn’t reach for it. Sim did. His fingers brushed against the page I’d marked, one of the later ones where Herma’s writing began to slip sideways into gibberish and broken rhythm.
+“I saw the knotwork log erased this morning,” I said. “Three terms gone. Herma’s seal gone too. And now one of his last notes is missing from this folio.”  
 
-“I saw the knotwork log erased this morning,” I said. “Three terms gone. Herma’s seal gone too. And now one of his last notes is written on paper from the Arcane Bursar’s desk.”
+Wil snorted. “What is your theory? Hemme poisoned him mid-syllable? Brandeur sent a cursed fruit bowl?”  
 
-Wil snorted. “What’s the theory? Hemme poisoned him mid-syllable? Brandeur sent a cursed fruit bowl?”
+Sim didn’t smile. He turned to another page.  
 
-Sim didn’t smile. He turned another page.
+“I’m not saying I know,” I said, my throat tight. “But something doesn’t fit. These are the last notes Herma left. They’re unfinished, cryptic, written like he meant to return to them. And now, just a week after his death, I need to file a written petition to continue our work.”  
 
-“I’m not saying I know,” I said, my throat tight. “But something doesn’t fit. These are the last notes Herma left. They’re unfinished, cryptic, written like he meant to return to them. Now, just days after his death, they’re locked away, and there’s Bursar ink on one of the final pages.” 
+Sim looked up, his voice careful now. “Kvothe, do you think you’re following a thread?” He hesitated, clearly trying not to hurt me. “Or are you just trying not to let go?”  
 
-Sim looked up, his voice careful now. “Kvothe, do you think you’re following a thread?” He hesitated, clearly trying not to hurt me. “Or are you just trying not to let go?”
+That hit harder than I expected. Not cruel. True.  
 
-That hit harder than I expected. Not cruel. True.
+But I said, softly, “Maybe both.”  
 
-But I said, softly, “Maybe both.”
+Wil leaned back. “When does it ever fit together for you? Half your ideas are square pegs in round holes.”  
 
-Wil leaned back, arms crossed. “When does anything ever fit together for you? Honestly, half your cleverest ideas come from stuffing square pegs into round holes.”
+“I know,” I began, my eyes on the journal. “But this knot is different.”  
 
-“I know, but this,” I began, my mind tangled and my eyes never leaving the journal. “This knot is different.”
-
-Wil groaned. “This is going to end well. So very well.”
+Wil groaned. “This is going to end well. So very well.”  
 
 ### ~ ~ ~
 
