@@ -39,17 +39,19 @@ Another ache surfaced. Not sharp, merely insistent. Pain can be set aside. Regre
 
 ### * * *  
 
-When he returned, the kettle waited. It was soot-black, solid, and familiar. The sort of friend that helps without reproach. With practiced motions, he set it on the iron ring and lit the flame beneath.  
+When he returned, he stood by the window and began the first movements of the Ketan. Slowly. Carefully. Stone in Water became Catch Sparrow. His ribs protested. His hands moved through the forms but without the grace they once possessed.
 
-From a paper pouch, he pinched the dried powder. Nahlrout. Bitter, chalky, and deadening in equal measure. It didn’t cure. It didn’t heal. It stole. It robbed pain of speech for a few hours and then left you too empty to argue.  
+The Adem had taught him to breathe through pain. To acknowledge it without letting it rule. But that had been when his body answered his commands with precision, when his mind could slip into the perfect calm of the Lethani.
 
-The kettle heated. When the steam rose, he brewed the tea darker than ever. No honey. No sweetening. Nothing but heat and silence. He sipped once, then again, and felt the ache in his ribs dull to a whisper. He felt the trembling behind his eyes steady into something manageable. Just enough to move. Enough to face the day.  
+Now, the movements brought only stiffness and the reminder of what he'd lost.
 
-Praise cleverness, he thought, with a harshness to match the tea. Clever enough to find his own supply when no tinker was in town. Clever enough to tell himself that a daily cup was nothing more than an old habit. Clever, even, for figuring out how often to redose to make it through the day.  
+He stopped halfway through the third form. It wasn't working. It never did anymore. He moved to the kettle instead—soot-black, solid, and familiar. The sort of friend that helps without reproach. He set it on the iron ring and lit the flame beneath.
 
-He dressed in silence. Each motion was measured, each breath a quiet bargain. Outside, the light eased its way across the window, its warmth prodding the room to life.  
+From a cloth pouch, he pinched dried leaves. Simple feverfew. Nothing more. The kettle heated, and when the steam rose, he brewed the tea bitter and dark. He sipped once, then again, feeling the small comfort of warmth more than any medicine.
 
-He left the room without straightening his shirt and without reclaiming his mask. After all, they knew him too well by now.  
+He dressed in silence. Each motion was measured, each breath a quiet negotiation with his body. Outside, the light eased its way across the window.
+
+He left the room without straightening his shirt and without reclaiming his mask. After all, they knew him too well by now.
 
 ### * * *  
 
