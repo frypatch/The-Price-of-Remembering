@@ -59,7 +59,7 @@ Not the hush of early hour or unlit lamps. This silence was waiting. It clung to
 
 The hearth held only ash, and no firewood had been brought up from the shed. In the kitchen, the breadboard lay empty and clean. The pump hadn’t been primed, and no kettle hissed on the stove.  
 
-The red-haired innkeeper, seeing all of it, shuffled toward Chronicler's table instead.  
+The red-haired innkeeper, seeing all of it, shuffled toward Chronicler’s table instead.  
 
 Some mornings, the shape of the day came in flour-dusted fingers and kettle steam. Today, it did not.  
 
