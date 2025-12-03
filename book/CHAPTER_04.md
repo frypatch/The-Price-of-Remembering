@@ -49,7 +49,7 @@ That night at the Medica’s side entrance, with the vials sitting cold against 
 
 But I’d opened worse. My fingers found the pins, and the lock gave way, its well-oiled mechanism yielding without so much as a click. I lifted the lid. The guilder looked ordinary at first glance. A flat lead disc with sygaldry stamped into its surface. Plain. Utilitarian. The sort of token any full arcanist carried. When I picked it up, the numbing sensation was there, like it had been when I’d held Abenthy’s guilder. But its protective bite was blunted, and didn’t grow as I held it longer. Underneath, my fingers detected what felt like a crackled surface, but when I turned it over the back was smooth and unremarkable.  
 
-I tipped one of Devi’s vial over the guilder. Slow and careful. The liquid slipped across the sygaldry, winding into every groove. At first, nothing. The air held still. Then, salt crystals crawled along lines, thin and sharp, glittering like frost.  
+I tipped Devi’s vial over the guilder. Slow and careful. At first, nothing as the liquid slipped across the sygaldry. Then, salt crystals crawled along lines, thin and sharp, glittering like frost.  
 
 Behind me, Sim inhaled. His breath caught. “Is that normal?”  
 
@@ -91,37 +91,139 @@ I gave him a staged smile. “Please, let me try. Give me three days of careful 
 
 ### * * *
 
-### * * *
+The afternoon found me in a forgotten corner of the Fishery, gathering materials so simple they drew no attention. Thin copper wire, two small brass resonators no larger than thimbles, and a cake of rosin.  
 
-The next afternoon, Brandeur’s measured monotone droned in the lecture hall, filling the air like bad music. He tinkered with theories too dry to spark interest, too dull to linger in memory. Most students stared blankly, their minds somewhere else entirely. I sat near the front, making certain my presence unspooled against his awareness like a snagged thread.
+Chronicler’s pen stopped mid-stroke. He looked up sharply. “Wait. Is this when you invented the far listener?”  
 
-“Hemme might’ve thought this was clever,” I muttered, just loud enough to be heard. My lips brushed the words softly, almost to myself, though I chose them with care. “It seems so simple. But it’s always the cracks. Things slip there first.”
+I blinked at the interruption, pulled from the memory. “What? No.” I laughed, reaching for my mug. “Chronicler, every child knows about connecting toys fashioned from two cups and a string. I simply tried better materials.”  
 
-To his credit, Brandeur’s voice didn’t stumble midsentence, but the brief flicker of his eyes told me what I needed to know. Some threads, even careless ones, pulled tighter than others.
+“But,” Chronicler set down his pen carefully, as if afraid sudden movement might shatter something. “The far listener. The ones the Commonwealth uses to coordinate their road stations and post houses. You’re saying that came from a child’s toy?”  
 
-Hours later, I caught him moving across the cobblestones. His gait was sharp and purposeful, his steps cutting through the twilight gloom. He moved toward Hemme’s office. I trailed him at a distance, my own movements quiet as I made my way to the gargoyle fountain.
+“Isn’t that where most good ideas come from?” I shrugged. “I needed to hear a conversation through fifty feet of stone wall. I was about to try anything, even a child’s toy.”  
 
-The night deepened around me, my breath curling faint in the cold as I crouched low beside the fountain. I reached out with my Alar and coaxed the overcurious wind to weave its thread. One side drifted toward Hemme’s shuttered office while the other slipped toward Kilvin's. Calling the wind was not force. It was seduction, a kind of charm you encouraged gently, as if leading a bird to your open hand. Slowly, I teased softness into firmness and murmured until it yielded.
+“But how does it work?” Chronicler leaned forward. “How does sound travel through a wire?”  
 
-Hemme’s voice rode the current first, sharp and clipped. “It was delicate work, nothing more. Not sabotage. A gentle nudge. Something no one should have noticed.”
+“I don’t know,” I admitted.  
 
-Another voice, softer, less distinct. “And Herma?”
+Chronicler blinked. “You don’t know?”  
 
-Hemme’s voice carried through the wall. “Herma was old.” There was a thread of exasperation in it, pulled thin. “This didn’t kill him. Time did. I only helped it along.”
+“I know that it works,” I said. “I know that metal wire works better than string. That taut works better than loose. That certain shapes catch sound better than others—bell-shapes over flat disks. That copper is better than iron.” I ticked off points on my fingers. “I know that if you add a binding rune, it carries farther. If you add a clarity rune, it comes through cleaner. But how the sound moves through metal?” I shook my head. “No idea. It just does.”  
 
-The wind trembled. It slipped free of my words, and the voices dissolved into the night. Still, I had heard enough. My teeth clenched against the weight of it. Hemme’s confession was soft. Ordinary. But true. Herma hadn’t needed to die. I could only hope the current I had set loose would carry his words to Kilvin.
+“So you just tried things until they worked?”  
 
-### * * *
+“Isn’t that what all artificers do?” I smiled. “Master Kilvin himself once told me, ‘The world does not care what you think should work. It only cares what does.’ So I tried everything I could think of. Kept what worked, discarded what didn’t.”  
 
-The trial took weeks to wind its way into motion. Weeks where I made myself stay quiet, an unseen Cthaeh easing pieces into place while others bore the weight of suspicion. Kilvin carried the case where I could not, pulling together threads I’d left carefully loose behind me, his calm authority reshaping what I couldn’t touch directly.
+Bast grinned. “Forty-seven failures.”  
 
-When Hemme finally stood beneath the shadow of the Iron Law, I remained in the gallery, one face in a sea of quiet onlookers. Kilvin testified with grave simplicity, recounting a trail of evidence that pointed unmistakably toward tampering, and toward Hemme. Arwyl followed, dragging the room through his detailed reexamination of Herma’s body. Signs of malfeasance. Tiny, deliberate patterns.
+“Forty-seven attempts,” I corrected. “Each one taught me something.” I paused. “Though I’ll admit, most of what they taught me was ‘don’t do that again.’”  
 
-It wasn’t the confession itself that struck Hemme down. It was the weight of too many threads woven against him, and the smallest fray in his infamous control. The records of materials purchased from the Artificery. The faint patterns in Herma’s decline. His accomplice’s silence. It was inevitable, like a rope drawn tight enough to strangle.
+“Still,” Chronicler said slowly, “to improve a child’s toy into something the Commonwealth relies on?”  
 
-But even as the trial resolved, I found no satisfaction. Justice wasn’t sharp, not like guilt. It wasn’t clean. It was heavy and dull, something that settled slowly into grief’s hollow weight. I told myself it was enough, though I could not say for sure if I believed it.
+“I worked on it afterwards,” I admitted. “Refined the design. It became something of a project. Took most of a span and those forty-seven attempts to really perfect it. But I learned what mattered—wire thickness, resonator shape, rune placement, proper mounting to maintain tension.” I felt warmth creep into my face. “With the right setup, multiple relay stations carefully calibrated, I was able to maintain perfect clarity at over three miles. Under ideal conditions.”  
 
-What I know is this. I spent long nights awake, staring at the ceiling, chasing the thought. Wondering if I might have found it sooner. If I had tugged at the thread before it knotted. If it would have made a difference. If it would have mattered.
+Chronicler stared at me. “Three miles.”  
+
+“It’s what finally convinced Kilvin to sponsor me for El’the,” I said quietly. “I showed him how it could coordinate emergency response across the University. He saw the potential for road safety, coordinating healers between towns,” I paused. “Though I’ve heard rumors the Commonwealth military adopted them later. Kilvin wouldn’t have been pleased about that.” I looked down at my scarred hands. “But that first night, I only needed it to work fifty feet. And I needed it to work the first time.”  
+
+“And did it?” Chronicler asked.  
+
+“Well enough,” I said. “I’d spent the previous evening testing in my room at Anker’s. Thread versus string versus wire. Paper cups versus tin versus brass. Loose versus taut. Every combination I could manage in an hour, speaking softly into one end and listening at the other through my closed door while Sim complained about the noise. But truly, the difficult part wasn’t the device itself.”  
+
+### * * *  
+
+The Masters’ lounge sat on the second floor of Hollows, overlooking the inner courtyard. I’d been inside exactly once, delivering a message for Master Lorren. Large leather chairs. Dark wood paneling. A fireplace for the colder months. And most importantly, Masters gathered there after dinner, discussing University business over wine and conversation.  
+
+Getting inside during the afternoon was simple enough. A word with the right servant, a claim about checking the sympathy lamp over the reading desk. The lounge was usually empty this time of day. Masters were teaching, or in their offices, or in the Archives.  
+
+I worked quickly. The wire fed up from Hemme’s office on the third floor of the Rhetoric wing, through the same maintenance shaft that carried sympathy lamp lines to the roof. From there, I’d threaded it across the ridgeline and fished it down through the chimney shaft. It had taken me an hour the night before, testing routes by tapping on stone and listening for hollow spaces. Now the wire emerged behind the fireplace in the Masters’ lounge, exactly where I needed it.  
+
+I secured the horn-shaped resonator there, wedged it carefully so it wouldn’t shift and hid it from view. Positioned it to project toward the center of the room where conversation would naturally gather. Then I tested the tension. Plucked the wire gently and listened. It sang with a clear tone. Good. That meant whatever Hemme said in his office should be heard here.  
+
+I told myself it might not work. The wire could snap from tension before evening came. The resonance might be too weak to project clearly into the room. Hemme might not have the conversation I needed, or might have it somewhere else entirely. The Masters might not gather in the lounge tonight. Or the wrong Masters might be there.  
+
+But I had three days to trap him.  
+
+And this was already day two.  
+
+### * * *  
+
+The next afternoon, Brandeur droned on in the lecture hall, something about geometric proofs and their elegant certainties. Most students stared blankly, their minds wandering.  
+
+I had dragged Sim along, and we sat near the front. Close enough to be seen. Close enough to be heard.  
+
+When the lecture ended and students shuffled toward the doors, we lingered. Brandeur’s portly frame moved methodically as he packed his materials. Sim shot me a questioning look, but I kept my attention on my notes, making a show of reviewing them.  
+
+I waited until the room had nearly emptied. Then, pitching my voice the way my father had taught me, a stage whisper that would carry to where Brandeur stood while seeming intimate, I said to Sim, “Hemme must have thought himself clever. Such delicate work.” I paused, as if considering. “But even the smallest flaws have a way of revealing themselves.”  
+
+To his credit, Brandeur’s hands didn’t pause with their packing, but the brief flicker of his eyes toward us told me what I needed to know.  
+
+The seed was planted.  
+
+### * * *  
+
+Dinner bells had rung. Classes dismissed. The afternoon dissolved into evening.  
+
+I’d been lounging on a doorway stoop. Waiting. Watching. When Brandeur finally emerged from Hallows, he headed straight towards the Rhetoric wing. Towards Hemme’s office. His gait was sharp. Purposeful. His usual cautious shuffle replaced by something more urgent.  
+
+Dinner must have ended. The other masters would be gathering in the lounge for their evening discussions. If they followed their usual routine. If enough of the right Masters were there. If the device I’d planted actually worked.  
+
+Too many ifs.  
+
+But it was too late to change anything now. I’d set everything in motion.   
+
+The device was planted. Brandeur would confront Hemme after dinner, when Masters typically gathered in the lounge.  
+
+Or he wouldn’t.  
+
+Or he would, but the lounge would be empty.  
+
+Or Hemme would notice the brass resonator hidden behind the chair.  
+
+Or the wire had snapped during the day.  
+
+Or only Hemme’s allies would be there to hear it, and I’d be expelled by morning.  
+
+Or. Or. Or.  
+
+I paced. The not knowing was worse than anything. I’d gambled everything on a plan where I couldn’t even know if it had worked. No way to hear if Masters were in the lounge. No way to know if the device projected clearly enough. No way to know if Hemme had even said anything worth hearing.  
+
+The anxiety built. Coiled tight in my chest from the desperate need to know. To hear what was happening in that room. To find out if everything I’d risked had been for nothing.  
+
+I needed to know. Needed to hear.  
+
+The wind came then.  
+
+Not called. Not commanded. Just. There. The way it had been lately when my emotions ran too hot, too desperate. When grief or rage or need became so sharp that the sleeping mind woke and reached for the Name before the waking mind even knew what it was doing.  
+
+I stopped pacing. Let the anxiety wash over me instead of fighting it. Let myself be still in the center of that desperate need. Reached for that quiet place where Names could be perceived. Where understanding lived beneath conscious thought.  
+
+And I heard them.  
+
+Thin. Distant. Fragmented. Like listening to a conversation through water, or from three rooms away. But clear enough.  
+
+“...impossible. Herma’s gram was inspected...” Kilvin’s voice, sharp with disbelief.  
+
+Then others, overlapping. Arwyl saying something about the autopsy. Dal’s measured tones cutting through. Elodin’s voice, saying something I couldn’t quite catch but edged with anger.  
+
+And underneath it all, the device projected Hemme’s voice. “...the degradation was meant to be gradual. Make him susceptible to winter illness, nothing more. He would have retired by spring...” A pause, heavy with something that might have been regret or might have been fear. “I’d never had to don any of this if he’d simply had the grace to retire when it was time.”  
+
+The wind trembled. My focus wavered, and the voices began to dissolve. I didn’t try to hold them. Didn’t need to.  
+
+I let the wind go. Let the voices fade.  
+
+It had worked.  
+
+### * * *  
+
+The trial took weeks to wind its way into motion. Weeks where I made myself stay quiet, an unseen Cthaeh easing pieces into place while others bore the weight of suspicion. Kilvin carried the case where I could not, pulling together threads I’d left carefully loose behind me, his calm authority reshaping what I couldn’t touch directly.  
+
+When Hemme finally stood beneath the shadow of the Iron Law, I remained in the gallery, one face in a sea of quiet onlookers. Kilvin testified with grave simplicity, recounting a trail of evidence that pointed unmistakably toward tampering, and toward Hemme. Arwyl followed, dragging the room through his detailed reexamination of Herma’s body. Signs of malfeasance. Tiny, deliberate patterns.  
+
+It wasn’t the confession itself that struck Hemme down. It was the weight of too many threads woven against him, and the smallest fray in his infamous control. The records of materials purchased from the Artificery. The faint patterns in Herma’s decline. His accomplice’s silence. It was inevitable, like a rope drawn tight enough to strangle.  
+
+But even as the trial resolved, I found no satisfaction. Justice wasn’t sharp, not like guilt. It wasn’t clean. It was heavy and dull, something that settled slowly into grief’s hollow weight. I told myself it was enough, though I could not say for sure if I believed it.  
+
+What I know is this. I spent long nights awake, staring at the ceiling, chasing the thought. Wondering if I might have found it sooner. If I had tugged at the thread before it knotted. If it would have made a difference. If it would have mattered.  
 
 ### ~ ~ ~
 
