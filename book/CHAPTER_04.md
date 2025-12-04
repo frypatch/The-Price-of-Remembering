@@ -61,7 +61,7 @@ Behind me, Sim inhaled. His breath caught. “Is that normal?”
 
 ### * * *  
 
-Later, Mola would tell me she never looked up. She simply sat at her usual place beneath the cracked stair lamp, pretending to read a Medicae botanica text like she wasn’t listening for footfalls she had no business hearing. That she had kept a calm face and just mouth pressed her lips into the kind of line usually reserved for uncooperative patients.  
+Later, Mola would tell me she never looked up. She simply sat at her usual place beneath the cracked stair lamp, pretending to read a Medicae botanica text like she wasn’t listening for footfalls she had no business hearing. That she had kept a calm face and just pressed her lips into the kind of line usually reserved for uncooperative patients.  
 
 “I didn’t lie,” she had told me. “I just redirected Ezra when he started his rounds early. I told him there was a misfiled note in the apothecary. There wasn’t, but it seemed wiser to put him somewhere else.”  
 
@@ -163,7 +163,7 @@ The seed was planted.
 
 Dinner bells had rung. Classes dismissed. The afternoon dissolved into evening.  
 
-I’d been lounging on a doorway stoop. Waiting. Watching. When Brandeur finally emerged from Hallows, he headed straight towards the Rhetoric wing. Towards Hemme’s office. His gait was sharp. Purposeful. His usual cautious shuffle replaced by something more urgent.  
+I’d been lounging on a doorway stoop. Waiting. Watching. When Brandeur finally emerged from the Masters' quarters, he headed straight towards the Rhetoric wing. Towards Hemme’s office. His gait was sharp. Purposeful. His usual cautious shuffle replaced by something more urgent.  
 
 Dinner must have ended. The other masters would be gathering in the lounge for their evening discussions. If they followed their usual routine. If enough of the right Masters were there. If the device I’d planted actually worked.  
 
@@ -197,25 +197,25 @@ Not called. Not commanded. Just. There. The way it had been lately when my emoti
 
 I stopped pacing. Let the anxiety wash over me instead of fighting it. Let myself be still in the center of that desperate need. Reached for that quiet place where Names could be perceived. Where understanding lived beneath conscious thought.  
 
-And I heard them.  
+The wind wasn't separate from me anymore. It was around me, through me, part of my awareness. I could feel it moving through the courtyard, between buildings, through gaps and cracks. And in that deep understanding of what wind was, I felt trembles, pulses. The air remembering what had moved through it.  
 
-Thin. Distant. Fragmented. Like listening to a conversation through water, or from three rooms away. But clear enough.  
+Voices?  
+
+Thin. Distant. Fragmented. Like listening to a conversation three stalls away in the crowded streets of Tarbean. But my ears were ready.  
 
 “...impossible. Herma’s gram was inspected...” Kilvin’s voice, sharp with disbelief.  
 
 Then others, overlapping. Arwyl saying something about the autopsy. Dal’s measured tones cutting through. Elodin’s voice, saying something I couldn’t quite catch but edged with anger.  
 
-And underneath it all, the device projected Hemme’s voice. “...the degradation was meant to be gradual. Make him susceptible to winter illness, nothing more. He would have retired by spring...” A pause, heavy with something that might have been regret or might have been fear. “I’d never had to don any of this if he’d simply had the grace to retire when it was time.”  
+And underneath it all, the device projected Hemme’s voice. “...nough of this. I told you already, you're over thinkin...” “...quiet no one will...” “...grace to retire.”  
 
 The wind trembled. My focus wavered, and the voices began to dissolve. I didn’t try to hold them. Didn’t need to.  
 
 I let the wind go. Let the voices fade.  
 
-It had worked.  
-
 ### * * *  
 
-The trial took weeks to wind its way into motion. Weeks where I made myself stay quiet, an unseen Cthaeh easing pieces into place while others bore the weight of suspicion. Kilvin carried the case where I could not, pulling together threads I’d left carefully loose behind me, his calm authority reshaping what I couldn’t touch directly.  
+Classes were delayed again as the trial took weeks to wind its way into motion. Weeks where I made myself stay quiet, an unseen Cthaeh easing pieces into place while others bore the weight of suspicion. Kilvin carried the case where I could not, pulling together threads I’d left carefully loose behind me, his calm authority reshaping what I couldn’t touch directly.  
 
 When Hemme finally stood beneath the shadow of the Iron Law, I remained in the gallery, one face in a sea of quiet onlookers. Kilvin testified with grave simplicity, recounting a trail of evidence that pointed unmistakably toward tampering, and toward Hemme. Arwyl followed, dragging the room through his detailed reexamination of Herma’s body. Signs of malfeasance. Tiny, deliberate patterns.  
 
