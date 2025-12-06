@@ -290,38 +290,6 @@ def publish_html_book():
             toc_md += """ {}.""".format(titlecase(subtitle.lower()))
         toc_md += """\n"""
     ######################################################
-    ## Create rich snippets for Google
-    rich_snippet = '''<!-- rich snippet for an eBook -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Book",
-  "name": "''' + dc_title + '''",
-  "author": {
-    "@type": "Person",
-    "name": "''' + dc_creator + '''"
-  },
-  "datePublished": "''' + publish_date + '''",
-  "description": "''' + dc_description + '''",
-  "genre": "''' + dc_subject + '''",
-  "license": "''' + dc_rights + '''",
-  "isbn": "''' + isbn + '''",
-  "publisher": {
-    "@type": "Organization",
-    "name": "''' + dc_publisher + '''"
-  },
-  "image": "''' + website + '''book/images/cover.jpg",
-  "bookFormat": "https://schema.org/EBook",
-  "offers": {
-    "@type": "Offer",
-    "url": "''' + website + '''",
-    "price": "0.00",
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock"
-  }
-}
-</script>'''
-    ######################################################
     ## Now creating the HTML book
     html_page_anchor_template = """<a name="{}"></a>"""
     html_data = '''<!DOCTYPE html>
@@ -332,7 +300,6 @@ def publish_html_book():
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="''' + dc_description + '''">
-''' + rich_snippet + '''
 <style>
 ''' + all_css + '''
 </style>
