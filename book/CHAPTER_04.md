@@ -95,7 +95,7 @@ The afternoon found me in a forgotten corner of the Fishery, gathering materials
 
 Chronicler’s pen stopped mid-stroke. He looked up sharply. “Wait. Is this when you invented the far listener?”  
 
-Kote blinked at the interruption, pulled from the memory. “What? No.” He laughed, reaching for his mug. “Chronicler, every child knows about creating toys fashioned from connecting two cups with a string. I simply tried better materials.”  
+Kote blinked at the interruption, pulled from the memory. “What? No.” He laughed, reaching for his mug. “Chronicler, every child knows about creating toys fashioned from two cups and a string. I simply tried better materials.”  
 
 “But,” Chronicler began, setting down his pen carefully. “The far listener. The ones the Commonwealth uses to coordinate their road stations and post houses. You’re saying that came from a child’s toy?”  
 
