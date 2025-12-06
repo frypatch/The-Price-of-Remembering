@@ -127,7 +127,7 @@ Chronicler stared at him. “Three miles.”
 
 “And did it?” Chronicler asked.  
 
-“Well enough,” Kote said. “I’d recruited Sim the previous evening for testing in my room at Anker’s. Thread versus string versus wire. Paper cups versus tin versus brass. Loose versus taut. Every combination I could manage in an hour, speaking softly into one end while Sim listened on the other side of my closed door, trying to hear over the common room's noise. But truly, the difficult part wasn’t the device itself.”  
+“Well enough,” Kote said. “I’d recruited Sim the previous evening for testing in my room at Anker’s. Thread versus string versus wire. Paper cups versus tin versus brass. Loose versus taut. Every combination I could manage in an hour, speaking softly into one end while Sim listened on the other side of my closed door, trying to hear over the common room’s noise. But truly, the difficult part wasn’t the device itself.”  
 
 ### * * *  
 
@@ -163,7 +163,7 @@ The seed was planted.
 
 Dinner bells had rung. Classes dismissed. The afternoon dissolved into evening.  
 
-I’d been lounging on a doorway stoop. Waiting. Watching. When Brandeur finally emerged from the Masters' quarters, he headed straight towards the Rhetoric wing. Towards Hemme’s office. His gait was sharp. Purposeful. His usual cautious shuffle replaced by something more urgent.  
+I’d been lounging on a doorway stoop. Waiting. Watching. When Brandeur finally emerged from the Masters’ quarters, he headed straight towards the Rhetoric wing. Towards Hemme’s office. His gait was sharp. Purposeful. His usual cautious shuffle replaced by something more urgent.  
 
 Dinner must have ended. The other masters would be gathering in the lounge for their evening discussions. If they followed their usual routine. If enough of the right Masters were there. If the device I’d planted actually worked.  
 
@@ -197,7 +197,7 @@ Not called. Not commanded. Just. There. The way it had been lately when my emoti
 
 I stopped pacing. Let the anxiety wash over me instead of fighting it. Let myself be still in the center of that desperate need. Reached for that quiet place where Names could be perceived. Where understanding lived beneath conscious thought.  
 
-The wind wasn't separate from me anymore. It was around me, through me, part of my awareness. I could feel it moving through the courtyard, between buildings, through gaps and cracks. And in that deep understanding of what wind was, I felt trembles, pulses. The air remembering what had moved through it.  
+The wind wasn’t separate from me anymore. It was around me, through me, part of my awareness. I could feel it moving through the courtyard, between buildings, through gaps and cracks. And in that deep understanding of what wind was, I felt trembles, pulses. The air remembering what had moved through it.  
 
 Voices?  
 
@@ -207,7 +207,7 @@ Thin. Distant. Fragmented. Like listening to a conversation three stalls away in
 
 Then others, overlapping. Arwyl saying something about the autopsy. Dal’s measured tones cutting through. Elodin’s voice, saying something I couldn’t quite catch but edged with anger.  
 
-And underneath it all, the device projected Hemme’s voice. “...nough of this. I told you already, you're over thinkin...” “...quiet no one will...” “...grace to retire.”  
+And underneath it all, the device projected Hemme’s voice. “...nough of this. I told you already, you’re over thinkin...” “...quiet no one will...” “...grace to retire.”  
 
 The wind trembled. My focus wavered, and the voices began to dissolve. I didn’t try to hold them. Didn’t need to.  
 
