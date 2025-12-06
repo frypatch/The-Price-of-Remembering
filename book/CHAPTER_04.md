@@ -65,7 +65,7 @@ Later, Mola would tell me she never looked up. She simply sat at her usual place
 
 “I didn’t lie,” she had told me. “I just redirected Ezra when he started his rounds early. I told him there was a misfiled note in the apothecary. There wasn’t, but it seemed wiser to put him somewhere else.”  
 
-She didn’t say it just to justify herself. Mola never needed my approval, not since the day she saved my life in the Medica. But that night, she chose silence over certainty. That choice required more than courage. It called belief in me.  
+She didn’t say it just to justify herself. Mola never needed my approval, not since the day she saved my life in the Medica. But that night, she chose silence over certainty. That choice required more than courage. It called for belief in me.  
 
 ### * * *  
 
@@ -95,9 +95,9 @@ The afternoon found me in a forgotten corner of the Fishery, gathering materials
 
 Chronicler’s pen stopped mid-stroke. He looked up sharply. “Wait. Is this when you invented the far listener?”  
 
-Kote blinked at the interruption, pulled from the memory. “What? No.” He laughed, reaching for his mug. “Chronicler, every child knows about connecting toys fashioned from two cups and a string. I simply tried better materials.”  
+Kote blinked at the interruption, pulled from the memory. “What? No.” He laughed, reaching for his mug. “Chronicler, every child knows about creating toys fashioned from connecting two cups with a string. I simply tried better materials.”  
 
-“But,” Chronicler set down his pen carefully. “The far listener. The ones the Commonwealth uses to coordinate their road stations and post houses. You’re saying that came from a child’s toy?”  
+“But,” Chronicler began, setting down his pen carefully. “The far listener. The ones the Commonwealth uses to coordinate their road stations and post houses. You’re saying that came from a child’s toy?”  
 
 “Isn’t that where most good ideas come from?” Kote shrugged. “I needed to hear a conversation through fifty feet of stone wall. I was about to try anything, even a child’s toy.”  
 
@@ -107,7 +107,7 @@ Kote blinked at the interruption, pulled from the memory. “What? No.” He lau
 
 Chronicler blinked. “You don’t know?”  
 
-“I know that it works,” Kote said. “I know that metal wire works better than string. That taut works better than loose. That certain shapes catch sound better than others—bell-shapes over flat disks. That copper is better than iron.” I ticked off points on my fingers. “I know that if you add a binding rune, it carries farther. If you add a clarity rune, it comes through cleaner. But how the sound moves through metal?” He shook my head. “No idea. It just does.”  
+“I know that it works,” Kote said. “I know that metal wire works better than string. That taut works better than loose. That bell-shapes catch sound better than flat disks. That copper is better than iron.” I ticked off points on my fingers. “I know that if you add a binding rune, it carries farther. If you add a clarity rune, it comes through cleaner. But how the sound moves through metal?” He shook my head. “No idea. It just does.”  
 
 “So you just tried things until they worked?”  
 
@@ -115,7 +115,7 @@ Chronicler blinked. “You don’t know?”
 
 Bast grinned. “Forty-seven failures.”  
 
-“Forty-seven attempts,” Kote corrected. “Each one taught me something.” I paused. “Though I’ll admit, most of what they taught me was ‘don’t do that again.’”  
+“Forty-seven attempts,” Kote corrected. “Each one taught me something.” He paused. “Though I’ll admit, most of what they taught me was ‘don’t do that again.’”  
 
 “Still,” Chronicler said slowly, “to improve a child’s toy into something the Commonwealth relies on?”  
 
@@ -123,11 +123,11 @@ Bast grinned. “Forty-seven failures.”
 
 Chronicler stared at him. “Three miles.”  
 
-“It’s what finally convinced Kilvin to sponsor me for El’the,” Kote confessed. “I showed him how it could coordinate emergency response across the University. He saw the potential for road safety, coordinating healers between towns,” He paused. “Though I’ve heard rumors the Commonwealth military adopted them later. Kilvin wouldn’t have been pleased about that.” He looked down at my scarred hands. “But that first night, I only needed it to work fifty feet. And I needed it to work the first time.”  
+“It’s what finally convinced Kilvin to sponsor me for El’the,” Kote confessed. “I showed him how it could coordinate emergency response across the University. He saw the potential for road safety, coordinating healers between towns,” He paused. “Though I’ve heard rumors the Commonwealth military adopted them later. Kilvin wouldn’t have been pleased about that.” He looked down at his mug. “But that first night, I only needed it to work fifty feet. And I needed it to work the first time.”  
 
 “And did it?” Chronicler asked.  
 
-“Well enough,” Kote said. “I’d spent the previous evening testing in my room at Anker’s. Thread versus string versus wire. Paper cups versus tin versus brass. Loose versus taut. Every combination I could manage in an hour, speaking softly into one end and listening at the other through my closed door while Sim complained about the noise. But truly, the difficult part wasn’t the device itself.”  
+“Well enough,” Kote said. “I’d recruited Sim the previous evening for testing in my room at Anker’s. Thread versus string versus wire. Paper cups versus tin versus brass. Loose versus taut. Every combination I could manage in an hour, speaking softly into one end while Sim listened on the other side of my closed door, trying to hear over the common room's noise. But truly, the difficult part wasn’t the device itself.”  
 
 ### * * *  
 
