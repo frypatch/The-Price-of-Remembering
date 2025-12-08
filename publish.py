@@ -131,9 +131,9 @@ def update_md_readme():
     ## Now creating README.md
     md_page_break = "\n\n\n\n\n"
     md_data = ""
-    md_data += """![{}](book/images/cover.jpg)""".format(dc_title)
+    md_data += """![{}](book/images/cover.png)""".format(dc_title)
     md_data += md_page_break
-    md_data += "#" + get_chapter_MD("Title_Page.md").strip('\n').replace("### ", "") + "\n"
+    md_data += get_chapter_MD("Title_Page.md").strip('\n').replace("#### ", "").replace("### ", "") + "\n"
     md_data += md_page_break
     md_data += "#" + get_chapter_MD("Series.md").strip('\n').replace("### ", "") + "\n"
     md_data += md_page_break
@@ -330,12 +330,50 @@ function display_palette() {
 <script>
     display_palette();
 </script>
-<a name="Cover"></a>
-<picture>
-  <source srcset="''' + website + '''book/media/cover.avif" type="image/avif">
-  <source srcset="''' + website + '''book/images/cover.jpg" type="image/jpeg">
-  <img class="book_cover" src="''' + website + '''book/media/cover.png" alt="Cover">
-</picture>
+<div class="book_cover">
+    <div>
+        <hr/>
+
+        <p class="book_cover_series">
+            <span class="definite_article">The</span> Kingkiller Chronicle
+        </p>
+
+        <p class="book_cover_day">
+           Day Three
+        </p>
+
+        <h1 class="book_cover_title">
+            <span class="definate_article word">
+                The
+            </span>
+            <span class="emphasis word">
+                Price
+            </span>
+            <span class="minor_word word">
+                of
+            </span>
+            <span class="word">Remembering</span>
+        </h1>
+
+        <div class="book_cover_subtitle">
+            <p class="text">
+                A Speculative Companion<br/>
+                to the Tale of Kvothe<br/>
+                Regarding The Doors of Stone
+            </p>
+        </div>
+        
+        <p class="book_cover_attribution">
+            Not Patrick Rothfuss
+        </p>
+
+        <p class="book_cover_version">
+            Version ''' + publish_version + '''
+        </p>
+
+        <hr/>
+    </div>
+</div>
 <hr />
 <a name="Settings"></a>
 <button onclick="store_palette();display_palette();">Toggle Dark Mode</button>
@@ -431,7 +469,7 @@ def publish_epub_book():
             all_md_filenames.append(chapter["markdown"])
         if len(chapter["css"]) and (not chapter["css"] in all_css_filenames):
             all_css_filenames.append(chapter["css"])
-    all_image_filenames = get_all_filenames(images_dir,extensions=["gif","jpg","jpeg","png"])
+    all_image_filenames = get_all_filenames(images_dir,extensions=["png"])
 
     ######################################################
     ## Create ePUB Book Table of contents
@@ -786,6 +824,17 @@ def get_chapter_HTML(markdown_data):
               "<big>T</big>HE " +
               "<big>K</big>INGKILLER " +
               "<big>C</big>"
+           )
+    )
+    html_text = (
+      html_text
+        .replace(
+          "<h1>THE PRICE OF R",
+          "<h1>" +
+              "<big>T</big>HE " +
+              "<big>P</big>RICE " +
+              "OF " +
+              "<big>R</big>"
            )
     )
     for h in ("123456"):

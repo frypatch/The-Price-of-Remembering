@@ -16,9 +16,17 @@ body {
 h1, h2, h3, h4, h5, h6 {
   text-align: center;
   hyphens: none;
+  font-variant: small-caps;
+}
+
+h1, h2, h3 {
   margin-top: 2.0em;
   margin-bottom: 2.0em;
-  font-variant: small-caps;
+}
+
+h4, h5, h6 {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 h1 {
@@ -75,11 +83,138 @@ p.no-indent {
 blockquote p {
   text-indent: 0em !important;
 }
+/* book cover */
 .book_cover {
     aspect-ratio: 1024/1536;
     height: auto;
     max-width: 100%;
     width: 100%;
+    font-size: .8em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: #1e293b;
+    padding: 3em 3em;
+    text-align: center;
+    box-sizing: border-box;       
+}
+.book_cover hr {
+    border-style: dashed none none;
+    border-width: .15em;
+    color: #d97706;
+    opacity: 0.4;
+}        
+/* Vignette overlay */
+.book_cover::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: radial-gradient(ellipse at center, transparent 0%, transparent 30%, rgba(0, 0, 0, 0.3) 70%, rgba(0, 0, 0, 0.6) 100%);
+    pointer-events: none;
+}
+
+/* Book Cover Series */
+.book_cover_series {
+    text-align: center;
+    text-align-last: center;
+    text-indent: 0em;
+    letter-spacing: 0.4em;
+    text-transform: uppercase;
+    color: #d97706;
+    opacity: 0.4;
+    margin-top: 3em;
+    margin-bottom: 2em;
+}
+.book_cover_series .definite_article {
+    display: none;
+}
+
+/* Book Cover Day */
+.book_cover_day {
+    text-align: center;
+    text-align-last: center;
+    text-indent: 0em;
+    color: #d97706;
+    opacity: 0.4;
+    margin-bottom: 2em;
+}
+.book_cover_day::before,
+.book_cover_day::after {
+    content: " --- ";
+}
+
+
+/* Book Cover Title */
+.book_cover_title {
+    text-align: center;
+    text-align-last: center;
+    text-indent: 0em;
+    color: #fbbf24;
+    font-weight: normal;            
+}
+.book_cover_title .word {
+  display: block; /* Forces each span (word) onto a new line */
+}
+.book_cover_title .definate_article {
+    font-size: 0.4em;
+    color: #d97706;
+    font-style: italic;
+}
+.book_cover_title .emphasis {
+    font-size: 1.15em;
+    color: #fcd34d;
+}
+.book_cover_title .minor_word {
+    font-size: 0.4em;
+    color: #d97706;
+    font-style: italic;
+}
+
+
+/* Book Cover Subtitle */
+.book_cover_subtitle {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;    /* Centers vertically */
+    margin-bottom: 3em;
+}
+.book_cover_subtitle .text {
+    border-top: .15em dashed #92400e;
+    border-bottom: .15em dashed #92400e;
+    text-align: center;
+    text-align-last: center;
+    text-indent: 0em;
+    font-style: italic;
+    line-height: 1.6;
+    color: #d97706;
+    opacity: 0.7;
+}
+
+
+/* Book Cover Attribution */
+.book_cover_attribution {
+    text-align: center;
+    text-align-last: center;
+    text-indent: 0em;
+    color: #d97706;
+    opacity: 0.4;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-bottom: 1em;
+}
+
+/* Book Cove Version */
+.book_cover_version {
+    text-align: center;
+    text-align-last: center;
+    text-indent: 0em;
+    color: #d97706;
+    opacity: 0.4;
+    margin-bottom: 3em;
 }
 blockquote {
     border-left: 3px solid; /* Adds a left border */
@@ -189,30 +324,70 @@ function display_palette() {
 <script>
     display_palette();
 </script>
-<a name="Cover"></a>
-<picture>
-  <source srcset="https://frypatch.github.io/The-Price-of-Remembering/book/media/cover.avif" type="image/avif">
-  <source srcset="https://frypatch.github.io/The-Price-of-Remembering/book/images/cover.jpg" type="image/jpeg">
-  <img class="book_cover" src="https://frypatch.github.io/The-Price-of-Remembering/book/media/cover.png" alt="Cover">
-</picture>
+<div class="book_cover">
+    <div>
+        <hr/>
+
+        <p class="book_cover_series">
+            <span class="definite_article">The</span> Kingkiller Chronicle
+        </p>
+
+        <p class="book_cover_day">
+           Day Three
+        </p>
+
+        <h1 class="book_cover_title">
+            <span class="definate_article word">
+                The
+            </span>
+            <span class="emphasis word">
+                Price
+            </span>
+            <span class="minor_word word">
+                of
+            </span>
+            <span class="word">Remembering</span>
+        </h1>
+
+        <div class="book_cover_subtitle">
+            <p class="text">
+                A Speculative Companion<br/>
+                to the Tale of Kvothe<br/>
+                Regarding The Doors of Stone
+            </p>
+        </div>
+        
+        <p class="book_cover_attribution">
+            Not Patrick Rothfuss
+        </p>
+
+        <p class="book_cover_version">
+            Version 3.12.08
+        </p>
+
+        <hr/>
+    </div>
+</div>
 <hr />
 <a name="Settings"></a>
 <button onclick="store_palette();display_palette();">Toggle Dark Mode</button>
 <hr />
 <a name="Title_Page"></a>
-<h1><big>T</big>HE <big>K</big>INGKILLER <big>C</big>HRONICLE</h1>
-<h3><big>DAY THREE: THE PRICE OF REMEMBERING</big></h3>
-<h3>A COMPILATION OF SPECULATIVE MUSINGS</h3>
-<h3>REGARDING THE DOORS OF STONE</h3>
+<h3><big>THE KINGKILLER CHRONICLE</big></h3>
+<h3>DAY THREE</h3>
+<h1><big>T</big>HE <big>P</big>RICE OF <big>R</big>EMEMBERING</h1>
+<h4>A SPECULATIVE COMPANION</h4>
+<h4>TO THE TALE OF KVOTHE</h4>
+<h4>REGARDING THE DOORS OF STONE</h4>
 <h3>NOT PATRICK ROTHFUSS</h3>
-<h3>VERSION 3.12.05</h3>
+<h4>VERSION 3.12.08</h4>
 <hr />
 <a name="Series"></a>
 <h1 class='chapter_title'><big>S</big>ERIES.</h1>
 <h3><big>THE KINGKILLER CHRONICLE</big></h3>
 <h3>DAY ONE: THE NAME OF THE WIND</h3>
 <h3>DAY TWO: THE WISE MAN'S FEAR</h3>
-<h3>DAY THREE: THE PRICE OF REMEMBERING</h3>
+<h3>DAY THREE: THE DOORS OF STONE</h3>
 <hr />
 <a name="Disclaimer"></a>
 <h1 class='chapter_title'><big>D</big>ISCLAIMER.</h1>
