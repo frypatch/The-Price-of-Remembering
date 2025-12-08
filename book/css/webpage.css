@@ -1,8 +1,135 @@
+/* book cover */
 .book_cover {
     aspect-ratio: 1024/1536;
     height: auto;
     max-width: 100%;
     width: 100%;
+    font-size: .8em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: #1e293b;
+    padding: 3em 3em;
+    text-align: center;
+    box-sizing: border-box;       
+}
+.book_cover hr {
+    border-style: dashed none none;
+    border-width: .15em;
+    color: #d97706;
+    opacity: 0.4;
+}        
+/* Vignette overlay */
+.book_cover::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: radial-gradient(ellipse at center, transparent 0%, transparent 30%, rgba(0, 0, 0, 0.3) 70%, rgba(0, 0, 0, 0.6) 100%);
+    pointer-events: none;
+}
+
+/* Book Cover Series */
+.book_cover_series {
+    text-align: center;
+    text-align-last: center;
+    text-indent: 0em;
+    letter-spacing: 0.4em;
+    text-transform: uppercase;
+    color: #d97706;
+    opacity: 0.4;
+    margin-top: 3em;
+    margin-bottom: 2em;
+}
+.book_cover_series .definite_article {
+    display: none;
+}
+
+/* Book Cover Day */
+.book_cover_day {
+    text-align: center;
+    text-align-last: center;
+    text-indent: 0em;
+    color: #d97706;
+    opacity: 0.4;
+    margin-bottom: 2em;
+}
+.book_cover_day::before,
+.book_cover_day::after {
+    content: " --- ";
+}
+
+
+/* Book Cover Title */
+.book_cover_title {
+    text-align: center;
+    text-align-last: center;
+    text-indent: 0em;
+    color: #fbbf24;
+    font-weight: normal;            
+}
+.book_cover_title .word {
+  display: block; /* Forces each span (word) onto a new line */
+}
+.book_cover_title .definate_article {
+    font-size: 0.4em;
+    color: #d97706;
+    font-style: italic;
+}
+.book_cover_title .emphasis {
+    font-size: 1.15em;
+    color: #fcd34d;
+}
+.book_cover_title .minor_word {
+    font-size: 0.4em;
+    color: #d97706;
+    font-style: italic;
+}
+
+
+/* Book Cover Subtitle */
+.book_cover_subtitle {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;    /* Centers vertically */
+    margin-bottom: 3em;
+}
+.book_cover_subtitle .text {
+    border-top: .15em dashed #92400e;
+    border-bottom: .15em dashed #92400e;
+    text-align: center;
+    text-align-last: center;
+    text-indent: 0em;
+    font-style: italic;
+    line-height: 1.6;
+    color: #d97706;
+    opacity: 0.7;
+}
+
+
+/* Book Cover Attribution */
+.book_cover_attribution {
+    text-align: center;
+    text-align-last: center;
+    text-indent: 0em;
+    color: #d97706;
+    opacity: 0.4;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-bottom: 1em;
+}
+
+/* Book Cove Version */
+.book_cover_version {
+    text-align: center;
+    text-align-last: center;
+    text-indent: 0em;
+    color: #d97706;
+    opacity: 0.4;
+    margin-bottom: 3em;
 }
 blockquote {
     border-left: 3px solid; /* Adds a left border */
