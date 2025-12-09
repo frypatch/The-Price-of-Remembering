@@ -133,9 +133,9 @@ def update_md_readme():
     md_data = ""
     md_data += """![{}](book/images/cover.png)""".format(dc_title)
     md_data += md_page_break
-    md_data += get_chapter_MD("Title_Page.md").strip('\n').replace("#### ", "").replace("### ", "") + "\n"
+    md_data += get_chapter_MD("Title_Page.md").strip('\n').replace("###### ", "").replace("##### ", "").replace("#### ", "").replace("### ", "").replace("## ", "") + "\n"
     md_data += md_page_break
-    md_data += "#" + get_chapter_MD("Series.md").strip('\n').replace("### ", "") + "\n"
+    md_data += "#" + get_chapter_MD("Series.md").strip('\n').replace("###### ", "").replace("##### ", "").replace("#### ", "").replace("### ", "").replace("## ", "") + "\n"
     md_data += md_page_break
     md_data += "#" + get_chapter_MD("Disclaimer.md").strip('\n') + "\n"
     md_data += md_page_break
@@ -331,17 +331,8 @@ function display_palette() {
     display_palette();
 </script>
 <div class="book_cover">
-    <div>
-        <hr/>
-
-        <p class="book_cover_series">
-            <span class="definite_article">The</span> Kingkiller Chronicle
-        </p>
-
-        <p class="book_cover_day">
-           Day Three
-        </p>
-
+    <div class="book_cover_container">
+        <div class="book_cover_top_padding"></div>
         <h1 class="book_cover_title">
             <span class="definate_article word">
                 The
@@ -354,24 +345,36 @@ function display_palette() {
             </span>
             <span class="word">Remembering</span>
         </h1>
-
-        <div class="book_cover_subtitle">
-            <p class="text">
-                A Speculative Companion<br/>
-                to the Tale of Kvothe<br/>
-                Regarding The Doors of Stone
-            </p>
+        <div class="book_cover_top">
+            <h2 class="book_cover_series">
+                <span class="definite_article">The</span>
+                <span class="nowrap">Kingkiller</span>
+                <span class="nowrap">Chronicle</span>
+            </h2>
+            <h3 class="book_cover_day">
+               Day Three
+            </h3>
         </div>
-        
-        <p class="book_cover_attribution">
-            Not Patrick Rothfuss
-        </p>
+        <div class="book_cover_bottom">
+            <div class="book_cover_subtitle">
+                <h4 class="text nowrap">
+                    <em>A Speculative Companion</em><br/>
+                    <em>to the Tale of Kvothe</em><br/>
+                    <em>Regarding The Doors of Stone</em>
+                </h4>
+            </div>
+            
+            <h3 class="book_cover_attribution">
+                <span class="nowrap">Not</span>
+                <span class="nowrap">Patrick</span>
+                <span class="nowrap">Rothfuss</span>
+            </h3>
 
-        <p class="book_cover_version">
-            Version ''' + publish_version + '''
-        </p>
-
-        <hr/>
+            <h4 class="book_cover_version nowrap">
+                Version ''' + publish_version + '''
+            </h4>
+        </div>
+        <div class="book_cover_bottom_padding"></div>
     </div>
 </div>
 <hr />
@@ -777,7 +780,7 @@ def get_chapter_MD(md_filename):
         markdown_data = f.read()
 
         ## Auto-populate versioning information
-        markdown_data = markdown_data.replace("### LATEST VERSION", "### VERSION " + publish_version)
+        markdown_data = markdown_data.replace("#### Latest Version", "#### Version " + publish_version)
 
         ## Remove chapter footer navigation that is there to make it helpful to read the content on Github
         footer_index = markdown_data.find("### ~ ~ ~")
@@ -791,6 +794,8 @@ def get_chapter_TXT(markdown_data):
     for line in markdown_data.splitlines():
         if "# **" in line and line.strip().endswith("**"):
           all_txt += line.strip()[:-2].replace("# **", " ") + "  \n"
+        elif "# *" in line and line.strip().endswith("*"):
+          all_txt += line.strip()[:-1].replace("# *", " ") + "  \n"
         else:
           all_txt += line + "\n"
     all_txt = all_txt.replace("###### ", "                    ")
