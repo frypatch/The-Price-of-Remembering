@@ -5,9 +5,9 @@
 
 # THE PRICE OF REMEMBERING  
 
-**THE KINGKILLER CHRONICLE**  
+THE KINGKILLER CHRONICLE  
 
-**Day Three**  
+Day Three  
 
 *A Speculative Companion*  
 *to the Tale of Kvothe*  
@@ -15,7 +15,7 @@
 
 NOT PATRICK ROTHFUSS  
 
-Version 3.12.08  
+Version 3.12.11  
 
 
 
@@ -23,7 +23,7 @@ Version 3.12.08
 
 ## SERIES.
 
-**THE KINGKILLER CHRONICLE**  
+THE KINGKILLER CHRONICLE  
 
 DAY ONE: THE NAME OF THE WIND  
 DAY TWO: THE WISE MAN'S FEAR  
