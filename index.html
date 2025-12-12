@@ -20,16 +20,13 @@ h1, h2, h3, h4, h5, h6 {
 
 h1, h2, h3 {
   font-variant: small-caps;
-}
-
-h1, h2, h3, h4 {
   margin-top: 2.0em;
   margin-bottom: 2.0em;
 }
 
-h5, h6 {
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
+h4, h5, h6 {
+  margin-top: 0em;
+  margin-bottom: 0em;
 }
 
 h1 {
@@ -316,6 +313,17 @@ h5 {
 h6 {
   font-size: 1.1rem
 }
+
+@media print {
+  .no_print {
+    display: none !important;
+  }
+  hr {
+    break-before: always;
+    break-after: avoid;
+    visibility: hidden;
+  }
+}
 /* default-palette */
 body {
   background-color: #cdb68a;
@@ -383,7 +391,7 @@ function display_palette() {
 <script>
     display_palette();
 </script>
-<div class="book_cover">
+<div class="book_cover no_print">
     <div class="book_cover_container">
         <div class="book_cover_top_padding"></div>
         <h1 class="book_cover_title">
@@ -424,29 +432,31 @@ function display_palette() {
             </h3>
 
             <h4 class="book_cover_version nowrap">
-                Version 3.12.08
+                Version 3.12.11
             </h4>
         </div>
         <div class="book_cover_bottom_padding"></div>
     </div>
 </div>
-<hr />
-<a name="Settings"></a>
-<button onclick="store_palette();display_palette();">Toggle Dark Mode</button>
-<hr />
+<hr class="no_print"/>
+<div class="settings no_print">
+    <a name="Settings"></a>
+    <button onclick="store_palette();display_palette();">Toggle Dark Mode</button>
+</div>
+<hr class="no_print"/>
 <a name="Title_Page"></a>
 <h1><big>T</big>HE <big>P</big>RICE OF <big>R</big>EMEMBERING</h1>
-<h3><big>THE KINGKILLER CHRONICLE</big></h3>
-<h4><big>Day Three</big></h4>
-<h5><em>A Speculative Companion</em></h5>
-<h5><em>to the Tale of Kvothe</em></h5>
-<h5><em>Regarding The Doors of Stone</em></h5>
+<h2>THE KINGKILLER CHRONICLE</h2>
+<h3>Day Three</h3>
+<h4><em>A Speculative Companion</em></h4>
+<h4><em>to the Tale of Kvothe</em></h4>
+<h4><em>Regarding The Doors of Stone</em></h4>
 <h3>NOT PATRICK ROTHFUSS</h3>
-<h4>Version 3.12.08</h4>
+<h4>Version 3.12.11</h4>
 <hr />
 <a name="Series"></a>
 <h1 class='chapter_title'><big>S</big>ERIES.</h1>
-<h3><big>THE KINGKILLER CHRONICLE</big></h3>
+<h2>THE KINGKILLER CHRONICLE</h2>
 <h3>DAY ONE: THE NAME OF THE WIND</h3>
 <h3>DAY TWO: THE WISE MAN'S FEAR</h3>
 <h3>DAY THREE: THE DOORS OF STONE</h3>

@@ -228,3 +228,14 @@ h5 {
 h6 {
   font-size: 1.1rem
 }
+
+@media print {
+  .no_print {
+    display: none !important;
+  }
+  hr {
+    break-before: always;
+    break-after: avoid;
+    visibility: hidden;
+  }
+}

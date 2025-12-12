@@ -1,5 +1,5 @@
 # THE PRICE OF REMEMBERING  
 
-### **THE KINGKILLER CHRONICLE**  
+## THE KINGKILLER CHRONICLE  
 
-#### **Day Three**  
+### Day Three  
