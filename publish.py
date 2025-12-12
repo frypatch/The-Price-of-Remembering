@@ -242,12 +242,7 @@ def publish_md_book():
             md_data += md_page_break
             md_data += toc_md.strip('\n')
         else:
-            markdown_data = get_chapter_MD(chapter_md_filename).strip('\n')
-            for line in markdown_data.splitlines():
-                if "# **" in line and line.strip().endswith("**"):
-                    md_data += line.strip()[:-2].replace("# **", " ") + "  \n"
-                else:
-                    md_data += line + "\n"
+            md_data += get_chapter_MD(chapter_md_filename).strip('\n')
         md_data += md_page_break
     md_data = md_data.replace("“", '"')
     md_data = md_data.replace("”", '"')
@@ -330,7 +325,7 @@ function display_palette() {
 <script>
     display_palette();
 </script>
-<div class="book_cover">
+<div class="book_cover no_print">
     <div class="book_cover_container">
         <div class="book_cover_top_padding"></div>
         <h1 class="book_cover_title">
@@ -377,10 +372,12 @@ function display_palette() {
         <div class="book_cover_bottom_padding"></div>
     </div>
 </div>
-<hr />
-<a name="Settings"></a>
-<button onclick="store_palette();display_palette();">Toggle Dark Mode</button>
-<hr />'''
+<hr class="no_print"/>
+<div class="settings no_print">
+    <a name="Settings"></a>
+    <button onclick="store_palette();display_palette();">Toggle Dark Mode</button>
+</div>
+<hr class="no_print"/>'''
     for chapter_md_filename in chapter_md_filenames():
         if chapter_md_filename == "Half_Title_Page.md":
             continue
@@ -793,9 +790,9 @@ def get_chapter_TXT(markdown_data):
     all_txt = ""
     for line in markdown_data.splitlines():
         if "# **" in line and line.strip().endswith("**"):
-          all_txt += line.strip()[:-2].replace("# **", " ") + "  \n"
+          all_txt += line.strip()[:-2].replace("# **", "# ") + "  \n"
         elif "# *" in line and line.strip().endswith("*"):
-          all_txt += line.strip()[:-1].replace("# *", " ") + "  \n"
+          all_txt += line.strip()[:-1].replace("# *", "# ") + "  \n"
         else:
           all_txt += line + "\n"
     all_txt = all_txt.replace("###### ", "                    ")
@@ -852,13 +849,6 @@ def get_chapter_HTML(markdown_data):
               "</strong></h"+h+">",
               "</big></h"+h+">")
         )
-    html_text = (
-        html_text
-          .replace(
-            "<h2>",
-            "<h2 class='chapter_subtitle'>",
-          )
-    )
     for c in ("ABCDEFGHIJKLMNOPQRSTUVWXYZ"):
       html_text = (
         html_text
@@ -875,6 +865,16 @@ def get_chapter_HTML(markdown_data):
             "<h1>"+c,
             "<h1 class='chapter_title'><big>"+c+"</big>")
       )
+    # Chapter subtitles can only happen when the chapter contains paragraphs.
+    # E.G. Half-Title, Title, and Series should not contain subtitles in TOC.
+    if "<p>" in html_text:
+        html_text = (
+            html_text
+              .replace(
+                "<h2>",
+                "<h2 class='chapter_subtitle'>",
+              )
+        )
     html_text = html_text.replace("“", "&ldquo;")
     html_text = html_text.replace("”", "&rdquo;")
     html_text = html_text.replace("‘", "&lsquo;")

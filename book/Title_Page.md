@@ -1,12 +1,12 @@
 # THE PRICE OF REMEMBERING  
 
-### **THE KINGKILLER CHRONICLE**  
+## THE KINGKILLER CHRONICLE  
 
-#### **Day Three**  
+### Day Three  
 
-##### *A Speculative Companion*  
-##### *to the Tale of Kvothe*  
-##### *Regarding The Doors of Stone*  
+#### *A Speculative Companion*  
+#### *to the Tale of Kvothe*  
+#### *Regarding The Doors of Stone*  
 
 ### NOT PATRICK ROTHFUSS  
 
