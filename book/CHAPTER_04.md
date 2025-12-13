@@ -107,7 +107,7 @@ Kote blinked at the interruption, pulled from the memory. “What? No.” He lau
 
 Chronicler blinked. “You don’t know?”  
 
-“I know that it works,” Kote said. “I know that metal wire works better than string. That taut works better than loose. That bell-shapes catch sound better than flat disks. That copper is better than iron.” I ticked off points on my fingers. “I know that if you add a binding rune, it carries farther. If you add a clarity rune, it comes through cleaner. But how the sound moves through metal?” He shook my head. “No idea. It just does.”  
+“I know that it works,” Kote said. “I know that metal wire works better than string. That taut works better than loose. That bell-shapes catch sound better than flat disks. That copper is better than iron.” He ticked off points on his fingers. “I know that if you add a binding rune, it carries farther. If you add a clarity rune, it comes through cleaner. But how the sound moves through metal?” He shook his head. “No idea. It just does.”  
 
 “So you just tried things until they worked?”  
 
@@ -123,7 +123,7 @@ Bast grinned. “Forty-seven failures.”
 
 Chronicler stared at him. “Three miles.”  
 
-“It’s what finally convinced Kilvin to sponsor me for El’the,” Kote confessed. “I showed him how it could coordinate emergency response across the University. He saw the potential for road safety, coordinating healers between towns,” He paused. “Though I’ve heard rumors the Commonwealth military adopted them later. Kilvin wouldn’t have been pleased about that.” He looked down at his mug. “But that first night, I only needed it to work fifty feet. And I needed it to work the first time.”  
+“It’s what finally convinced Kilvin to sponsor me for El’the,” Kote confessed. “I showed him how it could coordinate emergency response across the University. He saw the potential for road safety and coordinating healers between towns,” He paused. “Though I’ve heard rumors the Commonwealth military adopted them later. Kilvin wouldn’t have been pleased about that.” He looked down at his mug. “But that first night, I only needed it to work fifty feet. And I needed it to work the first time.”  
 
 “And did it?” Chronicler asked.  
 
