@@ -39,42 +39,6 @@ Did Elodin know I’d had a hand in Hemme’s downfall? Had Kilvin woven togethe
 
 Elodin stayed a moment longer, murmuring something that felt more like a prayer than a comment. Then he turned and walked away, leaving me there with my thoughts and the weighted silence of the burial ground.  
 
-### * * *
-
-That night, Elodin’s Naming class was the opposite of the graveyard. Where the grave had been still, the class crackled with restless energy. Firelight from the torches danced across the stone walls, throwing shadows that writhed like living things.
-
-“Kvothe.” Elodin’s voice cut through the air, snapping my name like a bowstring. “To the center.”
-
-I hesitated, but only for a heartbeat. Every eye in the room traced my movements as I stepped forward. I stood in the circle of space Elodin had carved out for moments like this, beneath the heavy gaze of ancient stonework and brighter, watchful eyes.
-
-Elodin paced slow circles around me, his movement oddly graceful, like a bird inspecting its prey after deciding it wasn’t, in fact, dead. “Tell me,” he said quietly. “What do you see in a Name?”
-
-His tone was too calm, too deliberate, and I braced myself. “I see truth,” I replied, my voice measured, even.
-
-Elodin stopped pacing. The faintest smile curved along his lips. “Clever. And true enough. But truth is not simple. It is not clean.” He began to move again, circling me steadily. “Truth is layered, Kvothe. A fragile thread wrapped in lies, in doubt, in sharp things eager to snap under tension.”
-
-I opened my mouth to respond, but Elodin wasn’t waiting.
-
-“A Name,” he said, “is more than truth. It is balance. It is connection. It is weight. It is the thing beneath all things."
-
-He paused then, looking straight at me, eyes bright and sharp. “If you pull too hard on one thread,” he said. He gestured, and a breath of wind moved through the room. It came light as a whisper, brushing against my cheek.
-
-“Everything comes undone."
-
-The air thickened. I could feel it winding tighter around me, impossibly heavy.
-
-Elodin leaned closer, his voice soft as silk. “Say it.”
-
-The Name hovered on the edge of sense, spinning just beyond my reach. And then, like plucking a string I couldn’t see, it rang through me. Not as sound exactly, but as a trembling resonance that pulled through my chest and fingers. The wind moved, shifting in perfect harmony with the name I didn’t so much call as breathe. A melody hidden within silence, waiting to be played.
-
-For a moment, it lingered at my side, light as breath, alive with motion. Then, thin as glass, it formed a ring around my finger before dissolving.
-
-The room fell still. Papers that had scattered in the sudden wind settled softly to the ground. No one spoke.
-
-“Beautifully done,” he said, his tone a strange mix of reverence and regret. He stepped closer, tilting his head like a bird both curious and wary. “A ring of air. A rare thing. The first step toward something.” He hesitated, studying the space where the wind had been, then nodded faintly. “A pity. So lovely. So doomed.”
-
-I barely heard him. I was still caught in the moment before, held captive by the raw and fragile truth of what I’d just touched. It wasn’t just a moment or a trick. It was proof that I had crossed some invisible line.
-
 ### ~ ~ ~
 
 [Chapter 4](CHAPTER_04.md) | [Contents](Contents.md) | [Chapter 6](CHAPTER_06.md)
