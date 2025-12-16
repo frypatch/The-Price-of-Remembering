@@ -3,35 +3,33 @@
 ## THE BREATH OF THE PEAKS.
 
 
-THE HUM OF VOICES and the clinking of tankards seeped upward from the packed common room at Anker’s, muffled but steady, like the pulse of a living thing. It was a sound I should have been part of, thickening the air with chords from my lute, stoking laughter with stories. Instead, I sat on the edge of my narrow bed, staring at the pack I had thrown together in no more than ten minutes.
+THE HUM OF VOICES and the clinking of tankards seeped upward from the packed common room at Anker’s, muffled but steady, like the pulse of a living thing. It was a sound I should have been part of, thickening the air with chords from my lute, stoking laughter with stories. Instead, I sat on the edge of my narrow bed, staring at the pack I had thrown together in no more than ten minutes.  
 
-The bag was simple. Too simple, perhaps, for everything I meant to do. Inside, a waterskin, a loaf of bread gone dry at the edges, a tightly rolled blanket. And my lute in its case, strapped to the side. It looked at me, silent. Disapproving.
+The bag was too simple, perhaps, but it was the best of what little I owned. Inside, I had shoved a waterskin, a loaf of bread gone dry at the edges, and a tightly rolled blanket. My lute in its case, strapped to the side. Silent. Disapproving.  
 
-I hesitated. The air hung heavy in the room, thick with the stale tang of ale and old wood.  
+I hesitated. It was reckless to leave, foolish even. But you have to understand, I had just watched a good man die with his work unfinished. I couldn’t help but wonder, what else remained undone?  
 
-It was foolish. I knew that. Irresponsible, maybe even dangerous. But another voice answered, softer than a secret, sharper than a knife. When has that ever stopped you?
+I’d seen it in others too. People who spent decades preparing for their dream, only to find when they finally reached for it that their hands had forgotten the shape. The trail they’d meant to walk no longer fit their stride. The story they’d meant to tell had become a stranger’s tale.  
 
-Responsibilities do not rest. They pull at you. Work, family, hungry mouths, empty pockets. The things that keep you alive are the same things that sweep you downstream. You dream of stopping, just for a moment, just to breathe or build or sing. But the river is relentless. Always forward, never back.
+The mountains were calling now. Wait a year, maybe two, and I’d still know I should answer. But I’d no longer know why it mattered.  
 
-When you are young, you tell yourself there will be time. Later, you say. After you have done what must be done. But later comes like winter, colder and emptier than you imagined. Old bones ache. Old dreams fade. The mountain you meant to climb has grown taller. The song you meant to sing no longer fits your voice. You realize the river has carried you farther than you thought, and all the things you loved have drifted out of reach, lost in the current you never meant to follow.
+I shouldered my pack. Some stories demand to be lived before you outgrow them. Some songs need to be sung before gravel finds your voice.  
 
-Before reason could find its footing, I reached for my pack. The weight of them across my back settled something in me, if only for a breath. It was a grounding, brief and welcome, as my feet found their way forward. Below me, the tavern sounds faltered. Silence stretched through floorboards, thin and unexpected. I could almost hear Anker’s voice, half-accusing, half-laughing, with a smile buried in the words. Off so soon, boy? We’ve a full house tonight.
+I could almost hear Anker’s voice, half-accusing, half-laughing, with a smile buried in the words. Leaving already? We’ve a full house tonight.  
 
-But I didn’t answer the phantom question. Instead, I scrawled a hasty note and set it neatly on my bed.
+But I didn’t answer the phantom question. Instead, I scrawled a hasty note and set it neatly on my bed.  
 
 > “Anker,”  
-> “Something needs tending at the University.”  
+> “A personal matter requires my attention.”  
 > “I’ll return in a few days.”  
 > “My thanks, as always.”  
 > “Kvothe.”  
 
-I knew the note would not satisfy him. Anker was no fool. He would take his irritation and turn it to good use. There would be fuller mugs. There would be thicker slabs of bread. Customers would leave with heavy bellies and light purses, and his scowl would fade in the busy work of the day.
+I knew the note would not satisfy him, but Anker was no fool. He would take his irritation and turn it to good use. There would be fuller mugs. There would be thicker slabs of bread. Customers would leave with heavy bellies and light purses, and his scowl would fade in the busy work of the day.  
 
-But even so, when I turned to leave, something pressed at me harder than any pack. It was not quite regret. Just the ache of knowing this was my home. These were my people. They would help me, as they always had, and they would understand. But my leaving would weigh on them. I would not be here to share the burden, and the work would be no lighter for my absence.
+But even so, when I turned to leave, something pressed at me harder than any pack. It was the ache of knowing that this was my home. These were my people. They would help me, as they always had, and they would understand. But my leaving would weigh on them. I would not be here to share the burden, and the work would be no lighter for my absence.  
 
-I stepped out into the night, the air striking my face with a cool relief that startled me after the stale warmth of the upstairs room. The street was quieter than I expected, though the distant hum of Imre’s evening life lingered faintly on the breeze. Overhead, the sky yawned wide, the edges smeared with purples and blues that would soon deepen to black. Beyond that, the mountains lingered more in memory than sight. Their distant peaks seemed to call me, sharp and steady as a plucked string whose vibrations traveled too far to fade.
-
-I took my first steps, slow but sure, letting the rhythm of the walk ease my restless thoughts. The trail wound ahead like a song waiting for its first note.  
+I stepped out into the night, the cool air striking my face. The street was alive with students, their laughter spilling from doorways and corners as they stretched out these final days of unexpected freedom. I left Imre behind. The mountains wouldn’t wait.  
 
 ### * * *
 
