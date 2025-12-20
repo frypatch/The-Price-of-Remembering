@@ -15,7 +15,7 @@ Day Three
 
 NOT PATRICK ROTHFUSS  
 
-Version 3.12.15  
+Version 3.12.19  
 
 
 
@@ -112,7 +112,7 @@ That all said, please enjoy.
 * [CHAPTER 3](book/CHAPTER_03.md). The Silent Toll.
 * [CHAPTER 4](book/CHAPTER_04.md). Ears in the Wind.
 * [CHAPTER 5](book/CHAPTER_05.md). The Art of Listening.
-* [CHAPTER 6](book/CHAPTER_06.md). The Breath of the Peaks.
+* [CHAPTER 6](book/CHAPTER_06.md). And Then Came the Hail.
 * [CHAPTER 7](book/CHAPTER_07.md). A Song Without Words.
 * [CHAPTER 8](book/CHAPTER_08.md). Rare Things Vanish.
 * [CHAPTER 9](book/CHAPTER_09.md). A Foolish Bargin.
