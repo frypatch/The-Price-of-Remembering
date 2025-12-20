@@ -1,6 +1,6 @@
 # CHAPTER 6.
 
-## THE BREATH OF THE PEAKS.
+## AND THEN CAME THE HAIL.
 
 
 THE HUM OF VOICES and the clinking of tankards seeped upward from the packed common room at Anker’s, muffled but steady, like the pulse of a living thing. It was a sound I should have been part of, thickening the air with chords from my lute, stoking laughter with stories. Instead, I sat on the edge of my narrow bed, staring at the pack I had thrown together in no more than ten minutes.  
@@ -31,86 +31,208 @@ But even so, when I turned to leave, something pressed at me harder than any pac
 
 I stepped out into the night, the cool air striking my face. The street was alive with students, their laughter spilling from doorways and corners as they stretched out these final days of unexpected freedom. I left Imre behind. The mountains wouldn’t wait.  
 
-### * * *
+### * * *  
 
-The wind met me halfway to the Six Sisters, restless and sly. At first, it was gentle, threading playfully through my hair and snapping at the edges of my hood. But as the land began to slope upward beneath my boots, so did the wind’s mood change. It tugged harder, sharp and impatient, as if testing whether it could pull me back or push me onward.
+I walked through the night and into the morning, following the east road as the sun rose behind a thin veil of clouds. By midday my feet ached and my shoulders had begun to protest the pack’s weight. Late afternoon found me questioning how I could have grown so soft, the lute case on my back felt like an anchor dragging me down.  
 
-By the second day, its playful nature had vanished entirely. The mountains rose jagged and solemn ahead, their rocky faces indifferent, their uppermost peaks capped faintly with snow that glinted in the weak light. I climbed carefully, moving with deliberate steps, each breath drawn thinner as though the air itself were shrinking. At times, the wind screamed between the crags, a wild and furious thing. There was no question about whose domain I had entered. Here, the wind was not just part of the weather. It was alive, a raw force that seemed to question my right to trespass. 
+But I kept walking. The road wound through farmland and scattered villages, past orchards heavy with late fruit and fields where farmers were bringing in the last of the harvest. I bought an apple from a woman selling them by the roadside and ate it, core and all.  
 
-Each night on the mountainside, I found myself beneath a blanket of stars so wide it seemed as though the world might collapse under their weight. I huddled beneath my blanket, my body aching from hours of climbing, my thoughts circling themselves like a hungry hawk. The wind howled in the night, singing its secrets I was too deaf to hear. What did I think I would learn? Did the wind even have a secret, or had I left Imre chasing ghosts of my own imagining?
+Near evening, I spotted a tinker’s wagon ahead, its painted panels bright against the darkening road. A single horse grazed nearby. Behind them, at the clearing’s edge, stood a greystone.  
 
-The ascent grew steeper with each passing day. By the third morning, I felt utterly alone. The trees had long fallen away, leaving only jagged stone and patches of black ice that glared up at me from the ground like unkind mirrors. I measured my breath in shallow bursts, each careful step anchoring me to the moment.
+“Ho, tinker!” I called out and waited until an older man emerged from the wagon. He watched me approach. “I’m heading to Oakholt,” I said as I reached him. “Might I share your fire tonight? I can offer a song or two in trade.”  
 
-On that morning, when the wind was sharpest and the air cold enough to sting at my cracked lips, something happened.
+He looked me over, taking in my clothes, my pack, the lute case on my back. Something in his weathered face softened slightly. “You play, do you?”  
 
-I had stopped to rest on a rocky ledge, perched precariously far above the world I had risen from. The wind clawed at me with ferocity, battering my chest and legs, blinding me by whipping my hair into my eyes. And then, suddenly, it stopped.
+“A little.”  
 
-The absence was so sharp it startled me, as if the world had exhaled once and held its breath in anticipation. My heart pounded in my chest. The wind didn’t vanish entirely. It wasn’t a retreat, but rather a pause that felt still and deliberate. Something brushed my cheek then, soft and faint, not forceful or cruel. Its touch wasn’t tender, but it wasn’t angry either. I could not name what it was, only that I felt something beneath it. There was a recognition, or at least the suggestion of one.
+“Good.” He gestured toward an ax leaning against the wagon. “Make yourself useful with the firewood first. Can’t have songs without supper.”  
 
-The thread hummed just out of reach. For the first time, I didn’t try to pull it closer. I simply listened.
+I set down my pack and went to work. The tinker introduced himself as I split the first branches. His name was Terrence, and he had been working the circuit between Imre, Oakholt, and the smaller villages in between for more than thirty years, and he always stopped at greystones.  
 
-When the wind shifted again, it almost felt like it lingered a moment longer before moving on.  
+“Old roads,” he said when I asked. “Old stones. My father taught me to respect them, and I’ve had no cause to regret it.”  
 
-I descended the slopes with steps that were lighter, though no less cautious. I carried nothing with me but my breath, my lute, and the small, thrilling certainty that when I truly called, the wind would come.  
+I could have told him that my father had taught me the same. That we had camped by a hundred such stones when I was young, that the Edema Ruh knew the old ways. But I said nothing.  
 
-### * * *
+After dinner, I played for him. Nothing fancy at first. Road songs, traveling tunes, but then as a jest I struck up “Tinker Tanner,” and Terrence just cracked up laughing.  
 
-When I returned to Imre, it was near twilight. The city lounged beneath a sky painted in soft pinks and grays, the evening air cool against my skin. My boots found their way through familiar streets until the rest of the world seemed to fade behind me.  
+“That’s one no one ever plays for me,” he said, and produced a bottle of spiced whisky from his wagon. “Here’s to old songs and old roads.”  
 
-Auri’s rooftop was where it always was, quietly hidden, holding its breath just for me. When I climbed the last set of stones, I found her perched on the edge, her legs swinging over a gap as carelessly as a child dangling them in water. She turned at the sound of my boots, and her face broke into a wide smile, as though the sky itself had gifted her the sight of me.  
+We traded verses by the fire, each more inappropriate than the last. I’ll spare you the worst of them. By the time the bottle was empty, we had exhausted every crude metaphor we could think of and invented several new ones.  
 
-“Welcome home, Kvothe,” she said, prim and polished, as though I had kept her waiting for precisely this moment.  
+Even with the world spinning, I should have slept well that night. Tehlu knows I was tired enough. But something kept me restless, some itch at the edge of my awareness that I could not name.  
 
-I returned her smile, setting my pack down with a low thump. “You always know,” I said.  
+It was past midnight when I finally placed it.  
 
-“Of course I do,” she replied, tilting her head with a smug twist to her lips. “The wind told me. Did you catch it?”  
+I opened my eyes. The fire had burned down to embers, casting just enough light to see by. I lay there for a long moment, debating whether relieving myself was worth leaving the warmth of my blanket or if I could simply wait until morning.  
 
-I laughed, shaking my head. “Catch it? That’s the wrong question altogether.”  
+Then I saw it.  
 
-Auri raised a finger, as if to challenge me. “But did you ride it?”  
+Beside the greystone, at the edge of the clearing. Someone was standing there.  
 
-“No.” I sighed, dropping to sit beside her. The stone was cool beneath me, a quiet contrast to the warmth her presence brought. “But I got closer.”  
+They were tall, taller than seemed quite right, with a lean, angular frame. They moved with a strange delicacy and grace as if they were close to dancing. But their legs were too thin, or perhaps the wrong shape entirely below the knee, as if the shadows clung to them strangely.  
 
-“That’s good enough,” she said lightly. “You’ll be Taborlin the Great before you know it.”  
+I blinked, and they were looking at me.  
 
-Her eyes drifted to the bulging sack at my side, and she gasped. “Oh! What did you find this time?”  
+Even across the distance, even in the dim light, I felt the weight of that gaze. The way a cat might watch a bird.  
 
-“A few things,” I said, reaching into my pack. “And this.” I pulled free a bundle of rich blue fabric, folded neatly and tied with a thin strip of leather. “A gift for you.”  
+I opened my mouth to call out, to challenge, but when I tried, I felt nothing. My lips, my tongue, the words themselves seemed to have fled. In a moment of pure panic I clawed at my face.  
 
-Her hands flew to her cheeks in delight. “For me?” she asked, her voice hushed the way one speaks of something sacred.  
+I gasped.  
 
-“You said you liked my cloak,” I said, unfolding the fabric. It caught the fading light, the color deepening to the shade of evening skies just before the stars wake. “And since you don’t like used things, I thought you deserved one of your own.”  
+My heart hammered in my chest. The greystone stood pale and empty in the darkness. The camp was silent. Nothing moved. My mouth was there, as if it had never left.  
 
-She let me swing the cloak around her thin shoulders. It settled softly, wrapping her like dusk falling at the close of day. Her small hands clasped the edge, brushing its folds with reverence.  
+I lay there for a long moment, staring at the empty space beside the stone. My heart refused to slow. Finally, I threw off my blanket and walked to the edge of camp. I needed to move, needed to prove I could. I did not sleep again that night. And in the morning, when I asked Terrence if he had seen anyone near the stone, he gave me an odd look and shook his head.  
 
-“What’s it made of?” she asked, her voice full of longing.  
+“Just us,” he said. “Just us and the road.”  
 
-“Goose feathers and whispers from summer clouds,” I said. My voice held all the seriousness the moment deserved.
+I traveled with him for another day and we parted ways at Oakholt, the tinker heading south to visit the outlying farms while I turned my attention to the mountains rising in the distance. I found an outfitter’s shop and spent the better part of an hour replacing my meager supplies. Dried meat. Hard cheese. Trail bread that would keep for weeks. A small pot for boiling water. A proper flint and steel.  
 
-She laughed, bright and light, a chime caught in the open air. “Goose feathers alone are cruel. How thoughtful, to soften them with the kindness of clouds.”
+On my way to the counter, I passed a shelf of journals and folios. On a whim, I picked up a small one, its cover plain leather, its pages unlined. I could not have said why. Perhaps I thought I might want to remember what I found in the mountains. Perhaps I simply liked the weight of it in my hand.  
 
-“And what did you bring me?” I asked, invoking our ritual.  
+I paid for my supplies, found a cheap room for the night, and spread my new provisions across the bed to take stock. The hard loaf of bread from Anker’s sat among them. And though it was already going stale, I ate it that night rather than carry it further.  
 
-Auri’s sly grin returned. She reached into her pocket with great deliberation and pulled out a small, weathered book. It was plain but old, its edges browned and its cover faintly embossed with swirls, like frost curling over the surface of glass.  
+That night I tossed and turned and dreamed of drowning. My face was gone, sealed beneath sticky flesh. I clawed and ripped until my fingers were slick, but I could find no way to breathe, no way to scream.  
 
-“This,” she announced. “It’s made of shadows and murmurs from long ago.”  
+### * * *  
 
-I took it carefully, running my fingers along its textured surface. It felt strangely warm, as though it had absorbed sunlight no one else could see. “What’s inside?”  
+The first day in the mountains was a lie I told myself.  
 
-“Secrets,” she said simply. Her tone was so casual, so matter-of-fact, that it made me pause.  
+The foothills rolled gently beneath my boots, their slopes carpeted with autumn grass gone golden in the fading light. The pack rode my shoulders. The air carried the green smell of living things. I made good time, better than I had any right to expect, and by evening I had covered perhaps fifteen miles without breaking stride.  
 
-“Secrets it keeps?” I asked, curious.  
+That night I found a hollow between two weathered stones, sheltered from the wind that had begun to speak in whispers. I ate some dried meat and hard cheese, drank from my waterskin, and watched the stars emerge one by one.  
 
-“Secrets it tells,” she said, the words spreading like ripples in a still pond.  
+I thought of Anker polishing his bar, of the laughter rising from the common room. I thought of Wil and Sim bent over their books, or raising tankards at the Eolian. My people. My friends.  
 
-Before I could ask more, Auri sprang to her feet, the cloak swirling around her like a storm caught in a teacup. “Play for me!” she said, twirling once, her arms spread wide.  
+They would wonder where I had gone. Sim would worry, his face creasing with that honest concern he could never quite hide. Wil would shake his head, his accent thickening as he muttered something about my being reckless, about my never listening. Fela might understand. Mola would realize that worrying would not change the outcome.  
 
-I pulled my lute from my pack, the familiar weight rough in my hands. The first chord rose into the air, soft and buoyant, and she began to turn, her toes brushing the stone with practiced lightness.  
+But I had not told them I was leaving. Not properly. I had left a note for Anker and slipped away like a thief in the night, and now, alone beneath the wheeling stars, I felt the first small sting of that choice.  
 
-The notes carried us both. My fingers guided the melody, weaving it through the cool evening air. Auri spun and spun, her bare feet tracing patterns on the rooftop as though they were writing something too beautiful for words. The stars above blurred with her motion, their light winding together with the sound of my music.  
+It was easier to leave than to explain. That much I knew about myself. It was easier to vanish than to say I needed to chase something and could not say why.  
 
-Her laughter echoed briefly before fading into the stillness. When at last her movements slowed and my music trailed off, she collapsed into a heap of soft blue cloak and tangled golden hair, grinning up at me as though she’d captured the sky itself.  
+So I had run. As I always did.  
 
-### ~ ~ ~
+### * * *  
+
+The lie revealed itself on the second day.  
+
+The gentle foothills steepened into true slopes. The grass gave way to scrub, then to bare rock studded with hardy plants that clung to cracks and crevices. The pack bit into my shoulders. My calves burned. My lungs, accustomed to the lowland air of Imre, began to labor with each breath.  
+
+By midday I had climbed perhaps five miles, and I wanted nothing more than to sit down and never stand again.  
+
+But I kept walking. One foot, then another. The rhythm of it became a kind of meditation, a drumbeat I could lose myself inside. Step, step, step. Breathe. The world narrowed to the ground before me, to the next stone, the next ridge, the next desperate gasp of thinning air.  
+
+I had thought myself strong. I had survived Tarbean, after all. I had endured the Medica, the lash, the cold desperation of poverty. But this was different. This was not a thing to be endured but a thing to be walked through, step by agonizing step, with no end in sight.  
+
+The mountains did not care about my cleverness. They did not care about my quick tongue or my talent for sympathy or the songs I could coax from six strings. They cared only that I kept climbing.  
+
+### * * *  
+
+On the third day, the mountains began to speak.  
+
+Not in words. But in the howl of wind through narrow passes, in the crack of ice beneath my boots, in the silence that settled when the wind died and left only the sound of my own labored breathing.  
+
+I made camp early that night, in a shallow cave barely deep enough to shelter me from the wind. My hands shook as I unrolled my blanket. I had eaten well enough from my new supplies, but my exhaustion had outpaced any recovery my body could muster.  
+
+Tomorrow I would need to decide whether to continue climbing or turn back.  
+
+But tonight, I had only the cave and the cold and the relentless chatter of my own thoughts.  
+
+Herma.  
+
+The name rose unbidden, and with it came the memory of his hands trembling over the Yllish knots, of his voice growing thin. The last time I had seen him alive, bent over his work in the Scriptorium, refusing to admit that something was wrong.  
+
+I had known. Some part of me had known. I had seen the signs, the small betrayals of a body failing its owner. But I had let him deflect my concern with that gentle humor of his, had let him wave away my questions as if they were gnats rather than warnings.  
+
+Why? Because it was easier. Because confronting the truth would have meant admitting that I cared, that his death would leave a wound, and I had grown so skilled at protecting myself from wounds.  
+
+I thought of Denna then. I could not help it. In the empty hours between dark and dawn, she came to me as she always did. Her smile, crooked and knowing. Her voice, low and musical.  
+
+I loved her. That much was simple. But what I had done with that love was anything but.  
+
+I had pursued her across half the world, and I had let her slip away a hundred times. I had watched her with other men and said nothing. I had made her into a mystery to be solved, a song to be written, and in doing so I had missed the simple truth of her. She was not a puzzle. She was a person. A woman with her own wounds, her own secrets, her own reasons for running.  
+
+What had I ever given her, really? A few hours of conversation. A lute case she had paid for with jewelry she could not afford to lose. The dubious honor of my attention, my obsession, my inability to let go.  
+
+The wind howled outside my cave, and I did not try to answer it.  
+
+### * * *  
+
+The fourth day I filled my waterskin in a stream trickling down from the snowfields above. It was so cold it numbed my hands.  
+
+I kept climbing and breached the treeline. Up here it was all bare rock and ice and endless gray sky. There was nowhere to hide. Nothing to distract the mind from itself.  
+
+I thought of Simmon.  
+
+Dear, earnest Sim, who had cried when I won my talent pipes. Who had worried over me like a mother hen, pushing food across tavern tables when he thought I was not eating enough, staying up late helping me study for examinations I should have failed.  
+
+And how had I repaid him? I had taken his friendship as my due. I had kept my secrets locked behind a performer’s smile, had let him believe he knew me when in truth he knew only the version of myself I chose to show.  
+
+Sim deserved better. He deserved a friend who would sit with him when he was hurting, who would listen to his poems without judgment, who would let him see the ugly, broken parts and trust that he would not turn away.  
+
+Wil too. Steady, stoic Wil, who saw through my nonsense with those dark Cealdish eyes. I had never asked him about his life in Ralien. Never asked about his family, his hopes. He was always there, reliable as stone, and I had taken that reliability for granted.  
+
+The mountains did not care about my regrets. They simply continued to rise.  
+
+### * * *  
+
+By the fifth day I was too tired to think in words. My legs moved on their own. Snow formed piles among the rocks. Wind became a constant tugging whisper.  
+
+I had come here to find the wind. To learn its name. But now I wondered if I had been asking the wrong question all along.  
+
+You could not own the wind. You could only meet it where it was.  
+
+### * * *  
+
+The sixth day dawned clear, and I climbed into the throat of the mountains.  
+
+The peaks rose around me like teeth, jagged and solemn, their summits capped with snow that glinted in the pale morning light. The air was so thin that every breath was a gasp. Each step was a constant fight for balance.  
+
+But something had changed.  
+
+The wind met me differently now. It still tugged at my cloak, still stung my cheeks with cold. But there was something curious in it. It circled me as I climbed, testing, tasting, as if trying to determine what manner of creature had wandered into its domain.  
+
+I did not try to call it. I did not try to command or coax. I simply walked, and let the wind walk with me.  
+
+By midmorning, I had reached a rocky ledge perched high above the world. Below, the land fell away in great sweeping folds, forests and fields and distant rivers glinting like threads of silver. Above, the peaks continued their impossible ascent, vanishing into clouds that moved with stately grace across the sky.  
+
+I thought of Fela then. She had looked at me with something like interest once, after I pulled her from the fire in the Fishery. I had seen it in her eyes, felt it in the way she lingered. And I had done nothing. I had let the moment pass, too wrapped up in Denna to notice what was right in front of me.  
+
+Fela had deserved better than to be overlooked. And in the end, she had found someone who saw her clearly. Simmon, with his gentle heart and earnest poetry, had noticed what I had been too blind to see.  
+
+I was glad for them. Truly. But sitting there on the mountain, I could not help but wonder how many other moments I had missed. How many chances I had let slip away because I was too busy chasing something else.  
+
+I sat on the ledge and let myself simply be.  
+
+The wind came then, fierce and wild, battering my chest and legs, whipping my hair into my eyes. I did not fight it. I let it push against me, let it test my balance and my resolve. I breathed with it, matching my rhythm to its rhythm, finding the spaces between gusts where something almost like stillness lived.  
+
+And then, suddenly, it stopped.  
+
+The silence was so complete it startled me. My heart pounded in my chest. The wind had not vanished entirely. It was still there, I could feel it, coiled around me like a held breath. But it had paused, as if waiting.  
+
+Something brushed my cheek then. Soft and faint, acknowledging me as I acknowledged it.  
+
+The thread hummed just out of reach. For the first time, I did not try to pull it closer. I simply listened.  
+
+There was something beneath the wind, something deeper than the movement of air across stone. Not quite a name. Perhaps the shadow of one. Or simply the recognition that names were not the only way to know a thing.  
+
+The wind knew me. It had seen me struggle up its mountain, had watched me break and rebuild myself with each agonizing step. It had heard my thoughts, my regrets, my silent confessions. And now, at last, it was willing to acknowledge that I had come not as a conqueror but as a student.  
+
+When the wind shifted again, it lingered a moment longer than it needed to. A touch. A whisper. A promise.  
+
+Then it was gone, and I was alone on the ledge with the world spread out below me and the sky wheeling vast and blue above.  
+
+### * * *  
+
+I descended the slopes with steps that were lighter, though no less cautious.  
+
+The mountains had taken something from me. The arrogance, perhaps. The certainty that I could master anything if I was only clever enough. But they had given me something too. A quietness. A willingness to wait. The knowledge that some things could not be forced, only invited.  
+
+I thought of my friends as I walked. I could not change what I had been. I could not undo the times I had been selfish, or blind, or too wrapped up in my own story to see them clearly. But I could choose what I would be from this moment forward.  
+
+The foothills unfolded before me, golden in the afternoon light. Somewhere beyond them lay Imre, and the University, and all the complicated messy beautiful work of being alive.  
+
+I carried nothing with me but my pack, my lute, and the small, thrilling certainty that when I truly called, the wind would come.  
+
+### ~ ~ ~  
 
 [Chapter 5](CHAPTER_05.md) | [Contents](Contents.md) | [Chapter 7](CHAPTER_07.md)

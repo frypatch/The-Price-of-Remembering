@@ -3,13 +3,9 @@
 ## A SONG WITHOUT WORDS.
 
 
-THE NEWS ARRIVED QUIETLY at first, like the faint rumble of thunder through distant hills. It moved in whispers, trailing through the Courtyards and across the stone benches of the Medica, brushing against ears and tightening brows. By midmorning, it gained weight, carried on the sharp gestures of students gathering under the shadow of the Archives.
-
-Kilvin was Chancellor.
+WHEN I RETURNED TO Imre, I discovered two things. First, admissions were already under way. Second, Kilvin was Chancellor.
 
 Those words sat like a great stone in the air. Strange. Unyielding. Kilvin of the forges, Kilvin with his heavy hands and thick voice. Kilvin who spoke carefully, who shaped fire and brass. Now seated at the high table, at the head of all things. It was hard to imagine. As if a bear had been asked to rule among books. Strong, yes. Capable. But still out of place.
-
-I heard no proclamation. No formal announcement rang across the University. Not yet, that would come later. But the evidence was everywhere. In the Hall of Stones, Herma’s name had been carefully filed away into history. On the slab of dense, polished rock that bore the names of Chancellors past and present, Kilvin’s name gleamed freshly carved, sharp-edged like it might cut you if pressed too hard.
 
 I saw him that morning, before Admissions. He was hunched over a long roll of parchment, thick fingers wrapped around a quill too delicate for his hand. He did not look up as I passed. I thought only of my tuition. Eighteen talents and six jots. Not the worst I’d owed, but close enough to leave a mark. Looking back, the smallness of my worries makes me wince.
 
@@ -52,6 +48,62 @@ The room fell still. Papers that had scattered in the sudden wind settled softly
 “Beautifully done,” he said, his tone a strange mix of reverence and regret. He stepped closer, tilting his head like a bird both curious and wary. “A ring of air. A rare thing. The first step toward something.” He hesitated, studying the space where the wind had been, then nodded faintly. “A pity. So lovely. So doomed.”
 
 I barely heard him. I was still caught in the moment before, held captive by the raw and fragile truth of what I’d just touched. It wasn’t just a moment or a trick. It was proof that I had crossed some invisible line.  
+
+### * * *
+
+Auri’s rooftop was where it always was, quietly hidden, holding its breath just for me. When I climbed the last set of stones, I found her perched on the edge, her legs swinging over a gap as carelessly as a child dangling them in water. She turned at the sound of my boots, and her face broke into a wide smile, as though the sky itself had gifted her the sight of me.  
+
+“Welcome home, Kvothe,” she said, prim and polished, as though I had kept her waiting for precisely this moment.  
+
+I returned her smile, setting my pack down with a low thump. “You always know,” I said.  
+
+“Of course I do,” she replied, tilting her head with a smug twist to her lips. “The wind told me. Did you catch it?”  
+
+I laughed, shaking my head. “Catch it? That’s the wrong question altogether.”  
+
+Auri raised a finger, as if to challenge me. “But did you ride it?”  
+
+“No.” I sighed, dropping to sit beside her. The stone was cool beneath me, a quiet contrast to the warmth her presence brought. “But I got closer.”  
+
+“That’s good enough,” she said lightly. “You’ll be Taborlin the Great before you know it.”  
+
+Her eyes drifted to the bulging sack at my side, and she gasped. “Oh! What did you find this time?”  
+
+“A few things,” I said, reaching into my pack. “And this.” I pulled free a bundle of rich blue fabric, folded neatly and tied with a thin strip of leather. “A gift for you.”  
+
+Her hands flew to her cheeks in delight. “For me?” she asked, her voice hushed the way one speaks of something sacred.  
+
+“You said you liked my cloak,” I said, unfolding the fabric. It caught the fading light, the color deepening to the shade of evening skies just before the stars wake. “And since you don’t like used things, I thought you deserved one of your own.”  
+
+She let me swing the cloak around her thin shoulders. It settled softly, wrapping her like dusk falling at the close of day. Her small hands clasped the edge, brushing its folds with reverence.  
+
+“What’s it made of?” she asked, her voice full of longing.  
+
+“Goose feathers and whispers from summer clouds,” I said. My voice held all the seriousness the moment deserved.
+
+She laughed, bright and light, a chime caught in the open air. “Goose feathers alone are cruel. How thoughtful, to soften them with the kindness of clouds.”
+
+“And what did you bring me?” I asked, invoking our ritual.  
+
+Auri’s sly grin returned. She reached into her pocket with great deliberation and pulled out a small, weathered book. It was plain but old, its edges browned and its cover faintly embossed with swirls, like frost curling over the surface of glass.  
+
+“This,” she announced. “It’s made of shadows and murmurs from long ago.”  
+
+I took it carefully, running my fingers along its textured surface. It felt strangely warm, as though it had absorbed sunlight no one else could see. “What’s inside?”  
+
+“Secrets,” she said simply. Her tone was so casual, so matter-of-fact, that it made me pause.  
+
+“Secrets it keeps?” I asked, curious.  
+
+“Secrets it tells,” she said, the words spreading like ripples in a still pond.  
+
+Before I could ask more, Auri sprang to her feet, the cloak swirling around her like a storm caught in a teacup. “Play for me!” she said, twirling once, her arms spread wide.  
+
+I pulled my lute from my pack, the familiar weight rough in my hands. The first chord rose into the air, soft and buoyant, and she began to turn, her toes brushing the stone with practiced lightness.  
+
+The notes carried us both. My fingers guided the melody, weaving it through the cool evening air. Auri spun and spun, her bare feet tracing patterns on the rooftop as though they were writing something too beautiful for words. The stars above blurred with her motion, their light winding together with the sound of my music.  
+
+Her laughter echoed briefly before fading into the stillness. When at last her movements slowed and my music trailed off, she collapsed into a heap of soft blue cloak and tangled golden hair, grinning up at me as though she’d captured the sky itself.  
 
 ### * * *
 
