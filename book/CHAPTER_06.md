@@ -29,11 +29,11 @@ I knew the note would not satisfy him, but Anker was no fool. He would take his 
 
 But even so, when I turned to leave, something pressed at me harder than any pack. It was the ache of knowing that this was my home. These were my people. They would help me, as they always had, and they would understand. But my leaving would weigh on them. I would not be here to share the burden, and the work would be no lighter for my absence.  
 
-I stepped out into the night, the cool air striking my face. The street was alive with students, their laughter spilling from doorways and corners as they stretched out these final days of unexpected freedom. I left Imre behind. The mountains wouldn’t wait.  
+I stepped out into the night, the cool air striking my face. The street was alive with students, their laughter spilling from doorways and corners as they made the most of these final days before the Masters reconvened classes. I left Imre behind. The mountains wouldn’t wait.  
 
 ### * * *  
 
-I walked through the night and into the morning, following the east road as the sun rose behind a thin veil of clouds. By midday my feet ached and my shoulders had begun to protest the pack’s weight. Late afternoon found me questioning how I could have grown so soft, the lute case on my back felt like an anchor dragging me down.  
+I walked through the night and into the morning, following the east road as the sun rose behind a thin veil of clouds. By midday my feet ached and my shoulders had begun to protest the pack’s weight. Late afternoon found me questioning how I could have grown so soft. The lute case on my back felt like an anchor dragging me down.  
 
 But I kept walking. The road wound through farmland and scattered villages, past orchards heavy with late fruit and fields where farmers were bringing in the last of the harvest. I bought an apple from a woman selling them by the roadside and ate it, core and all.  
 
@@ -47,7 +47,7 @@ He looked me over, taking in my clothes, my pack, the lute case on my back. Some
 
 “Good.” He gestured toward an ax leaning against the wagon. “Make yourself useful with the firewood first. Can’t have songs without supper.”  
 
-I set down my pack and went to work. The tinker introduced himself as I split the first branches. His name was Terrence, and he had been working the circuit between Imre, Oakholt, and the smaller villages in between for more than thirty years, and he always stopped at greystones.  
+I set down my pack and went to work. The tinker introduced himself as I split the first branches. His name was Terrence, and he had been working the circuit between Imre, Oakholt, and the smaller villages in between for more than thirty years. He always stopped at greystones.  
 
 “Old roads,” he said when I asked. “Old stones. My father taught me to respect them, and I’ve had no cause to regret it.”  
 
@@ -85,19 +85,24 @@ I lay there for a long moment, staring at the empty space beside the stone. My h
 
 “Just us,” he said. “Just us and the road.”  
 
-I traveled with him for another day and we parted ways at Oakholt, the tinker heading south to visit the outlying farms while I turned my attention to the mountains rising in the distance. I found an outfitter’s shop and spent the better part of an hour replacing my meager supplies. Dried meat. Hard cheese. Trail bread that would keep for weeks. A small pot for boiling water. A proper flint and steel.  
+I traveled with him for another day, and we parted ways at Oakholt, the tinker heading south to visit the outlying farms while I turned my attention to the mountains rising in the distance. I found an outfitter’s shop and spent the better part of an hour replacing my meager supplies. Dried meat. Hard cheese. Trail bread that would keep for weeks. A small pot for boiling water. A proper flint and steel.  
 
 On my way to the counter, I passed a shelf of journals and folios. On a whim, I picked up a small one, its cover plain leather, its pages unlined. I could not have said why. Perhaps I thought I might want to remember what I found in the mountains. Perhaps I simply liked the weight of it in my hand.  
 
 I paid for my supplies, found a cheap room for the night, and spread my new provisions across the bed to take stock. The hard loaf of bread from Anker’s sat among them. And though it was already going stale, I ate it that night rather than carry it further.  
 
+Before sleep found me, I opened the journal and dipped my pen. The first entry was brief:
+
+> “Tomorrow, I climb.”  
+> “The Six Sisters rise to the east, their peaks are lost in the clouds.”  
+
 That night I tossed and turned and dreamed of drowning. My face was gone, sealed beneath sticky flesh. I clawed and ripped until my fingers were slick, but I could find no way to breathe, no way to scream.  
 
 ### * * *  
 
-The first day in the mountains was a lie I told myself.  
+> “Day One”  
 
-The foothills rolled gently beneath my boots, their slopes carpeted with autumn grass gone golden in the fading light. The pack rode my shoulders. The air carried the green smell of living things. I made good time, better than I had any right to expect, and by evening I had covered perhaps fifteen miles without breaking stride.  
+The foothills rolled gently beneath my boots. The autumn grass cushioned my stride, and the pack rode high on my shoulders. I bounded past the green smell of living things. By evening I had covered perhaps fifteen miles, better than I had any right to expect.  
 
 That night I found a hollow between two weathered stones, sheltered from the wind that had begun to speak in whispers. I ate some dried meat and hard cheese, drank from my waterskin, and watched the stars emerge one by one.  
 
@@ -113,7 +118,7 @@ So I had run. As I always did.
 
 ### * * *  
 
-The lie revealed itself on the second day.  
+> “Day Two”  
 
 The gentle foothills steepened into true slopes. The grass gave way to scrub, then to bare rock studded with hardy plants that clung to cracks and crevices. The pack bit into my shoulders. My calves burned. My lungs, accustomed to the lowland air of Imre, began to labor with each breath.  
 
@@ -126,6 +131,8 @@ I had thought myself strong. I had survived Tarbean, after all. I had endured th
 The mountains did not care about my cleverness. They did not care about my quick tongue or my talent for sympathy or the songs I could coax from six strings. They cared only that I kept climbing.  
 
 ### * * *  
+
+> “Day Three”  
 
 On the third day, the mountains began to speak.  
 
@@ -157,7 +164,9 @@ The wind howled outside my cave, and I did not try to answer it.
 
 ### * * *  
 
-The fourth day I filled my waterskin in a stream trickling down from the snowfields above. It was so cold it numbed my hands.  
+> “Day Four”  
+
+I filled my waterskin in a stream trickling down from the snowfields above. It was so cold it numbed my hands.  
 
 I kept climbing and breached the treeline. Up here it was all bare rock and ice and endless gray sky. There was nowhere to hide. Nothing to distract the mind from itself.  
 
@@ -175,25 +184,29 @@ The mountains did not care about my regrets. They simply continued to rise.
 
 ### * * *  
 
+> “Day Five”  
+
 By the fifth day I was too tired to think in words. My legs moved on their own. Snow formed piles among the rocks. Wind became a constant tugging whisper.  
 
-I had come here to find the wind. To learn its name. But now I wondered if I had been asking the wrong question all along.  
-
-You could not own the wind. You could only meet it where it was.  
+It was only mid-morning when it started to hail.  
 
 ### * * *  
 
-The sixth day dawned clear, and I climbed into the throat of the mountains.  
+> “Day Six”  
 
-The peaks rose around me like teeth, jagged and solemn, their summits capped with snow that glinted in the pale morning light. The air was so thin that every breath was a gasp. Each step was a constant fight for balance.  
+I found myself in a stand of pines, huddled against a trunk with my shaed wrapped tight around me. Every muscle ached. My ribs throbbed where something had struck them. There was a crusted gash on my forearm that I did not remember getting.  
 
-But something had changed.  
+Running down the mountain had cost me half a day’s progress. Maybe more.  
 
-The wind met me differently now. It still tugged at my cloak, still stung my cheeks with cold. But there was something curious in it. It circled me as I climbed, testing, tasting, as if trying to determine what manner of creature had wandered into its domain.  
+I sat there for a long time before deciding to try again. I had tried to master the mountain. And the mountain had answered.  
+
+But in heading back up, something had changed.  
+
+The wind met me differently now. It still tugged at my cloak, still stung my cheeks with cold. But there was something curious in it. It circled me as I climbed, as if trying to determine what manner of creature had wandered into its domain.  
 
 I did not try to call it. I did not try to command or coax. I simply walked, and let the wind walk with me.  
 
-By midmorning, I had reached a rocky ledge perched high above the world. Below, the land fell away in great sweeping folds, forests and fields and distant rivers glinting like threads of silver. Above, the peaks continued their impossible ascent, vanishing into clouds that moved with stately grace across the sky.  
+By late afternoon I had long since re-breached the treeline and reached a rocky ledge perched high above the world. Below, the land fell away in great sweeping folds, forests and fields and distant rivers glinting like threads of silver. Above, the peaks continued their impossible ascent, vanishing into clouds that moved with stately grace across the sky.  
 
 I thought of Fela then. She had looked at me with something like interest once, after I pulled her from the fire in the Fishery. I had seen it in her eyes, felt it in the way she lingered. And I had done nothing. I had let the moment pass, too wrapped up in Denna to notice what was right in front of me.  
 
@@ -222,6 +235,8 @@ When the wind shifted again, it lingered a moment longer than it needed to. A to
 Then it was gone, and I was alone on the ledge with the world spread out below me and the sky wheeling vast and blue above.  
 
 ### * * *  
+
+> “Day Seven”  
 
 I descended the slopes with steps that were lighter, though no less cautious.  
 
