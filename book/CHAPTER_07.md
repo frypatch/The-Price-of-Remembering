@@ -3,15 +3,45 @@
 ## A SONG WITHOUT WORDS.
 
 
-WHEN I RETURNED TO Imre, I discovered two things. First, admissions were already under way. Second, Kilvin was Chancellor.
+WHEN I CAME DOWN from the mountains, I went looking for my friends. I had apologies to make. Taking off like that, leaving nothing but a note at Anker’s, wasn’t the sort of thing you did to people who mattered.  
 
-Those words sat like a great stone in the air. Strange. Unyielding. Kilvin of the forges, Kilvin with his heavy hands and thick voice. Kilvin who spoke carefully, who shaped fire and brass. Now seated at the high table, at the head of all things. It was hard to imagine. As if a bear had been asked to rule among books. Strong, yes. Capable. But still out of place.
+I found Simmon first. He was in the courtyard near the fountain. When he spotted me, he was on his feet in an instant, his face cycling through relief, excitement, and something harder to name.  
 
-I saw him that morning, before Admissions. He was hunched over a long roll of parchment, thick fingers wrapped around a quill too delicate for his hand. He did not look up as I passed. I thought only of my tuition. Eighteen talents and six jots. Not the worst I’d owed, but close enough to leave a mark. Looking back, the smallness of my worries makes me wince.
+“You’re back.” He clasped my arm. “Where did you go? No, never mind. How much do you know?”  
 
-Herma was gone, and Kilvin stood in his place. I imagined his voice huddled behind the weight of that long table, giving counsel in that calm, rumbling tone of his. It wasn’t a bad thought. Kilvin, after all, was what people called reliable. Still, a whisper tugged at the back of my mind like a thread. Did Kilvin know what to do when the knot unraveled?
+“I know admissions started,” I said. “Beyond that, nothing.”  
 
-But classes were to be back in session. Life at the University had, a last, continued on.  
+Sim nodded. “Well, Kilvin is Chancellor. Manet is Master Rhetorician.”  
+
+I stopped walking. “Manet?”  
+
+“Yup.” Sim’s mouth quirked. “He refused three times. Said he had no interest in politics and less in teaching fools to argue. But Kilvin insisted. Said the University needed ‘a mentor in that chair.’”  
+
+I tried to picture it. Manet sitting behind the long table. Manet, the eternal E’lir, who had been a student longer than most Masters had held their chairs. Who played corners for ha’pennies and gave advice like other men gave weather reports. Now he would sit across from me and set my tuition.  
+
+“And Brandeur?” I asked.  
+
+Sim’s smile faded. “Still here. Still Master Arithmetician. They couldn’t prove anything under the iron law. But everyone knows. The other Masters won’t speak to him. He sits alone. Takes his meals alone. Honestly, I think expulsion would have been kinder.”  
+
+Sim reached into his pocket and pressed a clay chit into my hand. “Tomorrow. Second bell.”  
+
+I looked at it, then back at him. “Sim, I can’t take your slot.”  
+
+“It’s not mine.” His ears went red. “I drew for both of us.”  
+
+“How?”  
+
+Sim shifted his weight. “I may have reminded someone that my father is the Duke of Dalonir. And that the Duke’s fourth son was requesting a small courtesy for a friend.”  
+
+In all the time I’d known him, I had never once heard Sim leverage his family’s name.  
+
+“Sim.”  
+
+“Don’t.” His ears were still red. “It’s fine. Can we talk about something else?”  
+
+I pocketed the chit.  
+
+Classes would be back in session. Life at the University had, at last, continued on.  
 
 ### * * *
 
@@ -29,11 +59,11 @@ Elodin stopped pacing. The faintest smile curved along his lips. “Clever. And 
 
 I opened my mouth to respond, but Elodin wasn’t waiting.
 
-“A Name,” he said, “is more than truth. It is balance. It is connection. It is weight. It is the thing beneath all things."
+“A Name,” he said, “is more than truth. It is balance. It is connection. It is weight. It is the thing beneath all things.”
 
 He paused then, looking straight at me, eyes bright and sharp. “If you pull too hard on one thread,” he said. He gestured, and a breath of wind moved through the room. It came light as a whisper, brushing against my cheek.
 
-“Everything comes undone."
+“Everything comes undone.”
 
 The air thickened. I could feel it winding tighter around me, impossibly heavy.
 
