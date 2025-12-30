@@ -216,23 +216,21 @@ I was glad for them. Truly. But sitting there on the mountain, I could not help 
 
 I sat on the ledge and let myself simply be.  
 
-The wind came then, fierce and wild, battering my chest and legs, whipping my hair into my eyes. I did not fight it. I let it push against me, let it test my balance and my resolve. I breathed with it, matching my rhythm to its rhythm, finding the spaces between gusts where something almost like stillness lived.  
+The wind came then, fierce and wild, battering my chest and legs, whipping my hair into my eyes. I did not fight it. I let it push against me, let it test my balance and my resolve. I breathed with it, matching its rhythm, finding the spaces where something almost like stillness lived.  
 
 And then, suddenly, it stopped.  
 
-The silence was so complete it startled me. My heart pounded in my chest. The wind had not vanished entirely. It was still there, I could feel it, coiled around me like a held breath. But it had paused, as if waiting.  
+The silence was so complete it startled me. My heart pounded in my chest. The wind was still there, I could feel it, coiled around me like a held breath. For the first time, I did not try to pull it closer. I simply listened.  
 
-Something brushed my cheek then. Soft and faint, acknowledging me as I acknowledged it.  
+There was something beneath the wind, something deeper than the movement of air across stone. Not quite a name. Perhaps the recognition that names were not the only way to know a thing.  
 
-The thread hummed just out of reach. For the first time, I did not try to pull it closer. I simply listened.  
+The wind knew me. It had seen me struggle up its mountain, had watched me break and rebuild myself with each agonizing step. It had heard my thoughts, my regrets, my silent confessions. And now, at last, it was willing to acknowledge that I had come not as a conqueror but as a friend.  
 
-There was something beneath the wind, something deeper than the movement of air across stone. Not quite a name. Perhaps the shadow of one. Or simply the recognition that names were not the only way to know a thing.  
+The wind shifted again, and a wisp remained, lingering a moment longer than it needed to. It circled my hand, nuzzled my knuckles, and wiggled in between my fingers, as if to ask if it could stay.  
 
-The wind knew me. It had seen me struggle up its mountain, had watched me break and rebuild myself with each agonizing step. It had heard my thoughts, my regrets, my silent confessions. And now, at last, it was willing to acknowledge that I had come not as a conqueror but as a student.  
+I reached out with my other hand and plucked the trailing edge between my first two fingers. When it did not squirm I tied it the way my father had taught me to tie a musician’s knot. A thumb pressed down, a twist, a pull.  
 
-When the wind shifted again, it lingered a moment longer than it needed to. A touch. A whisper. A promise.  
-
-Then it was gone, and I was alone on the ledge with the world spread out below me and the sky wheeling vast and blue above.  
+And then I was alone on the ledge with the world spread out below me and the sky wheeling vast and blue above.  
 
 ### * * *  
 
