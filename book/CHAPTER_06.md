@@ -230,7 +230,7 @@ The wind shifted again, and a wisp remained, lingering a moment longer than it n
 
 I reached out with my other hand and plucked the trailing edge between my first two fingers. When it did not squirm I tied it the way my father had taught me to tie a musician’s knot. A thumb pressed down, a twist, a pull.  
 
-Then the wind was gone, and I was alone on the ledge with the world spread out below me and the sky wheeling vast and blue above.  
+And then I was alone on the ledge with the world spread out below me and the sky wheeling vast and blue above.  
 
 ### * * *  
 
