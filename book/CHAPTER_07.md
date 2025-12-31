@@ -45,25 +45,23 @@ Classes would be back in session. Life at the University had, at last, continued
 
 ### * * *  
 
-Auri’s rooftop was where it always was, quietly hidden, holding its breath just for me. When I climbed the last set of stones, I found her perched on the edge, her legs swinging over a gap as carelessly as a child dangling them in water. She turned at the sound of my boots, watching me make the last few steps.  
+The courtyard was where it always was, walled off from the world, a secret kept between us. When I climbed down through the last branches of the apple tree, I found Auri hopping from stone to stone, stepping only on the ones that had heaved up proud over the years. She held half an apple in one hand, taking small, careful bites between hops. When she heard my boots touch ground, she landed lightly and turned, her face lighting up.  
 
-“Welcome home, Kvothe,” she said, prim and polished, as though I had kept her waiting for precisely this moment.  
+“Welcome home, Kvothe,” she said, prim and polished, balancing on one foot. “These ones think too much of themselves.”  
 
-I returned her smile, setting my pack down with a low thump. “You always know,” I said.  
+I returned her smile, setting my pack down with a low thump. “So you need to visit each one?” I asked.  
 
-“Of course I do.” She hopped down from her perch and crossed to me with quick, light steps. Then she stopped, rising slightly on her toes.  
-
-Her eyes found my hand. Her whole face brightened, the way it did when she found something that was finally where it ought to be. “You’re wearing it,” she said. Not a question. She reached out, fingers hovering above the ring without touching. “Something’s still swimming there.” She grinned up at me. “Did you catch it?”  
+“Of course.” She hopped down from her stone and crossed to me with quick, light steps, then stopped, her eyes finding my hand. “You’re wearing it,” she said, peering closer. “Something’s still swimming there.” She grinned up at me. “Did you catch it?”  
 
 I laughed, shaking my head. “Catch it? That’s the wrong question altogether.”  
 
 Auri raised a finger, as if to challenge me. “But did you ride it?”  
 
-“No.” I sighed, dropping to sit beside her. The stone was cool beneath me, a quiet contrast to the warmth her presence brought. “But I got closer.”  
+“No.” I sighed, dropping to sit beside her stone. The courtyard was cool beneath us, and the light had begun to fade. “But I got closer.”  
 
 “That’s good enough,” she said lightly. “You’ll be Taborlin the Great before you know it.”  
 
-Her eyes drifted to the bulging sack at my side, and she gasped. “Oh! What did you find this time?”  
+Her eyes drifted to the bulging pack at my side, and she gasped. “Oh! What did you find this time?”  
 
 “A few things,” I said, reaching into my pack. “And this.” I pulled free a bundle of rich blue fabric, folded neatly and tied with a thin strip of leather. “A gift for you.”  
 
@@ -71,9 +69,7 @@ Her hands flew to her cheeks in delight. “For me?” she asked, her voice hush
 
 “You said you liked my cloak,” I said, unfolding the fabric. It caught the fading light, the color deepening to the shade of evening skies just before the stars wake. “And since you don’t like used things, I thought you deserved one of your own.”  
 
-She let me swing the cloak around her thin shoulders. It settled softly, wrapping her like dusk falling at the close of day. Her small hands clasped the edge, brushing its folds with reverence.  
-
-“What’s it made of?” she asked, her voice full of longing.  
+She let me swing the cloak around her thin shoulders. It settled softly, wrapping her like dusk falling at the close of day. Her small hands clasped the edge, brushing its folds. “What’s it made of?”  
 
 “Goose feathers and whispers from summer clouds,” I said. My voice held all the seriousness the moment deserved.  
 
@@ -81,23 +77,15 @@ She laughed, bright and light, a chime caught in the open air. “Goose feathers
 
 “And what did you bring me?” I asked, invoking our ritual.  
 
-Auri’s sly grin returned. She reached into her pocket with great deliberation and pulled out a small, weathered book. It was plain but old, its edges browned and its cover faintly embossed with swirls, like frost curling over the surface of glass.  
+Auri’s sly grin returned. “A book, full of secrets and whispers,” she said and reached into her pocket. It was small and weathered, with its edges browned and its cover faintly embossed with swirls. I took it carefully, running my fingers along its textured surface. “Secrets it keeps?” I asked, curious.  
 
-“This,” she announced. “It’s made of shadows and murmurs from long ago.”  
-
-I took it carefully, running my fingers along its textured surface. It felt strangely warm, as though it had absorbed sunlight no one else could see. “What’s inside?”  
-
-“Secrets,” she said simply. Her tone was so casual, so matter-of-fact, that it made me pause.  
-
-“Secrets it keeps?” I asked, curious.  
-
-“Secrets it tells,” she said, the words spreading like ripples in a still pond.  
+“Books don’t keep secrets. They tell them,” she said, correcting me gently.  
 
 Before I could ask more, Auri sprang to her feet, the cloak swirling around her like a storm caught in a teacup. “Play for me!” she said, twirling once, her arms spread wide.  
 
-I pulled my lute from my pack, the familiar weight rough in my hands. The first chord rose into the air, soft and buoyant, and she began to turn, her toes brushing the stone with practiced lightness.  
+I pulled my lute from my pack, the familiar weight right in my hands. The first chord rose into the air, soft and buoyant, and she began to turn, her toes brushing the courtyard stones with practiced lightness.  
 
-The notes carried us both. My fingers guided the melody, weaving it through the cool evening air. Auri spun and spun, her bare feet tracing patterns on the rooftop as though they were writing something too beautiful for words. The stars above blurred with her motion, their light winding together with the sound of my music.  
+The notes carried us both. My fingers guided the melody, weaving it through the cool evening air. Auri spun and spun, her bare feet tracing patterns on the weathered stones, some sunken deep with age, others proud and tilted where frost had heaved them wrong. She moved as though she were writing something too beautiful for words. The stars above blurred with her motion, their light winding together with the sound of my music.  
 
 Her laughter echoed briefly before fading into the stillness. When at last her movements slowed and my music trailed off, she collapsed into a heap of soft blue cloak and tangled golden hair, grinning up at me as though she’d captured the sky itself.  
 
