@@ -3,7 +3,7 @@
 ## EARS IN THE WIND.
 
 
-I DID NOT KNOW WHAT I expected to find in Herma’s guilder. Only that Mola had examined it during the autopsy and set it aside because it didn’t sit right. It had passed their testing and been declared sound, but I needed something they hadn’t tried. Something unorthodox. A moneylender’s livelihood depended on knowing true metal from false. If anyone in Imre had alchemical reagents for testing coins, reagents sensitive enough to reveal what Mola’s conventional testing had missed, it would be Devi.  
+I DID NOT KNOW WHAT I expected to find in Herma’s guilder. Only that Mola had examined it during the autopsy and set it aside because it didn’t sit right. It had passed their testing and been declared sound, but I needed something they hadn’t tried. Something unorthodox. A moneylender’s livelihood depended on knowing true metal from false. If anyone in Imre could reveal what Mola’s conventional testing had missed, it would be Devi.  
 
 Two knocks, and she opened her door.  
 
@@ -35,29 +35,29 @@ I kept my smile in place, though my gut twisted at the idea of owing her anythin
 
 ### * * *  
 
-That night at the Medica’s side entrance, with the vials sitting cold against my hip, I met Wil and Sim. Once inside, sympathy lamps glowed softly, casting long shadows across polished surfaces. All around us, the silence pressed in.  
+That night at the Medica’s side entrance, with the vials pressing cold against my hip, I met Wil and Sim. Once inside, sympathy lamps glowed softly, casting long shadows across polished surfaces. All around us, the silence closed in.  
 
-“This is ridiculous,” Wil muttered, shoulders tight, as if the Medica’s clinical smell made his skin crawl. “Weeks of good decisions. Gone with one bad idea and more bad wine.”  
+“This is ridiculous,” Wil muttered, as if the Medica’s clinical smell made his skin crawl. “Weeks of good decisions. Gone with one bad idea and more bad wine.”  
 
-“Two skins of wine,” Sim corrected. He kept his arms tight against his sides, as if trying to contain a panic that threatened to spill over. “And when Arwyl skins us alive, don’t expect me to defend either of you.”  
+“Two skins of wine,” Sim corrected. He kept his arms tight against his sides, like he was holding himself together. “And when Arwyl skins us alive, don’t expect me to defend either of you.”  
 
-“No one’s catching us,” I murmured, feigning confidence. Ahead of us, nestled against the wall, sat Herma’s guilder among the other examined effects from the autopsy. The case was plain glass and brass, easy to overlook. Motioning for Wil to stand watch, I stepped forward to crouch in front of the case. My fingers fidgeted restlessly as I examined the lock. All clean lines and precise metalwork. Simple. Practical. The sort of design that promised to be more difficult than it looked.  
+“No one’s catching us,” I murmured. Ahead of us, nestled against the wall, sat Herma’s guilder among the other examined effects from the autopsy. The case was plain glass and brass, easy to overlook. Motioning for Wil to stand watch, I stepped forward to crouch in front of the case. My fingers drummed against my thigh as I examined the lock. All clean lines and precise metalwork. The sort of design that promised to be more difficult than it looked.  
 
 “You’re sure about this?” Sim said in a voice that was as close to a shout as a whisper could be.  
 
 “Truthfully?” I said, working the lock as I spoke. I didn’t look up, and my voice was quieter than I felt. “Not remotely.”  
 
-But I’d opened worse. My fingers found the pins, and the lock gave way, its well-oiled mechanism yielding without so much as a click. I lifted the lid. The guilder looked ordinary at first glance. A flat lead disc with sygaldry stamped into its surface. Plain. Utilitarian. The sort of token any full arcanist carried. When I picked it up, the numbing sensation was there, like it had been when I’d held Abenthy’s guilder. But its protective bite was blunted, and didn’t grow as I held it longer. Underneath, my fingers detected what felt like a crackled surface, but when I turned it over the back was smooth and unremarkable.  
+But I’d opened worse. My fingers found the pins, and the lock gave way, its well-oiled mechanism yielding without so much as a click. I lifted the lid. The guilder looked ordinary at first glance. A plain lead disc with sygaldry stamped into its surface. The sort of token any full arcanist carried. When I picked it up, the numbing sensation was there, like it had been when I’d held Abenthy’s guilder. But its protective bite was blunted, and didn’t deepen as I held it longer. Underneath, my fingers found what felt like a crackled surface, but when I turned it over the back was smooth and unremarkable.  
 
-I tipped Devi’s vial over the guilder. Slow and careful. At first, nothing as the liquid slipped across the sygaldry. Then, salt crystals crawled along lines, thin and sharp, glittering like frost.  
+I tipped Devi’s vial over the guilder, watching the liquid creep across the sygaldry. At first nothing. Then salt crystals crawled along the lines, glittering like frost.  
 
-Behind me, Sim inhaled. His breath caught. “Is that normal?”  
+Behind me, Sim’s breath caught. “Is that normal?”  
 
 “No,” I said, wiping the guilder clean with a jeweler’s cloth from my pocket. “Devi’s reagent tests for metallic corruption. Foreign elements that shouldn’t be there.” I held the guilder to the light. “A proper guilder would show clear channels, maybe a faint residue from use. Not this. These crystals mean something was introduced to the sygaldry.”  
 
-“Done?” Wil whispered. He watched the hallway, shoulders tight, each breath drawn shallow.  
+“Done?” Wil whispered. He watched the hallway, shoulders tight.  
 
-“Yes,” I said, fitting the lock back into place with a final click. My hands worked faster than my mind, the question weighing on me. Who could have done this? And, worse, who would? The sabotage was clever. Elegant, even. I tried not to leap to conclusions. Tried not to let suspicion settle. But this had been deliberate, and it wasn’t over.  
+“Yes,” I said, fitting the lock back into place with a final click. My hands worked faster than my mind, the question weighing on me. Who could have done this? And, worse, who would? I tried not to leap to conclusions. Tried not to let suspicion settle. But this had been deliberate, and it wasn’t over.  
 
 ### * * *  
 
