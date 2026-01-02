@@ -26,7 +26,8 @@ publish_version = """{}.{}.{}""".format(
     today.year-2022, 
     str(today.month).zfill(2), 
     str(today.day).zfill(2))
-publish_version = "4.0.0"
+## Uncomment next line to force a major release.
+## publish_version = "0.0.0"
 with open(os.path.join(work_dir,"description.json"),"r") as f:
     json_description = json.load(f)
     json_metadata = json_description["metadata"]
