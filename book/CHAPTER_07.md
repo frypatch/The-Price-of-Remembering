@@ -91,49 +91,41 @@ Her laughter echoed briefly before fading into the stillness. When at last her m
 
 ### * * *  
 
-Denna was back in Imre.  
+Denna was back in Imre. I found her seated at an outdoor table with a prosperous merchant whose rings caught the evening light. She was dressed simply, her dark hair loose around her shoulders.  
 
-I never know how these things find me, whether it’s an overheard word or the strange way the air changes when she’s nearby. But I knew. I felt it as surely as the first sharp note of a song.  
+The merchant was talking, his hands gesturing broadly as Denna smiled on politely. Her eyes found me before I could decide whether to approach, and something like relief crossed her expression. She stood before the merchant had finished his sentence.  
 
-I found her perched on a low stone wall outside a shop boasting perfumes too delicate for my palate and cigars too expensive for my purse. She was dressed simply, her dark hair dancing faintly in the breeze. But there were signs of elsewhere in her. Subtle changes tucked into the way she carried herself, secrets hinted at in the faint streak of amber kissing her hair and the soft spice clinging to her skin.  
+“Are you off to dine with kings?” I asked as she reached me.  
 
-“Are you off to dine with kings?” I asked, lifting my voice just enough to break her quiet.  
+“Only if they didn’t bore me first,” she said and took my arm in one smooth motion, drawing me away.  
 
-Her gaze found me, and she smiled, quick and sharp like light glancing off a blade. The moment vanished in the next breath. “Only if kings don’t bore me first,” she said, hopping down from the wall with just enough grace to make it seem accidental.  
+Behind us, the merchant sputtered something about their evening plans, but Denna didn’t slow. “I’m afraid I’ve just remembered a prior engagement,” she called over her shoulder, then turned to me with a smile. “You don’t mind being a prior engagement, do you?”  
 
-Something about her was different, but not in the usual way Denna was always different, like a song changing key. This was quieter, more deliberate. She was here, but I could tell that some part of her was still elsewhere, drifting outside what I could reach.  
+“I’ve played worse parts.”  
 
-We spent the evening walking the streets of Imre, dipping in and out of gilded restaurants where the service came with silver platters and smiles just shy of condescension. I told her stories, absurd things that made her laugh, and her laugh made the night feel lighter. I played for her too, here and there. At one table, I played a simple tune, and at another, something fast and clever. Her bursts of laughter and easy smiles filled the spaces we shared, yet I couldn’t shake the weight of what always followed. It was the quiet, the part of her I could never touch.  
+We spent the evening walking the streets of Imre, dipping into one restaurant after another. She talked between courses, hands moving as she worked through problems in her song, where a verse sat wrong, how a story should turn. I listened, offered thoughts when she asked, mostly just watched her come alive over the work. Over glasses of wine, we sang her new harmony. Her smiles and bright laughter filled the spaces we shared, yet I couldn’t shake the weight of what always followed. It was the quiet, the part of her I could never touch.  
 
-By the time we left the last café, I’d spent more of the Maer’s coin than I cared to count. But sixty-two talents’ worth of tuition buys a great deal of pocket money, and I found I did not mind the spending as I once might have.  
+By the time we left the last restaurant, I’d spent more of the Maer’s coin than I cared to count. But sixty-two talents’ worth of tuition buys a great deal of pocket money, and I found I did not mind the spending as I once might have.  
 
-Farther down the street, the dark ribbon of the Omethi River curved its long body through the city. A light caught my eye as I noticed the lantern hanging at the bow of a small boat. Its pale glow revealed the figure of Sovoy, who was paddling along the lazy current. His movements were as smooth as ink spilling over a page. His hat was tilted forward, and his hunched shoulders made him look like an absent thought adrift in the slow water.  
+We walked without destination, and our wandering brought us to the Omethi River that curved through the city. On an impulse that felt both reckless and right, I hired a boatman, and soon we were drifting downstream.  
 
-“That’s rare enough to catch the eye,” I murmured.  
+We drifted past a pleasure boat, lanterns strung along its rails, music and laughter spilling across the water. Sovoy stood at the railing, drink in hand, gesturing animatedly to someone I couldn’t quite make out. Denna followed my gaze, then reached for my chin, drawing my attention back. “Look there instead,” she said, pointing to where the moonlight pooled silver on the water.  
 
-Denna turned her head toward the water but didn’t stop walking. Her voice came softer than the river’s rhythm. “Rare things have a way of vanishing.”  
+The boatman guided us to a quiet spot beneath the arch of Stonebridge, where the current slowed and the sounds of the city softened to a murmur. Above, the occasional footstep crossed the bridge, but here in the shadow of it, we might have been alone in the world.  
 
-She reached for my arm and tugged me away from the café lights, leading us into quieter streets, and then quieter still, until the shadows of Imre deepened, and the soft hum of the city slipped behind us like a dying breath.  
-
-### * * *  
-
-We found ourselves near the standing stones just beyond the far edge of the city, where the air turned sharp and stars hung closer to the ground. I had walked past these stones many times but never lingered. Tonight, though, something about their presence seemed different. The world felt quieter here, as though holding its breath.  
-
-Denna leaned against one of the stones, the faint moonlight pooling silver over her dark hair. She had her arms folded loosely, her usual laughter gentler now but no less sharp. “Why don’t you play me something new?” she asked.  
+“Why don’t you play me something?” she asked.  
 
 It wasn’t a suggestion.  
 
-I hesitated, my fingers trailing over the strings of my lute as I unslung it from my shoulder. I wanted to reach for something easy, the steady comfort of a familiar tune, but there was no comfort in the way she looked at me. Her gaze pinned me to the spot, weightless but unyielding.  
+I hesitated, my fingers trailing over the strings of my lute as I unslung it from my shoulder. In the past, I would have reached for something easy, the steady comfort of a familiar tune. But I was tired of being safe. So I loosened the highest string and slipped it free.  
 
-Finally, I reached for something older, an unpolished melody from days I rarely dwelled on. Its edges were rough, its rhythm uneven, like the steps of a man staggering home alone on an unfamiliar road. I had written it when I was hungry, longing both for food and for answers that were too heavy for a boy to carry.  
+The music rose into the air. It was no longer perfect, but how could it be? I’d only ever played this song with a broken lute, as a broken boy.  
 
-The song spilled into the night, and Denna closed her eyes, listening. She tilted her head slightly, as if hearing something beyond the notes. When the final chords faded, she opened her eyes. For a moment, she seemed distant, as if she was farther away than the stars strung above us. Without a word, she stepped forward and brushed her lips against mine.  
+Denna closed her eyes and tilted her head slightly, as if listening to what lay beneath the notes. When the final chords faded, she opened her eyes and for a moment, neither of us spoke. The only sound was the lap of water against the boat and the murmur of the city above.  
 
-It was light. Fierce. Unexpected. She lingered just enough to let me feel its absence the moment she stepped back.  
+Then she shifted closer, settling against me on the narrow bench, and rested her head against my shoulder. She was light against me, warm against the night air. “I always knew you were like this,” she said softly, her voice barely more than a whisper.  
 
-“I always knew you were like this,” she said softly, her voice curling into something between satisfaction and sorrow. Before I could speak, she turned toward the distant lights of Imre, the faint spice of her trailing in the breeze.  
-
-I stood there, my lute still in my hands, the silence of the stones all the more deafening in her wake. If there was anything sacred left in me, it was sitting in the space where the song had lived for just a moment longer.  
+The question rose in my throat, but before I could give it voice, she lifted her head and turned toward the lights of Imre. The boatman had begun poling us back toward the dock, his movements quiet in the water once more.  
 
 ### ~ ~ ~  
 
