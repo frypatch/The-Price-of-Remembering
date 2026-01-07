@@ -3,37 +3,29 @@
 ## RARE THINGS VANISH.
 
 
-I WOKE WITH MUSIC in my veins and a singular question on my tongue. Where could I find Denna today?
+I WOKE WITH SUNLIGHT warm on my face and the day before still sparkling in my memory. I’d felt light for the first time in months, and when she rested her head against my shoulder at parting, everything was finally right. It was the kind of day that makes a man believe the story is taking a turn for the better.  
 
-There are mornings when the world feels newly-minted, and even a threadbare room above Anker’s hums with promise. Sunlight slipped through the shutters, painting gold across the battered neck of my lute. I wondered, not for the first time, what song I could play that would truly reach Denna. I thought about what melody might stir her heart and touch her soul, drawing her closer to me.
+As I dressed, I wondered what other songs I knew that might stir her heart the way yesterday’s had. Hope made me foolish and I was happy because of it. I rehearsed clever observations, half-remembered poetry, and a compliment carefully crafted to slip past the sharpness of her wit. Maybe I would find her sunning herself on Stonebridge, or browsing the bookstalls, or picking her way through the market square with that smile that made every street seem cleaner. I tuned my lute softly and practiced a phrase I hoped she might coax out of me.  
 
-The day before sparkled crisp and clear in my memory. Laughter twined with song and a score of flavors were shared across Imre’s scattered tables. At parting, there was Denna’s lips, a sudden, starlit touch. It was the kind of day that makes a man believe that perhaps, this time, the story is taking a turn for the better.
+After yesterday, every street in Imre seemed greener, every errand a possible encounter. I told myself she would be there.  
 
-As I dressed, hope made me foolish and I was happy because of it. I rehearsed clever observations, half-remembered poetry, and a compliment carefully crafted to slip past the sharpness of her wit. Maybe I would find her sunning herself on Stonebridge, or browsing the bookstalls, or picking her way through the market square with that smile that cut the dust like light. I tuned my lute softly and practiced a phrase I hoped she might coax from me.
+But noon came and Denna did not. The city spun on heedlessly as I wandered past the bakery where we’d shared a sweetroll and lingered on Stonebridge to watch the poleboats drift by. As I walked, expectation faded and left cracks where my old doubts crept back in.  
 
-After yesterday, every street in Imre felt greener, every errand a possible encounter. I told myself she would be there. Of course she would.
+By midday I’d returned to Anker’s, my search fruitless. Laurel was setting fresh bread on a table and caught my eye.  
 
-But noon came and Denna did not. The city spun on heedlessly as I wandered past the bakery where we’d shared a sweetroll and through the alley’s hush where her laugh had once echoed. As I walked, expectation faded and old uncertainty crept in where the promise had been.
+“Kvothe,” she said quietly, pausing with tray in hand. “I’ve something for you. A message, left this morning.” She held out a page folded small and neat.  
 
-I found myself back at Anker’s by habit. Laurel was setting fresh bread on a table and caught my eye.
+> “Next time.”  
 
-“Kvothe,” she said quietly, pausing with tray in hand. “I’ve something for you. A message, left this morning.” She held out a page folded small and neat.
+I watched the words blur on the page. A drop fell, smudging the ink. Tucking the paper into my jacket, I pressed my hand to it, as if her absence could be carried, close and warm.  
 
-It was written in Denna’s hand. Just two words, hurried yet careful as string drawn tight.
+“She said she was leaving?” I managed, though the answer was already plain.  
 
-> “Next time.”
+Laurel reached out to comfort me, sympathy soft around her eyes. “I asked if she wanted me to wake you, but she wouldn’t let me. She only gave me this and said that you’d understand.”  
 
-I turned the note over, searching for more, even though I knew there wouldn’t be. There wouldn’t be an explanation. No mention of why she had been near enough to leave a note but wouldn't say goodbye. Just a promise so light it seemed a mercy, or perhaps a curse.
+If I understood anything, it was that doors open and doors close. And Denna was always caught between them, a shadow in the doorway. Never fully arriving, but never truly gone.  
 
-“She said she was leaving?” I managed, though the answer was plain in the empty air.
-
-Laurel reached out to comfort me, sympathy soft around her eyes. “She only gave me this and said that you’d understand.”
-
-If I understood anything, it was that doors open and doors close. And Denna was always caught between them, a shadow in the doorway. Never fully arriving, but never truly gone.
-
-I watched the words blur on the page. Ink and memory, smudged by grief. The paper fit quietly into my jacket. I pressed my hand to it, as if her absence could be carried, close and warm. But the city’s music had lost its sweetness. Something rare had vanished.
-
-By midafternoon, I found my feet drifting toward Devi’s. It wasn’t wise, and it definitely wasn’t fair, not to her and not to myself. Still, the bitter hollow Denna left behind was unbearable.
+By midafternoon, I found my feet drifting toward Devi’s. It wasn’t wise, and it definitely wasn’t fair, not to her and not to myself. Still, the bitter hollow Denna left behind was unbearable.  
 
 ### * * *
 
