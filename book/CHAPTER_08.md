@@ -3,11 +3,9 @@
 ## RARE THINGS VANISH.
 
 
-I WOKE WITH SUNLIGHT warm on my face and the day before still sparkling in my memory. I’d felt light for the first time in months, and when she rested her head against my shoulder at parting, everything was finally right. It was the kind of day that makes a man believe the story is taking a turn for the better.  
+I WOKE WITH SUNLIGHT warm on my face and the day before still sparkling in my memory. My heart was light for the first time in months, and when Denna had rested her head against my shoulder, everything finally felt right. It was the kind of day that makes a man believe the story is taking a turn for the better.  
 
 As I dressed, I wondered what other songs I knew that might stir her heart the way yesterday’s had. Hope made me foolish and I was happy because of it. I rehearsed clever observations, half-remembered poetry, and a compliment carefully crafted to slip past the sharpness of her wit. Maybe I would find her sunning herself on Stonebridge, or browsing the bookstalls, or picking her way through the market square with that smile that made every street seem cleaner. I tuned my lute softly and practiced a phrase I hoped she might coax out of me.  
-
-After yesterday, every street in Imre seemed greener, every errand a possible encounter. I told myself she would be there.  
 
 But noon came and Denna did not. The city spun on heedlessly as I wandered past the bakery where we’d shared a sweetroll and lingered on Stonebridge to watch the poleboats drift by. As I walked, expectation faded and left cracks where my old doubts crept back in.  
 
@@ -17,9 +15,7 @@ By midday I’d returned to Anker’s, my search fruitless. Laurel was setting f
 
 > “Next time.”  
 
-I watched the words blur on the page. A drop fell, smudging the ink. Tucking the paper into my jacket, I pressed my hand to it, as if her absence could be carried, close and warm.  
-
-“She said she was leaving?” I managed, though the answer was already plain.  
+I watched the words blur on the page. A drop fell, smudging the ink. Tucking the paper into my jacket, I pressed my hand to it, as if her absence could be carried. “She said she was leaving?” I managed, though the answer was already plain.  
 
 Laurel reached out to comfort me, sympathy soft around her eyes. “I asked if she wanted me to wake you, but she wouldn’t let me. She only gave me this and said that you’d understand.”  
 
