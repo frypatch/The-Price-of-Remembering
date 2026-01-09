@@ -25,59 +25,55 @@ By midafternoon, I found my feet drifting toward Devi’s. It wasn’t wise, and
 
 ### * * *
 
-Devi’s room always felt alive, but in a way I could never entirely trust. Cinnamon softened the sharper edges of whatever alchemy worked in the shadows, but it did little to cover the tension coiled within the space itself. It was the kind of room that invited curiosity the way a sharp knife invites wandering fingers.
+Devi’s room always felt alive, but in a way I could never entirely trust. Cinnamon softened the sharper edges of whatever alchemy worked in the shadows, but it did little to cover the tension coiled within the space itself. It was the kind of room that invited curiosity the way a sharp knife invites wandering fingers.  
 
-Devi lounged in her chair, her hair tumbling over one shoulder in a pale waterfall, legs tucked beneath her like a cat waiting to pounce. Her grin, sharp and knowing, widened as I entered. “Kvothe,” she said, drawing out my name like a silken thread. “To what do I owe this charming distraction?”
+Devi lounged in her chair, legs tucked beneath her. Her grin widened as I entered. “Kvothe,” she said, drawing out my name. “To what do I owe this charming distraction?”  
 
-“You flatter me too easily,” I said, leaning against the doorframe.
+“You flatter me too easily,” I said, leaning against the doorframe.  
 
-“Not a word of it is undeserved,” she countered, propping one elbow on the table beside her. “And don’t think you can distract me from the most pressing matter at hand.”
+“Not a word of it is undeserved,” she countered, propping one elbow on the table beside her. “And don’t think you can distract me from the most pressing matter at hand.”  
 
-“Which is?”
+“Which is?”  
 
-She waved a finger toward me. “Your hair, darling boy. It’s practically shouting mischief.”
+She waved a finger toward me. “Your hair, darling boy. It’s practically shouting mischief.”  
 
-“Mischief,” I said, stepping further into the room, “is just what happens when genius doesn’t sit still.”
+“Mischief,” I said, stepping further into the room, “is just what happens when genius doesn’t sit still.”  
 
-“And trouble,” she chimed, “is what happens when it does.”
+“And trouble,” she chimed, “is what happens when it does.”  
 
-For a moment, our laughter warmed the air. With Devi, words were a game. A dance of edges and smiles between us. She had a way of turning something sharp into something softer. She made uneasy talk feel gentle. Steady as a hand on your shoulder. 
+For a moment, our laughter warmed the air. With Devi, words were a game, a dance of edges and smiles. She had a way of making uneasy talk feel like a steady hand on your shoulder.  
 
-But with Devi, easy talk never lasted. The conversation shifted, deeper and darker. It always did.
+But with Devi, easy talk never lasted. Before long, the conversation found its way to the Four-Plate Door. That riddle in the heart of the Archives, the question no one could answer. For her it was less a topic than a gravity, and every conversation eventually bent toward it.  
 
-Before long, the Four-Plate Door slipped in, quiet and sure. That riddle in the heart of the Archives. Waiting. Watching.
+Something in her expression sharpened, turned hungry.  
 
-Devi’s grin twisted. Her eyes lit, sharp and hungry.
+“Do you know what no one tells you about the Archives?” Her voice dropped, conspiratorial. “They prune it.”  
 
-“Do you know what no one tells you about the Archives?” Her voice went low. Careful. Wrapped in shadow. “They prune it.”
+“Pruned?” The word tasted strange. I tried to shape it into something sensible, but it slipped away.  
 
-“Pruned?” I let the word hang in the air. It tasted strange on my tongue. I tried to shape it into something sensible, but it slipped away, leaving only confusion in its place. 
+Devi tilted her head, the pale light from the sympathy lamp catching one side of her face and leaving the other in deep shadow. “There are books locked away. Secrets buried. Oh, they’ll let you play with what’s safe, sweet boy. But the rest? Tucked far out of reach.”  
 
-Devi tilted her head, the firelight catching one side of her face in gold and leaving the other in deep shadow. “There are books locked away. Secrets buried. Oh, they’ll let you play with what’s safe, sweet boy. But the rest? Tucked far out of reach.”
+She leaned back, satisfied. “Far from hands like yours.”  
 
-Her grin stretched as she added, “Far from hands like yours.”
+There was something different in her smile this time. Tighter. More restrained. “And you know this? How?” I asked, keeping my voice light but probing.  
 
-There was something different in her smile this time. It seemed tighter, more restrained, and it didn’t sit right. “And you know this? How?” I asked, keeping my voice light but probing.
+Devi didn’t answer right away. She reached for the blanket draped over the back of her chair, pulling it around her legs despite the warmth of the room. “Sweet boy,” she said, her voice soft, “you’ve barely crawled through the door, and already you want the whole house.”  
 
-Devi didn’t answer right away. She reached for a jar on the low table beside her, gently tipping it back and forth, making the liquid inside swirl and shimmer. “Sweet boy,” she said, her voice soft, “you’ve barely crawled through the door, and already you want the whole house.”
+She wasn’t wrong. But being right had never stopped me before. “What are they hiding?” I pressed.  
 
-“What are they hiding?” I pressed.
+“You’re not ready for an answer like that,” she said, and her smile didn’t waver. “And I’m not in the mood to offer one.”  
 
-“You’re not ready for an answer like that,” she said, her voice low and thick as honey. “And I’m not in the mood to offer one.”
+Her deflection didn’t surprise me. Devi loved her secrets too much to give them up easily. But my instincts were growing sharper, and I watched her face closely as I steered the conversation toward Lorren and his keys. Just the mention of his name was enough to make the corner of her mouth twitch, her fingers stopping mid-adjustment on the blanket. There was a story there, I could feel it.  
 
-Her deflection didn’t surprise me. Devi loved her secrets too much to give them up easily. But my instincts were growing sharper, and I watched her face closely as I steered the conversation toward Lorren and his brass keys. Just the mention of his name was enough to make the corner of her mouth twitch, her fingers stopping mid-tap. There was a story there, I could feel it.
+“Careful, sweet boy,” she said, the words light but her eyes dangerous. “Some stones aren’t meant to be turned. You might find sharp things hiding underneath.”  
 
-“Careful, sweet boy,” she said, her voice soft but her eyes dangerous. “Some stones aren’t meant to be turned. You might find sharp things hiding underneath.”
+I pressed her, slowly, delicately. She let something slip, though whether deliberately or not, I couldn’t quite tell.  
 
-The grin on her face never wavered, but her voice held a chill I hadn’t expected. I pressed her, slowly, delicately, and she let something slip—deliberately or not, I couldn’t quite tell.
+“There’s power in keeping things hidden,” she spat, then caught herself, her voice softening. “But not everyone who hides something deserves to be trusted. Men like Lorren only show you the parts of themselves that they want you to see.”  
 
-“There’s power in keeping things hidden,” she said, her words like a thread caught on a rough edge, fraying just a bit. “But not everyone who hides something deserves to be trusted. Men like Lorren only show you the parts of themselves that they want you to see.”
-
-It wasn’t until much later, after I’d left her, that I realized Devi had been speaking less to me and more to the twist in her memory. Her words rang louder in the spaces between them. They always did.
+It wasn’t until much later, after I’d left her, that I realized Devi had been speaking less to me and more to the twist in her memory. Her words rang louder in the spaces between them. They always did.  
 
 ### * * *
-
-I left with more questions than I came with. That’s how walking into Devi’s den always worked. It was easy to go in, but I always left feeling weighed down. Still, she had pointed me just enough toward the threads I couldn’t resist pulling.
 
 Back in my small, rented room, I retrieved Auri’s book. Its plain, weathered cover concealed a strange warmth and a faint sense of rightness. Not everyone would sense that warmth, but I imagined Auri had known it the moment she placed the book in my hands.
 
