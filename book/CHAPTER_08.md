@@ -23,11 +23,11 @@ If I understood anything, it was that doors open and doors close. And Denna was 
 
 By midafternoon, I found my feet drifting toward Devi’s. It wasn’t wise, and it definitely wasn’t fair, not to her and not to myself. Still, the bitter hollow Denna left behind was unbearable.  
 
-### * * *
+### * * *  
 
-Devi’s room always felt alive, but in a way I could never entirely trust. Cinnamon softened the sharper edges of whatever alchemy worked in the shadows, but it did little to cover the tension coiled within the space itself. It was the kind of room that invited curiosity the way a sharp knife invites wandering fingers.  
+Even without the windows, Devi’s room always felt alive. Today, the sympathy lamps cast sharp shadows from her piles of books, and wisps of cinnamon incense worked harder than usual as they curled through the air. I heard the chimes before I saw them, a new effort in her losing battle with the butcher below.  
 
-Devi lounged in her chair, legs tucked beneath her. Her grin widened as I entered. “Kvothe,” she said, drawing out my name. “To what do I owe this charming distraction?”  
+Devi lounged in her usual chair, legs tucked beneath her. Her grin widened as I entered. “Kvothe,” she said, drawing out my name. “To what do I owe this charming distraction?”  
 
 “You flatter me too easily,” I said, leaning against the doorframe.  
 
@@ -41,11 +41,7 @@ She waved a finger toward me. “Your hair, darling boy. It’s practically shou
 
 “And trouble,” she chimed, “is what happens when it does.”  
 
-For a moment, our laughter warmed the air. With Devi, words were a game, a dance of edges and smiles. She had a way of making uneasy talk feel like a steady hand on your shoulder.  
-
-But with Devi, easy talk never lasted. Before long, the conversation found its way to the Four-Plate Door. That riddle in the heart of the Archives, the question no one could answer. For her it was less a topic than a gravity, and every conversation eventually bent toward it.  
-
-Something in her expression sharpened, turned hungry.  
+For a moment, our laughter warmed the air. With Devi, words were a game, a dance of edges and smiles. But with Devi, easy talk never lasted, and before long, the conversation found its way to that riddle in the heart of the Archives. The Four-Plate Door, and the silence that surrounded it.  
 
 “Do you know what no one tells you about the Archives?” Her voice dropped, conspiratorial. “They prune it.”  
 
@@ -55,25 +51,21 @@ Devi tilted her head, the pale light from the sympathy lamp catching one side of
 
 She leaned back, satisfied. “Far from hands like yours.”  
 
-There was something different in her smile this time. Tighter. More restrained. “And you know this? How?” I asked, keeping my voice light but probing.  
+There was something different in her smile this time. Tighter. More restrained. “And you know this? How?” I asked, pushing just a little further.  
 
 Devi didn’t answer right away. She reached for the blanket draped over the back of her chair, pulling it around her legs despite the warmth of the room. “Sweet boy,” she said, her voice soft, “you’ve barely crawled through the door, and already you want the whole house.”  
 
-She wasn’t wrong. But being right had never stopped me before. “What are they hiding?” I pressed.  
+She wasn’t wrong, but I couldn’t leave it alone. “What are they hiding?” I pressed.  
 
 “You’re not ready for an answer like that,” she said, and her smile didn’t waver. “And I’m not in the mood to offer one.”  
 
-Her deflection didn’t surprise me. Devi loved her secrets too much to give them up easily. But my instincts were growing sharper, and I watched her face closely as I steered the conversation toward Lorren and his keys. Just the mention of his name was enough to make the corner of her mouth twitch, her fingers stopping mid-adjustment on the blanket. There was a story there, I could feel it.  
+Her deflection didn’t surprise me. Devi loved her secrets too much to give them up easily. But I watched her face closely as I steered the conversation toward Lorren and his keys. Just the mention of his name was enough to make the corner of her mouth twitch, her fingers stopping mid-adjustment on the blanket. There was a story there, I could feel it.  
 
-“Careful, sweet boy,” she said, the words light but her eyes dangerous. “Some stones aren’t meant to be turned. You might find sharp things hiding underneath.”  
-
-I pressed her, slowly, delicately. She let something slip, though whether deliberately or not, I couldn’t quite tell.  
-
-“There’s power in keeping things hidden,” she spat, then caught herself, her voice softening. “But not everyone who hides something deserves to be trusted. Men like Lorren only show you the parts of themselves that they want you to see.”  
+“Careful, sweet boy,” she said, the words light but her eyes dangerous. “Some stones aren’t meant to be turned. You might find sharp things hiding underneath.” Then she let something slip, though whether deliberately or not, I couldn’t quite tell. “There’s power in keeping things hidden,” she spat, then caught herself, her voice softening. “But not everyone who hides something deserves to be trusted. Men like Lorren only show you the parts of themselves that they want you to see.”  
 
 It wasn’t until much later, after I’d left her, that I realized Devi had been speaking less to me and more to the twist in her memory. Her words rang louder in the spaces between them. They always did.  
 
-### * * *
+### * * *  
 
 Back in my small, rented room, I retrieved Auri’s book. Its plain, weathered cover concealed a strange warmth and a faint sense of rightness. Not everyone would sense that warmth, but I imagined Auri had known it the moment she placed the book in my hands.
 
