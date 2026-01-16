@@ -67,42 +67,44 @@ It wasn’t until much later, after I’d left her, that I realized Devi had bee
 
 ### * * *  
 
-Back in my small, rented room, I retrieved Auri’s book. Its plain, weathered cover concealed a strange warmth and a faint sense of rightness. Not everyone would sense that warmth, but I imagined Auri had known it the moment she placed the book in my hands.
+The compass remained steady in my hand, its needle pointing true as I slipped between shelves and down familiar corridors of the Archives. It pulled with unwavering certainty.  
 
-I worked quickly, binding it with a sympathetic thread marked faintly with my own blood. A tool needs to be tied to its maker. I intended this book to serve only one purpose, which was to disappear.
+Three days earlier, I had sat in my small rented room, turning Auri’s book over in my hands. Its weathered cover gave no hint of the secrets inside. I wasn’t sure how Auri could have known I would need this book, but I had understood what to do with it.  
 
-The next day, I approached Lorren’s Giller, Dystrol, holding the book as though it had been unearthed from a dusty corner of some forgotten collection. “A donation,” I said, tracing its etched scrollwork as I spoke. I murmured something about the Amyr while his practiced, neutral face gave away nothing. The only sign was the smallest hesitation when his fingers touched the cover, just a slight pause and a momentary tightness in his grip.
+That night, I prepared the book with painstaking care. Using a fine brush, I traced over printed letters with my blood, page after page, waiting for each to dry before sealing it beneath a matching layer of black ink. By dawn, the book would be ready to disappear, carrying a whole vial of my blood hidden within its pages.  
 
-Within days, it vanished, just as I had hoped.
+The next morning, I approached Lorren’s Giller, Dystrol, holding the book as though it had been unearthed from a dusty corner of some forgotten collection. “A donation,” I said, tracing the faint swirls embossed on its leather cover as I spoke. I murmured something about the Amyr while his practiced, neutral face gave away nothing. Well, almost nothing. His fingers hesitated when they touched the cover. Just a slight pause, a momentary tightness in his grip. Enough.  
 
-### * * *
+Yesterday, when I returned to check the compass, the needle pointed toward the eastern acquisition wing. Still unshelved. Still waiting to be processed.  
 
-The compass remained steady in my hand, its needle pointing resolutely as I slipped between shelves and down familiar corridors of the Archives. It pulled with the certainty of someone who knows a secret and doesn’t care to explain it.
+But today, the waiting was over.  
 
-And when it froze, I found myself in front of the Four-Plate Door.
+As I tracked it, the compass needle held steady, leading me deeper into the Stacks. Down through winding corridors where my sympathy lamp cast dancing shadows. Past reading alcoves that smelled of dust and old leather. Through the long silent rows of shelving. Into territory I knew well, and then into passages I had walked a hundred times before.  
 
-I stopped, my pulse roaring in my ears. For a moment, I hoped that the compass had faltered, that I’d miscalibrated or made some fatal error. But no. The needle’s stillness was absolute. I pressed my trembling hand against the cold, unyielding stone of the door, its edges sharp and precise under my fingertips, as if taunting me for misunderstanding its purpose all my life.
+And when the needle froze, I found myself in front of the Four-Plate Door.  
 
-The book was here. Beyond this impenetrable barrier.
+My pulse roared in my ears. For a moment, I hoped the compass had faltered, that I had miscalibrated or made some fatal error. But no. The needle’s stillness was absolute. The door sat still as a mountain, quiet and indifferent as the sea. I pressed my trembling hand against the cold stone, my fingers finding the edges of a copper plate. It was fitted so precisely. How had I never understood what that meant? This door was never meant to open for me.  
 
-My stomach twisted. I had spent years inside these endless halls of parchment and ink, trusting that the Archives contained all truth, all knowledge, open to those worthy and persistent enough to find it. The University had sold me the dream that all the world’s wisdom lay waiting for those who sought it with diligence and care. But this? This made a mockery of that.
+The book was here. Beyond this impenetrable barrier.  
 
-I felt heat rise in my chest, a slow and simmering anger. They called the Archives a library of everything, but that had been a lie. This door, this smooth and silent barrier, was proof that knowledge was not simply out of reach. It was hidden. Censored. Scrubbed clean.
+My stomach twisted. I had spent years inside these endless halls of parchment and ink, trusting that the Archives contained all truth, all knowledge, open to those worthy and persistent enough to find it. The University had sold me the dream that all the world’s wisdom lay waiting for those who sought it with diligence and care.  
 
-I had believed in Lorren’s rules once. Trusted his cold, immovable logic. But no longer. The door was a betrayal of that trust. A trick. A sleight of hand designed to make fools of the curious. The thought left me hollow and seething at the same time.
+But this? This made a mockery of that.  
 
-I felt small then, standing in the vast, quiet belly of the Archives. Foolish for having bought the lie so completely. And yet beneath the sharp sting of betrayal, determination began to simmer. The truth had been withheld from me, but it was still there, trapped behind this unbreachable wall like a secret whispered into stone.
+My hand shifted. I could feel each groove where the letters of VALARITAS had been carved, the edges sharp enough to cut.  
 
-“This wasn’t how it was supposed to work,” I muttered under my breath. My voice barely registered in the stillness. But the door didn’t care. It wouldn’t answer me, wouldn’t unlock, wouldn’t relent.
+Heat bloomed in my chest, and I found my fingers had curled into a fist. They called the Archives a library of everything, but that had been a lie. This door, this silent, unyielding barrier, was proof that knowledge was not simply out of reach. It was hidden. Censored. Scrubbed clean.  
 
-The Archives were a lie.
+I had believed in Lorren’s rules once. Trusted his cold, immovable logic. But no longer. The door was a betrayal of that trust. A trick. A sleight of hand designed to make fools of the curious. The thought left me hollow and seething at the same time.  
 
-My hand fell to my side, curling into a fist. I stayed there a long moment, staring at the door. The urge to scream or strike the smooth, unyielding surface flashed briefly, but I swallowed it down. Anger would accomplish nothing. Not yet.
+I felt small then, a single candle flame in the vast stone belly of the Archives, surrounded by all the books in the world but none of the ones that truly mattered. Foolish for having bought the lie so completely. And yet beneath the sharp sting of betrayal, determination began to simmer. The truth had been withheld from me, but it was still there, trapped behind this unbreachable wall.  
 
-I turned on my heel and left without looking back. But as I wove through the darkened stacks again, one thought began to solidify beneath all the others. The door may have kept me out, but it couldn’t do so forever. They had hidden something behind that stone to stop people like me. Now, more than ever, I was determined to know why.
+My hand fell to my side. I stayed there a long moment, staring at the door. The urge to scream or strike the stone surface rose sharp and sudden, but I swallowed it down. Anger would accomplish nothing. Not yet.  
 
-One way or another, I would find a way inside.
+I turned on my heel and left without looking back. But as I wove through the darkened Stacks, one thought solidified beneath all the others.  
 
-### ~ ~ ~
+Somehow, I would find a way inside.  
+
+### ~ ~ ~  
 
 [Chapter 7](CHAPTER_07.md) | [Contents](Contents.md) | [Chapter 9](CHAPTER_09.md)
