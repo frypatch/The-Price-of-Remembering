@@ -18,8 +18,8 @@
 * [CHAPTER 6](CHAPTER_06.md). And Then Came the Hail.
 * [CHAPTER 7](CHAPTER_07.md). A Song Without Words.
 * [CHAPTER 8](CHAPTER_08.md). Rare Things Vanish.
-* [CHAPTER 9](CHAPTER_09.md). A Foolish Bargin.
-* [CHAPTER 10](CHAPTER_10.md). Keys to the Past.
+* [CHAPTER 9](CHAPTER_09.md). The Geometry of Secrets.
+* [CHAPTER 10](CHAPTER_10.md). A Foolish Bargin.
 * [CHAPTER 11](CHAPTER_11.md). The Price We Pay.
 * [CHAPTER 12](CHAPTER_12.md). Threads Unravel.
 * [CHAPTER 13](CHAPTER_13.md). I Will Not Be Held.

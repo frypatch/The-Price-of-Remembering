@@ -15,7 +15,7 @@ Day Three
 
 NOT PATRICK ROTHFUSS  
 
-Version 4.01.15  
+Version 4.01.16  
 
 
 
@@ -115,8 +115,8 @@ That all said, please enjoy.
 * [CHAPTER 6](book/CHAPTER_06.md). And Then Came the Hail.
 * [CHAPTER 7](book/CHAPTER_07.md). A Song Without Words.
 * [CHAPTER 8](book/CHAPTER_08.md). Rare Things Vanish.
-* [CHAPTER 9](book/CHAPTER_09.md). A Foolish Bargin.
-* [CHAPTER 10](book/CHAPTER_10.md). Keys to the Past.
+* [CHAPTER 9](book/CHAPTER_09.md). The Geometry of Secrets.
+* [CHAPTER 10](book/CHAPTER_10.md). A Foolish Bargin.
 * [CHAPTER 11](book/CHAPTER_11.md). The Price We Pay.
 * [CHAPTER 12](book/CHAPTER_12.md). Threads Unravel.
 * [CHAPTER 13](book/CHAPTER_13.md). I Will Not Be Held.
