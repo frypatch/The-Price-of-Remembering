@@ -72,23 +72,23 @@ Ambrose turned, and for just a moment, I saw surprise flicker across his face. T
 
 “Liar!” The word cracked like a whip. “Nothing is ever your fault, is it? Your blood is filth. Your very existence is a stain.”  
 
-He reached into his pocket and my heart stuttered. A vial. Small and dark and familiar. He held it up so the light caught the liquid inside. Blood. My blood.  
+He reached into his coat and my heart stuttered. A book. Small and weathered, its edges browned, its cover soft leather faintly embossed with swirls. The book Auri had given me. The book I’d inked with my own blood, page by page, and donated to the Archives.  
 
-The crowd drew back, sensing something they couldn’t name. The air grew thick and strange.  
+He held it up so the light caught its worn surface.  
 
-“Your Copperhawk was careless,” Ambrose said, savoring each word. “Left this behind when they snatched her up.”  
+The crowd drew back, sensing something they couldn’t name. The air grew thick and strange. “Did you really think no one would ever check the donation logs?” Ambrose’s smile was uglier than any curse. “How careless of you, Kvothe.”  
 
 “Don’t.”  
 
 One word. Firm as steel. Heavy as mountains.  
 
-Ambrose laughed. It was an ugly sound, like glass breaking in a beautiful room. “Or what? You’ll kill me? Add another corpse to your collection? Once I’m done with you, I’ll take Ariel wherever I please. Renere will be delighted to see her again, I’m certain. And you? I’ll leave your body in pieces, your head on a spike for all to see.”  
+Ambrose laughed. It was an ugly sound, like glass breaking in a beautiful room. “Or what? You’ll kill me? Add another corpse to your collection? Once I’m done with you, I’ll take Ariel wherever I please. Renere will be delighted to see her again, I’m certain. And you? I’ll leave your body in pieces, your head on a pike for all to see.”  
 
-He opened the vial. Dipped his fingers in my blood. Spoke the first words of binding.  
+He opened the book. Spoke the first words of binding.  
 
 And nothing happened.  
 
-No. That’s not quite right. Something happened. Ambrose felt it. I could see it in the way his face changed, the way his fingers trembled as he tried again. He pushed against me with all the sympathy he could muster, and it was like a child pushing against a cart.  
+No. That’s not quite right. Something happened. Ambrose felt it. I could see it in the way his face changed, the way his fingers trembled as he tried again. He pushed against me with all the sympathy he could muster, and it was like a child pushing against a mountain.  
 
 “Bind him!” His voice cracked on the command. “Bind him now!”  
 
@@ -106,13 +106,13 @@ But Ambrose stayed where he was. Not because he was brave. Because I held him th
 
 “Stop.” His voice was small now. Young. Like the boy he’d been when we first met, before money and malice had carved him into the shape he wore. “Please.”  
 
-“You threatened her.” Each word fell like a stone into still water, sending ripples through the air. “You came here with your blood magic and your hired swords and you threatened one of the only people in this world who still matter to me.”  
+“You threatened her.” Each word fell like a stone into still water, sending ripples through the air. “You came here with your stolen book and your hired swords and you threatened one of the only people in this world who still matter to me.”  
 
 I took a step forward. The ground cracked beneath my foot.  
 
 “I know you, Ambrose.” Another step. Another crack spreading like a spider’s web. “I know you better than you know yourself. I know the shape of your fear. The weight of your father’s hand. The taste of every humiliation you’ve swallowed and turned into cruelty.”  
 
-He was shaking now. His fine clothes suddenly seeming a poor thing.  
+He was shaking now. His fine clothes suddenly a poor thing. The book fell from his trembling fingers.  
 
 “Kvothe, I’m sorry,” he pleaded.  
 
