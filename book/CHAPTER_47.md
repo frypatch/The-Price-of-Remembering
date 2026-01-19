@@ -54,35 +54,33 @@ But I was already moving. Not thinking. Not planning. The Lethani, the Universit
 
 ### * * *  
 
-Ambrose stood in the square by the fountain. The same fountain where I’d first called the wind, all those years ago. The same stones where I’d broken his arm and earned his hatred. The wheel turns and we return to our beginnings, carrying all our endings with us.  
+Ambrose stood in the square by the fountain. The same fountain where I’d first called the wind, all those years ago. The same stones where I’d broken his arm and earned his hatred.  
 
 His men flanked him like a wall of sharp edges and bright steel. Eight of them. Maybe ten. It didn’t matter. Numbers had stopped mattering to me a long time ago.  
 
-He was in the middle of some story when I stepped into view. His voice carried across the square, rich with the particular poison that comes from old money and older grudges. Even from across the courtyard, I could see his rings catching the light. Could see that ridiculous hat he’d taken to wearing.  
+He was in the middle of some story when I stepped into view. His voice carried across the square, rich with the particular poison that comes from old money and older grudges. Even from across the square, I could see that ridiculous hat he’d taken to wearing.  
 
-“I hear you’ve been looking for me,” I called.  
-
-The square went quiet. Not the comfortable quiet of a pause in conversation, but the terrible quiet that comes before storms. Before avalanches. Before the world changes.  
+“I hear you’ve been looking for me,” I called, and the square fell into that terrible quiet that comes before an avalanche.  
 
 Ambrose turned, and for just a moment, I saw surprise flicker across his face. Then his mouth curved into that familiar sneer.  
 
 “The Ruh bastard shows himself at last.” His voice filled the square, playing to the crowd that had begun to gather. “Kvothe the Arcane. Murderer of kings. Thief of virtue.”  
 
-“I was there when the king died,” I said, my voice carrying without effort. “But I didn’t kill him. We both know who holds that particular honor.”  
+“I was there when the king died,” I said. “But I didn’t kill him. We both know Alveron holds that particular honor.”  
 
 “Liar!” The word cracked like a whip. “Nothing is ever your fault, is it? Your blood is filth. Your very existence is a stain.”  
 
-He reached into his coat and my heart stuttered. A book. Small and weathered, its edges browned, its cover soft leather faintly embossed with swirls. The book Auri had given me. The book I’d inked with my own blood, page by page, and donated to the Archives.  
+He reached into his coat and pulled out a book. My heart stuttered. It was small and weathered, its edges browned, its cover soft leather faintly embossed with swirls. The book Auri had given me. The book I’d inked with my own blood, page by page, and donated to the Archives.  
 
-He held it up so the light caught its worn surface.  
+He held it up so the light caught its worn surface. The crowd drew back.  
 
-The crowd drew back, sensing something they couldn’t name. The air grew thick and strange. “Did you really think no one would ever check the donation logs?” Ambrose’s smile was uglier than any curse. “How careless of you, Kvothe.”  
+“Did you really think no one would ever check the donation logs?” Ambrose’s smile was uglier than any curse. “How careless of you, Kvothe.”  
 
 “Don’t.”  
 
-One word. Firm as steel. Heavy as mountains.  
+One word. Heavy as mountains.  
 
-Ambrose laughed. It was an ugly sound, like glass breaking in a beautiful room. “Or what? You’ll kill me? Add another corpse to your collection? Once I’m done with you, I’ll take Ariel wherever I please. Renere will be delighted to see her again, I’m certain. And you? I’ll leave your body in pieces, your head on a pike for all to see.”  
+Ambrose laughed. It was an ugly sound, like glass breaking in a beautiful room. “Or what? You’ll kill me? Add another corpse to your collection? Once I’m done with you, I’ll drag Ariel back to Renere with me and take her wherever I please. And you? I’ll leave your body in pieces and your head on a spike for all to see.”  
 
 He opened the book. Spoke the first words of binding.  
 
@@ -98,21 +96,23 @@ I raised my hand. Spoke a word.
 
 The wind answered.  
 
-It didn’t come gently. It didn’t whisper or dance or play. It came like the scream of every storm that ever was. The fountain cracked down the middle, water erupting skyward in a geyser that turned to mist. The cobblestones beneath our feet groaned and split. Ambrose’s men flew backward like leaves before a hurricane.  
+It came like a thousand storms screaming as one. The fountain cracked down the middle, water erupting skyward in a geyser that turned to mist. The cobblestones beneath our feet groaned and split. Ambrose’s men flew backward like leaves before a hurricane.  
 
 The crowd scattered, screaming.  
 
-But Ambrose stayed where he was. Not because he was brave. Because I held him there. Because the wind that threw everyone else away left him untouched, alone in a circle of stillness while chaos raged around us.  
+Ambrose could not.  
+
+The wind that threw everyone else away held him there, alone in a circle of stillness while chaos raged around us.  
 
 “Stop.” His voice was small now. Young. Like the boy he’d been when we first met, before money and malice had carved him into the shape he wore. “Please.”  
 
-“You threatened her.” Each word fell like a stone into still water, sending ripples through the air. “You came here with your stolen book and your hired swords and you threatened one of the only people in this world who still matter to me.”  
+“You threatened her.” Each word fell heavy as stone. “You came here with your stolen book and your hired swords and you threatened one of the only people in this world who still matter to me.”  
 
 I took a step forward. The ground cracked beneath my foot.  
 
-“I know you, Ambrose.” Another step. Another crack spreading like a spider’s web. “I know you better than you know yourself. I know the shape of your fear. The weight of your father’s hand. The taste of every humiliation you’ve swallowed and turned into cruelty.”  
+“I know you, Ambrose.” Another step. Another crack spreading like a spider’s web. “I know you better than you know yourself.”  
 
-He was shaking now. His fine clothes suddenly a poor thing. The book fell from his trembling fingers.  
+He was shaking now. His fine clothes seemed suddenly shabby. The book fell from his trembling fingers.  
 
 “Kvothe, I’m sorry,” he pleaded.  
 
@@ -120,7 +120,7 @@ He was shaking now. His fine clothes suddenly a poor thing. The book fell from h
 
 And then I sang his Name.  
 
-It came to me whole and perfect, the way a melody sometimes arrives complete in your mind. Every note of him. Every harmony and discord. The proud boy who’d never been told no. The young man who’d learned that power could make truth whatever he wanted it to be. The hollow place inside him where love should have lived.  
+It came to me whole and perfect, the way a melody sometimes arrives complete in your mind. Every note of him. Every harmony and discord. The proud boy who’d never been told no. The young man who’d learned that power could make truth whatever he wanted it to be.  
 
 I sang his Name and wove it with the Names of stone and air and water and fire. I sang him into the heart of creation and then I sang him out of it.  
 
@@ -128,7 +128,7 @@ The square exploded.
 
 Stone turned to sand. Water turned to steam. The very air seemed to tear like fabric. And Ambrose...  
 
-Ambrose became nothing. Less than nothing. An absence where a person used to be.  
+Ambrose became an absence where a person used to be.  
 
 ### * * *  
 
