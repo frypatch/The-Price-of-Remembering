@@ -3,19 +3,17 @@
 ## THE GEOMETRY OF SECRETS.
 
 
-I DID NOT SLEEP that night.  
-
-Instead, I sat cross-legged on my narrow bed, a stub of charcoal in one hand and a sheaf of scrap paper spread across my knees. The compass lay beside me, its needle still and patient, pointing toward a book I could not reach.  
+I sat cross-legged on my narrow bed, a stub of charcoal in one hand and a sheaf of scrap paper spread across my knees. The compass lay beside me, its needle still and patient, pointing toward a book I could not reach.  
 
 The problem was simple enough in principle. I had a direction. If I took a second reading from a different position, I would have two lines. Where they crossed, my book would be. Triangulation. Child’s play for anyone who had studied under Master Brandeur.  
 
 But principle and practice are distant cousins at best.  
 
-The next morning, I descended into the Stacks with my compass and a fresh determination. I found a spot near the eastern wall of sub-two, a quiet alcove between shelves of Aturan histories that no one had touched in years. The needle swung, steadied, and pointed. I sighted along its length toward a distant shelf and estimated the angle against the corridor’s run.  
+The next morning, I descended into the Stacks with my compass and fresh determination. Two levels down, I found a quiet alcove near the eastern wall, tucked between shelves of Aturan histories that no one had touched in years. The needle swung, steadied, and pointed. I sighted along its length toward a distant shelf and estimated the angle against the corridor’s run.  
 
 Fifty-three degrees. Perhaps fifty-four. The needle was thin, my eye imperfect, and the margin between them was uncertainty.  
 
-I paced off two hundred feet along the main corridor, counting my steps with the care of a man crossing thin ice. Then I took my second reading.  
+I paced off two hundred feet along the main corridor, counting each step. Then I took my second reading.  
 
 The needle pointed true. Sixty-one degrees off the corridor. Maybe sixty-two.  
 
@@ -27,75 +25,71 @@ Not far behind it. Perhaps ten or fifteen feet, if my angles were accurate. This
 
 Close enough to tantalize. Far enough to drive me mad.  
 
-I spent three more days on sub-two, taking readings from every angle the twisting corridors would allow. The results were consistent, if imprecise. My book was behind the door. It was roughly ten to twenty feet beyond the threshold, somewhere in a room I could not enter.  
+I spent three more days in the deeper reaches of the Stacks, taking readings from every angle I could manage. The results were consistent, if imprecise. My book was behind the door. It was roughly ten to twenty feet beyond the threshold, somewhere in a room I could not enter.  
 
-I recorded everything in a small notebook: angles, distances, positions, the orientation of corridors relative to one another. Each reading was a thread in a web I was slowly weaving around my quarry. The acute angles frustrated me, since small errors in measurement translated to large uncertainties in position. But the overall picture was clear enough.  
+I recorded everything in a small notebook: angles, distances, positions, the orientation of corridors relative to one another. Each reading was another thread in the web I was slowly weaving. The acute angles frustrated me, since small errors in measurement translated to large uncertainties in position. But the overall picture was clear enough.  
 
 My book was there. Just beyond the door. Waiting.  
 
 The next step was obvious. More readings from different positions would narrow my uncertainty. And if I took readings from different floors, I could triangulate in three dimensions, pinning down not just the horizontal location but the height as well.  
 
-I climbed the stairs toward sub-one, already planning my approach.  
-
-The mathematics would be straightforward. Or so I thought.  
+I climbed the stairs toward the level above, already planning my approach.  
 
 ### * * *  
 
-Over the following span, I became a creature of angles and distances.  
-
-I took readings everywhere. Sub-one, in the administrative sections where students rarely ventured. The main floor, with its high ceilings and sense of scholarly propriety. Sub-three, where the corridors narrowed and the air grew thick with the smell of old stone. I mapped the vertical tilt of my compass at each level, noted the horizontal bearing to the last degree I could estimate, and recorded everything in notebooks that grew fat with figures.  
+Over the following span, I took readings everywhere. In the administrative sections on the sub-one level where students rarely ventured. On the main floor, with its high ceilings and reading tables. Down in sub-three, where the corridors narrowed and the air grew cold and still. I mapped the vertical tilt of my compass at each level, noted the horizontal bearing to the last degree I could estimate, and recorded everything in notebooks that grew fat with figures.  
 
 And nothing made sense.  
 
-The readings from sub-two remained consistent with my earlier work, with two lines crossing behind the Four-Plate Door, the book waiting perhaps fifteen feet beyond. But when I tried to incorporate the readings from other floors, the mathematics collapsed into chaos.  
+A knock came at my door just as I was beginning my ninth attempt at reconciling the readings from sub-two with those from the main floor.  
 
-My sub-one readings pointed somewhere else entirely. Not behind the door at all, but off toward the northeast, in a direction that should have been solid stone. The main floor readings disagreed with both, suggesting a location that was somehow west of the door’s corridor. And sub-three, where Puppet kept his strange vigil in a room he claimed was directly beneath the hidden chamber, pointed in yet another direction, one that made no geometric sense whatsoever.  
+“Kvothe,” came Wil’s voice, patient but firm. “You’re late.”  
 
-I checked my work. I rechecked it. I verified my position at each reading, confirmed the orientation of the corridors, ensured that my compass was functioning properly. Everything was correct. And yet the numbers refused to agree.  
+I didn’t look up from my calculations. “For what?”  
 
-Four sets of readings. Four different answers. It was as though I was tracking four different books, each one hiding on a different floor of the Archives.  
+“Corners,” Simmon said from the doorway. “We’ve been waiting downstairs for the better part of an hour.”  
 
-Wil found me in my room one evening, surrounded by papers covered in crossed-out calculations.  
+“I can’t. I need to finish this.”  
 
-“You look like you haven’t slept in days,” he said from the doorway.  
+“I’ve barely seen you lately except for classes,” Sim said, stepping into the room. “Fela’s starting to think you’ve died.”  
 
-“I haven’t.” I did not look up from my work. “Something is wrong with my measurements, and I can’t figure out what.”  
+“I’m fine,” I said, gesturing helplessly at the papers scattered across every surface. “I’m close. Just a little more time.”  
 
-He stepped into the room, picking his way through the scattered pages. He studied my diagrams for a long moment, his dark Cealdish eyes moving across the tangled lines. I watched him trace the clusters of intersecting angles, the way they formed distinct groups that refused to overlap.  
+“Close to what?” Wil had moved to stand beside Sim, his dark Cealdish eyes scanning the figures and diagrams.  
 
-“Have you considered,” he said slowly, “that whatever you’re tracking might have been split into pieces?”  
+I pulled out my clearest diagram showing all of the readings overlaid on a rough map of the Archives.  
 
-The words hit me like a bucket of ice water.  
+Wil studied it for a long moment. “I don’t see the problem,” he said. “Four locations. Four objects.”  
 
-Split into pieces. My blood. Divided and scattered across four different locations, each piece pointing in a different direction, each fragment a vulnerability waiting to be exploited.  
+Four objects. My blood, divided and scattered. Each one a weapon waiting to be found. I gripped the edge of my desk, my knuckles going white.  
 
-The room seemed to tilt. I gripped the edge of my bed, my knuckles going white.  
+“Kvothe?” Sim’s voice seemed distant. “You’ve gone pale.”  
 
-“Kvothe?” Wil’s voice came from very far away. “You’ve gone pale.”  
-
-I could not breathe. How much blood had I used? A full vial, traced page by page into that book, hidden beneath matching ink. If someone had discovered it, if someone had separated the pages, or distributed them?  
-
-I would be defenseless. Worse than defenseless. Anyone with a piece of me could reach across any distance, through any wall, and twist my heart until it burst.  
-
-“Kvothe.” Wil’s hand was on my shoulder now. “Whatever this is, you need to tell me.”  
-
-“I can’t.” The words came out strangled. “I can’t, Wil. It’s too...”  
-
-“Breathe.”  
+“Breathe,” Wil said, his hand steady on my shoulder.  
 
 I breathed. In. Out. The room steadied, though my hands still shook.  
 
-Wil watched me with those steady Cealdish eyes. He did not ask again. He did not press. That was one of the things I valued about him. He understood that some doors were not meant to be pushed.  
+Sim and Wil shared a look.  
 
-After a long moment, he spoke again. “You’re good with numbers, Kvothe. But you’re not the best. And sometimes the best is what you need.”  
+“Whatever this is,” Sim said carefully, “it’s important. And you’re in over your head.”  
 
-He was right, of course. If my blood had been scattered, I needed to know. I needed to understand the mathematics well enough to prove it one way or another. And I could not do that alone.  
+I wanted to deny it. But my white-knuckled grip on the desk said otherwise.  
 
-The next morning, I gathered my notebooks and went to find Master Brandeur.  
+“You’re good with numbers, Kvothe,” Sim continued. “But you’re not the best.” He paused. “I know what he did. But sometimes the best is what you need.”  
+
+The suggestion hung in the air. Brandeur. The man who had helped kill Herma. But I looked down at my diagram, and knew I had no other choice.  
+
+“Alright,” I said finally. “Tomorrow. I’ll go tomorrow.”  
+
+“Good.” Sim’s shoulders relaxed slightly. “Now will you please come downstairs?”  
+
+“One more night?” I asked. “I need to organize this first. If I’m going to Brandeur, I need to present it properly.”  
+
+They left, and I sat alone with my diagrams.  
 
 ### * * *  
 
-I stood outside his office for a long moment, my hand raised to knock but not quite touching the wood.  
+The next morning, I stood outside Master Brandeur’s office for a long moment, my hand raised to knock but not quite touching the wood.  
 
 I did not want to be here.  
 
