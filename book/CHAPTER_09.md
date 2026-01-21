@@ -89,47 +89,33 @@ They left, and I sat alone with my diagrams.
 
 ### * * *  
 
-The next morning, I stood outside Master Brandeur’s office for a long moment, my hand raised to knock but not quite touching the wood.  
+The next morning, I stood outside Master Brandeur’s office for a long moment with my hand raised before I knocked.  
 
-I did not want to be here.  
+“Enter,” came his voice through the door.  
 
-Brandeur had never been overtly cruel to me, not the way Hemme had. But he had been Hemme’s creature for years, voting against me in admissions, supporting every petty punishment the Master Rhetorician devised. And after everything that had happened, after Herma’s death and Hemme’s exposure, Brandeur had been cast out by the other Masters. Not expelled, but something almost worse: ignored. Passed over in conversations. Excluded from gatherings. Left to haunt his office like a ghost that no one wanted to acknowledge.  
+I took a breath and pushed through.  
 
-I had played a part in that. A small part, perhaps, but a part nonetheless. The listening device, the confession, the unraveling of Hemme’s schemes. All of it had left Brandeur standing alone in the wreckage of an alliance he had never fully understood.  
+The office was buried in papers, weighted down with instruments, and smelled of chalk dust. The air was stale too, as if his door rarely opened. Brandeur was alone. Completely alone. No students waiting for consultations, no colleagues stopping by to discuss research. Just a portly, balding man sitting behind a desk piled with work that no one would ever read.  
 
-And now I needed his help.  
+I had played a part in that. A small part, perhaps, but a part nonetheless. And now I needed his help.  
 
-I swallowed my pride. It went down like broken glass. Then I knocked.  
-
-“Enter.”  
-
-The office was exactly as I remembered: buried in papers, weighted down with instruments, smelling of chalk dust and old ink. But something was different. It took me a moment to realize what.  
-
-Brandeur was alone. Completely alone. No students waiting for consultations, no colleagues stopping by to discuss research. Just a soft, doughy man sitting behind a desk piled with work that no one would ever read.  
-
-He looked up as I entered, and I saw something flicker across his face. Surprise, certainly. But beneath that, something else. Something that looked almost like relief.  
-
-“Kvothe.” He said my name carefully, as if testing whether it would cut him. “I don’t recall summoning you.”  
+“Kvothe.” He said as I entered. Surprise, then relief, crossed his face. “I don’t remember summoning you.”  
 
 “You didn’t, Master Brandeur.” I kept my voice neutral, trying to ignore the tightness in my chest. “I came hoping you might help me with a problem.”  
 
 “A problem.” He leaned back in his chair, which creaked beneath him. His eyes were sharp as ever, but there was a wariness in them now that I had not seen before. “What sort of problem brings a Re’lar to my door uninvited?”  
 
-*Uninvited.* The word hung in the air between us. I wondered how many people had visited this office in the past span. I wondered if anyone had.  
+“A geometric one.” I produced the papers I had prepared the night before. My angles and distances stripped of all context, reduced to pure abstraction. No mention of compasses or blood or doors or buildings. Just shapes and numbers. “I’ve been trying to locate a point using angular measurements from multiple positions. But my readings don’t agree, and I can’t determine whether the inconsistency is error or something else.”  
 
-“A geometric one.” I produced the papers I had prepared the night before: my angles and distances stripped of all context, reduced to pure abstraction. No mention of compasses or blood or doors or buildings. Just numbers. Just shapes. “I’ve been trying to locate a point using angular measurements from multiple positions. But my readings don’t agree, and I can’t determine whether the inconsistency is error or something else.”  
+Brandeur’s eyebrows rose slightly. He reached for the papers, and I let him take them. For a long moment, he said nothing. His eyes moved across my notations, my diagrams, my crossed-out attempts. I watched for dismissal, for refusal, for the cost of what I had done to him to reflect in his face.  
 
-Brandeur’s eyebrows rose slightly. He reached for the papers, and I let him take them.  
+Instead, his shoulders unknotted. His breathing eased. The wariness in his eyes gave way to the hunger of someone who had been starving for work that mattered.  
 
-For a long moment, he said nothing. His eyes moved across my careful notations, my sketched diagrams, my frustrated calculations. I watched his face for some sign of dismissal, some indication that he would refuse to help simply because of who I was and what I had cost him.  
-
-Instead, I saw his shoulders slowly unknot. His breathing eased. The sharp wariness in his eyes softened into something that looked almost like hunger. The hunger of a man who had been starving for meaningful work.  
-
-“You’ve taken readings from multiple positions at different... levels?” He glanced up. “What do these groupings represent? You’ve labeled them one through four.”  
+“What do these groupings represent? You’ve labeled them one through four.”  
 
 “Different observation platforms,” I said, which was true enough. “At different elevations.”  
 
-“And the readings within each level are consistent, but the levels disagree with each other.”  
+“And the readings within each level are consistent, but the levels disagree with each other?”  
 
 “Yes. I can’t figure out why.”  
 
@@ -139,35 +125,23 @@ I waited.
 
 Minutes passed. Brandeur filled one sheet with calculations, then another. He cross-referenced my numbers, drew diagrams, scratched out figures and rewrote them. His face had lost its guarded quality entirely now. He looked like a different man. Engaged. Animated. Alive in a way I had never seen during admissions or faculty meetings.  
 
-I found myself thinking, despite everything: *He’s good at this. He’s really good.*  
-
 “Interesting,” he murmured, half to himself. “Very interesting.”  
 
 “What do you see?”  
 
-He held up one finger, asking for patience. He worked for several more minutes, filling a third sheet with figures. Then he set down his pen and looked at me with something that might have been respect.  
-
-“You have two problems,” he said. “Not one. Two distinct anomalies, and you’ve been treating them as a single error.”  
+He held up one finger, asking for patience. He worked for several more minutes, filling a third sheet with figures. Then he set down his pen. “You have two problems,” he said. “Not one. Two distinct anomalies, and you’ve been treating them as a single error.”  
 
 “Two problems?”  
 
-He tapped the papers I had sorted by floor. “First: your readings from your primary observation level. This one.” He indicated my sub-two measurements. “These readings cluster into two distinct groups. Watch.”  
+He tapped the papers I had sorted by floor. “First, your readings from your primary observation level. This one.” He indicated my sub-two measurements. “These readings cluster into two distinct groups. Watch.”  
 
-He drew a diagram, plotting my angles as lines radiating from their observation points. “Your early readings intersect here.” He marked a point. “Your later readings intersect here.” He marked another point, noticeably distant from the first. “The gap between these clusters is too large to explain by measurement uncertainty alone.”  
+He drew a diagram, plotting my angles as lines radiating from their observation points. “Your early readings intersect here.” He marked a point. “Your later readings intersect here.” He marked another point. “The gap between these clusters is too large to explain by measurement uncertainty alone.”  
 
 “How can you be sure?”  
 
-“Statistics.” He wrote a formula I did not recognize. “Given your stated precision and the number of observations in each cluster, I can calculate the probability that both clusters represent the same true location. That probability is very small. Less than one in a thousand.”  
+“Statistics.” He wrote a formula I did not recognize. “Given your stated precision and the number of observations in each cluster, I can calculate the probability that both clusters represent the same true location. That probability is very small. Less than one in a thousand. It just doesn’t look so distinct on the paper because there was also a substantial vertical adjustment.”  
 
-I stared at the two points on his diagram. They were not close. But they were both single points. Not scattered. Not divided into fragments.  
-
-“So it’s not...” I hesitated. “It’s not split into multiple pieces?”  
-
-Brandeur looked at me curiously. “No. Both clusters converge clearly. Your target appears to be a single object. It simply moved from one location to another partway through your observations.”  
-
-The relief that washed through me was so intense I had to grip the edge of his desk to steady myself. Not scattered. Not divided. Just moved. Someone had moved my book, which was unsettling in its own way, but nothing compared to the nightmare I had been imagining.  
-
-“You said two problems,” I managed.  
+“So it moved,” I said slowly.  
 
 “Yes.” Brandeur shuffled through the papers again, his enthusiasm undimmed. “The second problem is more interesting. Look at your data from each level separately.”  
 
@@ -175,13 +149,19 @@ He spread out four sheets, each containing one level’s worth of measurements. 
 
 I looked at the four points. They were nowhere near each other.  
 
-“If your target is stationary, or even if it moved once, as we’ve established, these four points should coincide. They don’t. Each level gives you a completely different answer.” Brandeur’s voice had taken on the rhythms of a lecture, but there was genuine curiosity beneath it. “Now, if this were random error, the four points would scatter in random directions. But they don’t.”  
+“If your target is stationary, or even if it moved once, as we’ve established, these four points should coincide. They don’t. Each level gives you a completely different answer.” Brandeur pulled out a fresh sheet and began sketching rapidly. “But watch what happens when I plot the vertical position.”  
+
+He drew a simple graph, elevation on one axis, observation level on the other. Four points appeared, then he drew a horizontal line through them. “All four levels agree perfectly on the elevation. Your target is at the exact same height, regardless of which floor you measured from.”  
+
+I stared at the line and felt the relief. A single object.  
+
+“According to statistics,” Brandeur continued, “if these were truly four different objects scattered across space, the probability they would all share the exact same elevation is vanishingly small. This confirms what the movement data already suggested. You’re measuring a single object. But now we come to the interesting part.” He returned to his diagram of the four horizontal positions. “Look at the disagreement here. If this were random error, the four points would scatter in random directions. But they don’t.”  
 
 He drew lines connecting the four points. They formed a rough spiral pattern, each point rotated relative to the last.  
 
-“The disagreement is systematic,” he said. “Each level’s answer is rotated relative to the others. As if...”  
+“The disagreement is systematic,” he said. “Each level’s answer is rotated relative to the others. As if.”  
 
-He trailed off, frowning at his own diagram.  
+He trailed off, waiting for me.  
 
 I stared at the spiral pattern. Rotated. Each level rotated relative to the others. And suddenly, I understood.  
 
@@ -195,31 +175,19 @@ Brandeur looked up at me, and I saw genuine pleasure in his eyes. The satisfacti
 
 I took the papers, my mind racing. Rotating coordinate systems. Reference frames that shifted between levels. What could possibly cause that?  
 
-“How do I fix it?” I asked. “If I don’t know how much each level is rotated...”  
+“How do I fix it?” I asked. “If I don’t know how much each level is rotated?”  
 
 “Measure it.” Brandeur’s tone was practical now, a teacher assigning homework. “Find some way to determine the angular offset between your reference frames. Then transform all your observations into a single unified system. The mathematics is straightforward. I can show you the rotation formulas if you need them.”  
 
-He did, spending another quarter hour walking me through the process of transforming coordinates from one rotated frame to another. It was elegant work, the kind of mathematics that revealed hidden order beneath apparent chaos. By the end, I understood the method, even if I did not yet understand what I would find when I applied it.  
+He did, spending another quarter hour walking me through the process of transforming coordinates from one rotated frame to another. He was a good teacher. Genuinely good. Patient and clear, building each concept on the foundation of the last. Nothing like the silent antagonist I had imagined from years of watching him vote against me at Hemme’s side.  
 
-He was a good teacher. A genuinely good teacher. Patient and clear, building each concept on the foundation of the last. Nothing like the silent antagonist I had imagined from years of watching him vote against me at Hemme’s side.  
-
-I wondered, not for the first time, how much of that had been his choice. Hemme had a talent for finding people’s weaknesses and pressing on them. Brandeur was not a man who made friends easily; I could see that now in the desperate relief that had flooded his face when I walked through his door. If Hemme had been one of the only people to show him kindness, to include him, to make him feel like he belonged.  
+I wondered, not for the first time, how much of that had been his choice. Hemme had a talent for finding people’s weaknesses and pressing on them. Brandeur was not a man who made friends easily. I could see that in the relief that had filled his face when I walked through his door. If Hemme had been one of the only people to show him kindness, to include him, to make him feel like he belonged.  
 
 It would not excuse what had happened. But it might explain it.  
 
-“Thank you,” I said, gathering my papers. “This has been... more helpful than I expected.”  
+“Thank you,” I said, gathering my papers. “This has been more helpful than I expected.”  
 
-Brandeur nodded, something flickering in his eyes that might have been gratitude. “It’s a fascinating problem,” he said. “If you do solve it, I’d be curious to know what sort of space produces data like that. Purely as a mathematical matter.”  
-
-I left his office with my head spinning. Rotating coordinate systems. A space built to confuse. A target that someone had moved.  
-
-I did not know what sort of space could produce the patterns Brandeur had identified. But I knew where I had taken my measurements.  
-
-And I knew that the stairs between levels of the Archives had always seemed longer than they should be, more convoluted than necessary, spiraling down through the stone in ways that left me faintly disoriented every time I emerged onto a new floor.  
-
-What if that disorientation was not a feeling?  
-
-What if it was a fact?  
+Brandeur nodded, and I saw what might have been gratitude in his eyes. “It’s a fascinating problem,” he said.  
 
 ### * * *  
 
