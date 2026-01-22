@@ -21,15 +21,13 @@ I sat down right there on the cold stone floor, heedless of the scrivs who might
 
 The lines crossed behind the Four-Plate Door.  
 
-Not far behind it. Perhaps ten or fifteen feet, if my angles were accurate. This confirmed what I had discovered the day before, when I had followed the compass needle through the twisting corridors until it led me to that grey stone face. The book was there, just beyond the threshold, waiting in whatever space lay hidden from the world. I imagined it sitting on a shelf or a table, freshly processed, my blood drying slowly between its pages.  
+Not far behind it. Perhaps ten or fifteen feet, if my angles were accurate. This confirmed what I had discovered the day before, when I had followed the compass needle through the twisting corridors until it led me to that grey stone face. Beyond it, the book waited in whatever space lay hidden from the world. I imagined it sitting on a shelf or a table, freshly processed, my blood drying slowly between its pages.  
 
 Close enough to tantalize. Far enough to drive me mad.  
 
-I spent three more days in the deeper reaches of the Stacks, taking readings from every angle I could manage. The results were consistent, if imprecise. My book was behind the door. It was roughly ten to twenty feet beyond the threshold, somewhere in a room I could not enter.  
+I spent three more days in the deeper reaches of the Stacks, taking readings from every angle I could manage. The results were consistent, if imprecise. My book was behind the door, roughly ten to twenty feet past it, somewhere in a room I could not enter.  
 
 I recorded everything in a small notebook: angles, distances, positions, the orientation of corridors relative to one another. Each reading was another thread in the web I was slowly weaving. The acute angles frustrated me, since small errors in measurement translated to large uncertainties in position. But the overall picture was clear enough.  
-
-My book was there. Just beyond the door. Waiting.  
 
 The next step was obvious. More readings from different positions would narrow my uncertainty. And if I took readings from different floors, I could triangulate in three dimensions, pinning down not just the horizontal location but the height as well.  
 
@@ -95,21 +93,21 @@ The next morning, I stood outside Master Brandeur’s office for a long moment w
 
 I took a breath and pushed through.  
 
-The office was buried in papers, weighted down with instruments, and smelled of chalk dust. The air was stale too, as if his door rarely opened. Brandeur was alone. Completely alone. No students waiting for consultations, no colleagues stopping by to discuss research. Just a portly, balding man sitting behind a desk piled with work that no one would ever read.  
+The office was buried in papers, weighted down with instruments, and smelled of chalk dust. The air was stale, as if his door rarely opened. Brandeur was alone. Completely alone. No students waiting for consultations, no colleagues stopping by to discuss research. Just a portly, balding man sitting behind a desk piled with work that no one would ever read.  
 
 I had played a part in that. A small part, perhaps, but a part nonetheless. And now I needed his help.  
 
-“Kvothe.” He said as I entered. Surprise, then relief, crossed his face. “I don’t remember summoning you.”  
+“Kvothe.” He looked up. Surprise, then relief, crossed his face. “I don’t remember summoning you.”  
 
 “You didn’t, Master Brandeur.” I kept my voice neutral, trying to ignore the tightness in my chest. “I came hoping you might help me with a problem.”  
 
-“A problem.” He leaned back in his chair, which creaked beneath him. His eyes were sharp as ever, but there was a wariness in them now that I had not seen before. “What sort of problem brings a Re’lar to my door uninvited?”  
+“A problem.” He leaned back in a chair that creaked beneath him. His eyes were sharp as ever, but there was a wariness in them now that I had not seen before. “What sort of problem brings a Re’lar to my door uninvited?”  
 
-“A geometric one.” I produced the papers I had prepared the night before. My angles and distances stripped of all context, reduced to pure abstraction. No mention of compasses or blood or doors or buildings. Just shapes and numbers. “I’ve been trying to locate a point using angular measurements from multiple positions. But my readings don’t agree, and I can’t determine whether the inconsistency is error or something else.”  
+“A geometric one.” I produced the papers I had prepared the night before. My angles and distances stripped of all context, just shapes and numbers. “I’ve been trying to locate a point using angular measurements from multiple positions. But my readings don’t agree, and I can’t determine whether the inconsistency is error or something else.”  
 
-Brandeur’s eyebrows rose slightly. He reached for the papers, and I let him take them. For a long moment, he said nothing. His eyes moved across my notations, my diagrams, my crossed-out attempts. I watched for dismissal, for refusal, for the cost of what I had done to him to reflect in his face.  
+Brandeur’s eyebrows rose slightly. He reached for the papers, and I let him take them. For a long moment, he said nothing. His eyes moved across my notations, my diagrams, my work. I watched for dismissal, for refusal, for some sign of the cost.  
 
-Instead, his shoulders unknotted. His breathing eased. The wariness in his eyes gave way to the hunger of someone who had been starving for work that mattered.  
+Instead, his shoulders unknotted and his breathing eased. The wariness in his eyes gave way to the hunger of someone who had been starving for work that mattered.  
 
 “What do these groupings represent? You’ve labeled them one through four.”  
 
@@ -123,7 +121,7 @@ Brandeur made a small sound, something between a grunt and acknowledgment. He pu
 
 I waited.  
 
-Minutes passed. Brandeur filled one sheet with calculations, then another. He cross-referenced my numbers, drew diagrams, scratched out figures and rewrote them. His face had lost its guarded quality entirely now. He looked like a different man. Engaged. Animated. Alive in a way I had never seen during admissions or faculty meetings.  
+Minutes passed. Brandeur filled one sheet with calculations, then another. He cross-referenced my numbers, drew diagrams, scratched out figures and rewrote them. His face had entirely lost its guarded quality. He looked like a different man. Engaged. Animated. Alive in a way I had never seen during admissions or faculty meetings.  
 
 “Interesting,” he murmured, half to himself. “Very interesting.”  
 
@@ -139,7 +137,7 @@ He drew a diagram, plotting my angles as lines radiating from their observation 
 
 “How can you be sure?”  
 
-“Statistics.” He wrote a formula I did not recognize. “Given your stated precision and the number of observations in each cluster, I can calculate the probability that both clusters represent the same true location. That probability is very small. Less than one in a thousand. It just doesn’t look so distinct on the paper because there was also a substantial vertical adjustment.”  
+“Statistics.” He wrote a formula I did not recognize. “Given your stated precision and the number of observations in each cluster, I can calculate the probability that both clusters represent the same true location. That probability is very small. Less than one in a thousand. It just doesn’t look so distinct on the paper because of the substantial vertical adjustment.”  
 
 “So it moved,” I said slowly.  
 
@@ -153,9 +151,13 @@ I looked at the four points. They were nowhere near each other.
 
 He drew a simple graph, elevation on one axis, observation level on the other. Four points appeared, then he drew a horizontal line through them. “All four levels agree perfectly on the elevation. Your target is at the exact same height, regardless of which floor you measured from.”  
 
-I stared at the line and felt the relief. A single object.  
+I stared at the line.  
 
-“According to statistics,” Brandeur continued, “if these were truly four different objects scattered across space, the probability they would all share the exact same elevation is vanishingly small. This confirms what the movement data already suggested. You’re measuring a single object. But now we come to the interesting part.” He returned to his diagram of the four horizontal positions. “Look at the disagreement here. If this were random error, the four points would scatter in random directions. But they don’t.”  
+“According to statistics,” Brandeur continued, “if these were truly four different objects scattered across space, the probability they would all share the exact same elevation is vanishingly small. This confirms what the movement data already suggested. You’re measuring a single object.”  
+
+The weight lifted from my chest. A single object.  
+
+“But now we come to the interesting part.” He returned to his diagram of the four horizontal positions. “Look at the disagreement here. If this were random error, the four points would scatter in random directions. But they don’t.”  
 
 He drew lines connecting the four points. They formed a rough spiral pattern, each point rotated relative to the last.  
 
@@ -163,7 +165,7 @@ He drew lines connecting the four points. They formed a rough spiral pattern, ea
 
 He trailed off, waiting for me.  
 
-I stared at the spiral pattern. Rotated. Each level rotated relative to the others. And suddenly, I understood.  
+I stared at the spiral pattern. Rotated. Each level rotated relative to the others.  
 
 “The coordinate systems,” I said, the words coming fast as the pieces clicked into place. “What if the reference frame at level one is rotated relative to level two? And level two is rotated relative to level three? That would explain exactly this pattern.”  
 
@@ -173,103 +175,81 @@ Brandeur looked up at me, and I saw genuine pleasure in his eyes. The satisfacti
 
 “I have no idea.” Brandeur shrugged. “I don’t know what you’re measuring or where you’re measuring it. I only know what the numbers say. And the numbers say your coordinate systems don’t align.” He gathered my papers into a neat stack and held them out to me. “Whatever space you’re working in, it’s not oriented the way you think it is. Fix your coordinate transformations, and your data will converge.”  
 
-I took the papers, my mind racing. Rotating coordinate systems. Reference frames that shifted between levels. What could possibly cause that?  
+I took the papers. Rotating coordinate systems. Reference frames that shifted between levels. What could possibly cause that?  
 
 “How do I fix it?” I asked. “If I don’t know how much each level is rotated?”  
 
 “Measure it.” Brandeur’s tone was practical now, a teacher assigning homework. “Find some way to determine the angular offset between your reference frames. Then transform all your observations into a single unified system. The mathematics is straightforward. I can show you the rotation formulas if you need them.”  
 
-He did, spending another quarter hour walking me through the process of transforming coordinates from one rotated frame to another. He was a good teacher. Genuinely good. Patient and clear, building each concept on the foundation of the last. Nothing like the silent antagonist I had imagined from years of watching him vote against me at Hemme’s side.  
+He did then, spending another quarter hour walking me through the process of transforming coordinates from one rotated frame to another. He was a good teacher. Genuinely good. Patient and clear, building each concept on the foundation of the last. Nothing like the silent antagonist I had imagined from years of watching him vote against me at Hemme’s side.  
 
-I wondered, not for the first time, how much of that had been his choice. Hemme had a talent for finding people’s weaknesses and pressing on them. Brandeur was not a man who made friends easily. I could see that in the relief that had filled his face when I walked through his door. If Hemme had been one of the only people to show him kindness, to include him, to make him feel like he belonged.  
+I wondered, for the first time, how much of that had been his choice. Hemme had a talent for finding people’s weaknesses and pressing on them. Brandeur was not a man who made friends easily. I could see that in the relief on his face when I’d walked through his door. If Hemme had been one of the only people to show him kindness, to include him, to make him feel like he belonged.  
 
 It would not excuse what had happened. But it might explain it.  
 
 “Thank you,” I said, gathering my papers. “This has been more helpful than I expected.”  
 
-Brandeur nodded, and I saw what might have been gratitude in his eyes. “It’s a fascinating problem,” he said.  
+Brandeur nodded, and I saw what might have been gratitude in his eyes. “It’s been a fascinating problem,” he said.  
 
 ### * * *  
 
-I did not return to the Archives immediately.  
+After leaving Brandeur’s office, I went straight to the Archives to see for myself.  
 
-Instead, I walked. Through Hollows and across the courtyard. Past the Artificery with its ever-present smell of molten metal. Along the river, where the wind came cold off the water and cleared the fog from my mind.  
+On the main floor, I found a corridor that ran clearly east-west. I used the great doors as my reference, fixing the direction into my bones. Then I made my way to the stairwell that led down to sub-one.  
 
-Brandeur’s words circled through my thoughts like crows around a carcass. *Your coordinate systems don’t align. Each level seems to have its own orientation, rotated relative to the others.*  
-
-How could that be possible? The Archives was a building. Buildings had floors. Floors were stacked atop one another, aligned by walls and columns and the simple necessity of structural support. You could not rotate a floor without rotating everything above it. The idea was architectural nonsense.  
-
-And yet my data said otherwise.  
-
-By the time I reached the Archives, the sun was setting. I stood at the entrance for a long moment, looking up at the grey stone face of the building. It looked solid. Ordinary. A building like any other, with floors that stacked sensibly atop one another.  
-
-But I had learned to distrust appearances.  
-
-I descended to the main floor and found a corridor that ran clearly east-west, using the great doors as my reference. I fixed the direction in my mind, feeling it settle into my bones the way a musician fixes a pitch before beginning to play. Then I made my way to the stairwell that led down to sub-one.  
-
-The stairs spiraled. I had walked them a hundred times before, never thinking to count the turns. Now I counted. Quarter-turn. Half-turn. Three-quarters. Full rotation. Another quarter before the stairs opened onto sub-one.  
+I had walked these stairs a hundred times before, never thinking to count the turns. Now I counted carefully. Quarter-turn. Half-turn. Three-quarters. Full rotation. Another quarter before the stairs opened onto sub-one.  
 
 I stepped out into the corridor and stopped.  
 
-The passage ran perpendicular to where I had expected it to run. I turned to face what should have been east, the direction I had fixed so carefully in my mind, and found myself looking at a wall.  
+The passage ran perpendicular to where I had expected it to run. I turned to face what should have been east, the direction I had fixed so carefully, and found myself looking at a wall.  
 
-I had descended one level, and the world had rotated around me.  
+I had descended one level, and the world had turned around me.  
 
-For a moment, I simply stood there, feeling the wrongness of it. I had been so certain of my internal compass, so confident in my sense of direction. But the stairs had turned me without my noticing. A quarter-turn here, a half-turn there, adding up to something more than a full rotation by the time I emerged.  
+I walked the corridors of sub-one until I found the stairwell to sub-two. Again I counted the turns as I descended. More this time. The stairwell spiraled deeper, carrying me down and around in a smooth curve. When I emerged onto sub-two, I stopped and faced the direction I had come from.  
 
-I walked the corridors of sub-one until I found the stairwell to sub-two. Again I counted the turns as I descended. More this time. The stairwell was longer, more convoluted, switching back on itself in ways that seemed almost deliberately confusing. When I emerged onto sub-two, I stopped and faced the direction I had come from.  
+The corridor had rotated again.  
 
-It was not the direction I expected.  
+I continued to sub-three, counting each turn with growing certainty. By the time I reached sub-three, the pattern was unmistakable. Each stairwell turned through its own measure, each level opening at a different angle.  
 
-I continued to sub-three, counting, measuring, trying to build a map in my head of how each floor related to the others. It was difficult. The stairs did not merely spiral; they curved in ways that divorced each level from the one above. By the time I reached sub-three, my mental compass was spinning freely, unable to find true north.  
-
-I stood in the corridor outside Puppet’s room and thought about what Brandeur had said. *Your coordinate systems don’t align.*  
+I stood in the corridor outside Puppet’s room and pictured it. Sub-one, turned on its axis relative to the main floor. Sub-two, turned again relative to sub-one. Sub-three, turned once more. Each level connected to the next by a single stairwell, but that connection was a pivot point, not an anchor. The floors did not stack like plates in a cupboard. They spiraled like a nautilus shell, each chamber extending in a different direction from the one above.  
 
 Puppet had lived on sub-three for years. He claimed his room was directly beneath the Four-Plate Door, two levels above. He spoke of listening for sounds through the stone, of pressing his ear to the ceiling and imagining what secrets might be kept just overhead.  
 
-But if the floors rotated...  
+But he was nowhere near the door. The geometry of the Archives had fooled him as thoroughly as it had fooled me.  
 
-I pictured it in my mind. Sub-one, turned on its axis relative to the main floor. Sub-two, turned again relative to sub-one. Sub-three, turned once more. Each level connected to the next by a single stairwell, but that connection was a pivot point, not an anchor. The floors did not stack like plates in a cupboard. They spiraled like a nautilus shell, each chamber extending in a different direction from the one above.  
+I climbed back to the main floor, my verification complete. The floors rotated, just as Brandeur had said. But knowing was not enough. I needed measurements. Real measurements. Precise angles that I could trust.  
 
-Puppet was not beneath the Four-Plate Door. He was not even close. He had been listening for secrets through a ceiling that was nowhere near the room he sought, and he had never known because no one thought to question the obvious assumption that floors sat squarely atop one another.  
+My internal compass was worthless for this. I needed tools.  
 
-I climbed back to the main floor, my legs aching but my mind sharp with discovery. The world had rotated around me four times on the way down, and now it rotated four times again on the way up. When I emerged into Tomes, I faced the great doors and confirmed that east was east again.  
+I made my way to the Fishery and gathered what I needed. A surveyor’s compass with a sighting vane. A long measuring cord marked at regular intervals. A plumb line with a heavy brass weight.  
 
-The stairs had carried me in a full circle. Or rather, four partial circles, each one turning the world a different amount, so that the cumulative effect was to return me to my starting orientation while carrying me through floors that extended in completely different directions.  
+I returned to the Archives in the early afternoon and spent the next several hours with my surveyor’s compass and measuring cord. The main floor. Sub-one. Sub-two. Sub-three. Each level measured with exquisite care, each bearing recorded with precision that made my earlier attempts look like guesswork.  
 
-It was brilliant. It was devious. It was a lock built into the bones of the building itself, a maze that confused not through dead ends and false passages but through the simple rotation of space.  
+The numbers were better than I had hoped. Twenty-three degrees on the main floor. Sixty-eight on sub-one. One hundred fifty-eight on sub-two. Two hundred eighteen on sub-three. A perfect spiral, each level rotating clockwise from the one above.  
 
-I returned to my room and pulled out my notebooks. With fresh eyes and fresh mathematics, I examined my readings from each floor. Not as a single combined data set, but as four separate puzzles that needed to be rotated into alignment before they could be compared.  
+I climbed back to my room as the afternoon light faded and spread my notebooks across the desk. The work of transforming coordinates took hours. I had to apply each rotation in sequence, building a map of how the floors truly related to each other, not how they seemed within the Archives’ twisted geometry.  
 
-The work took hours. I had to estimate the angle of rotation between each level based on my stairwell observations. The main floor to sub-one: roughly forty-five degrees clockwise. Sub-one to sub-two: another ninety degrees. Sub-two to sub-three: perhaps sixty degrees counter-clockwise. Each estimate was rough, but Brandeur had given me the tools to refine them through iteration, adjusting the rotation angles until my data clusters converged.  
+By evening, the clusters converged. All four floors, all agreeing, all pointing to the same location.  
 
-By midnight, my sub-two readings resolved into two distinct points: the book’s original location near the door, and its current location after being moved. By the small hours of the morning, my readings from all four floors began to agree with each other, their clusters overlapping when viewed through the lens of my corrected coordinate system.  
+Thirty feet north of the Archives’ exterior wall. At an elevation just below ground level.  
 
-And when I finished, I had a location.  
-
-The book was not behind the Four-Plate Door. Not anymore. It had been moved deeper, carried through passages I had never seen, shelved in a place that should have been impossible to reach.  
-
-Thirty feet north of the Archives’ exterior wall. At an elevation just below ground level. High, relative to sub-two, but low relative to the surface.  
-
-I pulled out the rough map I had made of the University grounds and traced a line from my position in the Archives, through the Four-Plate Door, and out into the hill beyond. The line did not stop at the building’s foundation. It continued, following the twisted orientation of sub-two, reaching toward a different building entirely.  
+I pulled out my rough map of the University grounds and traced a line from the Archives, through the Four-Plate Door, and into the hill beyond. The line did not stop at the building’s foundation. It continued, following sub-two’s twisted orientation, reaching toward a different building entirely.  
 
 It ended beneath Mains.  
 
-I sat back and stared at my diagram. The Four-Plate Door was on sub-two, deep underground. But due to the rotated geometry of the Archives, sub-two extended not directly beneath the building but outward, into the hill. The door’s corridor reached toward Mains like a root reaching toward water.  
+I sat back and stared at my diagram. The Four-Plate Door was on sub-two, deep underground. But due to the rotated geometry of the Archives, sub-two extended not directly beneath the building but outward, into the hill. The door’s corridor extended toward Mains like a root seeking water.  
 
-And the room beyond the door, the hidden chamber where my book now rested, was not in the Archives at all. It was beneath the oldest building on campus, accessed through a passage that no one would ever find if they did not know the secret of the spiraling floors.  
+And the room beyond the door was not in the Archives at all. It was beneath the oldest building on campus.  
 
-Someone had built this deliberately. Someone had designed the Archives to confuse, to disorient, to hide the connection between the Stacks and whatever lay beneath Mains. The rotating floors were not an accident of ancient architecture. They were a lock, a maze, a misdirection built in stone.  
+And Puppet, poor Puppet, had spent years listening for secrets through a ceiling that was nowhere near the room he sought, never thinking to question what seemed so obviously true.  
 
-And Puppet, poor Puppet, had spent years listening for secrets through a ceiling that was nowhere near the room he sought. The geometry of the Archives had fooled him as thoroughly as it had fooled me.  
+The geometry of the Archives had fooled him as thoroughly as it had fooled me.  
 
-But I had found the key. I had measured the rotation. I had transformed my coordinates and followed the thread through the maze.  
+I glanced out the window. The sun was setting. I had just enough time to make it to Corners if I left now. After yesterday, I couldn’t leave Sim and Wil waiting again.  
 
-My book was on a high shelf, near ground level, in a vertical space that climbed up through the hill toward the surface. Someone had carried it there, through the Four-Plate Door or through some other entrance, and shelved it among secrets that the University had kept hidden for centuries.  
+But I allowed myself one more moment to stare at the diagram, at the thin line reaching from the Archives toward Mains.  
 
-I did not yet know how to reach it. But I knew where it was.  
-
-And that was more than anyone had expected me to learn.  
+Then I gathered my things and headed for the door.  
 
 ### * * *  
 
