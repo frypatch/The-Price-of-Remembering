@@ -253,93 +253,21 @@ Then I gathered my things and headed for the door.
 
 ### * * *  
 
-The next morning, I walked to Mains with fresh eyes.  
+Corners that evening took some time to become a relief. Sim, Wil, Fela, and I claimed our usual table at Anker’s. The first hand, I missed a crucial trick through a sequence I should have seen coming three plays earlier. Wil raised an eyebrow at my distraction but said nothing. A tankard of ale helped. Then, a few more hands, and gradually the game pulled me in. For a few hours the world narrowed to cards, friends, and the comfortable rhythm of play.  
 
-I had passed through its halls a thousand times on my way to classes, to meals, to the Masters’ offices where I had argued my case before admissions and defended my tuition before unsympathetic faces. I knew Mains the way a fish knows water: intimately, thoughtlessly, without ever stopping to consider its shape.  
+When we finally dispersed near midnight, I headed toward Mains. Most of its windows were dark. I circled to the eastern side, climbed the old drainage pipe, and within minutes pulled myself onto the lower rooftop. From there I picked my way across the chaotic landscape of peaks and valleys, testing each handhold, moving with care.  
 
-Now I tried to see it whole, and I could not.  
+A few compass readings from different positions gave me what I needed. The lines converged on a section of roof between two taller wings. I moved there and checked my compass one final time. The needle pulled hard toward the rooftop beneath my feet, tilted at such a steep angle that I knew I was nearly centered above my book.  
 
-The building sprawled across the hillside like a stone beast that had collapsed mid-stride. Wings jutted at odd angles. Towers rose and fell with no apparent logic. Sections that should have connected did not; sections that should have been separate shared walls in ways that defied easy mapping. I walked its perimeter for an hour and came away with a sketch that looked like the work of a madman.  
+It seemed so unlikely that I moved to the edge and peered down. Just to verify.  
 
-The interior was worse.  
+And sure enough, below was Auri’s abandoned courtyard and apple tree.  
 
-I spent three days trying to survey the northwest quarter, where my calculations suggested the hidden room should lie. But the corridors twisted back on themselves, interrupted by stairs that climbed half a level or descended into basements that connected to other basements that led to dead ends or locked doors or rooms that no one seemed to use for anything. I found storage chambers filled with broken furniture. I found a chapel that had been converted to a granary and then apparently abandoned. I found a staircase that spiraled down into darkness and ended at a wall of mortared stone that looked newer than the steps it blocked.  
+I sat back and pulled out my blueprints, sketching in the courtyard’s position. Thirty feet across. The blank wall formed its northern border. The hidden room would lie fifteen feet behind that wall, perhaps extending another fifteen feet beyond. The entire space would fit within Mains’ foundation.  
 
-That wall gave me pause. The mortar was old, decades at least, perhaps longer. But the stone blocks were fitted with a precision that spoke of deliberate construction. Someone had sealed this passage. Someone had decided that wherever those stairs led was no longer meant to be reached.  
+I looked down at the blank wall again, at the peaceful courtyard in the moonlight. How many times had I practiced here, never thinking to question why one wall lacked windows? How many times had I met with Auri, never knowing what lay just beyond?  
 
-Or perhaps they had decided it should only be reached from elsewhere.  
-
-I marked the location in my notebook and kept searching.  
-
-Everywhere I looked, Mains revealed the scars of its long history. Walls had been added and removed. Floors had been raised and lowered. Rooms had been divided, combined, sealed, forgotten, rediscovered, and sealed again. The building was not architecture; it was archaeology, layer upon layer of institutional decision compressed into stone.  
-
-And somewhere in that mess, beneath floors I could not access and behind walls I could not see through, lay the room where my book now rested.  
-
-I tried to triangulate from inside Mains as I had from inside the Archives, but the compass readings were nearly useless. The needle still pointed toward my book, but I could not establish clean baselines, could not pace off consistent distances, could not find positions from which to sight that were not blocked by walls or stairs or the accumulated debris of centuries. The building defeated me at every turn, not through malice but through sheer chaotic accretion.  
-
-By the end of the third day, I had learned almost nothing new about the room’s precise location. But I had learned something else, something perhaps more important.  
-
-The hidden room was old. Older than the Archives. Part of Mains’ original construction, perhaps, or something even more ancient that Mains had been built around. The Four-Plate Door was not the room’s first entrance. It was a later addition, a passage carved through the hill to connect the twisted depths of the Archives to a space that already existed.  
-
-Someone, long ago, had decided that this room needed a second way in. A hidden way. A way that only the keepers of the Archives would know.  
-
-And more recently, within the last span, someone had used that way to shelve my book.  
-
-The question was no longer just what lay behind the door. The question was who had access, and how, and why.  
-
-### * * *  
-
-I could not map what lay beyond the Four-Plate Door. I could not enter it, could not see through it, could not learn its secrets through geometry alone. But I could watch.  
-
-I could wait.  
-
-The idea came to me slowly, the way good ideas often do. Not in a flash of inspiration but in a gradual accumulation of smaller thoughts. The door was in a corridor. Corridors could be observed. If I watched long enough, I might see something. Someone entering. Someone leaving. Some hint of what lay beyond that grey stone face.  
-
-The problem was concealment. The corridor leading to the Four-Plate Door was bare of furniture, empty of alcoves, stripped of any convenient hiding place. A student loitering there would be noticed, questioned, remembered. I needed to be invisible.  
-
-I chose a shelf in a nearby passage, one that faced toward the door’s corridor but far enough removed to avoid suspicion. Over two nights of careful work, I constructed a false front: a shallow frame holding book spines and just enough pages to give the illusion of depth. The books I borrowed from surrounding shelves, volumes so dusty and forgotten that no one would notice their absence.  
-
-Behind the false front was a space just large enough for a man to lie on his side, if that man did not mind cramped quarters and the smell of old leather.  
-
-I kept my first vigil on a Felling night, when the Archives were nearly empty and the scrivs moved through their rounds with the bored efficiency of familiar routine. I slipped behind my false front an hour before midnight, settling onto the hard shelf with my cloak bundled beneath my head. Through a gap between two book spines, I could see the corridor leading to the Four-Plate Door.  
-
-Nothing happened.  
-
-I watched for four hours, barely breathing, shifting only when my limbs threatened to cramp beyond endurance. The sympathy lamp at the corridor’s end flickered its pale light. Dust motes drifted. The door sat in its frame, grey and silent and utterly still.  
-
-The second night was the same. And the third. And the fourth.  
-
-I knew the room was accessed. My book had been moved and shelved, proof that someone went in and out. But perhaps they did not use the Four-Plate Door. Perhaps there was another entrance somewhere in the labyrinth of Mains, a way in that did not require navigating the twisted stairs of the Archives at all.  
-
-On the fifth night, Lorren came.  
-
-I heard him before I saw him: soft footsteps, too deliberate for a scriv, too measured for a student. Then his shadow fell across the corridor’s entrance, and my breath caught in my throat.  
-
-He moved like a man approaching something sacred. His hands were empty. No lamp, no ring of keys. His face, what I could see of it in the dim light, was composed into an expression I had never seen him wear. Not cold. Not distant. Something else. Something almost like reverence.  
-
-He stopped before the door and stood there for a long moment, head slightly bowed, as if listening to something I could not hear. Then he raised one hand and pressed his palm flat against the stone, just below the carved word VALARITAS.  
-
-I waited for him to produce a key. To speak a word of command. To do something that would make the door swing open on ancient hinges.  
-
-He did none of these things.  
-
-He simply stood there, palm against stone, head bowed, for what might have been a minute or might have been an hour. I could not see his lips move. I could not hear any sound except the faint hum of the sympathy lamp and the distant settling of old books. The door remained closed. The silence remained absolute.  
-
-Then Lorren lowered his hand, turned, and walked away. His footsteps faded into the deeper Stacks, and I was alone with the door and the dark and the questions that multiplied like shadows.  
-
-He had not entered. He had not even tried. He had simply stood there, touching the door, communing with it in some way I could not understand.  
-
-But someone had entered recently. Someone had shelved my book. If not Lorren through this door, then who? And through what entrance?  
-
-I lay in my hiding place until dawn, watching the door that did not open, and understood for the first time that the Four-Plate Door might not be the way in at all. Perhaps it was something else entirely. A ritual site. A memorial. A reminder of something that the Masters still honored even if they no longer used.  
-
-The room was accessed. But not through this door.  
-
-Which meant there was another way.  
-
-Somewhere in Mains. Somewhere in that labyrinth of sealed passages and mortared walls. An entrance that predated the Archives, an entrance that someone still used, an entrance I had not found.  
-
-Yet.  
+The geometry was clear now. The Four-Plate Door sat both in the Archives and beneath Mains. I gathered my compass and diagrams, and headed back toward my room. But I already knew where my steps would take me next.  
 
 ### ~ ~ ~  
 
