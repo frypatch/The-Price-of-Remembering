@@ -3,93 +3,77 @@
 ## A FOOLISH BARGIN.
 
 
-I found myself at Devi’s door once more.
+I found myself at Devi’s door once more, spent and empty, lacking even the thinnest excuse.  
 
-This time, I had no tidy reason. No excuse I could claim. Not to myself. Not to the sly whisper of my pride. There was nothing I could offer that would satisfy my better judgment.
+Perhaps this was her intention. She scattered secrets, leaving clues behind her like breadcrumbs. She led me through the hollow places of my mind, certain I would poke and prod and dwell. Or perhaps it was something simpler, just slow and stubborn exhaustion.  
 
-Perhaps this was her intention. She scattered secrets, left clues about the Four-Plate Door behind her like breadcrumbs. She led me through the hollow places of my mind, certain I would poke and prod and dwell. Or perhaps it was something simpler, exhaustion, slow and stubborn as river silt.
+When Devi opened the door, she barely glanced at me before stepping aside. The scent of cinnamon wrapped around me. Devi’s scent, though I didn’t think of it that way at the time. “Kvothe,” she said, letting my name stretch off her tongue. “Back so soon? People will start to talk if you keep this up.”  
 
-I was tired. Tired of pacing my narrow room. Tired of gnawing at the bitter bone of Lorren’s injustice. In the end I stood before her door, spent and empty, lacking even the thinnest excuse.
+“Let them,” I said as I stepped inside. Devi moved back to her desk. The glint in her eye told me she’d already won.  
 
-When Devi opened the door, she barely glanced at me before stepping aside and letting me cross back into her world of peculiar contradictions. Cinnamon warmth clung to cold alchemical glass, and the fragrant hum of something half-forgotten simmered on her desk. Her hair was drawn into a loose knot, and her lips were just slightly crooked, like a blade half-sheathed.
+“And?” she prompted, waving a hand languidly. “Did you find what you were looking for?”  
 
-“Kvothe,” she said, letting my name stretch and curl off her tongue. “Back so soon? People will start to talk if you keep this up.”
+“There’s more than you’re telling me,” I blurted. “You know more about what Lorren’s hiding, and you’ve been holding back.”  
 
-“Let them,” I said, trying to match her casual tone as I stepped further inside. But her knowing smile and the glint in her eye made me feel caught, as though she already knew I was here at her mercy.
+Devi tilted her head, her smile cutting sharper. “Sweet Kvothe, that’s a bold accusation. And here I thought we were friends.”  
 
-“And?” she prompted, waving a hand languidly. “Did you find what you were looking for?”
+“Friends don’t play games like this.”  
 
-“There’s more than you’re telling me,” I blurted, every ounce of control snapping under the weight of my frustration. “You know more about what Lorren’s hiding, and you’ve been holding back.”
+“Oh, Kvothe, they absolutely do,” she said, leaning back against the edge of her desk. “But friendship doesn’t come cheap. You want to know what Lorren is keeping locked away? Get me into the Archives. Then we’ll talk.”  
 
-Devi tilted her head, her smile cutting sharper. “Sweet Kvothe, that’s a bold accusation. And here I thought we were friends.”
+“No,” I said. “Not a chance.”  
 
-“Friends don’t play games like this.”
+Devi arched a skeptical brow. “So sudden, so certain. Why not, darling boy? Surely there’s room enough for two clever, hungry minds in your hallowed stacks.”  
 
-“Oh, Kvothe, they absolutely do,” she said, leaning back against the edge of her desk like a knife balanced on its tip. “But friendship doesn’t come cheap. You want to know what Lorren is keeping locked away? Get me into the Archives. Then we’ll talk.”
+“There are places you don’t belong, Devi. Some doors wouldn’t close so cleanly after you passed through them.”  
 
-“No,” I said, my voice firm and unflinching. “Not a chance.”
+Her expression didn’t falter, but her fingers drummed slowly against the edge of the desk. “I expected better of you, Kvothe. I really did. I thought you’d understand a simple bargain between civilized people.”  
 
-Devi arched a skeptical brow. “So sudden, so certain. Why not, darling boy? Surely there’s room enough for two clever, hungry minds in your hallowed stacks.”
+“We’re not even having this conversation,” I snapped, pacing a short, tight line. “I won’t risk it.”  
 
-“There are places you don’t belong, Devi. Some doors wouldn’t close so cleanly after you passed through them.”
+“You owe me,” she said quietly. “The reagents. The ones that helped you find what really killed Herma. You asked for my help. I gave it.”  
 
-Her expression didn’t falter, but her fingers drummed slowly against the edge of the desk. “I expected better of you, Kvothe. I really did. I thought you’d understand a simple bargain between civilized people.”
+We argued after that, the words rising sharp and reckless between us. I tried to wield reason like a shield, but Devi cut through it with precision. She was a professional trader of secrets and debts, and I was at best a stubborn apprentice.  
 
-“We’re not even having this conversation,” I snapped, pacing a short, tight line. “I won’t risk it.”
+Looking back, I can see how neatly she’d backed me into this corner. But at the time, all I could see was the door I needed opened.  
 
-“You owe me,” she said. Her voice cut through mine like a blade.
+“Fine,” I said. “But on my terms.”  
 
-That stopped me cold.
+Her lips twitched into a smile. “How startlingly reasonable of you. And what, pray tell, are your terms?”  
 
-We argued after that, the words rising sharp and reckless between us. I tried to wield reason like a shield, but Devi cut through it with precision. She was a professional trader of secrets and debts, and I was at best a stubborn apprentice.
+“No action until we’ve settled on a solid plan. One we both agree on.”  
 
-By the end, I caved.
+Devi inclined her head, her fingers resuming their rhythmic tap. “Fair enough,” she said. “Lucky for you, I’ve already given this some thought. We just need to borrow the keys.”  
 
-“Fine,” I said, the word almost burning on its way out. “But on my terms.”
+Then, from her pocket, she produced a small vial no larger than her thumb. The liquid inside caught the lamplight, deep red with a faint shimmer.  
 
-Her lips twitched into a smile. “How startlingly reasonable of you. And what, pray tell, are your terms?”
+“This,” she said, holding it aloft, “is a little marvel I’ve been tinkering with. Tasteless, odorless, and precise. A few drops in Lorren’s wine, and he’ll sleep deep and dreamless. More importantly, he’ll remember nothing when he wakes.”  
 
-“No action until we’ve settled on a solid plan. One we both agree on.”
+“Borrowing keys and drugging one of the Masters are two very different things.”  
 
-Devi inclined her head, her fingers resuming their rhythmic tap. “Fair enough,” she said, her grin softening but never leaving her face. “Lucky for you, I’ve already given this some thought.”
+Her smile turned wicked. “You know, Lorren keeps the keys to the Four-Plate Door under his robe with little else. Curious place to tuck something so important, don’t you think?”  
 
-From the pocket of her robe, she produced a small vial no larger than her thumb. The liquid inside caught the lamplight, deep red with a faint shimmer that pulsed like a heartbeat.
+I couldn’t tell if she was implying something darker or simply repeating a rumor. “What are you saying?” I asked carefully.  
 
-“This,” she said, holding it aloft, “is a little marvel I’ve been tinkering with. Tasteless, odorless, and precise. A few drops in Lorren’s wine, and he’ll fall into the kind of slumber that dreams are jealous of. More importantly, he’ll remember nothing when he wakes.”
+Her smile widened. “Nothing, darling. Just facts.”  
 
-“And while he’s unconscious?” I asked, though her intentions hung in the air like a blade above a neck.
+“I still don’t like this.”  
 
-“You borrow the keys,” she said, her tone light as if discussing the weather. “No fuss. No noise. Surgical.”
+“I’d be worried if you did,” Devi said, setting the vial carefully on the corner of her desk. “But unless you’ve got a better plan?”  
 
-“Surgical,” I repeated, the word bitter in my mouth. “I can think of other words for drugging one of the Masters.”
+I wanted to argue. Everything in me itched to push back. But I didn’t have another plan, and I was desperate enough to take the risk.  
 
-Her wicked smile curled as she replied, “You know, Lorren keeps the keys to the Four-Plate Door under his robe with little else. Curious place to tuck something so important, don’t you think?”
+“There’s one more condition. I insist on testing it first. On me.”  
 
-The room seemed to twist around her words. At first, I felt disbelief and told myself it was impossible. Lorren was far too genuine for something like that. My next thought was less certain.
+Devi’s sharp laughter filled the room, fading almost as quickly as it began. When she saw my face, her amusement curdled. “You have my assurances. It works.”  
 
-“What are you saying?” I asked carefully, the words drawing tight like a string.
+“That won’t do. If it doesn’t work exactly the way you promise, I need to know now.”  
 
-Devi’s smile stretched, slow and deliberate. “Nothing, darling. Just facts.” Her tone was breezy, but something dark and knowing simmered beneath it. “And let’s just say, I’m rather good at getting close to people who think they’re untouchable.”
+For once, she hesitated. Her free hand curled tight at her side before releasing, and her eyes flicked to the vial.  
 
-The implication hung in the air like an unanswered question, daring me to pull at its threads. I couldn’t decide if I was unsettled by her knowledge or by how easily she wielded it.
+“Come back in three days,” she said, every word clipped. “I’ll have everything ready.”  
 
-“I still don’t like this,” I said finally.
-
-“I’d be worried if you did,” Devi said, setting the vial carefully on the corner of her desk. Then, looking at me expectantly, she continued, “But unless you’ve got a better plan?”
-
-I wanted to argue. Everything in me itched to push back. But I couldn’t. I didn’t have another plan, and I was desperate enough to ignore how the sand beneath my feet was already shifting.
-
-“Fine,” I said finally. “But there’s one more condition. I insist on testing it first. On me.”
-
-Devi’s sharp laughter filled the room, fading almost as quickly as it began. When she saw my face, her amusement curdled. “You have my assurances. It works.”
-
-“That won’t do,” I said, my voice more certain than I felt. “If we’re doing this, it’s my skin at stake. If it doesn’t work exactly the way you promise, I need to know now.”
-
-For once, her mask of confidence slipped. Her free hand curled tight at her side before releasing, and her eyes flicked to the vial.
-
-“Fine,” she said after a long moment, the word clipped and cold as forged iron. “Come back in three days. I’ll have everything ready.”
-
-The weight of her words pressed on the space between us. For a moment, neither of us moved. Then she dropped the vial into her pocket, extinguished the green-tinted lamp, and sent me back out into the biting night air.
+Neither of us moved. Then she dropped the vial into her pocket and sent me back out into the night.  
   
 ### * * *
 
