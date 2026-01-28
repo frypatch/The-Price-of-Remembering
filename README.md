@@ -15,7 +15,7 @@ Day Three
 
 NOT PATRICK ROTHFUSS  
 
-Version 4.01.24  
+Version 4.01.27  
 
 
 
@@ -118,7 +118,7 @@ That all said, please enjoy.
 * [CHAPTER 9](book/CHAPTER_09.md). The Geometry of Secrets.
 * [CHAPTER 10](book/CHAPTER_10.md). A Foolish Bargin.
 * [CHAPTER 11](book/CHAPTER_11.md). The Price We Pay.
-* [CHAPTER 12](book/CHAPTER_12.md). Threads Unravel.
+* [CHAPTER 12](book/CHAPTER_12.md). Everything.
 * [CHAPTER 13](book/CHAPTER_13.md). I Will Not Be Held.
 * [CHAPTER 14](book/CHAPTER_14.md). Name in the Wall.
 * [CHAPTER 15](book/CHAPTER_15.md). Missing.

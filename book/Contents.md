@@ -21,7 +21,7 @@
 * [CHAPTER 9](CHAPTER_09.md). The Geometry of Secrets.
 * [CHAPTER 10](CHAPTER_10.md). A Foolish Bargin.
 * [CHAPTER 11](CHAPTER_11.md). The Price We Pay.
-* [CHAPTER 12](CHAPTER_12.md). Threads Unravel.
+* [CHAPTER 12](CHAPTER_12.md). Everything.
 * [CHAPTER 13](CHAPTER_13.md). I Will Not Be Held.
 * [CHAPTER 14](CHAPTER_14.md). Name in the Wall.
 * [CHAPTER 15](CHAPTER_15.md). Missing.

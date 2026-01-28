@@ -31,7 +31,7 @@ Sim watched him retreat, then turned to me, his face caught halfway between worr
 
 I raised a hand to stop him. My voice pushed up my throat and broke into the suffocating silence. “If I could have saved Lorren, I would have.” The words broke apart in the cold air. Shame wrapped itself around my chest and tangled on my tongue as I tried to speak. I opened my mouth to say something more, but the rest would not come.
 
-Wil’s expression barely shifted. His anger carved lines across his face, but his tone grew colder when he finally spoke. “It’s not just Lorren, Kvothe. It’s the Archives. You put generations of reputation at risk of being tainted, and for what? Your curiosity?” He spat the word like it burned to even hold it in his mouth.
+Wil’s expression barely shifted. His anger carved lines across his face, but his tone grew colder when he finally spoke. “It’s not just Lorren, Kvothe. It’s the Archives. You put generations of work at risk, and for what? Your curiosity?” He spat the word like it burned to even hold it in his mouth.
 
 “It wasn’t just that,” I said, defensive without meaning to be. But how could I explain the weight of what I’d found, the truths I had only begun to uncover? They wouldn’t believe me. Tehlu help me, even if I told them they wouldn’t believe.
 

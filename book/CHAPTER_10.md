@@ -3,15 +3,15 @@
 ## A FOOLISH BARGIN.
 
 
-I found myself at Devi’s door once more, spent and empty, lacking even the thinnest excuse.  
+I RETURNED TO Devi’s door with no excuse left to offer.  
 
-Perhaps this was her intention. She scattered secrets, leaving clues behind her like breadcrumbs. She led me through the hollow places of my mind, certain I would poke and prod and dwell. Or perhaps it was something simpler, just slow and stubborn exhaustion.  
+Perhaps that was her plan. She scattered secrets like breadcrumbs, certain I would follow. Or perhaps I was simply too tired to care.  
 
-When Devi opened the door, she barely glanced at me before stepping aside. The scent of cinnamon wrapped around me. Devi’s scent, though I didn’t think of it that way at the time. “Kvothe,” she said, letting my name stretch off her tongue. “Back so soon? People will start to talk if you keep this up.”  
+When Devi opened the door, she barely glanced at me before stepping aside. The scent of cinnamon hung in the air. Devi’s scent, though I didn’t think of it that way at the time. “Kvothe,” she said, letting my name stretch off her tongue. “Back so soon? People will start to talk if you keep this up.”  
 
 “Let them,” I said as I stepped inside. Devi moved back to her desk. The glint in her eye told me she’d already won.  
 
-“And?” she prompted, waving a hand languidly. “Did you find what you were looking for?”  
+“And?” she asked, waving a hand. “Did you find what you were looking for?”  
 
 “There’s more than you’re telling me,” I blurted. “You know more about what Lorren’s hiding, and you’ve been holding back.”  
 
@@ -29,11 +29,11 @@ Devi arched a skeptical brow. “So sudden, so certain. Why not, darling boy? Su
 
 Her expression didn’t falter, but her fingers drummed slowly against the edge of the desk. “I expected better of you, Kvothe. I really did. I thought you’d understand a simple bargain between civilized people.”  
 
-“We’re not even having this conversation,” I snapped, pacing a short, tight line. “I won’t risk it.”  
+“We’re not even having this conversation,” I snapped. I was pacing without realizing it. “I won’t risk it.”  
 
-“You owe me,” she said quietly. “The reagents. The ones that helped you find what really killed Herma. You asked for my help. I gave it.”  
+“You owe me,” she said quietly. “The reagents. You asked for my help. I gave it.”  
 
-We argued after that, the words rising sharp and reckless between us. I tried to wield reason like a shield, but Devi cut through it with precision. She was a professional trader of secrets and debts, and I was at best a stubborn apprentice.  
+We argued. I don’t remember everything I said, but I remember the heat of it. I tried to use reason. Devi cut through it with precision. She was a professional. I was out of my depth.  
 
 Looking back, I can see how neatly she’d backed me into this corner. But at the time, all I could see was the door I needed opened.  
 
@@ -45,15 +45,15 @@ Her lips twitched into a smile. “How startlingly reasonable of you. And what, 
 
 Devi inclined her head, her fingers resuming their rhythmic tap. “Fair enough,” she said. “Lucky for you, I’ve already given this some thought. We just need to borrow the keys.”  
 
-Then, from her pocket, she produced a small vial no larger than her thumb. The liquid inside caught the lamplight, deep red with a faint shimmer.  
+She pulled a small vial from her pocket, no larger than her thumb. The liquid inside was deep red, catching the lamplight.  
 
 “This,” she said, holding it aloft, “is a little marvel I’ve been tinkering with. Tasteless, odorless, and precise. A few drops in Lorren’s wine, and he’ll sleep deep and dreamless. More importantly, he’ll remember nothing when he wakes.”  
 
 “Borrowing keys and drugging one of the Masters are two very different things.”  
 
-Her smile turned wicked. “You know, Lorren keeps the keys to the Four-Plate Door under his robe with little else. Curious place to tuck something so important, don’t you think?”  
+Her smile had teeth in it. “You know, Lorren keeps the keys to the Four-Plate Door under his robe with little else. Curious place to tuck something so important, don’t you think?”  
 
-I couldn’t tell if she was implying something darker or simply repeating a rumor. “What are you saying?” I asked carefully.  
+“What are you saying?” I asked carefully, unable to tell if she was implying something darker or simply repeating a rumor.  
 
 Her smile widened. “Nothing, darling. Just facts.”  
 
@@ -69,143 +69,180 @@ Devi’s sharp laughter filled the room, fading almost as quickly as it began. W
 
 “That won’t do. If it doesn’t work exactly the way you promise, I need to know now.”  
 
-For once, she hesitated. Her free hand curled tight at her side before releasing, and her eyes flicked to the vial.  
-
-“Come back in three days,” she said, every word clipped. “I’ll have everything ready.”  
+She hesitated, her hand curling tight at her side. “Come back in three days,” she said, every word clipped. “I’ll have everything ready.”  
 
 Neither of us moved. Then she dropped the vial into her pocket and sent me back out into the night.  
-  
-### * * *
-
-Three days felt like three years.
-
-The first day was unbearable, my thoughts circling endlessly. Vashet’s voice crept into my head, sharp and demanding.
-
-> “Which path lies closer to the Lethani?”  
-> “The one that endangers everyone?”  
-> “Or the one that preserves what you hold dear?”  
-
-By the second day, it wasn’t Vashet’s voice haunting me but Wil and Sim’s. They cornered me in the dim shade of the Courtyard, their words bouncing off my already fragile resolve.
-
-“People are talking,” Sim said, always too loud. “You’ve been seeing Devi an awful lot lately, you know.”
-
-Wil shot him a glare before turning to me. “This isn’t like you, Kvothe. Do you even know why they expelled her?”
-
-“I heard it was dueling,” I said casually, though the words were thick on my tongue.
-
-“Alchemical experimentation,” Wil said. “Dangerous experimentation. She swore revenge on the Masters after they caught her.”
-
-“And now you’re working with her?” Sim asked, clearly concerned.
-
-I brushed them off with words I couldn’t bring myself to believe.
-
-### * * *
-
-By the evening of the third day, my uncertainty had deepened. Doubt no longer sat quietly in the back of my mind. It had become a living thing, restless and sharp-toothed. It gnawed at me whenever my thoughts wandered near. It moved with me as I walked the winding edges of the Underthing. It waited beside me in the half-light while I sat with my lute across my lap, Auri close enough to touch.
-
-The music I found there was thin and strained. The notes stumbled from my fingers, clumsy and half-remembered. They held none of the shape or easy certainty I found in better moments. Still, Auri listened as she always did. Knees hugged to her chest. Hair tumbling round her shoulders. Her face turned up, pale and patient, like a flower seeking warmth. Her eyes, though, stayed strange and unreadable. She said nothing of the music’s failings. She revealed nothing except in the careful silence that lingered softly between the notes.
-
-“You’re tangled,” she said as the last note faded into the still air. Her voice was soft but certain, as if she could see the snarl of my thoughts laid bare before her.
-
-I ran my fingers lightly over the strings, pretending to tune them. “Just restless,” I said with a thin smile that couldn’t quite find its footing.
-
-Auri tilted her head the other way, her pale hair catching the faintest glimmer of light. “No,” she said simply, her voice the quiet certainty of a secret well kept. “Not restless.”
-
-She unfolded herself with the fluid grace of something quick and wild. For a moment, she hesitated, balancing lightly on the balls of her feet. Then, as if some invisible cue had whispered to her, she stepped away into the shadows, her movements soundless, belonging entirely to the dark world beneath the University.
-
-I stayed where I was for a long time, staring at the weathered stone where her feet had danced moments before. Auri didn’t ask any questions, but just being near her reminded me how much she trusted me. That trust was fragile and fleeting, as delicate as blown glass held in hands that gripped too tightly.
-
-This was why I had to be careful. Why I had to be better. The weight of her unspoken faith, thin as it was, added an unbearable heft to the decisions winding around inside me.
-
-But that night, as I stood and made my way back across the river, I buried those doubts beneath the all-too-familiar tug of my own desires.
-
-### * * *
-
-The closer I got to Devi’s, the more my thoughts twisted. The nervous rhythm of my steps matched the churning in my chest. And yet I didn’t stop. I couldn’t stop. The archives had loomed before me for so long, locked and unattainable, that the thought of missing this one chance outweighed every hesitation.
-
-I knew I was moving too quickly and trusting too easily. I knew my plan was patched together with fraying threads. But greed has a knack for muting better instincts, and mine whispered sweet lies.
-
-> “This will work.”  
-> “You’ll figure it out.”  
-> “Devi’s just a means to an end.”  
-
-I knocked on Devi’s door with a resolve that cracked at the edges, but I refused to acknowledge the strain. She opened it quickly, her sharp smile already in place, her eyes alight with purpose.
-
-“Come inside,” she said, her satisfaction dripping from each word.
-
-For a fleeting moment, I hesitated. My mind conjured Auri’s unguarded smile, her weightless laughter twirling through the dark. The delicate trust she placed in me to keep her world safe. Then my thoughts returned to the archives, to the answers just out of reach, and I swallowed my hesitation whole.
-
-Devi stepped aside, and I walked in. Greed pressed me forward, and doubt trailed behind like a shadow I refused to see.
-
-### * * *
-
-Breaking into Lorren’s room was a terrible idea. It was dangerous and foolish, likely to end with me thrown from the University like an unwanted book. Still, what was one more terrible idea in a life already full of them?
-
-The real danger wasn’t sneaking into the administrative wing of the University. It wasn’t slipping through shadows or carefully manipulating the lock on Lorren’s door. Those things were simple mechanics, familiar steps in a dance I’d practiced before. The true threat was the tiny vial nestled in my pocket. Devi trusted me to test it on myself, and that was what worried me most.
-
-I could still hear her voice, crisp and confident.
-
-> “Once you know how it works, we’ll move forward.”  
-> “No surprises.”  
-
-But surprises were inevitable. Devi didn’t need to hear the results of my test yet. Instead, Lorren would become my unwitting subject. If the vial worked exactly as she promised, I could gain something meaningful from my mistake. That way, I could find my own path and keep her ambitions at a distance.
-
-The night was black as ink as I crept through the University’s quiet belly. The hallways swallowed sound, each step pressing into thick silence. Lorren’s door stood like a dark sentinel at the end of the hall, its simplicity concealing the danger it held.
-
-The lock was old but not primitive, the kind of mechanism designed to outwit impatient fingers. Kneeling, I pulled the leather pouch of my lockpicks from my pocket and worked with practiced care. The tumblers whispered their uncertainties before finally yielding, not with a click but with a sound even quieter and softer, almost like a sigh of surrender.
-
-I eased the door open, slipping into the shadowed space beyond.
-
-Lorren’s quarters were as stark as his demeanor. A narrow cot stood at perfect right angles to the wall, its sheets crisp and taut as a bowstring. The desk was unadorned, save for a quill resting in such precise stillness that I felt certain he measured its placement nightly. The books lining the walls were arranged immaculately, their spines unbroken, their contents surely marked in some master catalog to ensure none ever shifted out of place. The room was a monument to order, to discipline. And standing in its center, I felt like a stain.
-
-But I had work to do.
-
-The water jug on his bedside table was plain pottery, as unpretentious as the man himself, though its placement felt deliberate. Even the slight angle of the drinking cup beside it seemed calculated, as though to test if anyone dared disrupt his routine.
-
-I drew the vial from my pocket. Devi had assured me it was potent yet subtle, a slipping into sleep so quiet it could fool even its victim. I uncorked it carefully. The tang of alchemy nipped at my nose, sharp and faintly medicinal.
-
-For a moment, I hesitated. The thought of Lorren drinking from the jug felt like stepping past a line I hadn’t fully admitted existed. But no good story comes without risk. I tipped the vial gently, letting its green shimmer mix into the water. I swirled it with deliberate care, watching the liquid settle into calm transparency, then returned it to its place as if it had never been touched.
-
-Beneath the cot, the world narrowed. Dust clung to the sharp scent of varnish, the space a stifling, airless bubble. My breath quieted into measured beats as Lorren’s absence stretched into a silence so thick it might have been alive.
-
-And then, at last, the door creaked open.
-
-Lorren’s footsteps were deliberate, steady. Not loud, not hurried. The sound of someone who expected his surroundings to obey him. He paused at the bedside, his silhouette cutting across the faint light spilling through the window.
-
-He poured a cup of water and drank it all in three steady swallows.
-
-I waited. It didn’t take long. The draught worked as advertised, though its subtlety made me uneasy. There was nothing dramatic, no sharp collapse. Movements slowed gradually until Lorren sat on his cot, his body sagging under the weight of sudden sleep. Soon his breathing became deep and measured, settling into the natural rhythm of unconsciousness.
-
-I slid from beneath the cot as quietly as a ghost, my eyes already on the keys around his neck. What came next would challenge not only my skill but also my conscience.
-
-### * * *
-
-In the end, I couldn’t bring myself to do it. Letting go of that greed allowed me to think clearly for the first time in days. The door didn’t guard knowledge or hide some unattainable treasure. Instead, it kept something simpler inside, just ink and parchment, the physical form of words. If this was all I truly wanted, I realized there was no need to open a locked door. I could simply bring the words to me.
-
-Sleep eluded me that night, no matter how I turned or how tightly I closed my eyes. The room was too loud in its silence, and my thoughts moved like wildfire in the dry grass of my mind. A plan bloomed there, hot and insistent, despite the haze of exhaustion.
-
-When morning came, I stumbled to Devi’s door, bleary-eyed. She answered in kind, her hair untidy, her face pale with the look of broken rest.
-
-“Well?” she asked, her words cutting through the fog of my thoughts.
-
-“The dosage was wrong,” I lied. “I woke too early. Lorren will know if we do this.”
-
-Her expression shifted—somewhere between skepticism and guilt. Perhaps it was that expression, so out of character for her, that made me hesitate before admitting my deeper failure. She insisted on no follow-up questions, almost sheepishly sending me on my way. Curious.
-
-On my way out of Imre, I spent a small fortune on enough nahirout to keep me alert for days. I had work to do.
 
 ### * * *  
 
-A burst of inspiration can feel like magic to a fool. However, I have spent enough time under a magician’s hat to know better. The spark is not what matters most. What truly counts are the hours, the work, and the sacrifice. That is the real cost of turning a spark into a flame.
+Three days felt like three years.  
 
-For seven sleepless days, I lived by that truth. I ate thin food, drank nahirout tea in place of water, and drowned myself in the work. My goal was clear. I wanted to take the physical edges of ink and make them move. It would be like rubbing charcoal on paper to trace the raised surface of a coin. I would create a sympathy that translated ink from far away onto an empty page in my hands.
+The first day was unbearable. I kept hearing Vashet’s voice, sharp and demanding. “Which path lies closer to the Lethani? The one that endangers everyone? Or the one that preserves what you hold dear?”  
 
-When I presented my clumsy prototype to Master Kilvin, his silence was worse than rage. He stared at the device and listened as I explained its crude workings. At last he spoke. “Cleverness,” he said, as though the word itself were a warning, “is no substitute for wisdom. Promise me, Kvothe, you won’t tread this road again.”
+The second day, I joined Mola, Wil, and Sim for an afternoon game of Corners at Anker’s.  
 
-He didn’t order it locked away. He didn’t tell me to refine it. He didn’t even ask to test it. He simply melted it into molten slag with the forge bellows. Hot metal, wasted time, failings lost. That night, I stumbled back to my tiny room and collapsed on the floor.
+On the first hand, Sim pushed his partner marker aside. “I’ll take it alone.” He took the first few tricks easily, but then hesitated. I saw the moment he realized his mistake before losing the rest to Wil.  
 
-I slept for two days.
+“Thought I knew where everything was,” Sim said sheepishly while gathering the cards.  
 
-### ~ ~ ~
+He spent the rest of the game trying more desperate measures to dig his way out of that hole.  
+
+On the walk back, his words kept returning to me. But by the time I reached my room, I’d already pushed the thought away.  
+
+By evening of the third day, I couldn’t ignore it anymore. Rather than return to my room, I found myself at the edge of the Underthing, not quite descending, not quite leaving. The air that rose from below was cool and familiar, carrying the peculiar mineral scent of deep stone and running water. I sat at the entrance for a long while, my lute across my lap, playing nothing in particular.  
+
+Auri appeared from the shadows the way she always did, a sudden moon fae. She settled nearby without a word, hugging her knees to her chest. Her pale hair tumbled around her shoulders as she turned her face toward my music.  
+
+The notes that came from my fingers were thin and uncertain. They stumbled and caught, holding none of the shape or easy certainty I found in better moments. Still, Auri listened. She always did.  
+
+“You’re tangled,” she said as the last note faded into the still air. Her voice was soft but certain, as if she could see the snarl of my thoughts laid bare before her.  
+
+I ran my fingers lightly over the strings, pretending to tune them. “Just restless.”  
+
+Auri tilted her head, her pale hair catching the faintest glimmer of light from above. “No,” she said simply. “Not restless.”  
+
+She didn’t press. That wasn’t her way. She simply stood, quick and quiet as a bird. For a moment she hesitated, balanced on the balls of her feet. Then she stepped away into the shadows, her movements soundless.  
+
+I stayed where I was for a long time, staring at the entrance to the Underthing. Auri hadn’t ask questions, but just being near her reminded me how much she trusted me.  
+
+I had to be better than this. For her, if nothing else.  
+
+But that night, as I made my way back across the river toward Imre, I buried those doubts beneath the all-too-familiar tug of my own desires.  
+
+### * * *  
+
+Devi answered her door quickly, her sharp smile already in place. But she looked different than usual. Tired around the eyes, her hair slightly less composed. She’d been waiting, I realized.  
+
+“Come inside,” she said.  
+
+Her room had been rearranged. The usual clutter was pushed aside, leaving a clear space near the window. A narrow cot had been set up there, with a wool blanket folded at its foot. Beside it, a small table held a cup of water and a single red vial, smaller than the one she’d shown me before.  
+
+“The measured dose,” she said, following my gaze. “Calculated for your weight, your constitution. I’ve accounted for everything.”  
+
+“Everything?” I asked.  
+
+Her jaw tightened slightly. “Everything I could account for. Alchemy isn’t arithmetic, Kvothe. There’s always a margin.”  
+
+“How wide a margin?”  
+
+“Narrow enough.” She picked up the vial, held it to the light. The liquid caught the glow and scattered it into a faint hue. “You’ll sleep. You’ll wake. You won’t remember the sleep itself. That’s the point. If it works on you, it will work on Lorren.”  
+
+“And if it doesn’t work?”  
+
+“Then we’ll know.” She pressed the vial into my hand. Her fingers were warm against mine, steadier than I expected. “Drink it. Lie down. I’ll be here when you wake.”  
+
+I looked at the cot. The vial in my hand. Devi’s face, confident but not quite. I couldn’t believe I was doing this.  
+
+I drank.  
+
+The liquid was cool and sweet, with a metallic aftertaste. For a moment nothing happened. Then warmth spread from my stomach outward, like the first flush of good wine. My limbs grew heavy. The lamplight blurred golden at the edges.  
+
+I made it to the cot before my legs stopped cooperating. The wool blanket was rough against my cheek. Devi’s face swam above me, blurred at the edges.  
+
+“How long?” I managed.  
+
+“A few hours,” she said, her voice coming from very far away. “Maybe less.” Her voice faded. “Just let it.”  
+
+The world folded shut.  
+
+### * * *  
+
+My mind burned.  
+
+That’s the only way I can describe it now, though at the time I had no words for what was happening. Thoughts raced through my head faster than I could grasp them, each one fragmenting into a dozen more before I could make sense of it. Memories flashed past. My parents’ fire burning blue, Cinder’s smile, Denna’s face in moonlight. Each one pulled a thread that unraveled into more memories, more connections, more thoughts spiraling away into darkness.  
+
+I tried to slow down, to grab hold of something solid, but there was nothing to grip. Just endless churning momentum, my mind racing like a wheel spinning free of its axle.  
+
+I reached for my Alar. The iron certainty I’d trained for years. It was there, but wrong. Slippery.  
+
+Panic rose, but even the panic felt distant, another thought in the endless cascade.  
+
+Time stretched and compressed. I lived years in moments, moments in years. And somewhere in that burning darkness, I became aware that something was wrong.  
+
+Not wrong like a nightmare. Wrong like a cracked instrument. Still playing, but every note off.  
+
+And then, finally, the darkness began to thin.  
+
+### * * *  
+
+I woke gasping.  
+
+The light was wrong. Too bright, too sharp, slanting through Devi’s window at an angle that meant hours had passed. My body felt like it had been wrung out and hung to dry. My hands were trembling.  
+
+Devi sat beside the cot, pale with deep shadows beneath her eyes. She’d been watching me, I realized. The whole time.  
+
+“How long?” My voice came out cracked, barely recognizable.  
+
+“Seven hours.” Her voice was flat, carefully controlled. “The formula predicted two, maybe three at most.”  
+
+I tried to sit up. The room tilted dangerously, and I had to grip the edge of the cot to keep from falling. My thoughts felt wrong. Slow and slippery.  
+
+“What happened?” I asked.  
+
+“I was hoping you could tell me.” Devi leaned forward, her eyes searching my face.  
+
+I tried to remember, but the details slid away like sand through my fingers. Fragments remained. The burning, the racing thoughts, the feeling of something cracked. But they wouldn’t cohere into anything I could describe.  
+
+“It didn’t work,” I said finally.  
+
+“It worked.” Devi’s jaw tightened. “You slept. You’re awake now.”  
+
+“That’s not what I mean.” I held up my hand, watched it tremble. “Something’s wrong. I don’t feel right.” I searched for a better word but couldn’t find one.  
+
+“You’re disoriented. That’s normal.”  
+
+“No.” I tried a simple binding. A child’s exercise, linking my body heat to the warmth of the blanket. The connection formed, held for a moment, then slipped. Not broken. Just wrong.  
+
+Devi saw my face change. “What is it?”  
+
+“Nothing.” The lie came automatically. “Just disoriented, like you said.”  
+
+She studied me for a long moment, and I could see her weighing whether to press. Finally she sat back, her expression unreadable.  
+
+“The formula needs adjustment,” she said. “The duration was wrong, and whatever you experienced in there.” She shook her head. “No. You're right. The plan with Lorren is dead.”  
+
+I should have felt relieved. Part of me did. But a larger part was focused on the wrongness inside my own head, the feeling that something had cracked that I couldn’t see. I found myself pacing again. “If only we could dig through stone. That room is right underneath Mains, not the Archives at all.”  
+
+Devi went very still. “What did you say?”  
+
+“The Archives’ floors rotate,” I said, still half-lost in my own thoughts. “Each sub-level spirals off the one above. Sub-two extends beneath Mains, not straight down. The room behind the Four-Plate Door is under the old courtyard with the apple tree.”  
+
+“Show me,” Devi said.  
+
+I pulled out my notebook, sketching the rotated floors, the measurements, the angles. I watched her understand.  
+
+“You’re certain?” she asked.  
+
+“I triangulated it from six different positions. The math is solid.”  
+
+She went to her desk and began searching through drawers.  
+
+“We don’t need the door at all,” she said.  
+
+“What do you mean?”  
+
+She turned, holding a vial. This one was larger, the liquid inside clear with a faint oily shimmer. Vapor rose from the sealed stopper.  
+
+“We make our own door.” She smiled, hungry. “I was working on this before I got expelled. An acid compound. Slow, patient, relentless. It eats stone the way time eats everything else.” Her expression flickered. “I never got to finish the experiment. The Masters found my notes before I could try it. But I’ve refined the formula since then.”  
+
+“You wanted to dig through the floor of a University building?”  
+
+“I wanted to dig through the ceiling of a hidden room that the University pretends doesn’t exist.” She stepped closer, her voice dropping. “Think about it, Kvothe. Generations of curious minds have accomplished nothing. But no one has tried going around it. No one knew where it actually was.”  
+
+I should have said no. Everything in me knew this was madness. But the door had haunted me for so long. The secrets it hid, the answers it kept. My parents’ killers. The truth about the Chandrian. Everything I’d been chasing since I was eleven years old.  
+
+“How long would it take?” I heard myself ask.  
+
+Devi’s smile widened. “A few spans. Maybe longer. The stone is old and hard. But I can get us through.”  
+
+I thought of Auri’s trusting face. Of Sim and Wil, worried for me. Of Herma, taking a chance on me when I had nowhere else to go.  
+
+I thought of the door with my book locked behind it.  
+
+“Alright,” I said. “Show me.”  
+
+Devi looked triumphant. But I barely noticed. I was too busy trying not to think about the tremor in my hands, the way my Alar had slipped, the darkness I’d glimpsed behind my own eyes.  
+
+### ~ ~ ~  
 
 [Chapter 9](CHAPTER_09.md) | [Contents](Contents.md) | [Chapter 11](CHAPTER_11.md)
