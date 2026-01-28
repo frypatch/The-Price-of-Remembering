@@ -29,7 +29,7 @@ I looked up only when I could bear it no longer. Then I began to speak, because 
 
 ### * * *
 
-I told him about Devi. How it began with a favor. A spice of life, as she called it. The warnings I let slip past. The mistakes that followed, and how everything unraveled. I told him how Lorren’s strength wavered. How it cracked, then crumbled, right there before my eyes. I told him about the Duplicator. How I used it to steal from the Archives. How I hunted secrets that should have stayed buried.
+I told him about Devi. How it began with a favor. A spice of life, as she called it. The warnings I let slip past. The mistakes that followed, and how everything unraveled. I told him about the pantograph. How I used it to steal from the Archives. How I hunted secrets that should have stayed buried.
 
 I told him how Haven had swallowed me whole, how Elodin had left me with nothing but riddles and warnings. And when the words grew harder to speak, with memories of Auri fragile and luminous in my mind's eye, I told him about her too. I told him about how Auri vanished but that I didn't know how or why. And how the pale ghosts I had conjured murmured reminders of my failure to protect her at every turn. I didn’t deserve his listening ear, yet Sim stood there across from me, silent but resolute, drinking in every fractured thing I had to say.
 

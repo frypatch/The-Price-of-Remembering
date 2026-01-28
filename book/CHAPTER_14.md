@@ -93,7 +93,7 @@ I frowned. Or I tried to. My face didn’t feel quite right. “Expelled?”
 
 “No,” I said, shaking my head as if that might shake loose something useful. “That can't be right.”
 
-He sighed, waved a hand as though brushing dust from his sleeve. “Lorren is dead,” he said lightly. “Some say poison. Some say an alchemical imbalance. But speculation is so exhausting, don’t you think?”
+He sighed, waved a hand as though brushing dust from his sleeve. “Lorren is here too,” he said lightly. “I've never seen someone so broken. But speculation is so exhausting, don’t you think?”
 
 The words hit me wrong, a step missed on a staircase, a knife put back in the wrong drawer. I stared at him.
 
