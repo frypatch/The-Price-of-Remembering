@@ -3,106 +3,282 @@
 ## I WILL NOT BE HELD.
 
 
-LOVE IS A SOFT THING. Precarious, too. It grows in quiet places, in the hush between words. Born of nearness. Fed by purpose, drawn taut between two souls. I did not see it at first. My thoughts tangled quietly around Devi’s name, roots curling unseen and slow. Easy to step past, in the beginning. She was bristling and clever, quick as spilled wine, bright as broken glass, and just as sharp. Lovely and dangerous, a knife honed on both edges, promising pain for anyone who came too close.
+The room behind the Four-Plate Door smelled of dust and old stone.  
 
-Yet her warmth lived elsewhere, never in her words but in smaller things. In the snug tumult of her little room, steeped in the hum of sympathy wax and the sharp tang of hot iron, I watched her sharper lines go soft. A stray strand of hair brushed behind her ear, lost in thought. Firelight moving in her eyes. Her laughter, sharp and rare, blooming fierce as a frost-lotus, always with softness nestled at the heart.
+We had established a rhythm by then, Devi and I. Each night we would descend through the hole we’d made, our thieves’ lamps casting blue-green shadows across shelves that hadn’t seen light in centuries. We would select texts, copy them in my compressed shorthand, and return them to their places before dawn. It was slow, methodical work, but we were making progress.  
 
-And there was purpose. Shared purpose. Standing shoulder to shoulder against the impossible. Together, we made a new sort of art, pulling secrets from stubborn doors, bending what ought not to bend. For all her keen edges, she never felt like a threat.
+Most of what we found was administrative. Records of expenditures, meeting minutes, correspondence between people whose names meant nothing to me. Documents from an organization that had operated within the University centuries ago, then vanished so completely that even its name had been scrubbed from history.  
 
-Devi became the only person in my life who seemed to understand the hunger inside me. For knowledge, for answers, for more. And it was beautiful, wasn’t it? To share this kind of closeness with someone who didn’t just tolerate my ambition but matched it, stroke for stroke.
+But scattered among the mundane, we found other things.  
 
-If you’d asked me then, I would have denied it. I would have said I didn’t love her. Not in any way I could name. Yet looking back now with clearer eyes, I know better.
+“Kvothe.” Devi’s whisper cut through the silence one night. “Come look at this.”  
 
-### * * *
+She was hunched over a ledger bound in black leather, its pages yellowed but intact. I moved to her side, holding my lamp close, and read over her shoulder.  
 
-Devi’s room had begun to feel tighter, the air heavy with the smell of ink and hot iron. Her makeshift library loomed around us. Stacks of ragged, half-stitched books leaned drunkenly against one another, resembling a forgotten city wall. In the past, their roughness bothered me. The bare spines and uneven stitching quietly offended the elegance of knowledge. Over time, though, I began to see them differently. They were not relics to be admired, but tools meant for use.
+The text was old Temic, formal and precise. A charter of some kind, laying out the structure and purpose of an organization. I recognized some of the language from my studies, but other words were unfamiliar. Technical terms that had fallen out of use.  
 
-I ran my hand over one of the stacks as I passed, my fingers catching on the threadbare stitching. Each page felt liminal somehow, ready to become more but still just shy of completeness. Maybe that’s why I found it so easy to scribble and scrawl everywhere, circling words, underlining passages, and folding corners. Perfect knowledge demands reverence. Yet these books felt more like conspirators. I never hesitated to use them ruthlessly.
+I scanned down the page, my eyes catching on official titles, lists of jurisdictions, chains of authority.  
 
-On one such night, restless from the threads of our work, I leafed through a copy we had pulled from the Archives just days before. The document was thin and unassuming, with copied letters that were uneven in places and looked like the shadow of a poor man. Still, something in its contents caught the edge of my thoughts.
+Then I saw the name, and my breath stopped.  
 
-At first it seemed to be a list of common superstitions. There were things like “lights blue as flame,” “shadows moving unnaturally,” and “a grin too wide to be human.” Yet as I looked deeper and the contents became stranger and more tangled, I found things that stood out even more. I saw entries such as “a shattered wheel,” “a broken song,” and “a scar of iron.”  
+*Ordo Amyr.*  
 
-I doubted their accuracy. Still, the thread was impossible not to follow. It led me into an unfamiliar corner of the Archives, a particularly dim and dusty section I had little cause to visit before. There, nestled between volumes on agricultural charms and burial rites, I found the book.
+The Order of the Amyr.  
 
-Black leather, cracked with age. The edges crumbled like old pastry as I slid it from the shelf, and I held my breath as the spine groaned in protest. Lighting my thief’s lamp, I opened the cover gingerly, savoring the musty fragrance of ancient parchment. The title greeted me in fading Temic, “En Temerant Voistra.”
+Not legend. Not myth. Not children’s stories about shining knights who fought for the greater good. This was a budget. A hierarchy. A chain of command with names and titles and jurisdictions.  
 
-My pulse quickened as I began to read. Most of the text was indecipherable, a ravaged artifact of time and translation. Yet a certain words leapt out, sharp as flint against the dark void of my ignorance.
+“They were real,” I breathed.  
 
-> “Chandrian.”  
+“More than real.” Devi’s finger traced down the page. “Look at this. They had members inside the University. Inside the Church. Inside the courts of half the kingdoms in the world.” She turned the page, and her eyes widened. “They had a seat on the Masters’ council.”  
 
-My hands trembled as I hunched over the tome. This was proof, neither censored nor hidden behind the Four-Plated Door. It had been here all along, waiting to be uncovered. I skimmed as quickly as I dared, although the fragile pages resisted my eagerness. The passages spoke of things I did not yet understand, such as enigmatic connections, places, and people.
+I took the ledger from her hands, my fingers trembling as I turned through its pages. The scope of what I was seeing began to unfold. Not just an organization, but a network that spanned kingdoms. They had operatives everywhere, working toward goals that were never fully stated but always justified with the same phrase, repeated like a prayer.  
 
-Then, movement caught my eye at the edge of my vision. At the next desk, a student was bent over a stack of pages. At first, I thought nothing of it. There is an efficiency to solitude in the Archives, and you learn to ignore its other occupants. Still, something tugged at my attention.
+*Ivare enim euge.*  
 
-His hands glided over the manuscript as if searching for meaning. Then I saw the stitching. It was crooked and uneven, with ragged, naked spines. They were my spines. My stomach twisted, sharp and sudden. Devi had sold the copy.
+For the greater good.  
 
-For a moment, I hesitated, lungs pulling shallow breaths as my options narrowed sharply in the still air. Confrontation was dangerous in the Archives because Lorren's rules were absolute. This manuscript, which belonged to us, was also dangerous in ways no one else had yet understood.
+I copied the entire ledger that night, my shorthand cramped and frantic, my lamp set low. When we finally climbed back through the hole into the courtyard, dawn was already graying the sky. I barely noticed. My mind was consumed with what I’d found.  
 
-I forced my breath to steady. “Excuse me,” I said as I stepped closer. I kept my voice bright and light, using the friendly tone I had perfected over years of winning favors even when I had no right to ask for them.
+The Amyr had been real. And they had been here, inside the University, shaping what was taught and what was hidden. The question was no longer whether they had existed.  
 
-The student startled, glancing up like a cornered hare. His face was thin, pale under the faint glow of the thief's lamp on my belt. “What?” he managed, guarded but not wary enough.
-
-"Fascinating piece you’ve got there," I said easily. "Where did you find those loose manuscripts? I’ve been trying to track down something nearly identical."
-
-His hand instinctively tightened over the edges of the parchment. “It’s for study,” he said, sounding evasive. “I found it at a merchant’s stall down in Imre.”
-
-“Ah, Imre,” I replied with a conspirator’s confidence, slipping into another well-worn role. “One of the undermerchants, I’d wager?” I leaned casually against the desk, as if it were mere curiosity driving me to linger. “Had to be. The proper stalls would never deal in something so rare.”
-
-The flattery worked. He eased slightly and lifted the corner of the page, allowing me to catch a better glimpse. “Yes, I suppose so. It cost more than I would have liked,” he admitted.
-
-“But worth every coin, clearly,” I said quickly, nudging past his faint hesitation. I lowered my voice to a reverent hush, using a trick I’d learned long ago while convincing shopkeepers to bring out their best wares. “Tell me, would you mind if I took a look for just a moment? I promise I’ll be careful.”
-
-His expression wavered as the instinct to protect faded beneath the weight of my practiced charm. He said, “I don’t,” then hesitated and finally loosened his grip on the manuscript. “Just for a moment.”
-
- My fingers brushed the edge of the parchment as I reached for it, careful to let my touch seem light and deferential. As soon as it passed into my hands, my stance straightened. I transformed into someone confident and unyielding as stone.
-
-“Thank you,” I said, my gratitude genuine. “You’ve done the University a great service.” The words carried enough ambiguity to blur their meaning, and I didn’t wait for him to realize just how carefully I’d chosen them.
-
-Without another word, I turned sharply on my heel, the manuscript held close to my chest, and made my way out of the Archives before he could voice his confusion or protest. If he dared report me, he’d find himself in the same precarious trouble as I.
-
-By the time the great brass door of the Archives swung shut behind me, my knuckles ached from the strength of my grip, and my fury at Devi burned hotter than ever.
+The question was where they had gone.  
 
 ### * * *  
 
-The cobblestones of Imre echoed under my boots as I approached Devi’s shop. Each step carried me closer to a confrontation I hadn’t yet planned but burned to have. I was brimming with rage, anger so thick it coiled in my gut like an angry snake about to strike. But as I neared her door, I stopped short.
+The Chandrian references were harder to find.  
 
-Devi stood in the street, barefoot and furious, her hands loose at her sides. Her silhouette cut sharply against the dim light spilling from the streetlamp. Even without seeing her face, I knew something in her had come unmoored. But she wasn’t alone.
+They weren’t gathered in a single text, neatly organized for my convenience. Instead they were scattered. A mention here, a fragment there, pieces of a puzzle spread across dozens of documents. I began keeping notes, cross-referencing, building a picture from the edges inward.  
 
-Across from her stood Master Lorren. His calm facade shattered, his usual measured grace replaced by raw force and single-minded purpose. He was nothing like the Lorren I had ever seen. Backlit by a dim streetlamp, his stance was broad, his arms raised like steel girders.
+Some of what I found confirmed what I already knew. The signs were familiar. Flame turning blue, wood rotting at a touch, shadows behaving wrongly. The names, too, or some of them. Cyphus, Stercus, Ferule. The last one made my heart clench. Ferule. Cinder. The one with pale, cold eyes, who had smiled while my family burned.  
 
-Devi stood opposite him, barefoot and wild-eyed, her disheveled frame seemingly untouched by the late hour or the tension that hung between them. Her grin was jagged as a splintered mirror, as though rage and triumph had struck her simultaneously.
+But there were new things too. References to “the Rhinta,” an old Adem word that seemed to be used interchangeably with Chandrian. Mentions of a conflict so old it predated the University itself, a war that had ended not with victory but with binding.  
 
-Lorren’s voice rang out, sharp as breaking ice. “Enough, Devi. This is your last chance to end this peacefully.”
+### * * *  
 
-Her laugh was cutting, high and brittle. “Peacefully?” she echoed, her tone dripping venom. “Spare me. I know how this ends. You don’t care about peace. You care about control.”
+The days that followed were a fever.  
 
-For the first time, Lorren faltered. The change was nearly imperceptible, yet it felt unsettlingly real. His Alar, an invisible tide pressing outward, stuttered for a moment. Devi seized the opportunity with her own Alar surging forward. The air seemed to ripple and visibly distort for the briefest moment, as if the two forces were tearing the world apart between them.
+I pored over my copied documents obsessively, cross-referencing, annotating, building webs of connection that sprawled across the floor of my room. I stopped going to classes. I ate only when my hands shook too badly to hold a pen. I slept in fragments, waking with insights that demanded immediate attention.  
 
-“I won’t be held,” Devi hissed, her voice raw with something that sounded almost like despair. “Not by you! Not by any Master! Never again!”
+The shorthand I’d developed became second nature, as familiar as breathing. I could read my compressed notes as easily as normal text now, my mind automatically expanding the symbols into words. The system that had taken days to learn had become part of me.  
 
-Her will lashed out like a whip, forcing Lorren to drop into a defensive stance. His breaths grew heavier, and frost formed in his exhalations. Even as she pressed him, I could still see it. Lorren was not fighting to win; he was fighting to contain her. The difference showed in every strained line of his face.
+And it was working. The fragments were beginning to cohere into something larger. I found references in the hidden documents that pointed to texts in the regular Archives. Books I’d seen on shelves, never knowing what they contained. There were patterns in the gaps, places where information had been removed but the shape of its absence was still visible.  
 
-It was her wild defiance against his measured inevitability. And she was winning.
+I was getting closer. I could feel the truth just beyond my reach.  
 
-“Devi!” I called out, my voice breaking the silence of the knife-edged conflict.
+But the damage from the potion was getting worse. The tremor in my hands had become constant, and my Alar slipped more with each passing day. I caught myself losing time, standing in different parts of my room with no memory of moving. In the hidden room, I sometimes looked up from my work to find minutes had passed like moments, or moments stretched into hours.  
 
-She turned, her Alar briefly brushing against mine. The force of it was staggering, a wave that nearly sent me reeling. I caught myself, reaching deep into the space between us with my own threads of intent. Barriers. Shields. Anything to stand against her.
+I kept going. Buried the fear beneath the work. And told no one.  
 
-“Stop this.” My voice was hoarse, robbed of its deeper confidence. “This isn’t what you want.”
+In the hidden room, Devi seemed distracted lately, more tense than usual. Her usual sharp humor had an edge to it, her movements less fluid. Once I caught her staring at the hole in the courtyard ceiling, her jaw tight, as if calculating something I couldn’t see.  
 
-Her smile twisted into something between pity and scorn. “Kvothe,” she said, her voice dripping acid. “You don’t know what I want!”
+“You alright?” I asked.  
 
-Her Alar surged, grinding against mine like iron against flint. My head pounded as the binder’s chill crept deeper, turning my limbs heavy with frost. Across from us, Lorren rose to his full height, determination etched into his pale, dampened face. Together, with our forces combined, Devi began to stumble.
+Her smile was thin. “Fine. Just thinking.”  
 
-I don’t know how long it lasted. The three of us remained locked in that silent, suffocating fight. In that place, time ceased to matter. Piece by piece, Devi’s strength faltered, though not because of anything we did. She simply spent herself, burning too brightly for too long.
+“About what?”  
 
-When she fell, it was as though someone had cut her strings. She crumpled to the cobblestones, her chest rising and falling shallowly as strands of hair clung to her sweat-slicked face.
+“Contingencies.” She turned back to her work. “Always good to have contingencies.”  
 
-I didn’t move. Couldn’t. The chill in my veins spread faster now, turning each heartbeat into a slow, painful echo as darkness pulled at the edges of my vision. In the corner of my eye, I saw guards assembled, their presence both reassuring and ominous.
+Another night, after we’d heard footsteps on a nearby walkway and frozen in silence, she didn’t resume working right away. She stood beneath the hole, looking up at the patch of night sky visible through it. I couldn’t read her face.  
 
-And then, all at once, the blackness took me.
+“What are we going to do when someone realizes?” she asked quietly.  
 
-### ~ ~ ~
+“No one will realize. The courtyard’s abandoned.”  
+
+“Someone always realizes.” She looked at me then, and something in her eyes made me uneasy. “We should talk about what happens when they do.”  
+
+“We’ll figure it out when the time comes.”  
+
+“That’s not a plan, Kvothe.” Her voice was sharp. “That’s hope dressed up as strategy.”  
+
+I should have pressed. Should have asked what she was really worried about. But I was too focused on my own research, consumed by the fragments I was piecing together.  
+
+I let it go.  
+
+### * * *  
+
+I arrived at the courtyard at the appointed time.  
+
+We’d established a pattern by then. Every third night, weather permitting, we would meet here. I would arrive first, scale the wall, and wait. Devi would follow within a quarter hour, never more. It was precise, reliable. A routine we’d built through spans of careful work.  
+
+The wall was easy now. I knew every handhold, every place where the mortar had worn soft. At the top I sat for a moment, looking down into the courtyard. Moonlight filtered through the apple tree’s bare branches. The flagstones were thick with dead leaves, just as they’d always been. Our hole nestled next to the wall, directly above the room that held all my answers.  
+
+I dropped down and settled in to wait.  
+
+A quarter hour passed. Then half.  
+
+Devi didn’t come.  
+
+I told myself there were reasonable explanations. A client who stayed too late. Business in Imre that couldn’t wait. Maybe she’d simply decided it was too dangerous tonight. The moon was bright, the sky clear, too much risk of being seen.  
+
+But Devi didn’t make decisions like that. If she said she would come, she came. That was the bargain. That was the trust we’d built between us, one night at a time.  
+
+Another quarter hour. The moon climbed higher. The courtyard’s shadows shifted, and I moved with them, staying hidden.  
+
+Still nothing.  
+
+An hour passed.  
+
+Something was wrong.  
+
+I tried to dismiss the feeling. Devi could take care of herself. Better than I could, probably. Her Alar was like the ocean in a storm. She’d bested Master Dal. Whatever kept her away tonight, she could handle it.  
+
+But the feeling wouldn’t leave. It sat in my chest like a stone, growing heavier with each minute.  
+
+After two hours of waiting, I made my decision.  
+
+I climbed back over the wall, dropped to the street beyond, and turned my steps toward Imre. If something had happened to her, I needed to know. If nothing had happened, she’d probably kill me for checking on her like a worried mother.  
+
+I walked faster.  
+
+### * * *  
+
+The walk to Imre had never felt so long.  
+
+I crossed the Omethi bridge at a near run, my footsteps hollow on the ancient stone. The river below was dark and swift, reflecting nothing. On the far bank, Imre’s lights burned warm against the night, but they seemed dim, distant.  
+
+My hands were shaking again. I flexed my fingers, reached for a simple binding to steady them. Heat from my body to the cold air, just enough to warm my hands.  
+
+The connection formed. Held for a moment. Slipped away like water.  
+
+I let it go.  
+
+The streets were quiet. Most of the taverns had already closed for the night. A few late drinkers stumbled home, singing off-key songs about love and loss. A lamplighter made his rounds, his pole catching wicks with practiced ease, bringing light to the darkness.  
+
+No one paid me any attention.  
+
+I turned down the narrow street where Devi kept her rooms. The butcher’s shop below was dark. It was well past midnight, and old Teren always closed by sunset. But something about the darkness felt wrong. Too complete. Too still.  
+
+I climbed the exterior stairs, my boots quiet on the wood. At the top, I paused.  
+
+No light showed under Devi’s door.  
+
+I knocked softly. “Devi?”  
+
+No answer.  
+
+I knocked again, louder this time. My knuckles hurt against the wood. “Devi, are you there?”  
+
+Still nothing.  
+
+The handle turned under my hand. Unlocked.  
+
+Devi never left her door unlocked.  
+
+I pushed it open.  
+
+### * * *  
+
+The first thing I saw was the destruction.  
+
+Devi’s room looked like a storm had torn through it. Her bookshelf lay on its side, volumes scattered across the floor. The desk was overturned, papers and vials everywhere. One of her perfume bottles had shattered, and the scent of cinnamon mixed with something sharper, more acrid.  
+
+Burnt metal hung thick in the air, sympathy pushed far beyond safe limits. The air itself felt wrong, pressurized.  
+
+The second thing I saw was the men.  
+
+Three of them in a loose triangle. Two wore traveling leathers, the practical kind that suggested long roads and hard use. They stood ready, alert, hands positioned for quick movement. Watchful. Waiting.  
+
+The third I recognized.  
+
+Viari.  
+
+The giller from the Archives, the one who traveled the world searching for rare books. Cealdish features, dark hair tied back, scars up both arms. I’d seen him in the stacks a dozen times, always polite, always moving with quiet purpose. He’d helped me find obscure references once, directed me to the right section with a knowing smile.  
+
+He wasn’t smiling now.  
+
+His hand was outstretched, fingers spread wide, his whole body tense with effort. The air around him shimmered with heat, the distortion of a powerful Alar made visible. Sweat beaded on his forehead despite the cold.  
+
+The third thing I saw was Devi.  
+
+She knelt in the wreckage of her possessions, one hand braced against the floorboards to keep from falling. Blood ran from her nose in two thin streams, dripping onto the scattered papers below. Her breathing came harsh and ragged, each breath a visible effort.  
+
+But her eyes burned with desperate concentration.  
+
+She was fighting back. Holding her own against three trained sympathists at once. Barely.  
+
+Poor-boys lay scattered around her, four of them cracked open and spent, their heat exhausted. She was burning through energy faster than she could replace it, and there were no more warmers within reach. Her free hand trembled. I could see the shimmer of her Alar in the air, a barrier of will holding back the combined force pressing against her.  
+
+She was losing. Inch by inch, breath by breath, she was losing ground.  
+
+The fourth thing I saw was Master Lorren.  
+
+He stood by the window, tall and still. The moonlight behind him made his features hard to read, but his presence filled the room like a physical weight. In his hand he held a small ledger bound in red leather.  
+
+Not one of his Archives books. This one was different.  
+
+I knew that binding. I’d watched Devi stitch it together with her own hands, her fingers quick and precise. I’d seen her tuck it into her satchel a hundred times.  
+
+One of ours.  
+
+Time seemed to slow. I stood frozen in the doorway, caught between one breath and the next. A thousand thoughts flooded through my mind at once.  
+
+*They found us. They know. This is over.*  
+
+*Devi is going to die here.*  
+
+*I should run. I should help. I should do something.*  
+
+Devi’s eyes found mine.  
+
+I saw recognition first, sudden and sharp. Then understanding, the pieces fitting together with horrible clarity. Then something worse than anger, worse than fear.  
+
+Betrayal.  
+
+Her face changed. The desperate concentration transformed into rage.  
+
+“You,” she breathed.  
+
+The word carried more weight than any accusation I’d ever heard. It held everything. Every night we’d worked together, every secret we’d shared, all of it gone.  
+
+I tried to speak. To explain. To tell her I had nothing to do with this, that I’d been waiting in the courtyard, that I’d come looking for her.  
+
+But she wasn’t listening.  
+
+Her Alar hit me like a thunderclap inside my skull.  
+
+Not a binding. Not a careful working. Nothing precise or controlled. Just raw sympathetic force, thrown with all her remaining strength. All her energy, every scrap of will she had left, focused into a single devastating blow.  
+
+Aimed at the person she thought had destroyed her.  
+
+My own Alar tried to rise in defense. Tried to match her force, turn it aside, build a wall, anything.  
+
+It failed.  
+
+The walls I’d built since the potion came apart like wet paper. The careful partitions, the boundaries I’d maintained between the damaged parts of my mind.  
+
+The world fractured.  
+
+I was falling but the floor was above me.  
+
+Time bent sideways.  
+
+The room dissolved into pure sensation.  
+
+I couldn’t remember how to breathe.  
+
+Then I remembered too well. Every breath I’d ever taken, all happening at once.  
+
+The floor wasn’t there.  
+
+Then it was there twice.  
+
+Everything was too much.  
+
+Everything was not enough.  
+
+I fell into darkness.  
+
+Then into something darker than darkness.  
+
+Then into the space between thoughts where thought itself becomes impossible and even impossibility loses meaning.  
+
+I fell.  
+
+And fell.  
+
+And fell.  
+
+### ~ ~ ~  
 
 [Chapter 12](CHAPTER_12.md) | [Contents](Contents.md) | [Chapter 14](CHAPTER_14.md)
