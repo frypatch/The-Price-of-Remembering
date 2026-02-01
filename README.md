@@ -15,7 +15,7 @@ Day Three
 
 NOT PATRICK ROTHFUSS  
 
-Version 4.01.30  
+Version 4.01.31  
 
 
 
@@ -116,7 +116,7 @@ That all said, please enjoy.
 * [CHAPTER 7](book/CHAPTER_07.md). A Song Without Words.
 * [CHAPTER 8](book/CHAPTER_08.md). Rare Things Vanish.
 * [CHAPTER 9](book/CHAPTER_09.md). The Geometry of Secrets.
-* [CHAPTER 10](book/CHAPTER_10.md). A Foolish Bargin.
+* [CHAPTER 10](book/CHAPTER_10.md). A Foolish Bargain.
 * [CHAPTER 11](book/CHAPTER_11.md). The Price We Pay.
 * [CHAPTER 12](book/CHAPTER_12.md). Everything.
 * [CHAPTER 13](book/CHAPTER_13.md). I Will Not Be Held.
