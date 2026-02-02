@@ -3,13 +3,13 @@
 ## EVERYTHING.
 
 
-My hands began to shake on the fourteenth night.  
+MY HANDS BEGAN to shake on the fourteenth night.  
 
 Not badly. Not enough that Devi noticed, or at least not enough that she commented. But I felt it. A fine tremor that started in my fingers and worked its way up through my wrists. I told myself it was exhaustion. The long nights, the double life, the constant vigilance. Anyone would shake under that kind of strain.  
 
 But I knew better.  
 
-The damage from the potion had never healed. I’d simply learned to ignore it, to work around the moments when my Alar slipped or my concentration fractured. I’d built walls around the broken places in my mind and pretended they weren’t there.  
+The damage from the potion had never healed. Like Master Herma, I’d simply learned to ignore it, to work around the moments when my Alar slipped or my concentration fractured. I’d built walls around the broken places in my mind and pretended they weren’t there.  
 
 Now those walls were beginning to crack.  
 
@@ -19,11 +19,11 @@ In classes, my attention would splinter without warning. I would be listening to
 
 Worst of all was the Alar.  
 
-I had always been able to split my mind with precision. Two bindings, three, even four running simultaneously. It had been the foundation of my talent, the thing that made me exceptional. Now I struggled to hold one. The connections would form and then slip, like trying to grip water. I would reach for the certainty that had always been there, and find only fog.  
+I had always been able to split my mind with precision. Two bindings, three, even four running simultaneously. It had been the foundation of my talent, the thing that made me exceptional. Now even two was a struggle. The connections would form and then slip, like trying to grip water. I would reach for the certainty that had always been there, and find only fog.  
 
-I hid it. From Devi, from my friends, from everyone. I was Kvothe, after all. Kvothe the prodigy, Kvothe who had called the wind. I couldn’t be broken. I refused to be broken.  
+So I hid it. From Devi, from my friends, from everyone. I was Kvothe, after all. Kvothe the prodigy, Kvothe who had called the wind. I couldn’t be broken. I refused to be broken.  
 
-So I buried the fear beneath the work, and I kept going.  
+I buried the fear beneath the work, and I kept going.  
 
 ### * * *  
 
@@ -31,9 +31,11 @@ The next day I skipped classes to meet up with Wil and Sim. I had not been to An
 
 They were sitting in Anker’s courtyard, watching the foot traffic drift by in chairs that looked two strong gusts away from collapse. The sight of them brought relief I hadn’t known I needed.  
 
-“Look who’s emerged,” Wilem said as I slumped into the chair across from them. “And here I thought you’d been locked away by the Masters.”  
+“Look who’s emerged,” Sim said as I slumped into the chair across from them. “We were starting to think you’d forgotten us.”  
 
-“Locked away? Hah.” Sim leaned forward, his grin maddeningly wide. “That’s not it at all. He’s been busy courting a fairy queen in Imre. Or haven’t you heard?”  
+“You smell like cinnamon,” Wil observed.  
+
+Sim leaned forward, his grin maddeningly wide. “It’s because he’s been busy courting a fairy queen in Imre. Or haven’t you heard?”  
 
 It took me half a second too long to realize what they were talking about, and the look on my face immediately set Sim off into laughter. Wilem smothered a grin of his own, taking a deliberate sip from his mug.  
 
@@ -47,9 +49,9 @@ I groaned and cast a look at Wilem, waiting for a rescue. But Wil simply smirked
 
 “But you should know,” he went on, quieter this time, “Denna was in town. She came by the courtyard. She asked about you.”  
 
-The noise of the street seemed to fade. My forced grin faltered. Wil’s brow knit almost imperceptibly.  
+My forced grin faltered. Wil’s brow knit almost imperceptibly.  
 
-“And?” I said, feigning a lightness that felt like playing a lute with broken strings.  
+“And?” I said, feigning a lightness any audience would have seen through.  
 
 Sim shifted in his chair. He rubbed the back of his neck in that way he did when searching for tact.  
 
@@ -63,7 +65,7 @@ They waited expectantly.
 
 I summoned my charm, hoping my smile would hold. “You’re not wrong,” I said, the words falling easy and practiced. “Devi’s not entirely intolerable company.”  
 
-Sim blinked, open-mouthed. “Wait. You’re saying you—?”  
+Sim blinked, open-mouthed. “Wait. You’re saying you-?”  
 
 “I’m saying what I’m saying,” I finished smoothly, sipping from Wil’s neglected mug.  
 
@@ -79,37 +81,33 @@ Denna had been looking for me. And now Sim and Wil, my ever-loyal and well-meani
 
 The stone gave way without warning.  
 
-One moment I was scraping at the depression we’d worn into the courtyard flagstone, the same patient work we’d done for nearly three spans. The next, a piece of stone the size of my fist tumbled down into darkness below. Cold air rushed up through the opening, carrying the smell of dust and old parchment.  
+One moment, I was scraping at the depression we’d spent three spans wearing into the courtyard flagstone. The next, a piece of stone the size of my fist tumbled into darkness below. Cold air rushed up through the opening, carrying the smell of dust and old parchment.  
 
 I froze, my scraping tool still in hand. Devi’s head snapped up from where she was preparing the next application of acid.  
 
-“Did you—?” she breathed.  
+“Did you?” she breathed.  
 
-I didn’t answer. I was staring down into the hole, into a blackness my eyes couldn’t penetrate. We’d done it. After weeks of acid and waiting and scraping at night, we’d finally broken through.  
-
-Devi let out a sound that was halfway between a laugh and a sob. I gripped the edge of the hole, my heart pounding.  
-
-“We did it,” she whispered. “Kvothe, we actually did it.”  
+I didn’t answer. I was staring down into the hole, into a blackness my eyes couldn’t penetrate. Devi let out a sound that was halfway between a laugh and a sob. “We did it,” she whispered. “Kvothe, we actually did it.”  
 
 We widened the hole carefully, working with manic precision. The stone crumbled more easily now, as if the room below was pulling us in. Within an hour, the opening was large enough to climb through.  
 
 I went first.  
 
-I lowered myself down, hanging by my fingertips before dropping the last few feet. The floor was stone, solid beneath my boots. I stood in perfect darkness, my heart hammering, and fumbled for my thief’s lamp.  
+I lowered myself down, hanging by my fingertips before dropping the last few feet. The floor was stone, solid beneath my boots. I stood in perfect darkness and fumbled for my thief’s lamp.  
 
 The blue-green light spread outward, and I saw.  
 
-The room was smaller than I’d imagined. Perhaps twenty feet square, with a low ceiling and walls of the same grey stone as the rest of the Archives. But every inch of those walls was lined with shelves.  
+The room was longer than it was wide, with a low ceiling and walls of the same grey stone as the rest of the Archives. But every inch of those walls was lined with shelves.  
 
-Books. Scrolls. Bound ledgers thick as a hand’s width. Loose documents tied with ribbon gone brittle with age. Small chests with brass hasps, their contents unknown. Clay tablets stacked like dinner plates. Rolled maps with edges turned to lace by time. Everything covered in dust so thick it looked like grey snow had fallen and never melted.  
+Books. Scrolls. Bound ledgers thick as a hand’s width. Loose documents tied with ribbon gone brittle with age. Small chests with brass hasps, their contents unknown. Clay tablets stacked like dinner plates. Rolled maps with edges turned to lace by time. Everything covered in dust so thick it looked like grey snow.  
 
-The air was cold and still, perfectly preserved. I could smell old leather, parchment made from animal hide, the mineral tang of clay, and underneath it all the scent of parchment untouched for centuries.  
+The air was cold and still, perfectly preserved. I could smell old leather, the mineral tang of clay, and underneath it all the scent of parchment untouched for centuries.  
 
-I took a step forward, my boot leaving a clear print in the undisturbed dust. My lamplight fell on the nearest shelf, and I saw spines with titles in languages I recognized and languages I didn’t. Temic. Aturan. Yllish knots. Something that might have been Siaru or might have been older still. Some volumes bore preservation sygaldry, faintly glowing in my lamp’s light. Others were cracked and crumbling, held together by nothing more than hope and careful placement.  
+I took a step forward, my boot leaving a clear print in the undisturbed dust. My lamplight fell on the nearest shelf, and I saw spines with titles in languages I recognized and languages I didn’t. Temic. Aturan. Yllish knots. A script that might have been Siaru or might have been older still. Some volumes bore preservation sygaldry, faintly glowing in my lamp’s light. Others were cracked and crumbling, held together by nothing more than stillness.  
 
 “Kvothe?” Devi’s voice came from above, tight with impatience. “What do you see?”  
 
-I opened my mouth, but no words came. I was looking at the answer to every question I’d ever asked. The truth about the Chandrian. The Amyr. The doors of stone. My parents’ deaths. It was what I’d been searching for since I was eleven years old. All of it, waiting.  
+I opened my mouth, but what could I say. I was looking at the answer to every question I’d ever asked. The truth about the Chandrian. The Amyr. The doors of stone. My parents’ deaths. It was what I’d been searching for since I was eleven years old. All of it, waiting.  
 
 “Everything,” I breathed. “I see everything.”  
 
@@ -121,7 +119,7 @@ The room held records. Hundreds of them, perhaps thousands. Old documents, caref
 
 But it was too much.  
 
-“We can’t take any of this,” Devi said on our second night in the room, gesturing at the shelves with frustration. “If we remove books, someone might notice. If we try to smuggle out stacks of documents, we’ll be caught for certain.”  
+“We can’t take any of this, not even your donation,” Devi said on our second night in the room, gesturing at the shelves with frustration. “If we remove books, someone might notice. If we try to smuggle out stacks of documents, we’ll be caught for certain.”  
 
 “We copy them,” I said.  
 
@@ -131,13 +129,13 @@ She was right. I spent the rest of that night doing the mathematics of our disco
 
 The solution came to me in the Archives, of all places.  
 
-I was researching something else entirely, or pretending to, when I stumbled across a reference to scribal practices in the Aturan Empire. The old archivists had developed systems for compressing information, shorthand ciphers that could reduce a page of text to a quarter of its length. The techniques had fallen out of use centuries ago, but the principles were documented.  
+I was researching foreign cataloging systems when I stumbled across a reference to scribal practices in the Aturan Empire. Those old archivists had developed systems for compressing information, shorthand ciphers that could reduce a page of text to a quarter of its length. The techniques had fallen out of use centuries ago, but the principles were documented.  
 
 I spent three days studying everything I could find. Merchant codes. Diplomatic ciphers. The compressed notations used by ship captains to log voyages. None of them were quite right, but the bones were there.  
 
-In the Fishery, I constructed a different kind of tool. A pantograph rig. A simple mechanical device, nothing magical about it, that could reproduce text at a reduced scale. The principle was ancient, used by artists and cartographers for generations. I simply adapted it to our needs.  
+In the Fishery, I constructed a different kind of tool. A pantograph rig. A simple mechanical that could reproduce text at a reduced scale. The principle used by artists and cartographers for generations. I simply adapted it to our needs.  
 
-When I showed Devi the system, the shorthand cipher I’d developed and the scaling rig that could shrink a page to a quarter of its size, she understood immediately.  
+When I showed Devi the system, the shorthand cipher I’d developed, and the scaling rig that could shrink a page to a quarter of its size, she understood immediately.  
 
 “One page becomes four lines,” she said. “We can carry out entire books in our pockets.”  
 
@@ -149,7 +147,7 @@ She took the practice sheet from my hands, studying the compressed symbols. “Y
 
 “It’s brilliant.” She looked at me, and I thought I saw admiration there. “You’re full of surprises, aren’t you?”  
 
-I shrugged, uncomfortable with the praise. But I felt a flush of pride despite myself. We had found a way. Against all odds, against all sense, we had found a way.  
+I shrugged, uncomfortable with the praise. But I felt a flush of pride despite myself. We had found a way. A reckless and impossible way, but a way nonetheless.  
 
 ### ~ ~ ~  
 
