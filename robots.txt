@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://frypatch.github.io/The-Price-of-Remembering/sitemap.xml
+Sitemap: https://www.priceofremembering.com/sitemap.xml
