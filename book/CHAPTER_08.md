@@ -53,7 +53,7 @@ She leaned back, satisfied. “Far from hands like yours.”
 
 There was something different in her smile this time. Tighter. More restrained. “And you know this? How?” I asked, pushing just a little further.  
 
-Devi didn’t answer right away. She reached for the blanket draped over the back of her chair, pulling it around her legs despite the warmth of the room. “Sweet boy,” she said, her voice soft, “you’ve barely crawled through the door, and already you want the whole house.”  
+Devi didn’t answer right away. She reached for the blanket draped over the back of her chair, pulling it around her legs despite the warmth of the room. "You've barely crawled through the door," she said, her voice soft, "and already you want the whole house."  
 
 She wasn’t wrong, but I couldn’t leave it alone. “What are they hiding?” I pressed.  
 

@@ -209,7 +209,7 @@ His hand was outstretched, fingers spread wide, his whole body tense with effort
 
 The third thing I saw was Devi.  
 
-She knelt in the wreckage of her possessions, one hand braced against the floorboards to keep from falling. Blood ran from her nose in two thin streams, dripping onto the scattered papers below. Her breathing came harsh and ragged, each breath a visible effort.  
+She knelt in the wreckage of her possessions, one hand braced against the floorboards to keep from falling. Her strawberry hair had come loose, its ends dark with blood from her nose. Her breathing came harsh and ragged, each breath a visible effort.  
 
 But her eyes burned with desperate concentration.  
 
