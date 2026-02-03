@@ -3,7 +3,7 @@
 ## THE PRICE WE PAY.
 
 
-I REACHED DOWN AND Devi took my hand, her grip firm. Unused to climbing, she scrambled up, graceless but determined, and for a moment we sat together on the wall, looking down into the courtyard. Moonlight filtered through the apple tree’s branches, the same tree I’d climbed down countless times to visit Auri. The flagstones were thick with moss, just as they’d always been. But tonight I was seeing it with different eyes.  
+I REACHED DOWN AND Devi’s small hand gripped mine. Unused to climbing, she scrambled up, graceless but determined, and for a moment we sat together on the wall, looking down into the courtyard. Moonlight filtered through the apple tree’s branches, the same tree I’d climbed down countless times to visit Auri. The flagstones were thick with moss, just as they’d always been. But tonight I was seeing it with different eyes.  
 
 “It’s smaller than I thought,” she said.  
 
@@ -17,7 +17,7 @@ Devi knelt and pressed her palm against the stone. “The acid works,” she sai
 
 “How patient?”  
 
-“Spans, not days.” She unstoppered one of the jars, her smile returning. “Patience isn’t your strong suit, darling boy. But I’m an excellent teacher.”  
+“Spans, not days.” She unstoppered one of the jars, her smile returning. “Patience isn’t your strong suit, dear boy. But I’m an excellent teacher.”  
 
 She applied a brushstroke of acid to the stone. It hissed as the vapor rose.  
 

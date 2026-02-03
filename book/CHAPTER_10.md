@@ -15,7 +15,7 @@ When Devi opened the door, she barely glanced at me before stepping aside. The a
 
 “There’s more than you’re telling me,” I blurted. “You know more about what Lorren’s hiding, and you’ve been holding back.”  
 
-Devi tilted her head, her smile cutting sharper. “Sweet Kvothe, that’s a bold accusation. And here I thought we were friends.”  
+Devi tilted her head, her smile cutting sharper. “That’s a bold accusation. And here I thought we were friends.”  
 
 “Friends don’t play games like this.”  
 
@@ -23,7 +23,7 @@ Devi tilted her head, her smile cutting sharper. “Sweet Kvothe, that’s a bol
 
 “No,” I said. “Not a chance.”  
 
-Devi arched a skeptical brow. “So sudden, so certain. Why not, darling boy? Surely there’s room enough for two clever, hungry minds in your hallowed stacks.”  
+Devi arched a skeptical brow. “So sudden, so certain. Why not, sweet boy? Surely there’s room enough for two clever, hungry minds in your hallowed stacks.”  
 
 “There are places you don’t belong, Devi. Some doors wouldn’t close so cleanly after you passed through them.”  
 
@@ -173,7 +173,7 @@ Devi sat beside the cot, pale with deep shadows beneath her eyes. She’d been w
 
 “How long?” My voice came out cracked, barely recognizable.  
 
-“Seven hours,” she said quietly. “The formula predicted two, maybe three at most.”  
+“Seven hours.” She pressed her palm against her forehead. “Tattered fates. The formula predicted two, maybe three at most.”  
 
 I tried to sit up. The room tilted dangerously, and I had to grip the edge of the cot to keep from falling. My thoughts felt wrong. Slow and slippery.  
 
