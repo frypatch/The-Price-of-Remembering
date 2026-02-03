@@ -87,7 +87,7 @@ I froze, my scraping tool still in hand. Devi’s head snapped up from where she
 
 “Did you?” she breathed.  
 
-I didn’t answer. I was staring down into the hole, into a blackness my eyes couldn’t penetrate. Devi let out a sound that was halfway between a laugh and a sob. “We did it,” she whispered. “Kvothe, we actually did it.”  
+I didn’t answer. I was staring down into the hole, into a blackness my eyes couldn’t penetrate. Devi let out a sound that was halfway between a laugh and a sob. “We did it. Kvothe, we actually did it.”  
 
 We widened the hole carefully, working with manic precision. The stone crumbled more easily now, as if the room below was pulling us in. Within an hour, the opening was large enough to climb through.  
 
