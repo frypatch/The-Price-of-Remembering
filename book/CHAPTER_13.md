@@ -3,9 +3,7 @@
 ## I WILL NOT BE HELD.
 
 
-The room behind the Four-Plate Door smelled of dust and old stone.  
-
-We had established a rhythm by then, Devi and I. Each night we would descend through the hole we’d made, our thieves’ lamps casting blue-green shadows across shelves that hadn’t seen light in centuries. We would select texts, copy them in my compressed shorthand, and return them to their places before dawn. It was slow, methodical work, but we were making progress.  
+WE HAD ESTABLISHED a rhythm, Devi and I. Each night we would descend through the hole we’d made, our thieves’ lamps casting blue-green shadows across shelves that hadn’t seen light in centuries. We would select texts, copy them in my compressed shorthand, and return them to their places before dawn. It was slow, methodical work, but we were making progress.  
 
 Most of what we found was administrative. Records of expenditures, meeting minutes, correspondence between people whose names meant nothing to me. Documents from an organization that had operated within the University centuries ago, then vanished so completely that even its name had been scrubbed from history.  
 

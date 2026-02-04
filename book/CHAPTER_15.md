@@ -3,96 +3,110 @@
 ## MISSING.
 
 
-For someone on the run, I was a poor sort of fugitive. My legs were hollow things, trembling beneath me, threatening to betray me. The rags from Haven clung to my skin, torn and wet, heavy with the sour bite of sweat and mildew. I should have planned. I should have rested. But planning was remembering. Resting was thinking. I did everything I could to avoid both.
+I WAS A POOR SORT OF FUGITIVE. My legs trembled beneath me and my hands still twitched from that damnable potion. Less than before, though. Small blessings. The Haven shift I wore was torn at the shoulder from my escape, pale linen smudged with stone dust.  
 
-The streets of Imre pressed in, bristling with danger. Every clatter of wheels and every flickering shadow sent my heart leaping into my throat. The city felt sharp and alive, waiting to cut me down for daring its streets. When a shutter snapped shut above me, I stumbled sideways like a startled colt, all legs and bone, and too thin for this world. A younger me would have laughed. Perhaps a wiser me would have done the same. Now my fear was a mirror. In its depths, I saw only the madmen I thought I’d left behind.
+The walk from Haven across the University grounds was not long. The moon hung fat and bright above me, just shy of full, and its light made the familiar paths feel exposed. A cold wind cut through my thin shift, and I kept to the shadows where I could. I climbed the stairs to the third floor and stood before Sim’s door, shivering and small.  
 
-Still, I found myself before Simmon’s door, shivering and small. My hand hovered, uncertain, my knuckles pale against dark wood. I could hear the rumors already, circling like hungry birds. Kvothe expelled. Kvothe, locked away in Haven. Kvothe, half-mad and guilty of what? Murder, perhaps. Theft, perhaps. The truth was worse, for lacking a name. I did not deserve Sim’s help. Not his kindness. Not even his pity.
+I thought of the last time I’d been here, helping him haul books and alchemical equipment up these stairs while Fela directed and Sim complained theatrically about his delicate constitution. That had been a good day. Simple.  
 
-But I needed it.
+I knocked twice. It was a feeble sound.  
 
-I knocked twice. It was a feeble sound, apologetic in its rhythm.
+A pause. Then footsteps, light and careful, across the floorboards. The door cracked open, a sliver of lamplight cutting the dark. Sim’s eye peered through, cautious. The chain on the door kept him half-shuttered, but I saw the worry anyway. His gaze moved over me. He took in the torn shift hanging loose on my frame, the shadows under my eyes, the way my hands wouldn’t stop their trembling. He hesitated. That small hesitation cut worse than any slammed door.  
 
-A pause. The silence that follows when hope tries to gather its courage. Then footsteps, light and careful, carrying their own small tension across the floorboards. The door creaked open, narrow enough for a sliver of lamplight to cut the darkness, and in that narrow seam, a single cautious eye. Sim’s eye. The chain at his neck kept him half-shuttered, half-guarded, but his worry spilled through all the same. His gaze moved over me. He took in the wild tangle of my hair, the filthy rags clinging close as grave clothes, the emptiness carved into my face after too many days spent surviving on nothing but desperation. For a heartbeat, he hesitated. That small hesitation cut worse than any slammed door. Worse by far.
+He unlatched the chain and opened the door wider. “Kvothe,” he said, quiet and unsure. For a moment, I thought he would turn me away. Then he stepped back and pulled the door open fully. “Come in.”  
 
-He unlatched the chain and opened the door wider. “Kvothe,” he said, quiet and unsure. For a moment, I thought he would turn me away. Then he stepped back and pulled the door open fully. “Come in.”
+The firelight spilled across the room, its warmth almost painful after Haven’s cold. The familiar clutter of Sim’s quarters surrounded me. Books stacked on every surface. The faint bitter smell of alchemical residue. A half-eaten apple browning on the desk. I wanted to believe this was normal. I wanted to believe I was simply visiting an old friend. But then it all came down at once. Sleepless nights. The echoes of Haven. Having nowhere to turn. My legs buckled and I nearly fell, catching myself against the doorframe with shaking hands.  
 
-The firelight spilled across the room, its warmth striking me like the sun after a cruel winter. I wanted to believe this was normal. I wanted to believe I was simply visiting an old friend. But then the weight of everything crashed in on me all at once. Sleepless nights and haunting echoes of Haven pressed down on me, along with the enormity of what I had to do. My legs buckled and I nearly fell, catching myself against the doorframe with shaking hands.
+“Sit,” Sim said quickly, gesturing toward a chair by the fire. His tone was steady, but his brow furrowed as he shut the door behind me.  
 
-“Sit,” Sim said quickly, gesturing toward a chair by the fire. His tone was steady, but his brow furrowed sharply as he shut the door behind me.
+I sank into the nearest seat, my legs going limp, as though they’d finally been given permission to fail. Sim remained standing, hands fidgeting, his face drawn. But he didn’t speak. It was his patience that undid me.  
 
-I sank into the nearest seat, my legs trembling as though finally being able to shed the weight of the world. Sim remained standing, hands fidgeting nervously and his face tight with worry. But he didn’t speak. It was his patience that undid me.
+“I made a mess, Sim.” My words were closer to a confession than a greeting. “I’ve done things.” I tried to say more, but nothing else would follow. I could not meet his eyes. For a while, there was only the quiet between us.  
 
-“I made a mess, Sim.” My voice was raw, the words closer to a confession than a greeting. “I’ve done things.” I tried to say more, but the words tangled in my throat. I could not force them out. I could not meet his eyes. For a while, there was only the silence between us.
+I looked up only when I could bear it no longer. Then I began to speak, because sometimes the only way out is through.  
 
-I looked up only when I could bear it no longer. Then I began to speak, because sometimes the only way out is forward, and all that remains is the telling.
+### * * *  
 
-### * * *
+I told him about Devi. How it began with a favor. A spice of life, as she called it. The warnings I let slip past. The mistakes that followed, and how everything unraveled. I explained the pantograph, how I used it to steal from the Archives, how I hunted secrets that should have stayed buried.  
 
-I told him about Devi. How it began with a favor. A spice of life, as she called it. The warnings I let slip past. The mistakes that followed, and how everything unraveled. I told him about the pantograph. How I used it to steal from the Archives. How I hunted secrets that should have stayed buried.
+Haven came next. How I’d lost myself there. How Elodin had tried to reach me, though my fractured mind could barely hold his words. I told him that Elodin had been saying something about a girl being gone, taken. And when the words grew harder to speak, I told him about Auri. Her moonlight hair. The way she moved. How she vanished but I didn’t know how or why. How the pale ghosts of Haven still whispered of my failure. I didn’t deserve his listening ear, yet Sim stood there across from me, silent but resolute, taking in all of it.  
 
-I told him how Haven had swallowed me whole, how Elodin had left me with nothing but riddles and warnings. And when the words grew harder to speak, with memories of Auri fragile and luminous in my mind's eye, I told him about her too. I told him about how Auri vanished but that I didn't know how or why. And how the pale ghosts I had conjured murmured reminders of my failure to protect her at every turn. I didn’t deserve his listening ear, yet Sim stood there across from me, silent but resolute, drinking in every fractured thing I had to say.
+When I finished, the stillness stretched thin between us, broken only by the crackle of the fire. Sim’s hands twisted together in front of him. His face was pale, and his lips pressed into a tight, straight line. He ran a hand through his sandy hair, then did it again, as if the motion might help him think. Finally, he spoke.  
 
-When I finished, silence stretched thin between us, broken only by the crackle of the fire. Sim’s hands twisted together in front of him. His face was pale, and his lips pressed into a tight, straight line. Finally, he spoke.
+“Kvothe.” He stopped and pressed his fingers to the bridge of his nose. His voice softened. “You should have told us. Told us about Auri, before all this. We could have helped. Protected her. Did you truly think we would not care?”  
 
-“Kvothe.” He stopped and pressed his fingers to the bridge of his nose. His voice softened, gentled by something unspoken. “You should have told us. Told us about Auri, before all this. We could have helped. Protected her. Did you truly think we would not care?”
+I looked away. “You don’t understand,” I said, too quickly. “If anyone found out about her, they would send her to Haven. I couldn’t let that happen. I couldn’t bear it. But I failed her, all the same.”  
 
-Shame burned in my cheeks. I knotted my hands in my lap, twisting them together. “You don’t understand,”  I said, desperation creeping into my voice. “If anyone found out about her, they would send her to Haven. I couldn’t let that happen. I couldn’t bear it. But I failed her, all the same.”
+Sim let the quiet hang between us before nodding. “Kvothe, you look like you could fall apart at the slightest push. Seriously, rest. You wouldn’t let me help you before. Let me try now.” He hesitated, then added, “You said Elodin was trying to tell you something. About a girl being gone. That’s where I’ll start.”  
 
-Sim let the silence hang between us before nodding. “Kvothe, you look like you could fall apart at the slightest push. Seriously, rest. You wouldn’t let me help you before. Let me try now. Tell me about Auri. Let me see what I can find.”
+I described Auri as best I could. The soft quickness of her movements, the way she seemed to breathe through the cracks in the world without disturbing anything. Even as I spoke, I could see him trying not to show how improbable it all seemed.  
 
-I told him about Auri as best I could. I described the moonlight sheen of her hair, the soft quickness of her movements, and the way she seemed to breathe through the cracks in the world without disturbing anything. Even as I spoke, Sim’s face tightened with quiet doubt. I could tell he was trying not to show how improbable it all seemed.
+When my words ran out, Sim stood. He touched my shoulder, gentle. “Stay,” he said. “You’re safe here. Sleep if you can. I’ll see what I can find.” He paused at the door, glancing back. “We’ll figure this out, Kvothe. We will.”  
 
-When my words ran out, Sim stood. He touched my shoulder, gentle. “Stay,” he said. “You're safe here. Sleep if you can. I’ll go see what I can find.”
+### * * *  
 
-### * * *
+I woke to the sound of soft movement. Grey light filtered through the window. Hours had passed, then. Sim sat nearby, silhouetted by the dying fire, his face shadowed but unmistakably weary. He had dark circles under his eyes, and his hands were still. That stillness worried me more than anything. Sim’s hands were never still.  
 
-I woke to the sound of quiet movement. Sim sat nearby, silhouetted by the fire, his face shadowed but unmistakably weary. He looked at me for a long moment before speaking.
+He looked at me for a long moment before speaking.  
 
-“I found something,” he began, his voice low.
+“I talked to Elodin,” he began, his voice low. “Or rather, he found me.” Sim shook his head, a humorless laugh escaping him. “I was asking around, trying to be careful about it. Didn’t want to draw attention to you. But he just appeared. You know how he is.”  
 
-I sat up, every muscle aching. “Go on.”
+I did know. Elodin had a way of being exactly where he shouldn’t be, knowing exactly what he shouldn’t know.  
 
-He hesitated, running a hand through his hair. “Someone matching her description was seen, crying and struggling. The carriage she was in had Ambrose’s seal.”
+“He wouldn’t ask about you,” Sim continued. “Made a point of it, actually. But he wanted me to tell you about the girl.” Sim’s voice caught slightly. “He said you’d need to know.”  
 
-My stomach dropped. “Ambrose,” I said, the name curling bitterly on my tongue.
+I sat up, every muscle aching. “Know what?”  
 
-Sim nodded reluctantly. “His coachman was seen heading toward Renere. I don’t know what it means, Kvothe, but it doesn’t look good.”
+Sim hesitated. “The University is sending her away. To Renere.”  
 
-I leaned forward, resting my head in my hands. Waves of anger and guilt surged through me, each pulling sharper than the last. “If it’s him.” I whispered, trailing off.  
+“Why would they do that?”  
 
-Sim leaned closer, his voice firm. “You can’t rush this. You’re already on thin ice with, well, everything. He could be baiting you.”
+“She’s someone, Kvothe.” He shook his head. “Elodin wouldn’t say more than that. But the University wants her gone. Quietly. And Ambrose is escorting her.”  
 
-I clenched my jaw. He was right, of course. The thought made my blood boil. “I’ll handle it,” I said, more evenly than I felt. “I can’t just sit here doing nothing.”
+“Ambrose.”  
 
-Sim studied me carefully. “Then promise me you’ll be smart about this, Kvothe. Don’t rush into his trap.”
+Sim nodded, his expression grim. “His family is withdrawing their collection from the Archives. They’re not the only ones. After everything that’s happened.” He trailed off, but I understood. After what I’d done. After the hidden room was discovered. The University couldn’t guarantee the safety of books anymore, and the great families were pulling their treasures home.  
 
-“Smart,” I repeated, the word bitter on my tongue. “I’ll try.”
+I thought of the Archives. The tens of thousands of books. The ancient scrolls and clays. All of it, slipping away because of me.  
 
-Sim nodded, though his concern lingered in his expression. He didn’t believe me. I didn’t entirely believe myself.
+“Someone saw the carriage leaving,” Sim continued. His voice wavered, and he cleared his throat. “A girl matching her description. She was crying, Kvothe. Struggling.” His eyes met mine, and I saw real pain there. He didn’t know Auri, but he knew what she meant to me. “She didn’t want to go.”  
 
-### * * *
+I leaned forward, resting my head in my hands. Auri. Small and frightened. Trapped in a carriage bearing Ambrose’s seal.  
 
-The clothes Sim lent me hung awkwardly on my frame, loose in the waist and tight in the shoulders, yet they were dry. They didn’t smell of Haven’s damp rot, and that was enough.
+“If it’s him,” I whispered, trailing off.  
 
-I had no plans to return to Sim's quiet firelight. He’d have tried to stop me, I think, or at least slowed me down. He was a good friend, perhaps too good. The kindly weight of his concern was something I couldn’t afford right now.
+Sim leaned closer, his voice firm. “You can’t rush this. You’re already on thin ice with, well, everything. He could be baiting you. This could be exactly what he wants.”  
 
-Instead, I went to my apartment above Anker’s. Getting there was a risk. If Ambrose suspected I had come back, his lackeys might have already gone through it. But I was not about to leave without my lute. I could not do that again, especially with what I still had to face.
+He was right, of course. “I’ll handle it,” I said, more evenly than I felt. “I can’t just sit here doing nothing.”  
 
-The streets of Imre didn’t feel safe, though I used them sparingly. When I finally reached the back ways near Anker’s, I kept to the shadows, ducking under grain chutes and sliding over walls slick with frost. From below, my apartment above the inn looked dark, quiet. Still, my skin prickled with the thought of traps waiting inside, some unseen thread that might snap beneath my weight and betray me.
+Sim studied me carefully. “Then promise me you’ll be smart about this, Kvothe. Don’t rush into his trap.”  
 
-I scaled the stone carefully, pausing at the window’s edge. The air inside smelled faintly of wax and wood smoke, an oddly familiar scent that made it seem as if I had only stepped out for a drink. I scanned the room, but nothing stirred. I pulled myself inside, and no traps sprang.
+“Smart,” I repeated, the word bitter on my tongue. “I’ll try.”  
 
-The lute hung on its peg, waiting for me, and seeing it there loosened something tight in my chest. I pulled it down gently and ran my fingers along the worn case before placing it in my bag. I gathered the rest of my belongings from the small room, including a few coins, spare strings, and my last clean shirt. Then I slung the bag across my shoulder.
+Sim nodded, though his concern lingered in his expression. He didn’t believe me. I didn’t entirely believe myself.  
 
-The stillness struck me again, louder now. The fear that lingered beneath it. The knowledge that leaving this place meant leaving the last remnants of stability behind me.
+### * * *  
 
-I stood carefully, my bag heavy against my shoulder, and made my way back to the open window. If the room was trapped, whatever teeth it bore had missed their chance.
+The clothes Sim lent me hung awkwardly on my frame, loose in the waist and tight in the shoulders, yet they were dry. They didn’t smell of Haven’s damp rot, and that was enough.  
 
-Ambrose had her. Auri. A thought that iced my veins.
+I had no plans to return to Sim’s low firelight. He’d have tried to stop me, I think, or at least slowed me down. He was a good friend, perhaps too good. His worry was something I couldn’t afford right now.  
 
-One way or another, I would follow that thread to the end. I would go through cold, through darkness, and through every shadow of that damned city where he might try to escape. Holding my lute close, I slipped into the night and left behind what little I did not carry.
+Instead, I went to my apartment above Anker’s. Getting there was a risk. If Ambrose suspected I had come back, his lackeys might have already gone through it. But I was not about to leave without my lute. I could not do that again, especially with what I still had to face.  
 
-### ~ ~ ~
+I kept to the back ways, ducking under grain chutes and sliding over walls slick with frost. The moon had shifted westward but still lit the streets with pale silver, making shadows sharp and hiding places scarce. From below, my apartment above the inn looked dark, quiet. Still, my skin prickled at the thought of some trap I couldn’t see.  
+
+I scaled the stone carefully, pausing at the window’s edge. The air inside smelled faintly of wax and wood smoke, an oddly familiar scent that made it seem as if I had only stepped out for a drink. I scanned the room, but nothing stirred. I pulled myself inside, and no traps sprang.  
+
+The lute hung on its peg, waiting. I lifted it down and felt the familiar weight settle into my hands, the promise of music sleeping inside the wood. I ran my fingers along the worn case, then placed it in my bag. I gathered the rest of my belongings from the small room, including a few coins, spare strings, and my last clean shirt. Then I slung the bag across my shoulder.  
+
+The room felt too quiet. Too empty. This was the last of my stability, and I was leaving it behind.  
+
+I stood carefully, my bag heavy against my shoulder, and made my way back to the open window. If the room was trapped, whatever teeth it bore had missed their chance.  
+
+Ambrose had her. Auri.  
+
+One way or another, I would follow that thread to the end. I would go through cold, through darkness, all the way to Renere if I had to. Holding my lute close, I slipped into the night and left behind what little I did not carry.  
+
+### ~ ~ ~  
 
 [Chapter 14](CHAPTER_14.md) | [Contents](Contents.md) | [Chapter 16](CHAPTER_16.md)
