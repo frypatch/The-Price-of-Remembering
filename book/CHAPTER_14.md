@@ -335,7 +335,7 @@ The wall answered me.
 
 It broke.
 
-The rush of dawn air left me dizzy, and I let it carry me to the edge of the world. Pressing the ring to my lips, I whispered into the wind, “Wait for me, Auri.”
+The rush of night air left me dizzy, and I let it carry me to the edge of the world. Pressing the ring to my lips, I whispered into the wind, “Wait for me, Auri.”
 
 ### ~ ~ ~
 
