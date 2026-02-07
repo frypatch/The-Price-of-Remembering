@@ -37,7 +37,7 @@ I walked through the night and into the morning, following the east road as the 
 
 But I kept walking. The road wound through farmland and scattered villages, past orchards heavy with late fruit and fields where farmers were bringing in the last of the harvest. I bought an apple from a woman selling them by the roadside and ate it, core and all.  
 
-Near evening, I spotted a tinker’s wagon ahead, its painted panels bright against the darkening road. A single horse grazed nearby. Behind them, at the clearing’s edge, stood a greystone.  
+Near evening, I spotted a tinker’s wagon ahead, its painted panels bright against the darkening road. A single horse grazed nearby. The wagon sat atop a low bluff, at the edge of a clearing where standing stones rose pale against the fading sky.
 
 “Ho, tinker!” I called out and waited until an older man emerged from the wagon. He watched me approach. “I’m heading to Oakholt,” I said as I reached him. “Might I share your fire tonight? I can offer a song or two in trade.”  
 
@@ -67,7 +67,7 @@ I opened my eyes. The fire had burned down to embers, casting just enough light 
 
 Then I saw it.  
 
-Beside the greystone, at the edge of the clearing. Someone was standing there.  
+Beside the nearest greystone, at the edge of the firelight. Someone was standing there.  
 
 They were tall, taller than seemed quite right, with a lean, angular frame. They moved with a strange delicacy and grace as if they were close to dancing. But their legs were too thin, or perhaps the wrong shape entirely below the knee, as if the shadows clung to them strangely.  
 
@@ -79,9 +79,9 @@ I opened my mouth to call out, to challenge, but when I tried, I felt nothing. M
 
 I gasped.  
 
-My heart hammered in my chest. The greystone stood pale and empty in the darkness. The camp was silent. Nothing moved. My mouth was there, as if it had never left.  
+My heart hammered in my chest. The greystones stood pale and empty in the darkness. The camp was silent. Nothing moved. The camp was silent. Nothing moved. My mouth was there, as if it had never left.  
 
-I lay there for a long moment, staring at the empty space beside the stone. My heart refused to slow. Finally, I threw off my blanket and walked to the edge of camp. I needed to move, needed to prove I could. I did not sleep again that night. And in the morning, when I asked Terrence if he had seen anyone near the stone, he gave me an odd look and shook his head.  
+I lay there for a long moment, staring at the empty space beside the stone. My heart refused to slow. Finally, I threw off my blanket and walked to the edge of camp. I needed to move, needed to prove I could. I did not sleep again that night. And in the morning, when I asked Terrence if he had seen anyone near the stones, he gave me an odd look and shook his head.  
 
 “Just us,” he said. “Just us and the road.”  
 
