@@ -93,13 +93,13 @@ I frowned. Or I tried to. My face didn’t feel quite right. “Expelled?”
 
 “No,” I said, shaking my head as if that might shake loose something useful. “That can't be right.”
 
-He sighed, waved a hand as though brushing dust from his sleeve. “Lorren is here too,” he said lightly. “I've never seen someone so broken. But speculation is so exhausting, don’t you think?”
+He sighed, waved a hand as though brushing dust from his sleeve. “Lorren is here too,” he said lightly. “I've never seen someone so shattered. But speculation is so exhausting, don’t you think?”
 
 The words hit me wrong, a step missed on a staircase, a knife put back in the wrong drawer. I stared at him.
 
-“Dead?” I repeated.
+“Shattered?” I repeated.
 
-His head tilted. “As dead as your prospects at the University,” he said, wearing a jagged little smile that didn’t belong on his face. “Really, Kvothe, you should pay more attention.”
+His head tilted. “As shattered as your prospects at the University,” he said, wearing a jagged little smile that didn’t belong on his face. “Really, Kvothe, you should pay more attention.”
 
 I swallowed. My mind felt like wet paper, unable to hold anything without warping. I had known this, hadn’t I? Hadn’t someone told me? Or had I dreamed it?
 
