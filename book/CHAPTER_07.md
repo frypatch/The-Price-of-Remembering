@@ -45,7 +45,7 @@ Classes would be back in session. Life at the University had, at last, moved on.
 
 ### * * *  
 
-I came down through the last branches of the apple tree and dropped into the courtyard and found Auri hopping from stone to stone, landing only on the ones that had heaved up proud over the years. She held half an apple in one hand and took small bites between hops. When she heard my boots touch ground, she landed lightly and turned, her face lighting up.  
+I came down through the last branches of the apple tree and dropped into the courtyard to find Auri hopping from stone to stone, landing only on the ones that had heaved up proud over the years. She held half an apple in one hand and took small bites between hops. When she heard my boots touch ground, she landed lightly and turned, her face lighting up.  
 
 “Welcome home, Kvothe,” she said primly from one foot, arms spreading for balance. “These ones think too much of themselves.”  
 
@@ -59,7 +59,7 @@ Auri raised a finger. “But did you ride it?”
 
 “No.” I sighed, finding a root to sit on. The courtyard was cool beneath us, and the light had grown thin. “But I got closer.”  
 
-“That’s good enough,” she said lightly. “You’ll be Taborlin the Great before you know it.” Her eyes found the bulging pack at my side. “You found other things.”  
+“That’s good enough,” she said lightly. “You’ll be Taborlin the Great before you know it.” Her gaze fell to the bulging pack at my side. “You found other things.”  
 
 “I did.” I reached into my pack and pulled free a bundle of rich blue fabric tied with a thin strip of leather. “This one’s for you.”  
 
@@ -95,7 +95,7 @@ Behind us, the merchant sputtered something about their evening plans, but Denna
 
 “I’ve played worse parts.”  
 
-We spent the evening walking the streets of Imre, dipping into one restaurant after another. She talked between courses, hands moving as she worked through problems in her song, where a verse sat wrong, how a story should turn. I listened, offered thoughts when she asked, mostly just watched her come alive over the work. Over glasses of wine, we sang her new harmony. Her smiles and bright laughter filled our evening, yet I couldn’t shake the weight of what always followed. The quiet. The spaces where I could not follow.  
+We spent the evening walking the streets of Imre, dipping into one restaurant after another. She talked between courses, hands moving as she worked through problems in her song, where a verse sat wrong, how a story should turn. I listened, offered thoughts when she asked, mostly just watched her come alive over the work. Over glasses of wine, we sang her new harmony. Her smiles and bright laughter filled our evening, yet I couldn’t shake the weight of what always waited beneath. The quiet. The spaces where I could not follow.  
 
 By the time we left the last restaurant, I’d spent more of the Maer’s coin than I cared to count. But sixty-two talents’ worth of tuition buys a great deal of pocket money, and I found I did not mind the spending as I once might have.  
 
@@ -109,11 +109,11 @@ The boatman guided us to a quiet spot beneath the arch of Stonebridge, where the
 
 It wasn’t a suggestion.  
 
-I hesitated, my fingers trailing over the strings of my lute as I unslung it from my shoulder. In the past, I would have reached for something easy, the steady comfort of a familiar tune. But I was tired of being safe. So I loosened the highest string and slipped it free.  
+I hesitated as I unslung my lute, my fingers trailing over the strings. In the past, I would have reached for something easy, the steady comfort of a familiar tune. But I was tired of being safe. So I loosened the highest string and slipped it free.  
 
 The music rose into the air. It was no longer perfect, but how could it be? I’d only ever played this song with a broken lute, as a broken boy.  
 
-Denna closed her eyes and tilted her head slightly, as if listening to what lay beneath the notes. When the final chords faded, she opened her eyes and for a moment, neither of us spoke. The only sound was the lap of water against the boat and the murmur of the city above.  
+Denna closed her eyes and tilted her head slightly, as if listening to what lay beneath the notes. When the final chords faded, she opened her eyes and for a moment, neither of us spoke. The only sound was the lap of water against the boat and the hum of the city above.  
 
 Then she shifted closer, settling against me on the narrow bench, and rested her head against my shoulder. She was light against me, warm against the night air. “I always knew you were like this,” she said softly, her voice barely more than a whisper.  
 
