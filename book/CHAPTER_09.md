@@ -49,7 +49,7 @@ I didn’t look up from my calculations. “For what?”
 
 “I’m fine,” I said, gesturing helplessly at the papers scattered across every surface. “I’m close. I just need a little more time.”  
 
-“Close to what?” Wil had moved to stand beside Sim, his dark Cealdish eyes scanning the figures and diagrams.  
+“Close to what?” Wil had moved to stand beside Sim, his eyes scanning the figures and diagrams.  
 
 I pulled out my clearest sketch showing all of the readings overlaid on a rough map of the Archives.  
 
@@ -65,7 +65,7 @@ I breathed. In. Out. The room steadied, though my hands still shook.
 
 Sim and Wil shared a look.  
 
-“Whatever this is,” Sim said waving a hand at my sketches, “you’re in over your head.”  
+“Whatever this is,” Sim said, waving a hand at my sketches, “you’re in over your head.”  
 
 I wanted to deny it. But my white-knuckled grip on the desk said otherwise.  
 
@@ -83,7 +83,7 @@ They left, and I sat alone with my diagrams.
 
 ### * * *  
 
-The next morning, I stood outside Master Brandeur’s office, my hand raised a long moment before I knocked.  
+The next morning, I stood outside Master Brandeur’s office, my hand raised to knock for a long moment before I did.  
 
 “Enter,” came his voice through the door.  
 
@@ -139,7 +139,7 @@ He drew a diagram, plotting my angles as lines radiating from their observation 
 
 He spread out four sheets, each containing one level’s worth of measurements. “Level one. The readings cluster tightly here.” He marked a point. “Level two. Tight cluster here, or rather, two clusters, as we discussed. Level three, tight cluster here. Level four, here.”  
 
-“If your target is stationary, these five points should coincide. They don’t. Each level gives you a completely different answer.” Brandeur pulled out a fresh sheet and began sketching rapidly. “But watch what happens when I plot the vertical position.”  
+“If your target is stationary, these points should coincide. They don’t. Each level gives you a completely different answer.” Brandeur pulled out a fresh sheet and began sketching rapidly. “But watch what happens when I plot the vertical position.”  
 
 He drew a simple graph, elevation on one axis, observation level on the other. Five points appeared, then he drew a horizontal line through four of them. “If we throw out the anomaly from level two, all four levels agree perfectly on the elevation. Your target is at the exact same height, regardless of which floor you measured from.”  
 
@@ -151,7 +151,7 @@ The weight lifted from my chest. A single object.
 
 “But now we come to the interesting part.” He returned to his diagram of the four horizontal positions. “Look at the disagreement here. If this were random error, these points would scatter in random directions. But they don’t.”  
 
-He drew lines connecting the four points. They formed a rough spiral pattern, each point rotated relative to the last.  
+He drew lines connecting the four points. A rough spiral, each point rotated relative to the last.  
 
 “The disagreement is systematic,” he said. “Each level’s answer is rotated relative to the others. As if.”  
 
@@ -161,7 +161,7 @@ I stared at the spiral pattern, knowing he was trying to lead me somewhere but s
 
 Finally the pieces clicked into place. “The coordinate systems,” I said, my words coming faster. “What if the reference frame at level one is rotated relative to level two? And level two is rotated relative to level three? That would explain exactly this pattern.”  
 
-Brandeur looked up at me, and I saw genuine pleasure in his eyes. A teacher’s satisfaction when a student makes the leap. “Precisely. You’ve been assuming your coordinate systems align. That ‘north’ at level one points the same direction as ‘north’ at level two. But your data suggests otherwise. Each level seems to have its own orientation, rotated relative to the others.”  
+Brandeur looked up at me, and I saw genuine pleasure in his eyes. A teacher’s satisfaction when a student makes the leap. “Precisely. You’ve been assuming your coordinate systems align. That ’north’ at level one points the same direction as ’north’ at level two. But your data suggests otherwise. Each level seems to have its own orientation, rotated relative to the others.”  
 
 “But why would reference frames rotate between levels?”  
 
@@ -185,11 +185,9 @@ Brandeur nodded, and I saw gratitude in his eyes. “It’s been a fascinating p
 
 ### * * *  
 
-I grabbed some more paper and headed back to the Archives. Midday light slanted through the high windows as I descended, avoiding the first floor where too many eyes might question what I was about.  
+I grabbed some more paper and headed back to the Archives. Wanting to avoid the many eyes that might question what I was about, I bypassed the main floor and descended to sub-one, then to the stairwell that led down to sub-two. At each turn of the stairwell, I traced the angle onto a paper wedge. When I reached the bottom, I laid my collection of pieces edge to edge. Quarter-turn. Half-turn. Three-quarters. Full rotation. Another quarter-turn.  
 
-I went right to the stairwell that led down to sub-two. At each turn of the stairwell, I traced the angle onto a paper wedge. When I reached the bottom, I laid my collection of pieces edge to edge. Quarter-turn. Half-turn. Three-quarters. Full rotation. Another quarter-turn.  
-
-I continued to sub-three, tracing each step with growing certainty. By the time I reached sub-three, the pattern was unmistakable. Each descent turned the world around me.  
+I continued downward, tracing each step with growing certainty. By the time I reached sub-three, the pattern was unmistakable. Each descent turned the world around me.  
 
 I stood in the corridor outside Puppet’s room and pictured it. Sub-one, turned on its axis relative to the main floor. Sub-two, turned again relative to sub-one. Sub-three, turned once more. Each level connected to the next by a single stairwell, but that connection was a pivot point, not an anchor. The floors did not stack like plates in a cupboard. They spiraled like a nautilus shell, each chamber turned from the one above.  
 
@@ -203,21 +201,21 @@ I left the Archives, my verification complete. But what I needed was precise mea
 
 I returned to the Archives in the early afternoon and spent the next several hours with the surveyor’s compass and measuring cord that I had borrowed from the Fishery. The main floor. Sub-one. Sub-two. Sub-three. Each level measured with exquisite care, each bearing recorded with precision that made my earlier attempts look like guesswork.  
 
-The numbers were better than I had hoped. Twenty-three degrees on the main floor. Sixty-eight on sub-one. One hundred fifty-eight on sub-two. Two hundred eighteen on sub-three. A perfect spiral, each level rotating clockwise from the one above.  
+The numbers were better than I had hoped. The main floor was rotated twenty-one degrees from the entrance. Sub-one, thirty-four degrees from the main floor. Sub-two, fifty-five from sub-one. Sub-three, eighty-nine. Each level turning further than the last, spiraling like a nautilus shell.  
 
-By evening, I had applied all the transformations and the clusters converged. All four floors. All agreeing. All pointing to the same location thirty feet east of the Archives’ exterior wall. At an elevation just below ground level.  
+By evening, I had applied all the transformations and the clusters converged. All four floors. All agreeing. All pointing to the same location thirty feet east of the Archives’ exterior wall.  
 
-It ended beneath Mains.  
+I sat back and stared. I had assumed sub-two lay deep underground. But the rotated geometry of the Archives and the grade of the hill meant it extended not downward but outward, just below the surface. Just beneath the oldest building on campus.  
 
-I sat back and stared at my diagram. The Four-Plate Door was on sub-two, deep underground. But due to the rotated geometry of the Archives and the grade of the hill, sub-two extended not directly beneath the building but outward, just beneath the oldest building on campus.  
+Just beneath Mains.  
 
 And Puppet, poor Puppet, had spent years listening for secrets through a ceiling that was nowhere near the room he sought, never thinking to question what seemed so obviously true.  
 
-I glanced out the window. The setting sun reminded me I had promised to meet my friends. If I left now, I’d have just enough time to make it to Corners.  
+I checked the time. Evening had settled in, and I remembered I had promised to meet my friends. If I left now, I’d have just enough time to make it to Corners.  
 
 ### * * *  
 
-Even so, when I arrived at Corners, Sim, Wil, and Fela had already claimed our table with a half-empty pitcher in the middle. In the first hand, I missed a crucial trick through a sequence I should have seen coming three plays earlier. Wil raised an eyebrow at my distraction but said nothing. A tankard of ale helped. Then, a few more hands, and gradually the game pulled me in. For a few hours the world became just cards, friends, and the comfortable rhythm of play.  
+Even so, when I arrived at Corners, Sim, Wil, and Fela had already claimed our table with a half-empty pitcher in the middle. In the first hand, I missed a crucial trick, overlooking a sequence I should have seen coming three plays earlier. Wil raised an eyebrow at my distraction but said nothing. A tankard of ale helped. Then, a few more hands, and gradually the game pulled me in. For a few hours the world became just cards, friends, and the comfortable rhythm of play.  
 
 When we finally dispersed near midnight, I headed toward Mains. Most of its windows were dark. I circled to the side closest to the Archives, climbed the old drainage pipe, and within minutes pulled myself onto the lower rooftop. From there I picked my way across the maze of peaks and valleys.  
 
@@ -227,9 +225,9 @@ It seemed so unlikely that I moved to the edge and peered down. Just to verify.
 
 And sure enough, below was Auri’s abandoned courtyard and apple tree.  
 
-I sat back and pulled out my blueprints, sketching in the courtyard’s position. Thirty feet across. The blank wall formed its northern border. The hidden room would lie just behind that wall, and the entire space should fit within Mains’ foundation.  
+I sat back and pulled out my blueprints, sketching in the courtyard’s position. Thirty feet across. The blank wall formed its northern border. Whatever lay behind the Four-Plate Door would be just beyond that wall, and the entire space should fit within Mains’ foundation.  
 
-I looked down at the blank wall again, at the peaceful courtyard in the moonlight. How many times had I practiced here, never questioning why one wall lacked windows? How many times had I met with Auri, the hidden room just beyond that blank stone?  
+I looked down at the blank wall again, at the peaceful courtyard in the moonlight. How many times had I practiced here, never questioning why one wall lacked windows? How many times had I met with Auri, whatever secrets lay just beyond that blank stone?  
 
 The geometry was clear now. The Four-Plate Door sat both in the Archives and beneath Mains. I gathered my compass and diagrams, and headed back toward my room. But I already knew where my next steps would take me.  
 
