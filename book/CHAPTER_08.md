@@ -79,11 +79,9 @@ Yesterday, when I returned to check the compass, the needle pointed toward the e
 
 But today, the waiting was over.  
 
-As I tracked it, the compass needle held steady, leading me deeper into the Stacks. Down through switchback corridors where my sympathy lamp cast dancing shadows. Past reading alcoves that smelled of dust and old leather. Through the long silent rows of shelving. Into passages I had walked a hundred times before.  
+I knew where the needle was taking me, but I let it lead me all the same. Deeper into the Stacks, through switchback corridors where my sympathy lamp cast dancing shadows. Past reading alcoves that smelled of dust and old leather. And to the empty corridors where the Four-Plate Door waited.
 
-And when the needle froze, I found myself in front of the Four-Plate Door.  
-
-My pulse roared in my ears. For a moment, I hoped the compass had faltered, that I had miscalibrated or made some fatal error. But no. The needle’s stillness was absolute. The door sat still as a mountain, quiet and indifferent as the sea. I pressed my trembling hand against the cold stone, my fingers finding the edges of a copper plate. It was fitted so precisely. How had I never understood what that meant? This door was never meant to open for me.  
+For a moment, I stood there hoping I had miscalibrated, that some fatal error would reveal itself and make the whole thing foolish. But no. The needle’s stillness was absolute. The door sat still as a mountain, quiet and indifferent as the sea. I pressed my hand against the cold stone, my fingers finding the edges of a copper plate. It was fitted so precisely. How had I never understood what that meant? This door was never meant to open for me.
 
 The book was here. Beyond this impenetrable barrier.  
 
