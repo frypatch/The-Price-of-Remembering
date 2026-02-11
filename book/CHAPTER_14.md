@@ -3,340 +3,338 @@
 ## NAME IN THE WALL.
 
 
-BELLS.
+BELLS.  
 
-They rang at odd intervals, distant and hollow in one breath, unbearably close in the next. They split the world into sharp, uneven slices, carving time into something thin and wrong.
+They rang at odd intervals, distant and hollow in one breath, unbearably close in the next. They carved the world into sharp, uneven slices, leaving time thin and wrong.  
 
-I woke between them. Or maybe I didn’t wake at all. Maybe I had always been here.
+I woke between them. Or maybe I didn’t wake at all. Maybe I had always been here.  
 
-The walls loomed smooth as quarried glass, and the damp air pressed cold against my skin. A thin sliver of light fractured the air above, though it was pale and almost colorless. It seemed as if the light had traveled so far to find me that it had worn itself thin along the way.
+The walls loomed smooth as quarried glass, and the damp air pressed cold against my skin. A sliver of light fractured the dark above, though it was pale and almost colorless. It seemed as if the light had traveled so far to find me that it had worn itself thin along the way.  
 
-I frowned, or I thought I did. My face felt unfamiliar. My limbs, unsteady.
+I frowned, or I thought I did. My face felt unfamiliar. My limbs, unsteady.  
 
-A name surfaced, sticky and slow. Haven.
+A name surfaced, sticky and slow. Haven.  
 
-Or had I only dreamed that word?
+I sat up fast, too fast. The motion sent a sick, swaying weight through my stomach. The silence between the bells was unbearable, swallowing me whole.  
 
-I sat up fast, too fast. The motion sent a sick, swaying weight through my stomach. The silence between the bells pressed in thick and unbearable, swallowing me whole.
+That was when I noticed him.  
 
-That was when I noticed him.
+A figure hunched in the farthest corner, folded in on himself, his frame drawn out and too long to seem entirely natural. His shift draped loose on him, pale linen gone grey with dust and damp. His head hung forward as he muttered. Words slipped from him in a sluggish drip, slow and lilting, circling back into quiet, familiar rhythms.  
 
-A figure hunched in the farthest corner, thin and folded, his frame drawn out and too long to seem entirely natural. His clothes clung to him in ragged layers, darkened by dust and tangled at the edges. His head hung forward as he muttered. Words slipped from him in a sluggish drip, slow and lilting, circling back into quiet, familiar rhythms.
+I tried to speak, but my own voice curled dry and useless in my throat. My fingers trembled toward water that wasn’t there. I swallowed, tried again.  
 
-I tried to speak, but my own voice curled dry and useless in my throat. My fingers twitched toward water that wasn’t there. I swallowed, tried again.  
+“Who?” The word struggled to leave my mouth, like I had to pull it from a great distance. It barely breached the air between us. His murmuring did not stop.  
 
-"Who?" The word struggled to leave my mouth, like I had to pull it from a great distance. It barely breached the air between us. His murmuring did not stop.
+I tried to piece together his words, but they tumbled over themselves as half-verses and broken couplets. The meter stumbled over itself, too far gone for sense.  
 
-I tried to piece together his words, but they tumbled over themselves as half-verses and broken couplets. The meter folded on itself, like a thing too worn for use.
+Rhymes.  
 
-Rhymes.
+The realization crawled over my skin. My stomach turned cold. He wasn’t simply a madman. He was something far worse. A poet.  
 
-The realization crawled over my skin. My stomach turned cold. He wasn't just a madman, but worse! A poet!
+“I was never the first to follow,” the muttering unravelled between us. “Nor the last to call the name.”  
 
-"I was never the first to follow," the muttering unravelled between us. "Nor the last to call the name."
+I swallowed. Pushed to my feet.  
 
-I swallowed. Pushed to my feet.
+“Stop,” I rasped. My voice cracked, ancient with thirst.  
 
-"Stop," I rasped. My voice cracked, ancient with thirst.
+The rhyming voice continued. Another verse drifted between the weight of stone.  
 
-The rhyming voice continued. Another verse curled between the heavy weight of stone.
+I stepped toward him. Then closer still.  
 
-I stepped toward him. Then closer still.
+The first thing I noticed was his hands. They moved with the rhythm, quick and deft, shaping soft answers to words I had not asked.  
 
-The first thing I noticed was his hands. They were pale and thin, moving with the rhythm and shaping soft answers to words I had not asked.
+The second thing I noticed was me. The moment stretched. My breathing frayed.  
 
-The second thing I noticed was me. The moment stretched. My breathing frayed.
+I reached forward, hands shaking for something solid. My fingers met his shoulders, found fabric worn to nothing. He shifted. His head lolled forward, rolling loose before turning upward, slowly, carefully.  
 
-I reached forward, hands shaking for something solid. My fingers met his shoulders, pressed against fabric worn too thin. He shifted. His head lolled forward, rolling loose before turning upward, slowly, carefully.
+I saw him.  
 
-I saw him.
+I saw me.  
 
-I saw me.
+He smiled first. Of course he did. That’s what I would do.  
 
-He smiled first. Of course he did. That’s what I would do.
+He tilted his head, sharp and knowing. His eyes were something else entirely.  
 
-He tilted his head, sharp and knowing. His eyes were something else entirely.
+“Oh,” he said lightly, as if I had come late to something inevitable.  
 
-"Oh," he said lightly, as if I had come late to something inevitable.
+And then, in a voice that was my own, he asked, “If you were mad, would you even know?”  
 
-And then, in a voice that was my own, he asked, "If you were mad, would you even know?"
+### * * *  
 
-### * * *
+Time in Haven twisted itself into thin, brittle threads, impossible to hold. I measured it by breaths, by the fickle slant of light that bled through the high window and crept across the floor like a dying thing. Bells rang at strange intervals, distant one moment, deafening the next.  
 
-Time in Haven twisted itself into thin, brittle threads, impossible to hold. I measured it by breaths, by the fickle slant of light that bled through the high window and stretched across the floor like a dying thing. Bells rang at strange intervals, distant one moment, deafening the next.
+Somewhere between those bells, he appeared.  
 
-Somewhere between those bells, he appeared.
+Elodin. Maybe.  
 
-Elodin. Maybe.
+He lounged against the doorframe, if there was a door. If there was a frame. His grin flickered in and out, too wide, too knowing, too sharp. “Good morning,” he said, amused. “Or good evening. But it doesn’t really matter, does it?”  
 
-He lounged lazily against the doorframe, if there was a door. If there was a frame. His grin flickered in and out, too wide, too knowing, too sharp. “Good morning,” he said, amused. “Or good evening. But it doesn’t really matter, does it?”
+His words should have startled me, but they didn’t. I had heard voices before. Sometimes they were whispers in the walls, rhymes in the dark, or even my own laughter echoing back at me from some corner of my mind. This was just another game Haven played, another hallucination.  
 
-His words should have startled me, but they didn’t. I had heard voices before. Sometimes they were whispers in the walls, rhymes in the dark, or even my own laughter curling back at me from some corner of my mind. This was just another game Haven played, another hallucination.
+I closed my eyes. Counted. One. Two.  
 
-I closed my eyes. Counted. One. Two.
+“You always did like bending rules,” the voice stretched out, bored and easy.  
 
-“You always did like bending rules,” the voice yawned like a stretch, bored and easy.
+I cracked one eye open. “You’re not real.”  
 
-I cracked one eye open. “You’re not real.”
+That made him laugh. And when did he move? He had taken a step, or maybe the room had shifted. He was closer now but still not close enough to touch.  
 
-That made him laugh. And when did he move? He had taken a step, or maybe the room had shifted. He was closer now but still not close enough to touch.
+“Real is such a flexible thing,” he said. “Here, even more so.”  
 
-“Real is such a flexible thing,” he said. “Here, even more so.”
+“You shouldn’t be here,” I rasped. My throat was still raw. “Or I shouldn’t be here. I don’t know.” A pause. “I can’t remember.”  
 
-“You shouldn’t be here,” I rasped. My throat was still raw, my voice scraping out of me. “Or I shouldn’t be here. I don’t know.” My own thoughts tumbled over themselves. “I can’t remember.”
+“Ah.” He pointed a dramatic finger at me. “There it is. The first thing to unravel.” His expression turned rueful. “A shame you were expelled. I had such hopes for you.”  
 
-“Ah.” He raised a hand and pointed a dramatic finger at me. “There it is. The first thing to unravel.” His expression turned rueful. “A shame you were expelled. I had such hopes for you.”
+I frowned. Or I tried to. My face still felt unfamiliar. “Expelled?”  
 
-I frowned. Or I tried to. My face didn’t feel quite right. “Expelled?”
+“For helping yourself to the cookie jar. For putting a hole in a perfectly good courtyard.” His voice blurred at the edges, overlapping itself. He was speaking ahead of me, as if I wasn’t keeping up. “Not that I was really listening. I don’t enjoy polite outrage. Too performative.”  
 
-“For stealing secrets,” he said. “For breaking sacred trusts.” His voice blurred at the edges, overlapping itself. He was speaking ahead of me, as if I wasn’t keeping up. “Not that I was really listening. I don’t enjoy polite outrage. Too performative.”
+“No,” I said, shaking my head as if that might jar loose something useful. “That can’t be right.”  
 
-“No,” I said, shaking my head as if that might shake loose something useful. “That can't be right.”
+He waved a hand as though brushing dust from his sleeve. “Lorren is here too,” he said lightly. “I’ve never seen someone so shattered. But speculation is so exhausting, don’t you think?”  
 
-He sighed, waved a hand as though brushing dust from his sleeve. “Lorren is here too,” he said lightly. “I've never seen someone so shattered. But speculation is so exhausting, don’t you think?”
+The words hit me wrong, a step missed on a staircase, a note struck on the wrong string. I stared at him.  
 
-The words hit me wrong, a step missed on a staircase, a knife put back in the wrong drawer. I stared at him.
+“Shattered?” I repeated.  
 
-“Shattered?” I repeated.
+His head tilted. “As shattered as your prospects at the University,” he said, wearing a jagged little smile that didn’t belong on his face. “Really, Kvothe, you should pay more attention.”  
 
-His head tilted. “As shattered as your prospects at the University,” he said, wearing a jagged little smile that didn’t belong on his face. “Really, Kvothe, you should pay more attention.”
+I swallowed. My mind felt like wet paper, unable to hold anything without warping. I had known this, hadn’t I? Hadn’t someone told me? Or had I dreamed it?  
 
-I swallowed. My mind felt like wet paper, unable to hold anything without warping. I had known this, hadn’t I? Hadn’t someone told me? Or had I dreamed it?
+He took another step forward. The movement was too effortless, his shape pulling toward me as if stretched. The room didn’t shift with him this time. That small change settled into me like a warning.  
 
-He took another step forward. The movement was too smooth and too effortless, his shape pulling toward me as if stretched. The room didn’t shift with him this time. That small change shot through me with quiet alarm.
+I pressed my palms against my temples and tried to force some clarity, begging for something solid. “I didn’t,” my voice wavered and grew thin. “I didn’t mean to.”  
 
-I gripped my temples and tried to force some clarity, begging for something solid. "I didn't," my voice wavered and grew thin. "I didn't mean to."
+“Didn’t mean to,” the voice echoed, softer now. His grin didn’t return this time. “Tell me, Re’lar Kvothe. What is the name for someone who breaks a thing and then apologizes to the pieces?”  
 
-“Didn’t mean to,” the voice echoed, softer now, like a lullaby sung to a dying ember. His grin didn’t return this time. “Knowledge isn’t free, Kvothe.”
+He turned, though I hadn’t seen him pivot. Behind him a door was closing with a soft snick. Had there even been a door there before?  
 
-He turned, though I hadn’t seen him pivot. I suddenly noticed a door closing with a soft snick, though I hadn’t seen him touch it. Had there even been a door there before?
+I sat there long after he was gone, heartbeat in my throat, walls leaning inward with the weight of silent things. I could almost hear them breathing. I could almost hear me, still laughing from a different corner of the room.  
 
-I sat there long after he was gone, heartbeat in my throat, walls leaning inward with the weight of silent things. I could almost hear them breathing. I could almost hear me, still laughing from a different corner of the room.
+Real. Flexible.  
 
-Real. Flexible.
+### * * *  
 
-### * * *
+The shadows shifted. The bells rang again.  
 
-The shadows curled. The bells rang again.
+Or they hadn’t.  
 
-Or they hadn't.
+My pacing had long since collapsed into nothing, a shape worn into the floor and a rhythm with no music. One step. Two steps. Back again. I had forgotten where it started. I had forgotten where I had started.  
 
-My pacing had long since collapsed into nothing, a shape worn into the floor and a rhythm with no music. One step. Two steps. Back again. I had forgotten where it started. I had forgotten where I had started.
+In the quiet, my own breath felt untethered. It stirred the damp, then fell still.  
 
-In the quiet, my own breath felt untethered. It stirred the damp, then fell still.
+And then, the smallest sound. A whisper, tucked in the crack beneath the door.  
 
-And then, the smallest sound. A whisper, curled in the crack beneath the door.
+“You sound rather undone,” it said.  
 
-"You sound rather undone," it said.
+I froze.  
 
-I froze.
+Words didn’t come from nothing. Words had to belong to someone. But I had spoken in places far from my mouth before. This could be another trick, another splinter of myself come to taunt me.  
 
-Words didn’t come from nothing. Words had to belong to someone. But I had seen my own echoes before, I had spoken in places far from my mouth. This could be another trick, another splinter of myself come to taunt me.
+Slowly, like a limb stiff from sleeping, I let my voice uncoil.  
 
-Slowly, like a limb stiff from sleeping, I let my voice uncoil.
+“Auri?”  
 
-"Auri?"
+There was a pause. Then, as if nothing in the world had ever been more obvious, she answered, “Yes. And you are still you.”  
 
-There was a pause. Then, as if nothing in the world had ever been more obvious, she answered, "Yes. And you are still you."
+The words struck something deep in me, something buried beneath the fractured lines of my thoughts. You are still you. My ribs tightened. A breath caught in my throat that I did not expect.  
 
-The words struck something deep in me, something buried beneath the fractured lines of my thoughts. You are still you. My ribs tightened. A strange breath caught in my throat.
+I pressed my back against the wall and swallowed. “I don’t feel like me.”  
 
-I pressed my back against the wall and swallowed. "I don't feel like me."
+She made a quiet sound. Not quite sad, but something near enough that I wanted to shut my eyes against it.  
 
-She made a quiet sound. Not quite sad, but something close enough that I wanted to close my eyes against it.
+“Mmm. Well,” she said lightly. “Even if you’ve misplaced a few pieces, you’re still here.”  
 
-"Mmm. Well," she said lightly. "Even if you've misplaced a few pieces, you're still here."
+I wanted to laugh, but I had forgotten the shape of it.  
 
-I wanted to laugh, but I had forgotten the shape of it.
+The pause stretched long. Then, softly, something small slid beneath the door and caught against my foot.  
 
-The pause stretched long. Then, softly, there was movement. A whisper of air slipped beneath the door as something small slid through and caught against my foot.
+I stared. A silver ring, fine as a whisper, glinted in the dim light. Its pale amber stone caught the glow and turned it warm.  
 
-I stared. A silver ring, delicate and thin, glinted faintly in the dim light. Its pale amber stone caught the weak glow and turned it warm.
+I hadn’t moved, but suddenly, it was already in my palm.  
 
-I hadn't moved, but suddenly, it was already in my palm.
+“What’s this for?” My voice sounded strange again. I didn’t know if I was asking her or the empty walls.  
 
-"What’s this?" My voice sounded strange again. I didn't know if I was asking her or the empty walls.
+Auri sighed, as if I had said something frustratingly obvious.  
 
-Auri sighed, as if I had said something frustratingly obvious.
+“To keep safe,” she said.  
 
-"To keep safe," she said.
+“For what?”  
 
-"For what?"
+“For safe-keeping.”  
 
-"For safe-keeping."
+The words curled soft around me. The pressure in my chest eased but didn’t fade completely. I turned the ring over between my fingers, watching it catch the slivered light. Keep it safe.  
 
-The words curled soft around me. The pressure in my chest eased but didn’t fade completely. I turned the ring over between my fingers, watching it catch the slivered light. Keep it safe.
+But even with the ring cool against my palm, I couldn’t trust it.  
 
-But even with the ring cool against my palm, I couldn't trust it.
+She had been here. Or she had not.  
 
-She had been here. Or she had not.
+I could still hear my own voice from where she had been, repeating her words back to me before she had said them. Somewhere near the door, stone groaned as though she had only just stepped away.  
 
-I could still hear my own voice from where she had been, repeating her words back to me before she had said them. Somewhere near the door, stone creaked as though she had only just stepped away.
+Or had she ever been here at all?  
 
-Or had she ever been here at all?
+I opened my mouth, but she was already gone.  
 
-I opened my mouth, stopped, hesitated—but she was already gone.
+### * * *  
 
-### * * *
+The voices wouldn’t stop.  
 
-The voices wouldn’t stop.
+They crept over each other like ivy strangling a ruin, tangling in through the cracks, soft as breath against my ear.  
 
-They curled over each other like ivy strangling a ruin, creeping in through cracks, pulling, tangling, pressing in soft as breath against my ear.
+One murmured, “You lose everything, you know. Always losing, always left behind.”  
 
-One murmured, "You lose everything, you know. Always losing, always left behind."
+Another hummed, lilted, sang of bitter things. “Broken and buried, never to rise, little fox trapped under trembling skies...”  
 
-Another hummed, lilted, sang of bitter things. "Broken and buried, never to rise, little fox trapped under trembling skies..."
+And then, “She won’t come again, you know.”  
 
-And then, "She won’t come again, you know."
+It slid into me before I could question who had spoken. But something about it was out of place. A discordant note in a familiar song.  
 
-It slid into me before I could question who had spoken. But something about it was out of place. A discordant note in a familiar song.
+A second passed. Too long. I faltered.  
 
-A second passed. Too long. I stalled.
+I shook my head, pushing it away.  
 
-I shook my head, pushing it away.
+### * * *  
 
-### * * *
+The bells had rung again.  
 
-The bells had rung again.
+From somewhere outside, a voice cut sharp as a whip.  
 
-From somewhere far outside, a sharp voice snapped like a hinge breaking.
+“Oh, for fuck’s sake, Kvothe!”  
 
-"Oh, for fuck’s sake, Kvothe!"
+A pause, seething. Then, “She’s gone.”  
 
-A pause, seething. Then, "She’s gone."  
+It came again, frustration cracking at the edges, trying to push its way into my thoughts.  
 
-It came again, frustration cracking at the edges, trying to push his way into my thoughts.
+I felt my lips move before I thought about speaking. A faint echo of a name, nothing more than breath. But then the voices took it, too. Drowned it in the tide.  
 
-I felt my lips move before I thought about speaking. A faint echo of his name, nothing more than breath. But then the voices took him, too. Swallowed him in the tide.
+“She’s gone, Kvothe.”  
 
-"She’s gone, Kvothe."
+The words distorted as they hit me. Warped in the space between hearing and knowing.  
 
-His words distorted as they hit me. Warped in the space between hearing and knowing.
+“...a girl in a cage...”  
 
-"...a girl in a cage..."
+“Chains, fox, she’s caught in the trap...”  
 
-"Chains, fox, she’s caught in the trap..."
+“Taken, forgotten, stolen, lost...”  
 
-"Taken, forgotten, stolen, lost..."
+“Gone, gone, gone, gone, gone...”  
 
-"Gone, gone, gone, gone, gone..."
+I winced, pressing my hands over my ears, but it didn’t help. The words broke on the way down, shifting from urgent to singsong, lost in the meter of my madness.  
 
-I winced, pressing my hands over my ears, but it didn’t help. The words twisted and broke on the way down, shifting from urgent to singsong, threading themselves along the meter of my madness.
+“She’s...”  
 
-"She’s..."
+“...gone.”  
 
-"...gone."
+Someone exhaled sharply.  
 
-Someone exhaled sharply.
+“Tehlu’s teeth, Kvothe.” Their voice was barely more than a breath. Tired. Resigned. Defeated.  
 
-"Tehlu’s teeth, Kvothe." Their voice was barely more than a breath. Tired. Resigned. Defeated.
+I turned my head toward the door. I meant to look for them, to really look, but the walls shifted wrong, and I caught nothing but a shadow moving. Leaving.  
 
-I turned my head toward the door. I meant to look for them, to really look, but the walls shifted wrong, and I caught nothing but a shadow moving. Leaving.
+The cell door clanged.  
 
-The cell door clanged.
+### * * *  
 
-### * * *
+The empty space left behind collapsed in on itself, folding neatly back into the rhythm of ruin.  
 
-The empty space left behind collapsed in on itself, folding neatly back into the rhythm of ruin.
+My false selves moved into the silence like scavengers.  
 
-My false selves moved into the silence like scavengers.
+“He’s gone,” one of them mused mildly.  
 
-"He’s gone," one of them mused mildly.
+“Gave up. Like everyone does, in the end.”  
 
-"Gave up. Like everyone does, in the end."
+“Maybe it’s better,” another murmured. “What would you even do, little fox? Claw at the walls? Call a name you don’t remember?”  
 
-"Maybe it’s better," another murmured. "What would you even do, little fox? Claw at the walls? Call a name you don’t remember?"
+“She won’t come again, you know.”  
 
-"She won’t come again, you know."
+The words threaded through me before I fully heard them. They knotted off and held.  
 
-The words threaded through me before I fully heard them. They landed and settled like dust.
+Something was wrong with them.  
 
-Something was wrong with them.
+It was small at first, nothing more than a missed step, a brief and distant wrongness. My mind moved sluggishly, pulling at the stitch but unable to work it loose. The words had been spoken before. Just now. A moment ago.  
 
-It was small at first, nothing more than a missed step, a brief and distant wrongness. My mind moved sluggishly, unable to grip the thought. The words had been spoken before. Just now. A moment ago.
+I tugged at it once, then let it be.  
 
-I shook my head, as if that could shake away the splinter of unease.
+“She won’t come again, Kvothe.”  
 
-"She won’t come again, Kvothe."
+It wasn’t one of them.  
 
-It wasn’t one of them.
+It wasn’t a whisper from the walls. It hadn’t come with the lilt of madness. It hadn’t curled from my own lips in some twisted echo.  
 
-It wasn’t a whisper from the walls. It hadn’t come with the lilt of madness. It hadn’t curled from my own lips in some twisted echo.
+It had been spoken. Someone real. Someone with weight.  
 
-It had been spoken. Someone real. Someone with weight.
+The wrongness sharpened. Everything inside me recoiled to attention.  
 
-The wrongness sharpened. Everything inside me recoiled to attention.
+Elodin.  
 
-Elodin.
+Elodin had said it.  
 
-Elodin had said it.
+My pulse kicked hard in my throat.  
 
-My pulse kicked hard in my throat.
+I gripped the silver ring, crushing it against my palm with shaking fingers. The ache of it burned me back into myself.  
 
-I gripped the silver ring, crushing it against my palm. The ache of it burned me back into myself.
+Elodin had been here.  
 
-Elodin had been here.
+This wasn’t some deep dream, some trick of Haven. I hadn’t conjured him from the marrow of my mind.  
 
-This wasn’t some deep dream, some trick of Haven. I hadn’t conjured him from the marrow of my mind.
+He had stood in this room.  
 
-He had stood in this room.
+And I had done nothing.  
 
-And I had done nothing.
+Like ice fracturing under sudden weight, the realization split through me.  
 
-Like ice fracturing under sudden weight, the realization split through me.
+I had let him leave.  
 
-I had let him leave.
+I had let Auri’s name fall into the void.  
 
-I had let Auri’s name fall into the void.
+The sickness in my stomach turned sharp, violent. My hands shook against the stone. I wanted to dismiss the thought, shove it away like all the other twisting illusions. But this thought didn’t warp like the others. It didn’t shift when I tried to pin it down. It held.  
 
-The sickness in my stomach turned sharp, violent. My hands shook against the stone. I wanted to dismiss the thought, shove it away like all the other twisting illusions. But this thought didn’t warp like the others. It didn’t shift when I tried to pin it down. It held.
+Auri.  
 
-Auri.
+Taken.  
 
-Taken.
+The moment stretched thin. My mind resisted one last time, trying to retreat back into the safety of madness. It would be easier to sink. Easier to be lost.  
 
-The moment stretched thin. My mind resisted one last time, trying to retreat back into the safety of madness. It would be easier to sink. Easier to be lost.
+But this was real. And the weight of it sat heavy against my chest, too much to ignore, too much to fade.  
 
-But this was real. And the weight of it pressed hard against my chest, too much to ignore, too much to fade.
+I clenched my teeth. I drew breath back into my lungs. My fingers curled tight against the floor, gripping the stone to hold myself here.  
 
-I clenched my teeth. I forced breath back into my lungs. My fingers curled tight against the floor, not to search for balance, but to hold myself here.
+I forced my head up.  
 
-I forced my head up.
+The voices still circled, splintering and snarling, but now I saw them for what they were.  
 
-The voices still circled, splintering and snarling, but now I saw them for what they were.
+I turned on them and on myself. My own specters, my own fragments, my own ruin.  
 
-I turned on them and on myself. My own specters, my own fragments, my own ruin.
+They didn’t retreat at first. They crowded close, whispering their last venomous doubts. One of them sang a lilting piece he called The Moon Fae’s Plight. Another murmured of horrors that made my stomach lurch. The madman in the corner kept time, nodding, muttering, and chanting.  
 
-They didn’t retreat at first. They pressed close, whispering their last venomous doubts. One of them sang a lilting piece he called The Moon Fae’s Plight. Another murmured of horrors that made my stomach lurch. The madman in the corner kept time, nodding, muttering, and chanting.
+I bared my teeth and fought them.  
 
-I bared my teeth and fought them.
+It was not a clean battle. It was not a sudden reckoning. I lost my footing. I slipped and fell into silence, and I had to claw my way out again and again.  
 
-It was not a clean battle. It was not a sudden reckoning. I lost my footing. I slipped and fell into silence, and I had to claw my way out again and again.
+Piece by piece, I drove them back.  
 
-Piece by piece, I drove them back.
+Even when the cracks were all that held me together, I fought.  
 
-Even when it left me raw and hollow, I fought.
+Even when shadows closed in seeking purchase, I would not be unmade.  
 
-Even when shadows closed in seeking purchase, I would not be unmade.
+And in the end, the voices faded. The muttering dissolved. I had only my own breath, my own body, a weak light that stretched thin across the floor.  
 
-And in the end, the voices faded. The muttering dissolved. I had only my own breath, my own body, a weak light that stretched thin across the floor.
+It was enough.  
 
-It was enough.
+And in the silence, I found it.  
 
-And in the silence, at last, I found it.
+The stone of the wall, worn and cold, whispered to me in a way I didn’t understand. My hands traced its surface blindly, nothing between my skin and the stone, until, at last, a name surfaced.  
 
-The stone of the wall, worn and cold, whispered to me in a way I didn’t understand. My hands traced its surface blindly, my ears straining against its quiet resistance until, at last, a name surfaced.
+“Cyaerbasalien.”  
 
-“Cyaerbasalien.”
+I spoke it hesitantly, then with certainty, then with the weight of stone.  
 
-I spoke it hesitantly, then with certainty, and then with the weight of stone.
+The wall answered me.  
 
-The wall answered me.
+It broke.  
 
-It broke.
+The rush of night air left me dizzy. Moonlight, nearly full, flooded through the broken stone, and I let it carry me to the edge of the world. Pressing the ring to my lips with trembling fingers, I whispered into the wind, “Wait for me, Auri.”  
 
-The rush of night air left me dizzy, and I let it carry me to the edge of the world. Pressing the ring to my lips, I whispered into the wind, “Wait for me, Auri.”
-
-### ~ ~ ~
+### ~ ~ ~  
 
 [Chapter 13](CHAPTER_13.md) | [Contents](Contents.md) | [Chapter 15](CHAPTER_15.md)
