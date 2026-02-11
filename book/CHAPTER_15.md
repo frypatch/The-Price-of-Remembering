@@ -33,11 +33,11 @@ Then I told him about Haven. That I’d cracked. That Elodin had tried to reach 
 
 “A girl?” Sim asked.  
 
-I turned Auri’s ring over on my finger, feeling the cool weight of it. “Do you remember that night on the rooftop? When Elodin brought Lorren up to talk about my ban from the Archives?”  
+I turned Auri’s ring over on my finger, still grounded by the cool weight of it. “Do you remember that night on the rooftop? When Elodin brought Lorren up to talk about my ban from the Archives?”  
 
-Sim frowned, searching. “Vaguely. There was a girl, wasn’t there? Small. She ran off before I got a proper look at her.”  
+Sim frowned, searching. “Vaguely. Was that the girl? Small. She ran off before I got a proper look at her.”  
 
-“Her name is Auri.” I stopped. The rest stuck in my throat. “There’s more to it than what you saw that night. Much more. And I should have told you a long time ago.”  
+“Her name is Auri.” I stopped. The rest stuck in my throat. “There’s more to her than what you saw that night. Much more. And I should have told you a long time ago.”  
 
 Sim waited.  
 
@@ -65,7 +65,7 @@ He looked at me for a long moment before speaking.
 
 I did know. Elodin had a way of being exactly where he shouldn’t be, knowing exactly what he shouldn’t know.  
 
-“He wouldn’t ask about you,” Sim continued. “Made a point of it, actually. But he wanted me to tell you about the girl.” Sim’s voice caught slightly. “He said you’d need to know.”  
+“He wouldn’t ask about you,” Sim continued. “Made a point of it, actually. But he made sure to tell me about the girl.” Sim’s voice caught slightly. “He said I needed to know.”  
 
 The fire had burned down to a faint orange glow. The room was cooling fast.  
 
@@ -81,7 +81,7 @@ Sim hesitated. “The University is sending her away. To Renere.”
 
 Sim nodded. His jaw tightened. “His family is withdrawing their collection from the Archives. They’re not the only ones. After everything that’s happened.” He trailed off, but I understood. After what I’d done. After the hidden room was discovered. The University couldn’t guarantee the safety of books anymore, and the great families were pulling their treasures home.  
 
-I thought of the Archives. Centuries of careful gathering, slipping away like sand through a cracked glass. Because of me.  
+I thought of the Archives. Centuries of careful gathering, slipping away like sand through a cracked hourglass. Because of me.  
 
 “Someone saw the carriage leaving,” Sim continued. His voice wavered, and he cleared his throat. “A girl matching her description. She was crying, Kvothe. Struggling.” He looked away. “She didn’t want to go.”  
 
