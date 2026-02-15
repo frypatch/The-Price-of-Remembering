@@ -7,7 +7,7 @@ THE ROAD AHEAD WAS little more than a gray scar stretching into the early light.
 
 Renere seemed impossibly far. Somewhere ahead, Ambrose pressed onward, and Auri was dragged along with him. Every time I thought of her, the despair was too much. So I did the only thing I could. I kept my eyes on the road and put one foot in front of the other. A single step means nothing against that kind of distance. But enough steps, one after another, and even an impossible road begins to shorten.  
 
-That’s when I heard them. Footsteps on the road behind me, closing fast. I turned and saw two figures against the dawn, their shadows stretching long and sharp toward me. I reached for something, anything, but before I could act, one of them called out. “Still warm.” It was Wil’s voice, cutting through the dim as his silhouette came into focus.  
+That’s when I heard them. Footsteps on the road behind me, closing fast. I turned and saw two figures against the dawn, their shadows stretching toward me. I reached for something, anything, but before I could act, one of them called out. “Still warm.” It was Wil’s voice, cutting through the dim as his silhouette came into focus.  
 
 The fist came wide, smashing into my jaw before I could say anything. I swayed, vision swimming, arms wheeling for balance. Anger surged through me and the taste of plum and nutmeg filled my mouth. I clenched my fists and took a step forward, but my arms were already trembling. Those damnable potions. Before I could embarrass myself, Simmon slipped in between us and caught Wil’s wrist.  
 
@@ -23,21 +23,21 @@ Sim watched him retreat, then turned to me, disappointment written plain on his 
 
 I raised a hand to stop Sim before he could say anything. “Wil, if I could have done something for Lorren, I would have.” Shame closed around my throat. I opened my mouth to say something more, but the rest would not come.  
 
-Wil’s expression barely shifted. “It’s not just Lorren, Kvothe. The Archives. The University’s name. The Surthen family is already pulling their collection. The Alveron loans will follow, and a dozen other houses after that. Generations of work. Generations of trust.” He spat the last word. “And for what? Your curiosity?”  
+Wil’s expression barely shifted. “It’s not just Lorren. The Surthens pulled their collection. The Alveron loans will follow. And more after that. Generations of work. Generations of trust. All. Gone.” He spat the last word. “For what? Curiosity?”  
 
 “It wasn’t just that,” I said, defensive without meaning to be.  
 
-“Then explain it,” Wilem pressed. “Stop burying the truth.”  
+“Then explain it,” Wilem pressed.  
 
-“You owe us at least that,” Sim added gently, though his gaze was firm. “After everything, tell us.”  
+“You owe us at least that,” Sim added gently, though his gaze was firm. “Stop burying the truth.”  
 
-I breathed out slow, as if I could push out more than air. Then I opened my mouth to argue, to deflect, but thought better of it. They were right. More than that, they deserved it. So I stopped. Let my shoulders drop. Let the silence have me.  
+I opened my mouth to argue, to deflect, but thought better of it. They were right. More than that, they deserved it. So I breathed out slow, as if I could push out more than air. Let my shoulders drop. Let the silence have me.  
 
-“How did you even find me?” I asked, grasping for something simpler.  
+“How did you even find me?” I asked, grasping for somewhere to start.  
 
 “You’re predictable,” Sim said. “The moment I realized you’d slipped out, I knew you’d be on the eastern road. Heading for Vintas and Ambrose.” He bent to massage his calf. “We ran most of the way. Those hills are brutal.”  
 
-Every minute I spent here was a minute Ambrose pulled further ahead. But these were my friends, and I owed them more honesty than I had been giving them. “I guess you better get comfortable,” I muttered. “The rest is going to take a while.”  
+Every minute I spent here was a minute Ambrose pulled further ahead. But these were my friends, and I owed them more honesty than I had been giving them. “I guess you better get comfortable,” I muttered. “This is going to take a while.”  
 
 Sim gestured down the road. “Tell us on the way.”  
 
@@ -67,11 +67,11 @@ And when my story ended, the tightness in my chest let go. It hurt. It helped. T
 
 Not all. Doubt still lingered between us, unspoken. Wilem hid it well, but I saw the glance he shared with Sim. Neither spoke. Neither needed to.  
 
-The cart creaked onward. Sim stared at his hands. Wil’s eyes were distant, his expression unreadable. The farmer hummed softly to himself, a melody that tugged at something in the back of my mind. It took me a moment to place it. A children’s rhyme. The one about the Chandrian. I watched him for a long breath, but his eyes stayed on the road and his humming wandered off-key into something else entirely.  
+The cart creaked onward. Sim stared at his hands. Wil’s eyes were distant, his expression unreadable. The farmer hummed softly to himself, a melody that tugged at something in the back of my mind. When I realized it was the children’s rhyme about the Chandrian, I gave him a long look, but his eyes stayed on the road and his humming wandered off-key into something else entirely.  
 
 It was Sim who finally broke the silence. “The Chandrian,” he said, lowering his voice as if the name itself might draw them. “You’re certain?”  
 
-“Look, you don’t have to believe in the Chandrian,” I said. “But my first teacher, Ben, once said something that always stuck with me. He said every culture in the world has stories about them. Not similar stories. The same stories. The same signs, the same fears, told by people who never met each other.” I paused. “When every traveler you meet warns you away from the same stretch of road, at some point you stop asking why and you stop walking that direction.”  
+“Look, you don’t have to believe in the Chandrian,” I said. “But my first teacher, Ben, once said something that always stuck with me. He said every culture in the world has stories about them. The same stories. The same signs, the same fears.” I paused. “When every traveler you meet warns you away from the same stretch of road, at some point you stop walking that direction instead of asking why.”  
 
 He nodded. Wil was quiet, but his eyes had sharpened. I had reached him too.  
 
@@ -83,13 +83,11 @@ After a moment, I noticed a smooth stone rattling loose among the boards of the 
 
 Wilem just shook his head. “You’ll draw attention, good and bad.”  
 
-We all knew he was right.  
-
 “How far you headed?” the farmer called back over the noise of the cart.  
 
 “The greystone circle,” I said. “The one on the bluff, half a day east.”  
 
-He was quiet a moment. “Place feels wrong after dark. I can take you farther if you like.”  
+He was quiet a moment. “That place feels wrong after dark. I can take you farther if you like.”  
 
 “We won’t be there long,” I said.  
 
@@ -99,7 +97,7 @@ In the easier silence that followed, something shifted between the three of us. 
 
 I answered as honestly as I could, but often enough I just didn’t know. Wil listened more than he spoke, but he was watching me, and the anger was finally gone.  
 
-The farmer dropped us at the greystones as the light was beginning to fade. They stood like giants too tired to move, their surfaces worn smooth by wind and years. I cursed myself silently. The text I needed, “En Temerant Voistra,” was cached half a day’s ride back toward Imre, tucked safely away with the rest of the copied documents. The wrong direction entirely. I would have to work from memory.  
+The farmer dropped us at the greystones as the light was beginning to fade. They stood like giants too tired to move, their surfaces worn smooth by wind and years. I cursed myself silently. The text I needed, “En Temerant Voistra,” was cached half a day’s ride back toward Imre, tucked safely away with the rest of the copied documents. I would have to work from memory.  
 
 I closed my eyes and tried to picture the book. The pages had been brittle with age, the Temic archaic. But I could see the drawn circle of greystones, and slowly the words returned to me.  
 
@@ -119,7 +117,7 @@ The stones shifted beneath my hand as the Name took root, a low tremor rippling 
 
 “It didn’t work,” I began, frustration already bleeding into my voice.  
 
-But then Sim’s hand settled gently on my shoulder and stopped me. “Kvothe, look,” he whispered, pointing upward.  
+But then Sim’s hand settled gently on my shoulder, stopping me. “Kvothe, look,” he whispered, pointing upward.  
 
 I followed his gaze. The sky above was velvet black and full of unfamiliar stars, bright and fixed in constellations I had never seen. The air around us had changed too, grown thick and sweet, carrying a warmth that had nothing to do with the season.  
 
