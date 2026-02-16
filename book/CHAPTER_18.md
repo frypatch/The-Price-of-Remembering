@@ -37,7 +37,7 @@ I didn’t answer. I stepped toward the song.
 
 “Kvothe.” Wilem caught my arm, his fingers pressing hard against my shoulder. “You know what this is.”  
 
-“We can’t keep wandering,” I said, pulling free. The song still hung between the trees, patient as deep water. “This is the only thing in this place that feels like it knows where it is.”  
+“We can’t keep wandering,” I said, pulling free. The song still hung, patient, between the trees. “This is the only thing in this place that feels like it knows where it is.”  
 
 “That is how people die,” Wilem said flatly.  
 
@@ -137,7 +137,7 @@ We were herded into the clearing at spearpoint. The hum of voices swelled and sh
 
 “The Talamas Grove has been defiled,” the Thiani leader announced, striking the butt of their spear against the ground. The sharp thunk of it rattled in my skull. “There must be justice.”  
 
-The assembled crowd muttered and hissed. The sound washed over me, distant, as if from very far away.  
+The assembled crowd muttered and hissed.  
 
 Then a voice. Soft, calm. Absolute.  
 
@@ -177,7 +177,7 @@ A sharp intake of breath from the gathered Court. Hissing, seething.
 
 ### * * *  
 
-He had not meant by the neck.  
+Luckily, he had not meant by the neck.  
 
 We were thrust into a cage woven from living roots, an orb no larger than a closet, and left to dangle over a putrid swamp. What relief I felt at keeping my throat unbruised faded quickly. The cage creaked and twisted when any of us so much as shifted, and the air inside tasted of rot.  
 
@@ -233,17 +233,13 @@ The word settled over the clearing like ash.
 
 Remmen shook his head.  
 
-“Cut out this one’s tongue,” the Thiani said, pointing to Sim.  
+“Then cut out this one’s tongue,” the Thiani said, pointing to Sim.  
 
 “No.” The word came out of me harder than I intended. Harder than was wise.  
 
 Remmen looked at me. “No? And who are you to decide in matters of this court?”  
 
-I opened my mouth to argue, and the words died before they reached my tongue. You do not argue with the Fae. That is not how their world turns.  
-
-Their world turns on story.  
-
-“I challenge the sentence,” I said. “In the old ways.”  
+“I am who sets the challenge,” I said. “In the old ways.”  
 
 The words felt strange in my mouth. Old. Borrowed. As if I had heard them in a tale long ago and they had been waiting inside me ever since.  
 
@@ -315,7 +311,7 @@ Remmen smiled. “Such a small word for what he is.”
 
 The boy did not flinch. Those uncanny blue eyes held mine, weighing me, and I had the sudden strange sense that I was the one being won.  
 
-“My son, for you. The Prince of Twilight.”  
+“My son, your ward. The Prince of Twilight.”  
 
 I looked at Remmen. “Why?”  
 
@@ -323,15 +319,9 @@ I looked at Remmen. “Why?”
 
 “And in what old tale does a game of Tak win a man a prince?”  
 
-Remmen’s violet eyes held mine. Steady. Ancient. Sure.  
+Remmen’s violet eyes held mine. Steady. Ancient. Sure. “In all of them.”  
 
-“In all of them.”  
-
-“And now you would give me your son?”  
-
-Remmen’s smile did not reach his eyes. “No. I would give you my son *because* of that.”  
-
-Then the rightness of the story settled into me. The rightness of a hero’s story that becomes the truth. My tongue recoiled. If I had lost, I would never have sung again.  
+Then the rightness of the story settled into me. The rightness of a hero’s story that becomes the truth. My tongue recoiled, realizing if I had lost, I would never have sung again.  
 
 I turned back toward the boy. He grinned at me, bright and sharp as moonlight on a blade.  
 
