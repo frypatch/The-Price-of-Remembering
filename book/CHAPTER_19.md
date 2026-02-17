@@ -3,364 +3,366 @@
 ## AMBER AND IVORY.
 
 
-THE AIR BIT at my skin as we stepped out of the Fae. Sharp, cold, honest.
+THE AIR BIT at my skin as we stepped out of the Fae. Sharp, cold, honest. I hadn’t realized how thick the air had been there, thick as resin left too long in the sun. Not until it was gone and the world was real again, my limbs made of flesh and bone instead of silk and story.  
 
-I hadn’t realized how thick the air had been there, thick as amber poured too slowly. How warm and sweet the light had been, pressing against my skin like a hand held too long on the back of my neck. I hadn’t noticed, not until it was gone.
+Wil and Sim shifted beside me, blinking hard, drawing deep breaths as if tasting the air for the first time. I could see the moment they registered the weight of their own limbs again, the sharpness of the world.  
 
-Now the world was crisp again, cut clean in hard-edged light and scent. The earth felt real under my feet. My own body felt heavier, my limbs made of flesh and bone instead of silk and story.
+Then there was Bast.  
 
-I let out a slow breath. We'd made it.
+Unlike the rest of us, Bast did not move as if shaking off some unseen burden. His eyes simply drifted shut for a moment, his hands loose at his sides.  
 
-Wil and Sim shifted beside me, stretching the way men do after too long in bed. I could see the moment they registered the weight of their own limbs again, the sharpness of the world.
+“Ah,” he murmured. “I forget how thin all this is.”  
 
-Then there was Bast.
+I turned to glance at him, unchanged yet entirely different. Here in the mortal world, the shape of him meant something again. Everything about him was a careful act. Even the precise way he breathed carried purpose.  
 
-Unlike the rest of us, Bast did not move as if shaking off some unseen burden. He simply stood, still and considering. His eyes drifted shut for a moment, his hands loose at his sides.
+To his credit, his glamourie was well-woven. It had to be. The Fae do not belong in the mortal world, and the world knows it. Sometimes in whispers. Sometimes in screams. But always in blood. So he crouched, adjusting where the seams of himself blurred too thin. A flick of fingers across his cheekbones, dulling their sharpness. A smooth drag down his side, settling the curve of boots that hid the cloven hooves beneath.  
 
-He drew a slow breath, careful and measured. He was testing.
+When he straightened, he rolled his shoulders like a cat settling into an unfamiliar skin.  
 
-A small sound escaped him, something almost like amusement, almost like pleasure.
+Sim exhaled slowly. “I still don’t understand how you knew where we’d come out.”  
 
-"Ah," he murmured. "Now I remember how heavy all this is."
+“Good.” Bast clapped him on the back. “Hold tight to that confusion. It will serve you better than understanding ever could.”  
 
-I turned to glance at him, and there he was, wholly unchanged yet entirely different. Here in the mortal world, the shape of him meant something again. Everything about him was a careful act. His stance, his slouch, even the precise way he breathed all carried purpose.
+Sim looked like he didn’t like that answer.  
 
-To his credit, his glamourie was well-woven. It had to be. The Fae do not belong in the mortal world, and the world knows it. Sometimes in whispers. Sometimes in screams. But always in blood.
+I didn’t either.  
 
-Bast knew this better than most. So he crouched, adjusting where the seams of himself blurred too thin. A flick of fingers across his cheekbones, dulling their sharpness. A smooth drag down his side, settling the curve of boots that hid the cloven hooves beneath.
+But, whether or not I understood it, Bast had led us true. We stood now in the high hills above the city, and I caught the faint furrow in his brow as his gaze flickered across the rooftops, to the taut linen lines strung between high windows, bright silks drying in the open air. Searching. Measuring.  
 
-When he straightened, he rolled his shoulders like a cat waking from indifferent sleep. Not satisfied, not comfortable. But finished.
+“A hungry thing,” Bast murmured, looking down at the vast city threaded with bridges and canals beneath the bent light of the afternoon sun. “You humans do toil in the strangest ways.”  
 
-Behind him stood the waystones, rising as a tall cluster of gray pillars. I tried to mark their location in my mind in case we needed to return, but their shapes twisted in unsettling ways, and my thoughts slipped away before I could hold them. This was a path never meant for mortal eyes.
+Then, more to himself than us, he ended with “Onward to our inevitable doom.”  
 
-Sim exhaled slowly. “I still don’t understand how you knew where we'd come out.”
+“Fate hasn’t decided that yet,” I muttered.  
 
-Bast grinned, teeth flashing. “Don’t you?”
+Bast tipped his head to the side, much like a hound catching a distant scent. “Hasn’t it?”  
 
-Sim frowned. “No.”
+### * * *  
 
-“Good.” He clapped Sim on the back. “That will make it twice as difficult when you try it on your own and fail spectacularly.”
+A gondola would have been easier. The dockmen whistled as we passed, mindful of their poled crafts as they cut lazily through the silver-blue shallows. They gestured toward the open seats, calling out offers any true noble would have acknowledged.  
 
-Sim looked no less confused, but as Bast moved forward toward the ridge, he followed.
+Sim would have taken one. Then Wil snorted, and Bast turned toward him with a look of pleased curiosity, as if he’d already begun reading Wilem by what he chose to scorn.  
 
-I did as well.
+“Afraid of a little walking, Simmon?” Bast asked, in the manner of a man dropping a coin just to watch a beggar decide what dignity is worth.  
 
-Because the truth was, whether or not I understood it, Bast had led us true. And now, we stood in the high hills overlooking Renere.
+Sim straightened immediately. “Obviously not.”  
 
-I turned my gaze toward the city spread before us, tangled with bridges and canals, vast beneath the bent light of the afternoon sun.
+Wil grunted his approval.  
 
-"Vast," he said, tasting the word as though he might swallow it whole. "Knotted. Hungry."
+That was fine with me. A city can’t be known except by its streets. You have to feel it underfoot, listen to how it whets its teeth on laughter.  
 
-I cast a glance toward the sprawl of Renere, all tangled canals and sharp spires and streets that twisted in impossible geometry. "You sound like you like it."
+Tarbean had leered at me, sprawling and broken, full of jagged edges and cutting smiles. Imre had sung, all light and laughter, wealth and easy kindness.  
 
-"I don’t know yet."
+Renere?  
 
-I caught the faint furrow in his brow as his sharp gaze flickered across the rooftops, to the taut linen lines strung between high windows, bright silks drying in the open air. Feelers searching. Measuring.
+Renere did neither.  
 
-Then, more to himself than us, he mused, "It doesn’t swallow strangers as politely as the Fae, though. That’s something."
+The city did not welcome. It did not leer. It swallowed.  
 
-I sighed. "That makes one of us."
+The streets teemed with people, all moving in the tight, choreographed chaos of somewhere built to swallow coin. Silk-sashed bravos walked among hard-eyed merchants. Street performers leapt in wide courtyards, laughter ringing against stone. Everywhere, the sharp scent of cut citrus struggled against the heavier notes of riverwater.  
 
-Bast turned his charming smile on me, all teeth and mischief.
+You could measure a man’s worth by his collar, by the weight of his rings. And you could measure his danger by how easily he walked a city crowded with thieves.  
 
-Then, in one easy flick of movement, he vaulted smoothly from the embankment, landing beside me with uncanny lightness.
+For the last hour, Bast had prowled the streets at my side, but never where I expected him. He noted rooftops. He pressed palms to market stalls. He fell behind just long enough to poke his head into an alley, then reappeared as if he’d never left. Once I turned to find him gone entirely, then impossibly ahead of us, leaning against a lamppost with the smug satisfaction of someone who has always known where you were going.  
 
-He dusted his hands together as if settling the matter.
+Wil had noticed too. He was watching Bast the way you watch a dog whose breed you don’t quite recognize.  
 
-"Onward to our inevitable doom," he declared brightly.
+Bast caught Wil’s stare. He curved an eyebrow, tilting his head just slightly. His smile was slow and deliberate, unquestionably a challenge.  
 
-"Fate hasn’t decided that yet," I muttered.
+“Have a care, dear Wilem. Where I come from, a steady look is half a promise.”  
 
-Bast tipped his head to the side, much like a hound catching a distant sound. Then he spoke quietly, his voice almost sweet. "Hasn’t it?"
+Wil didn’t slow his pace. He didn’t even blink. “I already have one reckless bastard to look after. Do not need another.”  
 
-### * * *
+That startled real laughter out of Bast. He breathed out, clearly delighted. “Oh! I take back every unflattering thing I have ever thought about you.”  
 
-A gondola would have been easier. The dockmen whistled as we passed, mindful of their poled crafts as they cut lazily through the silver-blue shallows. They gestured toward the open seats, calling out offers no true noble would acknowledge.
+“You’ve known me a day,” Wil said dryly.  
 
-Sim almost caved. Almost.
+Bast shrugged. “Some people inspire insults faster than others.”  
 
-Then Wil snorted. And Bast flicked his gaze toward him with a look of pleased curiosity, as if he’d already begun reading Wilem by what he chose to scorn.
+Sim narrowed his eyes at Bast. Then he looked at Wilem. Then at me.  
 
-"Afraid of a little walking, Simmon?" Bast asked, in the manner of a man dropping a coin just to watch a beggar decide what dignity is worth.
+Finally, he sighed heavily, as if resigning to fate. “Tehlu help me, I think you will get along.”  
 
-To his credit, Sim straightened immediately. "Obviously not."
+### * * *  
 
-Wil grunted his approval. "Then we walk."
+The noise reached us.  
 
-That was fine with me. A city can’t be known except by its streets. You have to feel it underfoot, listen to how it sings, how it murmurs, whether it whets its teeth on laughter or whispers secrets in stolen steps.
+Rhythmic, steady. A pulse in the air, deep and thrumming.  
 
-Tarbean had leered at me, sprawling and broken, full of jagged edges and cutting smiles. Imre had sung, all light and laughter, wealth and easy kindness.
+Up ahead, the street grew crowded. Movement slowed as people pressed together, bodies dense in the narrow space. It was like a clot forming, folk edging away from something uncomfortable. Perhaps it was a sermon. The sort of nonsense any sensible person would rather avoid, with places to be and no time for trouble.  
 
-Renere?
+Wilem frowned. “Now what?”  
 
-Renere did neither.
+Sim hesitated. “I think they’re just street preachers?”  
 
-The city did not welcome. It did not leer. It swallowed.
+I glanced at their hands. Arms crossed tight over thick shoulders. Fists at their sides.  
 
-The streets teemed with people, all moving in the sharp, choreographed chaos of somewhere made to consume coin and breath alike. Silk-sashed bravos walked among hard-eyed merchants. Street performers spun and leapt in wide courtyards, laughter ringing against stone. Everywhere, the sharp scent of cut citrus struggled against the heavier notes of riverwater and the lingering perfume of money.
+Wilem had caught it too. “It’s no sermon.”  
 
-You could measure a man’s worth by his collar, by the weight of his rings. And you could measure his danger by how easily he walked a city crowded with thieves.
+Then the first soldiers pressed their way into the crowd. Blue and gold uniforms surged forward, meeting a wall of brown-robed bodies who pushed back without giving ground.  
 
-Bast seemed almost relaxed. Almost.
+Sim’s voice climbed. “We need to leave.”  
 
-For the last hour, he had prowled the streets at my side, but never where I expected him. One moment, he was just behind me. The next, sidling behind Wil and eyeing street performers from under his lashes. A few minutes later, when I turned to glance back, he was nowhere at all.
+The air had not yet broken, but it was bracing itself. Just a breath, held too long. A single wrong moment, and everything would turn.  
 
-Then, impossibly, he was ahead of us, leaning lazily against a lamppost, watching our approach with the smug satisfaction of a cat watching pigeons wander too close.
+I made my choice.  
 
-He wasn’t just wandering. He was testing the city.
+“Bast.” My voice was low. Steady. “Find us a way around.”  
 
-He noted rooftops. He pressed palms to market stalls, gauging how sturdy they were. He fell behind for just long enough to poke his head into an alley, then reappeared as if he’d never left.
+Bast turned his head slightly, just enough that the city’s half-light caught in his eyes. His grin was wide and lazy, but there was nothing careless about it.  
 
-Bast was listening to the city.
+“Oh,” he said, rolling his shoulders. “Now you like my tricks.”  
 
-After a time, I realized Wil had noticed, too.
+“Bast. Now.”  
 
-He wasn’t watching Bast with suspicion. Not exactly. It was more as if he stood beside a locked door, pressing an ear against the wood and waiting to make out the sounds within, wondering if he might hear a tune or the low breathing of something hungry in the dark.
+He sighed, tilting his head back. His gaze flicked up toward rooftops, then down a tight alley none of us had even glanced at twice. His fingers flexed by his side.  
 
-Bast caught Wil’s stare. He curved an eyebrow, then smirked and tilted his head just slightly. His smile was slow and sharp-edged, unquestionably a challenge.
+Then, unhurried as ever, Bast slipped toward the alley with the grace of someone who has never once been caught.  
 
-“Oh, careful, dear Wilem,” Bast said. “If you stare any longer, I’ll start thinking you fancy me.”
+Wil kept his voice low beside me.  
 
-Wil didn’t slow his pace. He didn’t even blink. “I already have one reckless bastard to look after. I don’t need another.”
+“You trust him to know where he’s going?”  
 
-That startled real laughter out of Bast, bright and genuine. He breathed out, clearly delighted. “Oh! I take back every unflattering thing I have ever thought about you.”
+No.  
 
-“You’ve known me a day,” Wil said dryly.
+But that didn’t matter.  
 
-Bast shrugged. “Some people inspire insults faster than others.”
+Steel caught the light across the square.  
 
-Sim narrowed his eyes at Bast. Then he looked at Wilem. Then at me.
+“I trust him to move as if he belongs,” I said. “And half the time, that’s enough.”  
 
-Finally, he sighed heavily, as if resigning to fate. "God help me, I think you will get along."
+### * * *  
 
-Bast grinned as if he'd just won a bet.
+We walked until the White Citadel rose before us, and by then my legs ached and my fine new tunic had gathered the dull grit of Renere’s streets.  
 
-### * * *
+If Severen had shimmered with nobility, Roderick’s court simply burned. Everything was too white, polished within an inch of sanity. The fortress stabbed upward, high and narrow, its upper towers so distant I tilted too far back trying to count them.  
 
-The noise reached us.
+Sim steadied me with a hand. “Usually by now someone would have charged you tax for looking too long.”  
 
-Not laughter. Not the vendor calls. Not the living hum of a city.
+I would have laughed. But then I saw what rolled past the gates.  
 
-Rhythmic, steady. A voice above the others.
+A carriage. Heavy. Gilded. Loud in every possible way, the kind of garish thing that used gold like perfume.  
 
-A pulse in the air, deep and thrumming.
+And on its door, pressed in shining metal, was a crest I knew too well.  
 
-Up ahead, the street grew crowded. Movement slowed as people pressed together, bodies dense in the narrow space. It was like a clot forming, folk edging away from something uncomfortable. Perhaps it was a sermon, or some kind of demonstration. The sort of nonsense any sensible person would rather avoid, with places to be and no time for trouble.
+House Jakis.  
 
-Wilem frowned.
+Wil stepped neatly into my path before I could so much as breathe forward. “I know that face, Kvothe.”  
 
-Sim took an uncertain step forward.
+“She doesn’t belong here,” I told him, though my throat had seized up tight.  
 
-Bast exhaled in something that was not quite amusement. "Now what's this lovely little snarl?"
+“She was living under the University, Kvothe.” Sim’s voice was almost gentle, and that made it worse. “What if she’s better here?”  
 
-Sim hesitated. "They're just... street preachers?"
+“She won’t be.” The air in my chest burned. “She can’t be.”  
 
-I glanced at their hands.
+I tried to step around him. Wil held his ground.  
 
-Not clasped in prayer. Not raised in invocation. Arms crossed tight over thick shoulders.
+“Brilliant plan. Charge headfirst into the White Citadel and get thrown in a stone cell before the hour’s end.”  
 
-Not spiritual fervor.
+“Fine. We’ll bluff our way through instead.” My voice hardly sounded like my own.  
 
-Something sharper.
+### * * *  
 
-Wilem had caught it too. His expression had gone stony.
+Disguises are tricky things. The bad ones depend on deception. The good ones depend on choosing which truths to wear and how brightly to wear them.  
 
-"This isn’t a sermon," I murmured.
+And it happened that I carried a single dangerous truth. A writ of patronage from the Maer of Vintas, in whose court I had once served as musician.  
 
-The chanting surged. Their voices grew tight, not quite a shout, not quite battle-bright, but dangerously close.
+We arranged for rooms at a nearby inn called the Blind Beggar, and I left my lute there, tucked beneath the bed where I could pretend it was safe. Then we moved through the market with practiced efficiency. I gathered only the barest essentials. I chose a silk sash in sapphire and ivory for the Maer’s colors, a tailored waistcoat with silver buckles for Wil, and a ribbon to tuck into Sim’s curls.  
 
-Sim had gone pale. "We need to leave."
+It was Wil who said it. “Simmon cannot come.”  
 
-Then the first soldiers pressed their way into the crowd. Blue and gold uniforms surged forward, meeting a wall of brown-robed bodies who pushed back without giving ground.
+Sim looked stung, but Wil was right. A fourth son of the Duke of Dalonir would be recognized in a Vintish court. One wrong glance and Ambrose would have all the ammunition he needed.  
 
-The air had not yet broken, but it was bracing itself. Just a breath, held too long.
+Bast took the waistcoat from Sim, adjusting his cuffs as though the matter had already been decided.  
 
-A single wrong moment, and everything would turn.
+“You can’t come either,” I said. “The court will be full of iron.”  
 
-Bast rolled his shoulders, exhaling long and low. As if standing still was costing him something.
+“I have carried worse than iron in my teeth and smiled about it after.” The words came out of him with a lilting cadence, musical and strange, as if he were reciting something half-remembered from a song. “You need a pair of eyes in there that see what yours cannot.”  
 
-I made my choice.
+Walking up to the gate, I felt naked. Stripped of everything that made me dangerous, everything that made me myself. I held the writ out with steady hands. Keeping them still required focus, and it left me with less to spare for everything else.  
 
-“Bast.” My voice was low. Steady. “Find us a way around.”
+The officer frowned at the parchment, glanced at the sapphire sash, and waved us through.  
 
-Bast turned his head slightly, just enough that the city’s half-light caught in his eyes. His grin was slow and lazy, but there was nothing careless about it.
+Wil exhaled once we were beyond earshot. “You make that look too easy.”  
 
-“Oh,” he murmured. “Now you like my tricks.”
+“That’s the trick,” I said. “If you pretend to belong, half the time, nobody checks.”  
 
-The air in the square grew heavier. Someone had begun to shout.
+### * * *  
 
-“Bast. Now.” I said, urgency now tinging my voice.
+Inside was extravagance of a kind I had no frame for.  
 
-He sighed, tilting his head back with the air of someone scenting storm clouds. His gaze flicked up toward rooftops, then down a tight alley none of us had even glanced at twice. His fingers flexed by his side.
+Rows of marble pillars held aloft a vaulted ceiling five stories high, every surface carved or gilded. Murals covered the upper walls, the Calanthis family line rendered in pigment and gold leaf stretching back generations. Tapestries hung between them, vast as sails.  
 
-Then, with the languid ease of stretching his legs after a long nap, Bast stepped away, slipping toward the alley with confident, careless grace.
+The hall was already full. Nobility packed the lower floor, the mingled scent of perfume and ambition hanging thick. I scanned the crowd with a performer’s eye, marking faces, measuring distances. Near the upper balcony I spotted Baronet Pettur leaning close to that gossiping fool Lord Praevek, and set apart from them, watching the dais below with owlish attention, Bredon.  
 
-Wil murmured at my side. "You trust him to know where he's going?"
+They knew my circumstances with the Maer, or enough of the shape of them to be dangerous. I steered us deeper into the crowd.  
 
-No.
+“Stay close,” I murmured. “And stay quiet.”  
 
-But that didn’t matter.
+Bast’s lips twitched. “I am the very soul of what is careful and discreet.”  
 
-"I trust him to move as if he belongs," I murmured back. "And half the time, that's enough."
+Wil said nothing. His dark eyes were already cataloging the room.  
 
-"Half the time?” Sim whispered, voice rising slightly.
+Then the fanfare sounded. Two trumpets, sharp and bright, and the crowd went silent. A herald stepped forward on the dais, a man so layered in red and gold embroidery that he seemed less dressed than upholstered.  
 
-Steel caught the light across the square.
+“Hear ye! All rise in reverence for His Majesty King Roderick Calanthis, second of his name, sovereign Lord of all Vintas, ruler from the Centhe Sea to the peaks of the Stormwal Mountains!”  
 
-Not yet drawn. Not yet swung.
+Roderick was not the figure his portraits promised. The paintings showed commanding height, a jaw set in bronze certainty. The man who took the throne was slight, wiry, his beard graying. His eyes swept the hall with the look of a man accustomed to being watched, who had learned the appearance of seeing everything.  
 
-But enough.
+“Also be upstanding for Her Majesty Queen Rinne, first of her name.”  
 
-### * * *
+The Queen entered with measured grace. She smiled, but unhealed lines of concern still circled her eyes.  
 
-When the White Citadel gates rose before us, my legs ached and my fine new tunic had gathered the dull grit of Renere’s streets.
+The herald’s voice rang out once more. “Her Royal Highness Princess Ariel, first of her name.”  
 
-If Severen had shimmered with nobility, King Roderick's court simply burned. Everything was too white, polished within an inch of sanity. It was a fortress built to stab upward, high and narrow, its upper towers so distant I tilted too far back trying to count them.
+The rest of his words dissolved.  
 
-Sim steadied me with a hand before mumbling, “Just as well. Someone would have charged you tax for looking too long.”
+A young woman entered the hall. Golden hair drawn back in a tight braid, pinned with a precision that had nothing to do with her. A gown of pale blue silk that pooled at her feet. She moved up the steps to the dais with the deliberate care of someone walking across ice.  
 
-It was a jest I would have laughed at. If I hadn't seen what rolled past the gates.
+Auri.  
 
-A carriage.
+My little moon-fey, who danced barefoot on the rooftops and spoke to the moon as if it might answer. Who named every forgotten thing in the Underthing and kept them all in their proper place. Who had once given me a key and told me it was for finding her.  
 
-Heavy. Gilded. Loud in color and presence, the kind of garish thing that used gold like perfume, overdone to the point of suffocation.
+She took her seat beside Roderick. His hand moved as if to reach for her, then returned to the armrest. It was a small thing. I might have imagined it.  
 
-And on its door, pressed in shining metal, was a crest that made my blood catch fire.
+Her gloved hands settled in her lap, fingers curled with patient tension, the way you hold something that hurts.  
 
-House Jakis.
+She was smiling. A smile that had been taught. Practiced until it sat correctly on her face.  
 
-I turned too sharply. My hands were fists before I had thought, before I had considered.
+It was the worst thing I had ever seen.  
 
-Sim saw. So did Wil.
+My focus slipped. The tremor returned to my right hand and I clenched it shut, pressing Auri’s ring hard against my finger.  
 
-I didn't say it outright. I didn’t need to. We all knew. Ambrose was here. With Auri.
+“She is not well,” Bast said quietly.  
 
-Wil stepped neatly into my path, blocking me before I could so much as breathe forward. “I know that face, Kvothe.”
+The hall hushed while Roderick rose.  
 
-“She doesn’t belong here,” I told him, though my throat had seized up tight.
+“As many here know, we have been beset by more than our share of tragedy of late.” His voice carried well. It found the tone that courts require. “Yet today I stand before you with glad tidings. My daughter, who was lost to us, has been returned. For this mercy, we have one man to thank.”  
 
-“She didn’t belong in the Underthing either.” Sim’s voice was almost gentle, and that made it worse. “What if she’s better here?”
+Ambrose Jakis pressed through the crowd with the unhurried confidence of a man entering a room he owned. Deep Vintish blue, gold thread at the cuffs. He mounted the steps and knelt before the king.  
 
-“She won’t be.” The air in my chest burned. “She can't be.”
+“Your Majesty. I am grateful I could be of service.”  
 
-My body made a decision before my mind did. A step forward, toward the gate, toward steel-rimmed doors and a fool’s arrogance.
+Roderick inclined his head. “The courtesy you have rendered this court deserves reward. Speak, and if what you ask is just, it shall be yours.”  
 
-Wil snatched my sleeve. “Brilliant plan. Charge headfirst into the White Citadel and get thrown in a stone cell before the hour’s end.”
+Ambrose let the silence hold. Long enough to suggest humility. Short enough to show confidence.  
 
-I knew he was right. My fists stayed curled, the heat wound tight in my chest.
+“There is something I would ask, Your Majesty.” His gaze moved to Auri for just a moment. A gesture designed to look tender. “During our journey, your daughter and I grew fond of one another. It is my deepest hope, with your consent, to ask for her hand.”  
 
-“Fine. We bluff our way inside.” My voice hardly sounded like my own. “We find her before Ambrose gets his claws in.”
+The whispers that followed were too even, too knowing. Every word had been rehearsed, agreed upon before a single syllable was spoken aloud. The court was watching a play whose ending had already been written.  
 
-### * * *
+I looked at Auri. She had not moved.  
 
-Disguises are tricky things. The bad ones depend on deception. The good ones depend on truth, on the careful selection of smaller truths, each chosen with intent and then painted larger than life.
+I was through the crowd before I knew I had moved.  
 
-And it happened that I carried a single dangerous truth. Once, I had served as a court musician to the Maer of Vintas.
+“No.”  
 
-Wil and Sim, skeptical at first, quickly warmed to the plan when they realized how easily it could be done. The Maer’s name carried weight here, and I carried the writ of patronage to prove it. What I lacked in money, I made up for in arrogant improvisation.
+My voice rang across the marble. Every head in the hall turned.  
 
-After I arranged rooms at a nearby inn called the Blind Beggar, I moved through the market with practiced efficiency. I gathered only the barest essentials. I chose a silk sash in blue and ivory for the Maer's colors, a ribbon to tuck into Sim's curls, and a tailored waistcoat with silver buckles for Wil. Bast, as I expected, resisted at first. In the end, though, I saw him eyeing himself in the deep navy, and for a moment he almost smiled at the way it suited his sharp frame.
+I stood at the foot of the dais stairs, sapphire sash askew, every part of me strung tight. My hands were shaking freely now and I could not stop them.  
 
-“You’re enjoying this,” I accused.
+“This man did not rescue your daughter. He took her from the only safe place she had.”  
 
-“I have no idea what you mean,” Bast purred, adjusting his cuffs.
+A ripple of confusion. Glances exchanged, uncertain.  
 
-By the time we reached the White Citadel’s outer gate, we looked the part—brilliant in noble colors, fine enough to pass, rich enough to ward off suspicion. The guards eyed us, but I was already slipping the writ into the waiting hands of the officer before he could ask for it.
+Ambrose turned to Roderick with practiced concern.  
 
-The man frowned, turning over the parchment before glancing up at me. “You claim patronage under Alveron?” His voice held doubt, but only a little.
+“Your Majesty. This is Kvothe, a student from the University.” His voice was steady, almost gentle. “He was recently confined to Haven.” He paused, letting the name do its work. “I’m afraid he formed an attachment to your daughter during her time near the University. His fixation has been a matter of some concern.”  
 
-“He has sent me ahead,” I replied smoothly, “in confidence. The court at Severen awaits his word in your king’s favor.”
+“Your Majesty,” I said. I heard my voice crack. “She doesn’t want this.”  
 
-This wasn’t entirely untrue. The Maer maintained correspondence with Roderick’s court, and while I hardly ranked among official diplomats, no one at this gate could be sure of that.
+Roderick’s jaw tightened.  
 
-The officer hesitated for only a moment, then waved us through.
+“You present yourself in the colors of Alveron.” His voice found a deeper coldness with every word. “You carry a writ of patronage from the Maer. And yet you disrupt my court with accusations that carry the weight of nothing.” He paused. “It grieves me to do so. But until the Maer’s offices can account for this, you will be confined.”  
 
-Just like that.
+Guards moved from the walls.  
 
-Wil let out a slow breath once we were beyond earshot. “You make that look too easy.”
+Six of them. Hands on hilts.  
 
-“That’s the trick,” I murmured. “If you pretend to belong, half the time, nobody checks.”
+“Kvothe,” came Wil’s voice, and Bast moved to press his hand against my chest.  
 
-### * * *
+“She’s afraid,” I said. I was not shouting now. “She is terrified, and none of you can see it.”  
 
-I left that night with bruised ribs and wrecked pride.
+Roderick’s eyes moved to his daughter. The skin around them drew tight. His hand found the armrest again, and this time he gripped.  
 
-The court had thrown me out, cast aside like a troublesome stray howling at their doors. Bruises blossomed where the guards’ gauntlets had struck, but worse was the turmoil churning in my mind. Thoughts broke apart and scattered, tumbling through endless “ifs” and “whens” and “should-have-saids.”
+Auri sat motionless. Her smile held.  
 
-But most of all, I was drowning in her name.
+“Remove him,” Roderick said. His voice was steady. His knuckles were white.  
 
-Not Auri.
+A gauntleted hand closed on my arm. I wrenched free. Another caught the back of my coat.  
 
-Ariel.
+“Wait.”  
 
-They had called her Princess Ariel, and no one had questioned it. No one saw a girl of small, sharp bones and moonlight laughter. No one saw the girl who had danced barefoot in the Underthing. Instead, they saw what they wished. They saw a daughter of Roderick. A piece moved into place. A lamb turned princess.
+The voice was small. Barely a sound at all.  
 
-I had opened my mouth to speak the truth. Had shouted it to the rafters, raw and reckless.
+Everyone stopped.  
 
-And no one had listened.
+Auri had risen from her seat. She stood at the edge of the dais, small and pale in her stiff gown, her gloved hands clasped before her.  
 
-No one had seen what was wrong.
+She was looking at me.  
 
-How her braid was too tight, the gleam of her hair too perfect. How her shoulders would not rest but locked, sitting still as broken clock hands. How her hands rested in her lap, unmoving, gloved fingers curled with patient tension, hidden and twisted beneath the shimmer of silk. How she tilted her head just so, the gesture measured and precise, like a doll listening and nodding, her smile perfectly arranged.
+“Please don’t hurt him.” Quiet as falling dust. A voice that had learned to be careful. “He took care of me. At the University. He brought me things and was kind.”  
 
-I had seen it.
+The hall was silent.  
 
-And so had Ambrose.
+Roderick looked at his daughter. The Queen dropped her smile.  
 
-He stood at her side as if he belonged there, speaking in a voice like warm honey left too long in the sun, sticky and cloying. He petitioned for her hand, full of grace and easy, practiced charm. And Roderick, her father, nodded his approval.
+For a long moment the king did not move. Then something shifted behind his eyes, something that had nothing to do with courts or crowns. It was the look of a father who sees his child flinch.  
 
-It had broken something in me.
+“For the sake of my daughter’s gentle spirit,” he said, “a cell will not be necessary.” Then, as if sensing he needed to be the king, “But you will not set foot on these grounds until summoned. See them out.”  
 
-I remember shouting. I remember trying to wrench the weight of the world away by sheer force of will. But court does not listen to broken things, and so I had been discarded. A reckless interloper. A fool.
+The guards were not gentle about it. They were not required to be. What happened between the throne room and the outer gate left no official marks. An elbow driven hard into my ribs on a staircase. A boot that found my shin on a landing.  
 
-And Auri, Ariel, had spoken just once.
+The last thing I saw before the doors closed was Auri settling back into her chair. Her hands returned to her lap. Her smile returned to her face.  
 
-Not with the voice I knew, full of lilt and laughter. But in a whisper, quiet as falling dust.
+Ambrose leaned close and whispered something.  
 
-"Please don’t hurt him."
+The doors shut.  
 
-Then the guards had struck me down. And I had nothing left.
+### * * *  
 
-We stood outside the Citadel now, the air heavy with failure. Something brittle had settled between us in the silence.
+We stood outside the Citadel in the failing light. My ribs ached. My shin throbbed. My hands shook freely, and I let them.  
 
-Wil was the one to break it. “Kvothe,” he murmured, his voice quiet and careful. “We’ve got company.”
+*He took care of me.*  
 
-I looked up just as the man arrived. He stepped into the flickering torchlight without hurry, dressed in a coat that shimmered like an oil-slick in the evening dark. His mustache was precise as a quill line, his posture effortless, his rings gleaming just enough to catch notice without appearing garish.
+Wil leaned against the wall, arms crossed, his face unreadable. Bast stood apart, his eyes fixed on the closed gates with a patience that did not look like patience at all.  
 
-Some would have called him a bastard made out of silk and sharp places.
+The writ was worthless now. The disguise was finished. Every noble in that hall had seen my face, heard my name. Every door I had was closed.  
 
-“Quite the bold performance you made in there,” he said, his voice slick with amusement. “Kvothe, isn’t it? Or should I call you by a name that's a bit more inventive?”
+I pressed my back against the cold stone. Auri’s ring caught the last light on my finger, the pale amber warm against the gray.  
 
-I hadn’t given him my name. That fact settled like iron in my stomach.
+After a long silence, Wil was the one to speak. “Kvothe,” he murmured. “We have company.”  
 
-“I don’t believe we’ve been introduced,” I said lightly, keeping my voice steady.
+I looked up just as the man arrived. He stepped into the flickering torchlight without hurry, dressed in a coat that shimmered like an oil-slick in the evening dark. His mustache was precise as a quill line, his rings gleaming just enough to catch notice without appearing garish.  
 
-He smiled, showing all his teeth. “Nor have we. I am Fascino. Regent of nothing important, though I suspect our interests overlap. For example.” He paused, gazing at me with a slow and knowing look. “You seem quite familiar with our dear, luminous Princess Ariel.”
+“Quite the bold performance you made in there,” he said, his voice warm with amusement. “Kvothe, isn’t it? Or should I call you by a name that’s a bit more inventive?”  
 
-My heart clawed its way into my throat. I was conscious of Bast stilling beside me. Of Wil shifting his weight. Of Sim’s fingers tightening ever-so-slightly at his sleeve.
+“I don’t believe we’ve been introduced,” I said lightly, keeping my voice steady.  
 
-Fascino saw it all. And smiled again, the kind of smile that knew all the ways a knife could be used.
+He smiled, showing all his teeth. “Nor have we. I am Fascino. Regent of nothing important, though I suspect our interests overlap.” He paused, fixing me with the appraising look of a jeweler examining a stone. “For example. You seem quite familiar with our dear, luminous Princess Ariel.”  
 
-“She is a delight, isn’t she?” he continued, voice like silk-wrapped steel. “Our lost princess returned. Our jewel of court. They say she was found near the University, wandering half-mad beneath the city streets. A tragedy, really. But fortunate, all things considered.”
+The air left my lungs. I was conscious of Bast stilling beside me. Of Wil shifting his weight.  
 
-I met his gaze. “Fortunate for whom?”
+Fascino saw it all. And smiled again.  
 
-“Oh, for many reasons,” Fascino said easily, flicking a speck of dust from his sleeve. “For King Roderick, it means the joy of having his wayward daughter returned as if by magic. For the ladies of the court, it’s the thrill of welcoming a new curiosity among them. And, more than all these,” he let his words linger, savoring their taste, “there is something for the Jakis heir as well. He now finds himself basking in the golden company of royalty.”
+“She is a delight, isn’t she?” he continued, each word placed with the precision of a man setting stones on a board. “Our lost princess returned. Our jewel of court. They say she was found near the University, wandering half-mad beneath the city streets. A tragedy, really. But fortunate, all things considered.”  
 
-I felt something shift inside me, something raw and wrong.  
+I met his gaze. “Fortunate for whom?”  
 
-Fascino tilted his head, watching me with careful interest. “I am hosting a gathering tonight at the Palazzo de Contraier. It will be a private affair, with no guards and no prying eyes. You should come. It might benefit you to mingle with others who hold a certain distaste for that Jakis boy.”
+“Oh, for many,” Fascino said easily, flicking a speck of dust from his sleeve. “For King Roderick, it means the joy of having his wayward daughter returned as if by magic. For the ladies of the court, it’s the thrill of welcoming a new curiosity among them.” He let his words linger, savoring their taste. “And, more than all these, there is something for the Jakis heir as well. He now finds himself basking in the golden company of royalty.”  
 
-He stepped back, all coiled grace. Then he turned, leaving a faint suggestion of perfume and wealth in his wake.
+The wrongness of it sat in me like a swallowed stone.  
 
-Wil exhaled sharply. “Kvothe, do you trust him?”
+Fascino tilted his head, watching me with quiet interest. “I am hosting a gathering tonight at the Palazzo de Contraier. It will be a private affair, with no guards and no prying eyes. You should come. It might benefit you to mingle with others who hold a certain distaste for that Jakis boy.”  
 
-I should have said no.
+He stepped back, all coiled grace. Then he turned, leaving a faint trace of perfume in his wake.  
 
-But I was watching Fascino retreat into the dusk, his movements too smooth, his offer too careful, and I knew.
+Wil let out a hard breath. “Kvothe, do you trust him?”  
 
-“It’s not a question of trust,” I murmured. “But of choice.”
+I watched Fascino retreat into the dusk, his movements too smooth, his offer too careful.  
 
-### ~ ~ ~
+“No. But what choice do we have?”  
+
+### ~ ~ ~  
 
 [Chapter 18](CHAPTER_18.md) | [Contents](Contents.md) | [Chapter 20](CHAPTER_20.md)
