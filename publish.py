@@ -817,13 +817,37 @@ def get_chapter_TXT(markdown_data):
     return all_txt
 
 def get_chapter_HTML(markdown_data):
-    html_text = markdown.markdown(markdown_data,
+    html_text = convert_markdown_to_XML(markdown_data)
+    html_text = html_text.replace("“", "&ldquo;")
+    html_text = html_text.replace("”", "&rdquo;")
+    html_text = html_text.replace("‘", "&lsquo;")
+    html_text = html_text.replace("’", "&rsquo;")
+    html_text = html_text.replace("–", "&mdash;")
+    html_text = html_text.replace("—", "&mdash;")
+    html_text = html_text.replace("…", "&hellip;")
+    return html_text
+
+def get_chapter_XML(markdown_data,css_filenames):
+    ## Returns the XML data for a given markdown chapter file, with the corresponding css chapter files
+    all_xhtml = """<?xml version="1.0" encoding="UTF-8"?>\n"""
+    all_xhtml += """<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="en">\n"""
+    all_xhtml += """<head>\n<meta http-equiv="default-style" content="text/html; charset=utf-8"/>\n"""
+    ## Add all stylesheets
+    for css_filename in css_filenames:
+        all_xhtml += """<link rel="stylesheet" href="css/{}" type="text/css"/>\n""".format(css_filename)
+    all_xhtml += """</head>\n<body>\n"""
+    all_xhtml += convert_markdown_to_XML(markdown_data)
+    all_xhtml += """\n</body>\n</html>"""
+    return all_xhtml
+
+def convert_markdown_to_XML(markdown_data):
+    xml_text = markdown.markdown(markdown_data,
                                   extensions=["codehilite","tables","fenced_code","footnotes"],
                                   extension_configs={"codehilite":{"guess_lang":False}}
                                   )
-    ## Use some HTML elements to style capitals because many ereaders do not support small-caps css
-    html_text = (
-      html_text
+    ## Use some elements to style capitals because many ereaders do not support small-caps css
+    xml_text = (
+      xml_text
         .replace(
           "<h1>THE KINGKILLER C",
           "<h1>" +
@@ -832,8 +856,8 @@ def get_chapter_HTML(markdown_data):
               "<big>C</big>"
            )
     )
-    html_text = (
-      html_text
+    xml_text = (
+      xml_text
         .replace(
           "<h1>THE PRICE OF R",
           "<h1>" +
@@ -844,8 +868,8 @@ def get_chapter_HTML(markdown_data):
            )
     )
     for h in ("123456"):
-        html_text = (
-          html_text
+        xml_text = (
+          xml_text
             .replace(
               "<h"+h+"><strong>",
               "<h"+h+"><big>")
@@ -854,8 +878,8 @@ def get_chapter_HTML(markdown_data):
               "</big></h"+h+">")
         )
     for c in ("ABCDEFGHIJKLMNOPQRSTUVWXYZ"):
-      html_text = (
-        html_text
+      xml_text = (
+        xml_text
           .replace(
             "</h2>\n<p>"+c,
             "</h2>\n<p class='no-indent'><big>"+c+"</big>")
@@ -871,41 +895,15 @@ def get_chapter_HTML(markdown_data):
       )
     # Chapter subtitles can only happen when the chapter contains paragraphs.
     # E.G. Half-Title, Title, and Series should not contain subtitles in TOC.
-    if "<p>" in html_text:
-        html_text = (
-            html_text
+    if "<p>" in xml_text:
+        xml_text = (
+            xml_text
               .replace(
                 "<h2>",
                 "<h2 class='chapter_subtitle'>",
               )
         )
-    html_text = html_text.replace("“", "&ldquo;")
-    html_text = html_text.replace("”", "&rdquo;")
-    html_text = html_text.replace("‘", "&lsquo;")
-    html_text = html_text.replace("’", "&rsquo;")
-    html_text = html_text.replace("–", "&mdash;")
-    html_text = html_text.replace("—", "&mdash;")
-    html_text = html_text.replace("…", "&hellip;")
-    return html_text
-
-
-def get_chapter_XML(markdown_data,css_filenames):
-    ## Returns the XML data for a given markdown chapter file, with the corresponding css chapter files
-    html_text = get_chapter_HTML(markdown_data)
-
-    all_xhtml = """<?xml version="1.0" encoding="UTF-8"?>\n"""
-    all_xhtml += """<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="en">\n"""
-    all_xhtml += """<head>\n<meta http-equiv="default-style" content="text/html; charset=utf-8"/>\n"""
-
-
-    for css_filename in css_filenames:
-        all_xhtml += """<link rel="stylesheet" href="css/{}" type="text/css"/>\n""".format(css_filename)
-
-    all_xhtml += """</head>\n<body>\n"""
-    all_xhtml += html_text
-    all_xhtml += """\n</body>\n</html>"""
-
-    return all_xhtml
+    return xml_text
 
 def get_sitemap_XML():
     ## Returns the XML sitemap data
