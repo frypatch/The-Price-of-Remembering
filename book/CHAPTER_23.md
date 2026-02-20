@@ -3,454 +3,418 @@
 ## THE THREAD UNRAVELS.
 
 
-THE COMMON ROOM of the Blind Beggar smelled of stale ale, dying embers, and the kind of silence that follows a knife fight no one talks about.
+THE COMMON ROOM of the Blind Beggar smelled of stale ale, dying embers, and the kind of silence that settles over a room when everyone in it knows something no one intends to say.  
 
-Sim lounged like a man intending to look at ease. His cup rolled between restless fingers, the dregs of his drink tilting back and forth against the firelight.
+Sim lounged, trying to look at ease. His cup rolled between restless fingers, the dregs of his drink tilting back and forth against the firelight.  
 
-Wilem, steady as ever, sat stiff-backed with his hands folded too precisely in his lap. His posture looked effortless. Still, I knew what it meant. His tension lived somewhere behind his ribs, buried deep enough to be dangerous.
+Wilem, steady as ever, sat stiff-backed with his hands folded too precisely in his lap. His posture looked effortless. Still, I knew what it meant. His tension was the quiet kind, held close.  
 
-Bast looked the most at ease, though he had no real reason for it. Draped over a chair like a cat in a patch of sunlight, he set about paring his fingernails with a small knife, the motion as thoughtless as breathing.
+Bast looked the most at ease, though he had no real reason for it. Draped over a chair like a cat in a patch of sunlight, he set about paring his fingernails with a small knife, the motion as thoughtless as breathing.  
 
-No one spoke of the duel, but the weight of it sat between us, an unsheathed blade laid carefully on the table.
+No one spoke of the duel, but the weight of it sat between us, an unsheathed blade laid carefully on the table.  
 
-I waited for the silence to settle, then placed my own cup down. The sound was not loud or harsh, only gentle enough to send a ripple through the quiet.
+The nahlrout was wearing off. I could feel it leaving the way you feel the tide pulling back from the shore, each wave taking a little more of the ground you thought was solid. The brightness that had sharpened the world during the duel was gone. In its place, a cottony blankness behind my eyes that made even simple things require effort.  
 
-I rubbed at my temple. Something was nagging at me, something about the court that felt out of place. It scratched at the edges of my thoughts, like a word just out of reach. There was a sharpness to it, something angled and undeniably wrong.
+I rubbed at my temple. There was a thought nagging at me, something about the court that felt out of place, like a word just out of reach. And yet, when I reached for it, it slipped away. Whether that was the nahlrout or my own exhaustion, I could not say. I set it aside and said, “I saw Auri.”  
 
-And yet, when I reached for it, it was just past my grasp.
+Her name did not feel right in my mouth. Not here. Not in a place of thick wood and firelight. It belonged elsewhere, in the hush of old clay pipes beneath the city, in the rhythm of bare feet on tiled rooftops. Here she was Princess Ariel.  
 
-I exhaled, willing it away, and said, “I saw Auri.”
+Sim straightened. “She was there?”  
 
-Her name did not feel right in my mouth. Not here. Not in a place of thick wood and firelight, of rough-stitched quiet and thick ale. It belonged elsewhere, in the hush of old clay pipes beneath the city, in the rhythm of bare feet on tiled rooftops. Here she was Princess Ariel.
+Bast tipped his knife, examining the edge. “Of course.”  
 
-Sim straightened. “She was there?”
+The certainty in his voice dug at me.  
 
-Bast hummed under his breath. Not quite laughter. “Of course.”
+“Prince Trenati was with her,” I said.  
 
-The certainty in his voice dug at me. Because, to Bast, it had to be true. In the Fae, stories were not stories. They were truth. And a lost princess appearing precisely when the tale called for her? Exactly what should happen.
+Bast scoffed. But it wasn’t his usual amused disdain. “Royal boy’s finally taking an interest in his lost sister? How touching.”  
 
-“Prince Trenati was with her,” I said.
+Sim caught the hesitation in my voice. “Do you mean with her, or near her?”  
 
-Bast scoffed. But it wasn’t his usual amused disdain. “Royal boy’s finally taking an interest in his lost sister? How touching.”
+“He wasn’t speaking to her. But I don’t think it was coincidence. He stood just close enough.”  
 
-Sim caught the hesitation in my voice. “Do you mean with her, or near her?”
+Sim leaned forward. “Like someone with authority.”  
 
-There was a difference.
+I nodded. “Like someone ensuring people saw him standing there.”  
 
-I exhaled slowly. “He wasn’t speaking to her. But I don’t think it was coincidence. He stood just close enough.”
+Wilem, ever watchful, tested his words before speaking. “Maybe he’s more jailor than brother.”  
 
-Sim leaned forward, brow furrowed. “Like someone with authority.”
+I pressed the heel of my hand against my temple, trying to push the nahlrout fog into shape.  
 
-I nodded. “Like a man ensuring people saw him standing there.”
+The door creaked open. A man in the livery of a noble attendant stepped inside.  
 
-Wilem, ever watchful, tested his words before speaking. “Maybe he’s more jailor than brother.”
+All four of us turned.  
 
-The words did not land lightly. They sat heavy between us, an unsheathed knife laid on the table, waiting for someone to pick it up.
+“Apologies for the intrusion. Lord Vatis has succumbed to his wounds.”  
 
-I exhaled through my nose, willing the ache between my temples into something orderly, something I could press into shape.
+The room went quiet in the wrong way.  
 
-The door creaked open. A man in the livery of a noble attendant stepped inside.
+Wil straightened in his seat, forehead creasing. “He was still alive when we left.”  
 
-All four of us turned.
+“Impossible,” I said.  
 
-“Apologies for the intrusion. Lord Vatis has succumbed to his wounds.”
+I had seen him. He had been fine.  
 
-The air in the room swallowed the words.
+Bast shook his head as if the whole situation were a joke not designed for laughter. “Ah, yes. A cut on the arm, a shattered knee. Clearly fatal wounds, if you’re an idiot.” He paused. A slow blink. Then, dull certainty pressed into his voice. “And naturally, this is your fault.”  
 
-Wil straightened in his seat, forehead creasing. “He was still alive when we left.”
+The man had only been sent to deliver a message, not to argue. He lowered his head quickly and left.  
 
-“Impossible,” I said simply. Not angry, not questioning. Just fact.
+A long, brittle silence.  
 
-I saw him.
+Then Wil said quietly, “Either someone was careless with the stitches.”  
 
-He was fine.
+Sim touched his finger to his nose and said, “Or someone wanted him dead.”  
 
-Bast exhaled sharply, shaking his head as if the whole situation were a joke not designed for laughter.
+Bast drummed against the table. “Dead men tell worse stories than embarrassed ones.”  
 
-“Ah, yes. A scratch on the ribs, a bruised leg. Clearly fatal wounds, if you’re an idiot.”
+None of us laughed.  
 
-He pause. A slow blink. Then, dull certainty pressed into his voice.
+I pressed a hand to my still-bandaged cut. There were lines here, I just needed to connect them. But the nahlrout had dulled the part of my mind that usually leapt ahead, the part that pulled threads together before I even knew I was reaching for them. Instead, I sat in the fog and grasped at shapes.  
 
-“And naturally, this is your fault.”
+That brief exchange between Trenati and the steward. It was the one Bredon had made sure I noticed. Why?  
 
-The man had only been sent to deliver a message, not to argue. He lowered his head quickly and left.
+I reached back, sorting through what I’d seen.  
 
-A long, brittle silence.
+There had been a ring on Trenati’s hand.  
 
-Then Wil murmured, “Either someone was careless with the stitches.”
+Not Roderick’s crest.  
 
-Sim touched his finger to his nose and said, “Or someone wanted him dead.”
+One of those smaller details I had filed away without thinking, useful for some later need.  
 
-Bast drummed his fingers against the table. “Dead men tell worse stories than embarrassed ones.”
+It hadn’t seemed relevant then. Why would it have been?  
 
-None of us laughed. Things had just gone from urgent to dire.
+Had it been worn down? Reforged? No, something else.  
 
-I pressed a hand to my still-bandaged cut, exhaling slow through my nose. There were lines here, I just needed to connect them.
+The flame-light flickered against the carvings.  
 
-That brief exchange between Trenati and the steward. It was the one Bredon had made sure I noticed. Why?
+Locked geometry carved into gold. The pattern pulled at me.  
 
-I reached deeper, searching the half-light of recall.
+I had seen this kind of work before, I was sure of it.  
 
-There had been a ring on Trenati’s hand.
+Ciphers. That was it. Kilvin had once shown me geometric ciphers used by artificers to disguise alchemical recipes. These patterns were woven to hide meaning in plain sight.  
 
-Not Roderick’s crest.
+My first instinct was to see the ring as nothing more than a flourish, the sort of idle detail a jeweler might add. But when I told Sim, his hands grew still around his cup. His mouth opened, then closed, and something in his expression braced.  
 
-One of those smaller details I had cataloged without thinking, tucked away in the quiet attic of memory where it would wait, useful for some later need.
+“Tehlu’s wrath.” His voice was soft. Too soft, like a note played so quietly it was only meant for himself. “That’s Feyda’s Mark.”  
 
-It hadn’t seemed relevant then. Why would it have been?
+I had not recognized it. Forgotten things stay forgotten until someone dares to remember them. But Sim, who found himself far down the line of Aturan succession, knew his history better than most.  
 
-Had it been worn down? Reforged? No, something else.
+“You’re sure?” Wilem asked carefully.  
 
-The flame-light flickered against the carvings.
+Sim turned to him, voice steady. “You don’t understand, Wil. No one wears that ring. Not in jest. Not in secrecy.” He swallowed. “Two noble houses destroyed their own crests rather than be mistaken for it.”  
 
-Locked geometry, shifting lines carved into gold. Something about the pattern pulled at me, a hook caught between memory and certainty.
+“Feyda Calanthis,” I said, pulling the name up through the fog. “First king of Tarvintas. Posthumously declared.” The nahlrout made me feel like I was reading through water, but the facts were there, half-buried. “They say he didn’t stay dead. A barrow draug. A wizard king who rose and wore his crown in the dark.”  
 
-I had seen something like this before, I was sure of it.
+Sim nodded, grim. “That’s the one. His mark was struck from every noble seal after the barrow wars. A death-sign. A promise of ruin.”  
 
-Ciphers. That was it. Kilvin had once shown me geometric ciphers used by artificers to disguise alchemical recipes. These patterns were woven to blur their true purpose, to hide meaning in plain sight.
+Bast was still.  
 
-My first instinct was to see the ring as nothing more than a flourish, the sort of idle detail a jeweler might add. But when I told Sim, his fingers grew still around his cup. The firelight caught something unspoken in his expression, drawing the warmth from his cheeks.
+“Human kings are foolish things,” he said. “But never fool enough to carve a buried name in gold. Not unless they mean it.”  
 
-His mouth opened, then closed.
+I agreed, though my mind still pulled back toward the ring, toward the pattern. And slowly, through the fog, I saw the lines for what they were.  
 
-No. Not closed. Braced. Like a man about to say something he doesn’t want to hear leave his own lips.
+Someone had altered it. The geometries were turned, the framing holding just enough difference to hide the true intent. A deceit meant for those who only half-remembered.  
 
-“Tehlu’s wrath.” His voice was soft, too soft. The kind of soft that follows a knife sliding out of its sheath. “That’s Feyda’s Mark.”
+No, that wasn’t possible. Feyda’s Mark was a piece of history, exiled long before my father’s father was ever born. I’d read enough about noble crests to know that much.  
 
-I had not recognized it. Forgotten things stay forgotten until someone dares to remember them. But Sim, who found himself far down the line of Aturan succession, knew his history better than most.
+Hadn’t I?  
 
-“You’re sure?” Wilem asked carefully.
+My eyes narrowed. Except, I realized I never actually had. Had I?  
 
-Sim turned to him, voice steady. “You don’t understand, Wil. No one wears that ring. Not in jest. Not in secrecy.” He swallowed. “Two noble houses destroyed their own crests rather than be mistaken for it.”
+I had studied heraldry under every kind of teacher. Pored over succession laws and ruined bloodlines.  
 
-Bast was still.
+But I couldn’t actually recall any full accounting of Feyda’s Mark.  
 
-Not his usual lazy amusement, nor his sharp-edged mockery. Just still. Watching.
+No noble family disgraced for its use. No record of its exile.  
 
-It was only then I noticed his fingers had stopped moving against his knife-hilt.
+A story erased unclean still leaves behind its ink.  
 
-“Human rulers are stupid things,” he murmured. “But they’re never stupid enough to carve a forgotten name into gold unless they mean it.”
+But there were no stains from this. Nothing left in the margins of history. As if Feyda’s Mark had been swallowed completely.  
 
-I agreed, though my mind still leapt back toward the ring, toward the pattern. And suddenly, I saw the lines for what they were.
+Not erased in scandal. Not recorded in disgrace.  
 
-Someone had altered it. The geometries were turned, the perspective shifted, and the framing held just enough difference to hide the true intent. It was a deceit meant for those who only half-remembered, a quiet manipulation designed to let recognition drift away like a passing thought.
+Just gone.  
 
-My fingers twitched against the grain of the table. No, that wasn’t possible. Feyda’s Mark was a piece of history, exiled long before my father’s father was ever born. A symbol discarded as ruin. I’d read enough about noble crests to know that much.
+Yes, it had to be.  
 
-Hadn’t I?
+This knowledge had been buried.  
 
-I frowned, my fingers drumming softly against the table. Except, I realized I never actually had. Had I?
+But that made no sense. The University hoarded knowledge, even when its masters sought to leash it. I’d spent years among those silent tomes, and I had never once found a full accounting of Feyda’s Mark. Not its meaning, not its exile, not its absence.  
 
-I had studied heraldry under nobles, scribes, merchants alike. Pored over succession laws, court intrigues, ruined bloodlines.
+And absence, I was beginning to realize, was its own kind of presence.  
 
-But I couldn’t actually recall any full accounting of Feyda’s Mark.
+My jaw clenched.  
 
-No descriptions of its exile. No noble family disgraced or cursed for its use.
+“Wil. Sim.” The question came out sharper than I intended. “How many texts in the University speak plainly about Feyda’s Mark?”  
 
-A story erased unclean still leaves behind its ink.
+Wilem did not answer immediately.  
 
-But there were no stains from this. Nothing left in the margins of history. As if Feyda’s Mark had been swallowed completely.
+Then, slowly, “I don’t know.” A pause. “No one mentions it past references in succession disputes.” Another pause. “But nothing recent. Maybe there’s some work in the locked stacks?”  
 
-Not erased in scandal. Not recorded in disgrace.
+Sim was watching me now. Tensed, listening. “Kvothe. What are you thinking?”  
 
-Just... gone.
+Thinking of Ambrose Jakis.  
 
-A slow breath left me.
+I thought of his endless tenure at the University, dragging through his studies with the leisurely pace of someone who wasn’t actually interested in study. I had always assumed he lingered because of laziness or spite. Because he was too important to be made to leave.  
 
-Yes, it had to be.
+But that wasn’t right, was it?  
 
-This knowledge had been buried.
+No. That was absurd. Ambrose is arrogant and cruel. He wastes effort on petty vengeance. He isn’t clever. He isn’t patient.  
 
-But that made no sense. The University hoarded knowledge, even when its masters sought to leash it. I’d spent years among those silent tomes, and I had never once found a full accounting of Feyda’s Mark. Not its meaning, not its exile, not its absence.
+And yet.  
 
-And absence, I was beginning to realize, was its own kind of presence.
+Manet had muttered to me, years ago, that it wasn’t natural for a noble heir to linger at the University so long. Most sons of titled families spent two, three years at most.  
 
-My jaw clenched.
+But Ambrose? Six. Maybe longer.  
 
-“Wil.” My voice was too sharp, too pointed, for the delicate question. You worked as one of Master Lorren's scrives, “How many texts in the University speak plainly about Feyda’s Mark?”
+He had no hunger for study. So why had Ambrose stayed?  
 
-Wilem did not answer immediately. His fingers flexed, just barely, against the wood of the table.
+Had he wasted time? Perhaps. Or had he been buying time?  
 
-Then, slowly, “I don’t know.” A pause. “No one mentions it past references in succession disputes.” Another pause. “But nothing recent. Maybe there’s some work in the locked stacks?”
+No, I had to be wrong.  
 
-Sim was watching me now. Tensed, listening. “Kvothe. What are you thinking?”
+And yet.  
 
-I exhaled. Thinking of Ambrose Jakis.
+The books I never found. The locked stacks. The documents that disappeared before I could reach them.  
 
-I thought of his endless tenure at the University, dragging through his studies with the leisurely pace of a man who wasn’t actually interested in study. I had always assumed he lingered because of decadence, laziness, or spite. Because he was too important to be made to leave.
+I had always assumed Ambrose destroyed things because it was inconvenient for me.  
 
-But that wasn’t right, was it?
+But what if it had never been about me at all?  
 
-No. That was absurd. Ambrose is arrogant and cruel. He wastes effort on insults, on petty vengeance. He isn’t clever. He isn’t patient.
+The silence stretched.  
 
-And yet.
+Finally, I let the words slip, quiet and careful, “What if Ambrose wasn’t just in the University for himself?”  
 
-Baresh had muttered to me, years ago, that it wasn’t natural for a noble heir to linger at the University so long. Most sons of titled families spent two, three years at most.
+Saying it aloud gave the thought weight. Ambrose Jakis had been erasing things that didn’t belong to him.  
 
-But Ambrose? Six. Maybe, longer.
+Books. Stories. Names swallowed by burned ink.  
 
-He had no hunger for study. So why had Ambrose stayed?
+And now, he was doing the same with Auri. Rewriting her into Ariel, erasing everything she truly was.  
 
-Had he wasted time? Perhaps. Or had he been buying time?
+My right hand had begun to tremble again. The nahlrout had retreated fully now, and the tremor had returned with interest, as if punishing me for the hours I had kept it leashed. I pressed my palm flat against the table and held it there.  
 
-No, I had to be wrong.
+She hates being looked at. Hates it so much that even when I called her “Auri” for the first time, she had flinched. Not at the sound, but at the weight of it.  
 
-And yet.
+I had learned what kind of silence to leave for her. I knew when to look away so she could exist as herself, unobserved. Sometimes, the length of a shadow or the hush of moving air was all the proof I needed that she was there.  
 
-The books I never found. The locked stacks. The documents that disappeared before I could reach them.
+I remembered once, finding her on her rooftop, face turned toward the wide-open sky. She hadn’t seen me yet, hadn’t stiffened. The moment I stepped closer, she had curled away, tucking herself into a place small enough where she thought no one could follow.  
 
-I had always assumed Ambrose destroyed things because it was inconvenient for me.
+And now she is being fitted for court. Displayed before noble eyes. Attendants smooth her hair, arrange her gown, and fit her with the name they have chosen rather than her own.  
 
-But what if it had never been about me at all?
+I had promised her she would always be safe under my protection. Auri trusted me.  
 
-The silence stretched taut, sharp with unspoken conclusions.
+I tried drinking after that. Three sips told me it wasn’t going to help.  
 
-Finally, I let the words slip, quiet and knife-edged, “What if Ambrose wasn’t just in the University for himself?”
+Beneath the table, my hand would not stop shaking. The cottony slowness of the nahlrout’s aftermath made my thoughts feel like they were dragging through sand.  
 
-Saying it aloud gave the thought weight. Ambrose Jakis had been erasing things that didn’t belong to him.
+Bast noticed, because Bast always noticed. His eyes flicked to my hand, then away, as if he hadn’t seen. But a moment later, without a word, he set a clay cup in front of me. Dark tea. Bitter as anything.  
 
-Books. Stories. Names swallowed by burned ink.
+Nahlrout.  
 
-And now, he was doing the same with Auri. Rewriting her into Ariel, erasing everything she truly was.
+I looked at the cup. I looked at Bast.  
 
-My fingers tightened into a fist on the tabletop before I realized I was clenching them. She hates being looked at. Hates it so much that even when I called her “Auri” for the first time, she had flinched. Not at the sound, but at the weight of it. Having her name acknowledged was as intimate as a knife pressed against her skin.
+He said nothing. Only raised an eyebrow, as if the choice were beneath discussion.  
 
-I had learned what kind of silence to leave for her. I knew when to look away so she could exist as herself, unobserved. I understood when not to see her. Sometimes, the length of a shadow or the hush of moving air was all the proof I needed that she was there.
+I should have refused. I knew what it was doing, the way a man who drinks to steady his hands knows exactly what the bottle is doing. Each dose bought clarity and borrowed it from the hours ahead. Each time I reached for it, the distance between needing it and wanting it grew a little thinner.  
 
-I remembered once, when I had found her sitting on her rooftop, her face turned toward the wide-open sky with its cartwheel of stars. She hadn’t seen me yet, hadn’t stiffened or folded inward. She was entirely herself. The moment I stepped into the clearing, she had curled away, tucking herself into a place small enough where she thought no one could follow.
+But the tremor in my hand would not stop, and my thoughts were still too slow, and Auri did not have time for me to be anything less than sharp.  
 
-And now she is being dressed for court. Displayed before noble eyes. Attendants smooth her hair, arrange her gown, and put her in the name they have chosen for her rather than her own.
+I drank.  
 
-I felt the bile rise under my tongue.
+Within minutes, the fog began to lift. The brightness crept back into the edges of things. My hand steadied. The ache behind my eyes retreated to a dull hum.  
 
-I had promised her she would always be safe under my protection. Auri trusted me.
+Better. For now.  
 
-I tried drinking after that. Three sips told me it wasn’t going to help.
+I leaned forward, studying Wilem and Sim across the table. “We need leverage on Trenati.”  
 
-Instead, I leaned forward, studying Wilem and Sim across the table. “We need leverage on Trenati.”
+“That is not what we need,” Wilem countered. His voice was measured, but not calm. Not truly. His shoulders held rigid, his expression tight. Then, lower, “You don’t understand what you’re reaching for.”  
 
-“That is not what we need,” Wilem countered.
+The fire crackled. A chair creaked somewhere in the room.  
 
-His voice was measured, but not calm. Not truly. His hands stayed too neatly in his lap, his shoulders too controlled. The way a man settles himself before the first blow lands.
+“These types shape cities. Silence rivals.” His jaw clenched. “You survive men like this. If you’re careful. If you’re lucky.” He shook his head. “Damn you, Kvothe. You don’t run from fire. You always run toward it.”  
 
-Then, lower, “Kvothe, you don’t understand what you’re reaching for.”
+He wasn’t wrong.  
 
-The fire crackled. A chair creaked somewhere in the room.
+But it did not matter. There was no right way to do this, no safe way to tear a locked door off its hinges. I was not hoping for equal footing. I was searching for a weakness, a flaw in the iron or the wood. I was looking for the place where their rules could splinter.  
 
-“This isn’t a game where you upturn the board with a clever move. I know these types. I’ve seen the way their families shape cities, silence rivals. You don’t fight men like this.”
+And I was willing to bet that if we found the right type of evidence, we could convince Trenati to hand over Auri.  
 
-His jaw clenched. “You survive them. If you’re careful. If you're lucky.”
+### * * *  
 
-He exhaled sharply and shook his head, as if struggling to keep words from breaking free.
+Auri’s time was running out.  
 
-“Damn you, Kvothe.”
+That thought beat under every moment, more insistent than my pulse.  
 
-His voice held no anger and no plea. It was only simple, weary truth.
+The court had already accepted Ambrose Jakis as her suitor. The wedding date had not yet been set, but it wouldn’t be long. No royal house would wait to finalize a match like this. If we didn’t act soon, Auri would be bound to him in a way I couldn’t undo.  
 
-“You don’t run from fire. You always run toward it.”
+That thought followed me through the streets of Renere.  
 
-He wasn’t wrong.
+I should have spent every hour on the search. Most of them, I did. But the real problem was that Trenati left no footprints.  
 
-But it did not matter. There was no right way to do this, no safe way to tear a locked door off its hinges. I was not hoping for equal footing. I was searching for a weakness, a hidden flaw in the iron or wood. I was looking for the place where their rules could splinter and break.
+Even the most cautious ones left markers. A favored vintner, perhaps. A discreet card house where debts were quietly settled. No one as prominent as Prince Trenati could move through a city like Renere without leaving some kind of imprint. That would only be possible if someone moved after him, sweeping his footprints from the dust on purpose.  
 
-And I was willing to bet that if we found the right type of evidence, we could convince Trenati to hand over Auri.
+Wilem tried the official channels first.  
 
-### * * *
+Four days of court records and audience logs turned up what looked, at first glance, like a perfectly ordinary schedule.  
 
-Auri's time was running out.
+But something was wrong with it.  
 
-That thought beat under every moment, more insistent than my pulse.
+On the 22nd, the records claimed Trenati had overseen trade negotiations between the glassmakers’ guild and the ambassador from Modeg.  
 
-The court had already accepted Ambrose Jakis as her suitor. The wedding date had not yet been set, but it wouldn’t be long. No royal house would wait to finalize a match like this. If we didn’t act soon, Auri would be bound to him in a way I couldn’t undo.
+Wilem tracked down a glass merchant who had been present.  
 
-That truth chased me down the streets of Renere, turning every wasted hour into another hour Ambrose spent tightening his grip on her future.
+“Trenati?” the merchant hesitated, the way someone does when struggling to place a face in a half-remembered dream. Then he scoffed, shaking his head. “Of course, he was there.”  
 
-Trenati left no footprints. That was the problem.
+“You sound uncertain,” Wilem pressed.  
 
-Even the most cautious ones left markers. There might be a favored tailor, a particular vintner who supplied their table, perhaps a discreet card house where debts were quietly settled in gold and sharp glances. No one as prominent as Prince Trenati could move through a city like Renere without leaving some kind of imprint. That would only be possible if someone moved after him, sweeping his footprints from the dust on purpose.
+The merchant rubbed his forehead. “No, no. I know he was. It’s just odd. Normally, I’d remember something specific he said, a joke, an insult. Trenati’s the sort who burns his words into a room. But I only remember that he was drinking. Talking. Something about tariffs.”  
 
-Wilem tried the official channels first.
+He muttered, “Tehlu’s teeth, maybe I need to drink less at these meetings.”  
 
-Four days of court records, audience logs, and public engagements turned up what looked, at first glance, like a perfectly ordinary schedule.
+Wil made a note.  
 
-But something was wrong with it.
+“Wait,” another glassmaker interrupted. “Trenati? No, he wasn’t there.”  
 
-On the 22nd, the records claimed Trenati had overseen trade negotiations between the glassmakers’ guild and the ambassador from Modeg.
+Wil turned back. “What do you mean?”  
 
-Wilem tracked down a glass merchant who had been present at the trade negotiations.
+“That wasn’t him. That was Minister Halbrecht. Trust me, I’d remember. Between him and the Modigan ambassador, we nearly drowned in wine that day.”  
 
-“Trenati?” the merchant hesitated for just a second, like a man struggling to place a face in a half-remembered dream. Then he scoffed, shaking his head. “Of course, he was there.”
+The contradiction sharpened at the edge of Wilem’s mind. He pressed the second merchant harder. No luck. The details didn’t match, but neither man seemed to second-guess themselves.  
 
-“You sound uncertain,” Wilem pressed.
+One mistake in the records? That could be negligence.  
 
-The merchant exhaled sharply, as if shaking something off. “No, no. I know he was. I just...” He rubbed his forehead, frowning. “It’s odd. Normally, I'd remember something specific he said, a joke, an insult. Trenati's the sort who burns his words into a room. But I only remember that he was drinking. Talking. Something about tariffs.”
+But then came more.  
 
-He exhaled again, muttering, “Tehlu’s teeth, maybe I need to drink less at these meetings.”
+On the 24th, Trenati was recorded as attending a formal procession. Yet the uniforms the guards wore that day did not match the season’s colors for the Citadel’s royal escorts.  
 
-Wil made a note, relief settling low in his ribs. A confirmation. Maybe they were imagining discrepancies after all.
+The 27th listed him as a guest at the House of Seven Wells. This was a high aristocratic gathering, renowned for the way it scrutinized every detail of attendance. Yet when Wilem managed to find an attendant from the event, she consulted her ledger and her expression tightened.  
 
-“Wait,” another glassmaker interrupted. “Trenati? No, he wasn’t there.”
+“That can’t be right,” she said at the missing entry. “That night was full. Every guest accounted for.”  
 
-Wil turned back. “What do you mean?”
+“Then why isn’t Trenati listed?” Wilem asked.  
 
-“That wasn’t him. That was Minister Halbrecht. Trust me, I’d remember. Between him and the Modigan ambassador, we nearly drowned in wine that day.”
+She bit her lip.  
 
-The contradiction sharpened something at the edge of Wilem’s mind. He pressed the second merchant harder. No luck. The details didn’t match, but neither man seemed to second-guess themselves.
+“But I swear he was there,” she said, more to herself than to Wil. “I saw him. Or at least, I think I did.”  
 
-One single mistake in the records? That could be negligence.
+Her gaze traced the blank space in the ledger. Then her posture changed. The uncertainty vanished, smoothed over like a crease in silk. “I can’t help you,” she said, voice suddenly even. Too even.  
 
-But then came more.
+Wilem opened his mouth.  
 
-On the 24th, Trenati was recorded as attending a formal procession. Yet the uniforms the guards wore that day did not match the season’s colors for the Citadel’s royal escorts.
+“I can’t help you,” she repeated. And she shut the ledger.  
 
-The 27th listed him as a guest at the House of Seven Wells. This was a high aristocratic gathering, renowned for the way it scrutinized every detail of attendance. Yet when Wilem managed to find an attendant from the event, she merely frowned as she consulted her ledger.
+As Wil described it later, the woman had looked like someone asked to recall a dream she hadn’t finished having.  
 
-“That can’t be right,” she murmured, brow furrowing deeply at the missing entry. “That night was full. Every guest accounted for.”
+He flipped open his own small record-book. The orderly notes he had made over the last few days filled the pages. His thumb trailed along the empty space where Trenati should have been.  
 
-“Then why isn’t Trenati listed?” Wilem asked.
+It wasn’t empty.  
 
-She bit her lip. Fingertips tightened over the edge of the ledger’s worn leather.
+A date, written in his own hand, sat clear as day on the page. “Trenati - House of Seven Wells, 27th.”  
 
-“But I swear he was there,” she murmured beneath her breath, her words meant more for herself than for anyone else. “I saw him. Or at least, I think I did.”
+He told me he blinked at it. Checked four times. He swore it hadn’t been there before. But there it was, his own handwriting, and he couldn’t remember putting it down.  
 
-Her fingers traced the blank space in the ledger, following where his name should have been. Her frown deepened.
+He told himself he was exhausted. That he must have overlooked it, scribbled the note and misfiled it in his head, that’s all.  
 
-Then, her posture changed. Ever so slightly, her stiffened spine smoothed into something different, something more controlled.
+Tucking the notebook away, he kept moving.  
 
-That moment’s uncertainty vanished, smoothed over like a crease in silk. “I can’t help you,” she said, voice suddenly even. Too even.
+And so it continued.  
 
-Wilem opened his mouth.
+Trenati’s name appeared where presence was expected, but the details frayed at the edges. People recalled seeing him in passing but not speaking to him.  
 
-“I can’t help you,” she repeated. And she shut the ledger.
+It was as if he existed just enough to discourage deeper questions but not enough to truly be observed.  
 
-When they left the room, Wilem exhaled. “That was deliberate.”
+If no one was looking too closely, they would never notice the gaps.  
 
-“You think?” Sim muttered, rubbing his forehead. “She looked like we’d asked her to recall a dream she hadn’t finished having.”
+Simmon, meanwhile, took to the markets and tea-houses.  
 
-Wilem flipped open his own small record-book. The careful, orderly notes he had made over the last few days filled the pages. His thumb trailed along the empty space where Trenati should have been.
+Unlike Wilem’s records, which were too polished, Sim expected the lower classes of Renere to provide more natural insights.  
 
-His breath hitched.
+He was wrong.  
 
-It wasn’t empty.
+At the docks, a sailor swore Trenati had overseen an ivory shipment. “Clear as day. Wore that dark blue brocade coat of his, same as always.”  
 
-A date, written in his own hand, sat clear as day on the page: “Trenati - House of Seven Wells, 27th.”
+“Same as always?” Sim repeated.  
 
-He blinked hard.
+“Sure,” the man nodded. “He was wearing it last time he came, too.”  
 
-“I checked this earlier. I checked this four times. It wasn’t there. It wasn’t.”
+Sim and Wilem exchanged glances.  
 
-Sim was still talking, something about how the contradictions were piling up, but Wilem stared at his own handwriting, trying to remember writing it.
+“And that last time was?” Wil prompted.  
 
-He couldn't.
+“Dunno.” The sailor scratched his jaw. “Feels like no more than a couple weeks back.”  
 
-He should say something. He should—he—
+But Sim had already checked. Trenati had been supposedly attending trade talks in Modeg the entire season.  
 
-No. That was ridiculous. He was exhausted. He must have overlooked it, scribbled the note and misfiled it in his head, that’s all.
+At an upper-market tea shop, one serving girl told Sim, “Oh, no, he never visits.”  
 
-Tucking the notebook away, he exhaled slowly. “We should keep moving.”
+“He was here.” The second server insisted. “Blue brocade, same as always. Stood over by the window. I remember the light caught his hair. He had that look.”  
 
-And so it continued.
+The first server hesitated, lips pressing together.  
 
-His name appeared where presence was expected, but the details frayed at the edges. People recalled seeing him in passing but not speaking to him, not interacting.
+“You’re thinking of someone else,” she said firmly.  
 
-It was as if Trenati existed just enough to discourage deeper questions but not enough to truly be observed.
+“No, I know it was him.”  
 
-If no one was looking too closely, they would never notice the gaps.
+A pause.  
 
-Simmon, meanwhile, took to the markets, the tea-houses, the gossip dens.
+“Don’t I?”  
 
-Unlike Wilem’s records, which were too polished, Sim expected the lower classes of Renere to provide more natural insights.
+The second server’s brows knitted. “It was him.”  
 
-He was wrong.
+“And I was the one writing down orders, wasn’t I?” The first woman’s voice had an odd edge now.  
 
-Everywhere he went, Trenati’s presence was strangely fragmented, contradictory.
+“Yes, and you nodded at him, I saw you.”  
 
-At the docks, a sailor swore Trenati had overseen an ivory shipment. “Clear as day. Wore that dark blue brocade coat of his, same as always.”
+“Then why don’t I remember doing it?”  
 
-“Same as always?” Sim repeated.
+The second server opened her mouth, then shut it.  
 
-“Sure,” the man nodded. “He was wearing it last time he came, too.”
+Silence stretched between them, and Sim stopped writing mid-word.  
 
-Sim and Wilem exchanged glances.
+### * * *  
 
-“And that last time was?” Wil prompted.
+When we were back at the Blind Beggar later that night, the shutters were open against the heat. The noise of Renere drifted in, muffled and distant, like a city talking in its sleep.  
 
-“Dunno.” The sailor frowned. “Feels like no more than a couple weeks back.”
+Sim rubbed his arms. “It keeps twisting under itself,” he said. “It’s not just that they’re covering up his movements. It’s as if they’re rearranging them to make sense. The moment you stop looking, it feels natural again.”  
 
-But Sim had already checked. Trenati had been supposedly attending trade talks in Modeg the entire season.
+He straightened, as if trying to shake off the thought. “It’s like someone’s telling a story, and every time we turn the page, they’ve rewritten it behind us.”  
 
-At an upper-market tea shop, one serving girl told Sim, “Oh, no, he never visits.”
+Wilem tapped his notes against his knee. “Fabrication?”  
 
-“He was here.” The second server insisted. “Blue brocade, same as always. Stood over by the window. I remember the light caught his hair. He had that look.”
+“No,” I said. “Fabrication would leave mistakes. Slipping details, missing names. This is different.”  
 
-The first server hesitated, lips pressing together.
+The nahlrout was still holding, but I could feel the far edge of it now, the way you feel the last hour of a candle. Already, the ache was gathering behind my temples, patient and familiar.  
 
-“You’re thinking of someone else,” she said firmly.
+I turned toward Bast. He had been watching the street through the open shutters, his face cast wary in the shadows.  
 
-“No, I know it was him.”
+“You’re quiet,” I said.  
 
-A pause.
+Bast rolled a silver coin between his fingers, watching the lamplight flicker over the ridges. For the first time all night, he had stopped smirking.  
 
-A flicker of hesitation.
+“Nothing to say?” I pressed.  
 
-“...Don’t I?”
+The coin glinted as it flipped over his knuckles. “I don’t like cities that learn how to hold their tongue,” he said finally.  
 
-The second server frowned again, her brows knitting as though she were grappling with a loose thread in her own mind. At last, she spoke, her voice edged with something almost defensive. “It was him.”
+Wilem glanced at me. “What does that mean?”  
 
-“And I was the one writing down orders, wasn’t I?” The first woman’s voice had an odd edge now.
+Bast caught the coin in his palm. “It means,” he said, “that even a place can be taught to forget. Even stone. Even water.”  
 
-“Yes, and you nodded at him, I saw you.”
+“You knew this the whole time,” Wilem said.  
 
-“Then why don’t I remember doing it?”
+Bast shook his head. “No. But I suspected. And now I don’t want to know.”  
 
-The second server opened her mouth, then shut it.
+That made Sim stiffen. “If you don’t want to know, should we be worried?”  
 
-A slow, creeping silence stretched between them and Sim felt a small chill run up the back of his neck.
+An easy grin flickered across Bast’s face. “Simmon, I’ve always assumed you should be worried.”  
 
-### * * *
+But there was nothing easy in his weight against the table.  
 
-When we were back at the Blind Beggar later that night, Sim let out a breath and rubbed his arms. “It keeps twisting under itself,” he muttered. “It’s not just that they’re covering up his movements. It’s as if they’re rearranging them to make sense. The moment you stop looking, it feels natural again.”
+I stared out at the soft movement of Renere’s streets beyond the lamplight. I wondered if we were the ones leaving footprints in the wrong places.  
 
-He straightened, as if trying to shake off the thought. “It’s like someone’s telling a story, and every time we turn the page, they’ve rewritten it behind us.”
+Bast turned away from the window, glancing toward me. Not amusement. Not mischief. A weariness that had no performance in it.  
 
-Wilem tapped his notes against his knee, eyes sharp. “Fabrication?”
+“Follow your prince to the Whispering Quarter, Reshi,” he said quietly. “But a city that has learned to forget will not remember you were ever there.”  
 
-“No,” I said, brow furrowed. “That would leave mistakes. Slipping details, missing names. But this feels like something else.”
-
-I turned toward Bast. He had been watching the city beyond us, his face cast in shadow. His expression was more detached than usual, not bored but wary.
-
-“You're quiet,” I said.
-
-Bast rolled a silver coin between his fingers, watching the lamplight flicker over the ridges. For the first time all night, he had stopped smirking.
-
-“Nothing to say?” I pressed, my voice carrying an edge.
-
-His fingers never stopped moving. The coin glinted as it flipped over his knuckles, quick, restless. “I don’t like cities that learn how to hold their tongue, Reshi,” he said finally.
-
-Something in the words sent an unshakable chill down my spine.
-
-Wilem noticed my expression. “What does that mean?”
-
-Bast let the question settle, idly flicking the coin and catching it in his palm. “It means,” he said lightly, “that even a place can be taught to forget.”
-
-It wasn't an answer. It was worse than an answer. It was the shape of something hidden beneath a sheet.
-
-“You knew this the whole time,” Wilem said, not accusing, just assessing.
-
-Bast shook his head. “No. I suspected. And now I don’t want to know.”
-
-That made Sim stiffen. “If you don't want to know, should we be worried?”
-
-An easy grin flickered across Bast’s face. “Simmon, I've always assumed you should be worried.”
-
-But there was nothing easy in his hands. Nothing easy in his weight against the table.
-
-I turned, staring at the city beyond the lamplight, at the soft movement of Renere’s streets. For the first time, I wondered if we were the ones leaving footprints in the wrong places.
-
-A slow breath left Bast’s lips. He turned away from the street, glancing toward me with something unfamiliar in his eyes. Not amusement. Not mischief. A small, sharp-edged weariness.
-
-“Follow your prince to The Whispering Quarter, Reshi,” he murmured. “But don't be surprised if the city forgets you when you're gone.”
-
-### ~ ~ ~
+### ~ ~ ~  
 
 [Chapter 22](CHAPTER_22.md) | [Contents](Contents.md) | [Chapter 24](CHAPTER_24.md)
