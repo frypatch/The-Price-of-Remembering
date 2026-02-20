@@ -15,7 +15,7 @@ Day Three
 
 NOT PATRICK ROTHFUSS  
 
-Version 4.02.18  
+Version 4.02.19  
 
 
 
