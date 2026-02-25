@@ -5,72 +5,52 @@
 ## CROSSCURRENTS.
 
 
-A QUIET SETTLED over the Waystone Inn after that. Not the soft hush of an inn at peace, but the brittle stillness that follows a wound. The sort that lingers when the story, and the telling of it, have not quite finished with you, and you are loath to recall the ending. Kote stood and drifted to the bar. Perhaps he only meant to tidy, to keep his hands busy. But cloth in hand, his motions slowed. He polished in thoughtless, deliberate circles, letting the motion carry him away from the memory.
+KOTE FELL SILENT, and a quiet settled over the Waystone Inn. It was the brittle stillness that follows a wound. It was the kind that settles into the wood and waits. He stood and drifted to the bar. Perhaps he only meant to keep his hands busy. But cloth in hand, his motions slowed.  
 
-“You made a promise,” Bast said. His voice was lazy as his posture, but sharp enough to cut through to Kote. “Before the duel. You said you wouldn’t waste another moment.”
+Chronicler sat at the hearth table, pen resting but not put away. The fire beside him had burned down to a dull orange murmur. He had the careful stillness of a man who knows that pressing too soon will close a door.  
 
-Kote didn’t look up. “I did.”
+Bast spoke from near the hearth, lazy as his posture. “You made a promise, Reshi. Before the duel. You said you wouldn’t waste another moment.”  
 
-“I don’t recall you straining your back over it,” Bast said, too casual to be kind.
+The innkeeper didn’t look up. “I did.”  
 
-Kote gave a dry, drowsy smile. “Only fools keep all their promises,” he said. “But I kept that one.”
+“I don’t recall you straining your back over it,” Bast said, a little too lightly.  
 
-Bast arched an eyebrow, skeptical.
+“Only fools keep all their promises.” A dry, tired smile. “But I kept that one.” He folded the cloth, turned it once, twice in his hands. “As time permitted.” He let the phrase sit for a moment. “Which is no kind of permission at all.”  
 
-Kote picked up the cloth, turned it once, twice in his hands. “As time permitted.” He turned the phrase like it tasted strange. “Which is no kind of permission at all.”
+Bast made a quiet sound, not quite agreement.  
 
-He set the cloth down.
+“But I did try,” he said, setting the cloth down. “So did she.”  
 
-“But I did try,” he said, almost to himself. “So did she.”
+A sideways look from Bast. “Wilem blamed you for taking twice as long to do anything useful.”  
 
-Bast tilted his head. “Wilem blamed you for taking twice as long to do anything useful.”
+“Because I was chasing ghosts, Bast,” Kote said, an edge surfacing briefly in his voice. “We all were. Ghosts in noble colors. Ghosts in crests and corridors. Ghosts with rearranged names.” He paused, and for a breath he wasn’t quite Kote. “I found her arguing with a spice merchant.” His hands pressed flat against the bar. “She was furious. Said his cinnamon was a fraud. Claimed it tasted like sawdust steeped in regret.”  
 
-“Because I was chasing ghosts, Bast,” Kote said, and his eyes didn’t quite stay focused on the room. “That’s what we were all doing. Ghosts in noble colors. Ghosts in crests and corridors. Ghosts with rearranged names.”
+Chronicler’s pen moved, then stopped. Across the room, a laugh slipped out of Bast before he could catch it. “That sounds more like her than anything else you’ve said today.”  
 
-His hands stilled on the bar, the memory already unspooling.
+Something eased in Kote’s face. “By the end of it, she had a free pouch of Clovian cinnamé and a crowd of ten arguing whether flavor counts as moral bankruptcy.” He chuckled once, breath hitching in his chest. “She never did like to lose an audience.”  
 
-“I found her arguing with a spice merchant. She was furious. Said his cinnamon was a fraud. Claimed it tasted like sawdust steeped in regret.”
+“And she wasn’t furious with you?”  
 
-Bast barked a laugh. “That sounds more like her than anything else you’ve told me.”
+His fingers found the edge of the bar and rested there. “She just grinned,” he said. “Like she’d won something she had no right to. Then took my arm like it had always been hers and asked if I’d learned anything worth hearing while I was off getting stabbed.”  
 
-Kote allowed a smile, softer now. “By the end of it, she had a free pouch of Clovian cinnamé and a crowd of ten arguing whether flavor counts as moral bankruptcy.”
+Neither of them spoke for a moment. Outside, the wind called at the shutters and went unanswered.  
 
-He chuckled once, breath caught in the ribs.
+Kote smiled. “We started meeting after that. It became habit. Not every night. But often enough.” He paused, and when he spoke again the words came slower, as if he were finding them in a room he hadn’t entered in a long time. “Shuttered teahouses. Ivy-walled gardens no one guarded after dusk. A river bridge where candles drifted on the water. Never delaying what I meant to do. Only what I should have.”  
 
-“She never did like to lose an audience.”
+Bast looked over, more wary than before. “None of us knew.”  
 
-“And when she saw you?”
+“That’s how she wanted it,” Kote said. “And if I had to choose, I didn’t mind.” He picked up a bottle he didn’t need to polish and held it against the low light. “It was the only part of Renere where the ghosts couldn’t follow. No politics. No princes. Just quiet music.”  
 
-“She didn’t blush. She grinned,” he said. “Like someone caught stealing fire and not particularly sorry about it.”
+“That’s what she was to you,” Bast said, almost carefully. “The part of the story that hadn’t gone wrong yet.”  
 
-“Did she say anything?”
+Kote shook his head. “No,” he said. “She’s never been that.” He set the bottle gently behind the bar.  
 
-“She said, ‘About time.’ Then she took my arm like it had always been hers, and asked if I’d learned anything worth hearing while I was off getting stabbed.”
+“But for a little while,” he said, “we met where the city forgot to watch us.”  
 
-The room went quiet again for a moment.
-
-Kote smiled. “We started meeting after that. It became habit. Not every night. But often enough. Shuttered teahouses. Ivy-walled gardens no one guarded after dusk. A river bridge where candles drifted like fallen stars. Nothing planned, nothing chased. Never delaying what I meant to do. Only what I should have.”
-
-Bast looked over, more wary than before. “None of us knew.”
-
-“That’s how she wanted it,” Kote said. “And if I had to choose, I didn’t mind.”
-
-He picked up a bottle he didn’t need to polish, turned it in his hands once. Twice.
-
-“It was the only part of Renere untouched by shadows. No ghosts followed us there. No politics. No princes. Just laughter. Shared lies. Quiet music.”
-
-“That’s what she was to you,” Bast said. “Something untouched. Something pure.”
-
-Kote shook his head. “No,” he said. “She’s never been that.”
-
-He turned the bottle one last time, then set it gently behind the bar.
-
-“But for a little while,” he said, “we met where the city forgot to watch us.”
-
-He looked down at the polished wood beneath his hands. Ran his thumb across a grain like music half-remembered.
+He looked down at the polished wood beneath his hands. Ran his thumb across a grain like music half-remembered.  
 
 “And that,” he said softly, “was close enough.”  
 
-### ~ ~ ~
+### ~ ~ ~  
 
 [Chapter 21](CHAPTER_21.md) | [Contents](Contents.md) | [Chapter 23](CHAPTER_23.md)
