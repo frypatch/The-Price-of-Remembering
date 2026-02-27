@@ -3,219 +3,219 @@
 ## THE WHISPERING QUARTER.
 
 
-THERE WAS NO THRESHOLD marking the entrance to the Whispering Quarter.
+THERE WAS NO BORDER where the Whispering Quarter began.  
 
-No walls. No guardhouses. No watchful merchant guilds staking claim over its streets. You simply stepped forward, and the city around you, though it still felt familiar, began to unravel.
+No walls. No guardhouses. No watchful merchant guilds staking claim over its streets. You simply stepped forward, and the city around you, though it still felt familiar, began to unravel.  
 
-The air grew thinner. The streets pressed closer. The roads you could name folded in on themselves, like the pages of a closed book. The only paths that remained led to places no one could explain.
+The air grew thinner. The streets pressed closer. The roads you could name folded in on themselves, like the pages of a closed book. The only paths that remained led to places no one could explain.  
 
-Bast hesitated first.
+I felt it then. The faint tremor returning to my fingers. The nahlrout from earlier had burned down to nothing.  
 
-I had been watching the streets. But he had been watching the not streets. The spaces between sound, the places between knowing.
+I pulled the flask from my coat. It had been Bast’s idea, though he’d never quite said so. He had simply set a stoppered bottle on the table that morning and let it sit there until I picked it up.  
 
-And something there had caught him the way a wolf catches the scent of something that has no living thing to claim its name.
+The tea was cold. It tasted the way a dead fire smells, all char and no warmth. I forced a mouthful down. My throat closed against it. But within a few breaths, my hands steadied. The cut along my forearm went quiet. The world returned its edges to me, reluctantly, like a miser parting with coin.  
 
-He slowed to a halt the way a man steps carefully across thin ice, as if suddenly aware that something beneath his feet is shifting.
+Bast hesitated first.  
 
-“Bast?”
+I had been watching the streets. But he had been watching the *not* streets. The spaces between sound, the places between knowing. And something there had caught him. Something with no name he was willing to say aloud.  
 
-His head tilted slightly, eyes narrowing. Not at the street itself, but at the space around it.
+He slowed, then stopped, careful as a man testing thin ice.  
 
-“I don’t like this,” he murmured.
+“Bast?”  
 
-“Neither do the beggers,” Wilem pointed out. His arms were crossed and a controlled tightness in his breath. “Not even the drunk ones.”
+His head tilted slightly, eyes narrowing. Not at the street itself, but at the space around it.  
 
-Sim rubbed his arms as if an unseen draft had run through them. “This is impossible. There are no secret districts in Renere. The city isn’t built that way.”
+“I don’t like this,” he murmured.  
 
-Bast tilted his head. The lamplight cast sharp shadows against his cheekbones. “No. But this isn’t a district, is it?”
+We had passed three doorways since the last cross street. Each one recessed, each one the kind of shallow alcove where beggars stake their ground in any city worth the name. All empty. Not even a blanket left behind.  
 
-Sim gave a confused scoff. “What’s that supposed to mean?”
+“Neither do the beggars,” Wilem pointed out. His arms were crossed. His breathing was careful. “Not even the drunk ones.”  
 
-Bast ran a hand down the front of his coat as if brushing away dust, gaze flicking toward the street ahead of us. “Borders between places aren’t always well-behaved.”
+Sim rubbed his arms against a chill that wasn’t there. “This is impossible. There are no secret districts in Renere. The city isn’t built that way.”  
 
-There was something in his voice I didn’t like. Something edged with Fae lore.
+The lamplight cast sharp shadows against Bast’s cheekbones. “No. But this isn’t a district, is it?”  
 
-He exhaled quietly and rolled his shoulders before continuing. “The Fae and the Mortal World aren’t just two separate things, divided the way streets are drawn on a map. There are places where the edges blur, and the two begin to bleed into one another.”
+Sim blinked. “Then what is it?”  
 
-Wilem frowned, shifting his weight unconsciously. “Like the Eld?”
+Bast ran a hand down the front of his coat as if brushing away dust. “Borders between places aren’t always well-behaved.”  
 
-Bast let out a small, humorless laugh. “No, the Eld remembers too much. But this?” He tapped his heel softly against the stone beneath him. His expression turned calculated. “This is a place that has forgotten itself altogether.”
+There was something in his voice I didn’t like. Something old. Something Fae.  
 
-The words slipped into the empty air like a drop of ink into water, sinking slow and staining the silence around them.
+He rolled his shoulders before continuing. “The Fae and the mortal are not so neatly parted as you think. There are places where the one bleeds slowly into the other.”  
 
-“Forgotten?” Sim muttered, mouth twisting as he tried to parse the meaning.
+Wilem frowned, shifting his weight. “Like the Eld?”  
 
-I caught the way Bast’s fingers ran absently along the edge of his coat. It was the same way a man keeps a hand near his sword, not as a threat, but waiting to see if he will need it.
+Bast let out a small, humorless laugh. “The Eld remembers too well. But this place has forgotten itself altogether.”  
 
-“It happens sometimes,” he continued, his voice quieter. “Places do not simply crumble into ruin. Sometimes they come undone, like threads slipping free from a weave. Old promises begin to fray. Old bargains lose their strength. Some roads bend back upon themselves again and again.” He traced a loose, twisting pattern in the air with his fingers. “Suddenly you find something taking shape, something uncertain whether it should have existed at all.”
+The words sank into the quiet like ink into a page.  
 
-He tilted his head backward slightly, scenting at the air.
+Sim straightened beside me. “Forgotten?” he muttered. “What does that even mean?”  
 
-Sim shivered. “That’s absurd.”
+Bast’s fingers ran absently along the edge of his coat. “It happens, sometimes,” he continued, his voice lower now. “Places do not crumble. They come undone, the way threads slip free from a weave. Old promises fray. Old bargains forget their strength.”  
 
-Bast smiled. “Not if you know the stories.”
+A wind stirred from nowhere, moving dust that had no reason to move.  
 
-I exchanged a glance with Wilem. Bast was being too careful. He always had the air of someone who had seen more than he cared to explain, but this wasn’t his usual playacting amusement.
+“Some roads bend back upon themselves, again and again, until something takes shape between the turnings,” Bast said. He traced a loose, twisting pattern in the air with his fingers. “Something uncertain whether it should exist at all.”  
 
-### * * *
+He paused, nostrils flaring, reading something in the air the rest of us couldn’t.  
 
-We found our perch along the old market district, an empty sprawl of forgotten stalls that had long since given up being useful.
+Sim shivered. “That’s absurd.”  
 
-It gave us the vantage we needed, but not the certainty.
+Bast smiled. “Not if you know the stories.”  
 
-The Low-House we suspected Trenati would use was just beyond the dying reach of Renere’s streetlamps. No signs. No mark of allegiance. Only the quiet, unnatural certainty that it had always been there.
+I exchanged a glance with Wilem. Bast was being too careful. Even in the short time I’d known him, he’d carried the air of someone who had seen more than he cared to explain. But this was different. There was no performance in it.  
 
-Every rule of the city bent around it.
+### * * *  
 
-Over the hours, men passed without looking. Footsteps that should have echoed didn’t. Some slowed as they approached the door as if they had forgotten why their feet had carried them there.
+We found our perch along the old market district, an empty sprawl of forgotten stalls that had long since given up being useful.  
 
-Sim stirred beside me, rubbing his arms, frowning like a man trying to shake off a thought before it took shape. “That’s odd.”
+It gave us the vantage we needed, but not the certainty.  
 
-“What?” I murmured.
+The Low-House we suspected Trenati would use was just past where Renere’s streetlamps gave out. The street had no name. The lamps nearest the door had gone dark, though the ones on either side burned fine.  
 
-“That man near the canopied stall,” Sim said. “The one lighting his pipe?”
+Over the hours, men passed without looking. Footsteps that should have echoed didn’t. Some slowed as they approached the door as if they had forgotten why their feet had carried them there. This was not the silence of an empty room. It was the silence of a room that had been told to be quiet.  
 
-I followed his gaze. A dark-coated man leaned against a nearby stand, puffing at a twisted-stem pipe. Greenish smoke drifted from his lips, curling against the gray fabric of his collar. He looked utterly at ease. Uninterested.
+Sim hunched forward on his elbows, frowning at something he couldn’t quite name. “That’s odd.”  
 
-Sim exhaled sharply. “I swear to Tehlu, I saw that man two streets away. By the theater. He leaned against a different wall, same pipe, smoking just like that.”
+“What?” I murmured.  
 
-“Maybe he moved faster than you did,” Wil murmured, though he was already shifting, subtly adjusting his line of sight.
+“That man near the canopied stall,” Sim said. “The one lighting his pipe?”  
 
-Sim dampened his lips. “At the theater, he was smoking the end of a pipe. Here, it’s fully packed, just lit.”
+I followed his gaze. A dark-coated man with a heavy jaw leaned against a nearby stand, puffing at a twisted-stem pipe. Greenish smoke curled from his lips. He looked utterly at ease. Uninterested.  
 
-That left a thin silence.
+Sim exhaled sharply. “I swear to Tehlu, I saw that man two streets away. By the theater. He leaned against a different wall, same pipe, smoking just like that.”  
 
-Then, something changed. The world drew breath. The hush broke. Light spilled beneath the door of the Low-House, and a figure stepped out, his shadow long on the cobblestones.
+“Maybe he moved faster than you did,” Wil murmured, though his eyes were already moving, subtly adjusting his line of sight.  
 
-He moved with purpose, quick and certain, his coat flaring as he left the Whispering Quarter behind. At the next corner, just before his footsteps faded, he passed two women who were deep in conversation. One of them glanced in his direction and hesitated, her eyes blinking in a slow, startled realization.
+Sim wet his lips. “At the theater, he was smoking the end of a pipe. Here, it’s fully packed, just lit.”  
 
-“You’re back early,” she said, confused.
+That left a thin silence.  
 
-The man gave a casual wave, smiling.
+Then, something changed. The world drew breath. The hush broke. Light spilled beneath the door of the Low-House, and a figure stepped out, quick and certain, his coat flaring as he left the Whispering Quarter behind.  
 
-“Gods above,” the other woman muttered. “I thought you’d already left town.”
+At the next corner, just before his footsteps faded, he passed two women who were deep in conversation. Though something about them seemed slightly wrong. Their words came mid-sentence, as if they had been placed there already talking, the way a stage is dressed before the curtain lifts.  
 
-A slow, prickling silence settled between all of us.
+One of them glanced in his direction and hesitated.  
 
-Even Sim had caught it. That man was not surprised to be here. He walked with the confidence of someone who knew exactly where he had been.
+“You’re back early,” she said, confused.  
 
-Only the world itself had lost him.
+The man gave a casual wave, smiling.  
 
-Wilem, who had been carefully tracking the men entering and not leaving, frowned suddenly.
+“Gods above,” the other woman muttered. “I thought you’d already left town.”  
 
-Then, a sharp edge in his voice, he whispered, “That’s not possible.”
+A slow, prickling silence hung between all of us.  
 
-I recognized the tension settling into his shoulders. The kind of weight that falls into someone’s spine right before they realize they’ve seen something they cannot explain.
+Even Sim had caught it. I watched the man’s back as he rounded the corner. No hesitation in his stride. No fumbling for direction. I have seen a thousand people walk offstage, and they all share the same half-second of uncertainty when the lights change and the world stops being the one they rehearsed. This man didn’t have it. He knew exactly where he’d been.  
 
-“What isn’t?” Sim asked sharply.
+Only the world itself had lost him.  
 
-Wilem didn’t look up. He wasn’t asking anymore. He was checking.
+Wilem, who had been carefully tracking the men entering and not leaving, frowned suddenly.  
 
-He flipped back through his notes, fingers pressing into the page. Running the tally a second time. A third. His lips parted slightly, exhaling a slow, careful breath.
+Then, a sharp edge in his voice, he whispered, “That’s not possible.”  
 
-“There were twelve,” he muttered, mostly to himself. “I know I counted twelve.”
+“What isn’t?” Sim asked sharply.  
 
-Sim and I exchanged a glance.
+Wilem didn’t look up. He wasn’t asking anymore. He was checking.  
 
-“There were twelve,” I said cautiously.
+He flipped back through his notes, fingers pressing into the page. Running the tally a second time. A third. His lips parted slightly, exhaling a slow, careful breath.  
 
-“Then why are there still twelve inside?” Wil muttered, flipping pages back and forth.
+“There were twelve,” he muttered, mostly to himself. “I know I counted twelve.”  
 
-“Numbers don’t lie,” Sim said, though he sounded like he wished they did.
+Sim and I exchanged a glance.  
 
-Bast, who had been restless beside me, flicked his fingers, face impassive. “Reshi, listen.”
+“There were twelve,” I said cautiously.  
 
-I hesitated.
+“Then why are there still twelve inside?” Wil muttered, flipping pages back and forth.  
 
-Silence.
+“Numbers don’t lie,” Sim said, though he sounded like he wished they did.  
 
-That was wrong. The market should not be silent. Even this late, even in its quietest corners, there should be the scrape of boots on stone, the distant clang of dishes, the gentle ripple of conversation.
+Bast, who had been restless beside me, went still. One hand rose, fingers spread. A sharp hiss through his teeth.  
 
-But for the space of a lingering breath, there was nothing. As if the city around us had taken a sharp inhale and never exhaled.
+I listened.  
 
-Then it returned. Murmurs braided back into the night, a laugh echoed off an empty stone wall. But there had been a moment where Renere had forgotten to let itself exist.
+Silence.  
 
-### * * *
+That was wrong. The market should not be silent. Even this late, even in its quietest corners, there should be the scrape of boots on stone, the distant clang of dishes, the gentle ripple of conversation.  
 
-A figure passed, wrapped in a clerk’s coat, carrying a satchel. He paused by a lantern to adjust the clasp with fumbling fingers.
+But for a breath, there was nothing. As if the city had drawn a breath and held it.  
 
-Bored, I followed the movement absently—right up until his fingers touched the clasp.
+Then it returned. Murmurs braided back into the night. Somewhere, a laugh echoed off stone. But there had been a moment where Renere had forgotten to let itself exist.  
 
-Then, more movement.
+### * * *  
 
-Prince Trenati.
+A figure in a clerk’s coat passed by, carrying a leather satchel. He paused by a lantern to adjust the clasp with fumbling fingers.  
 
-His step was certain. Unhurried. Measured.
+I watched his hands without meaning to. Right up until his fingers touched the clasp.  
 
-And yet—
+Then, more movement.  
 
-I felt him fade while watching him move.
+Prince Trenati.  
 
-The streets did not resist him. They did not mark him passing through.
+His step was certain. Unhurried. Measured.  
 
-Instead, I felt the world shifting itself beneath his weight, letting him un-make the proof of his own presence.
+I felt him fade while watching him move. Once he walked forward, it did not matter that he had walked before.  
 
-Once he walked forward, it did not matter that he had walked before.
+I saw him glance toward a passing street vendor.  
 
-I saw him glance towards a passing street vendor.
+The man nodded, a greeting offered on reflex to someone he would not remember seeing.  
 
-The man nodded absently. It was a reflexive motion, the kind of movement a person does not make toward something that has already been erased.
+He was still here. In some ways, at least.  
 
-He was still here. In some ways, at least.
+“We don’t belong here,” Bast murmured.  
 
-“We don’t belong here, Reshi,” Bast murmured.
+I kept watching Trenati. “He does.”  
 
-I kept watching Trenati. “He does.”
+Bast laughed under his breath. There was no warmth behind it.  
 
-Bast laughed under his breath, but it was not his usual laughter. It was a hollow thing. A space left between one breath and the next.
+“For now,” he said softly. “’Belonging’ is a debt this place will come back to collect.”  
 
-“For now,” he said softly. “‘Belonging’ is a debt this place will come back to collect.”
+Sim let out a slow breath. “Do people come back?”  
 
-Sim let out a quiet breath, shifting his weight. “Do people come back?”
+Bast’s fingers drummed against his trousers. The shrug he offered was empty. Unconvincing.  
 
-Bast’s fingers drummed against his trousers. The shrug he offered was empty. Unconvincing.
+I knew better than to stay, of course. I have always known better. It has never once made a difference.  
 
-Wil’s fingers tightened around his notebook. “I don’t like this,” he murmured, barely moving his lips. “We should reposition.”
+I stayed.  
 
-“Why?” Sim breathed.
+Wil’s fingers tightened around his notebook. “I don’t like this,” he murmured, barely moving his lips. “We should reposition.”  
 
-“Because we’re too still,” he said, voice bare of emotion. “Four men, a single table, no movement. We don’t look like vendors. We don’t look like gamblers. We look like men who are watching something they’re not supposed to see.”
+“Why?” Sim breathed.  
 
-I exhaled.
+“Because we’re too still,” Wil said. “Four men. One table. No movement.” He glanced toward the Low-House. “We look like exactly what we are.”  
 
-“Wait, no. Too late,” Wilem whispered sharply.
+I exhaled.  
 
-I stiffened. Sim went rigid beside me. 
+“Wait. Too late,” Wilem whispered sharply.  
 
-Wil wasn’t looking at the Low-House anymore. He was looking past it, toward the side street where a man had stopped mid-step. His eyes were locked directly onto us.
+I stiffened. Sim went rigid beside me.  
 
-A casual passerby wouldn’t stop like that. Wouldn’t hesitate. Wouldn’t study us.
+Wil wasn’t looking at the Low-House anymore. He was looking past it, toward the side street where a man had stopped mid-step. His eyes were locked directly onto us. A casual passerby wouldn’t stop like that.  
 
-The dark-coated man was the second. He now leaned against a lamp post and brought a pipe to his lips. But he was watching, and the smoking was only a pretense.
+The heavy-jawed man with the pipe was the second. He leaned against a lamp post, pipe at his lips. But now I saw that the smoking was only a pretense.  
 
-The third, the store clerk, began to angle back towards us.
+The third, the clerk, began to angle back toward us.  
 
-The fourth, the street vendor.
+The fourth, the street vendor.  
 
-The weight of it settled fast. Too fast.
+The weight of it landed. All at once.  
 
-“They’re not just watching Trenati,” Sim whispered, barely breathing the words. “They’re watching for people watching him.”
+“They’re not watching him,” Sim whispered, barely breathing the words. “They’re watching for *us*. For anyone watching *him*.”  
 
-And now we were the ones being watched.
+Now we were the ones being watched.  
 
-Wil tensed beside me. “We move now.”
+And with that thought came a worse one. We had been watched for some time. The heavy-jawed man had been trailing us since the theater. Perhaps longer. They hadn’t been waiting to spot us. They’d been waiting to see how much we’d already seen.  
 
-We turned, but too late. The second man flicked his wrist twice, and the others reacted without hesitation.
+Wil tensed beside me. “We move now.”  
 
-One moment, the alley was clear.
+We turned, but too late. The second man flicked his wrist twice, and the others reacted without hesitation.  
 
-The next, we weren’t alone.
+One moment, the alley was clear.  
 
-The first man stepped in behind us, cutting off the exit. The doorman peeled away from his post by the Low-House and began crossing toward us, a purpose in his stride.
+The next, we weren’t alone.  
 
-We were surrounded.
+The first man stepped in behind us, cutting off the exit. The doorman peeled away from his post by the Low-House and crossed toward us.  
 
-I measured our odds, they weren’t good. Not in this tight space. Not against four watchers who had been expecting trouble.  
+We were surrounded.  
 
 ### ~ ~ ~
 
