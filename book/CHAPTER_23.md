@@ -363,17 +363,11 @@ Bast caught the coin in his palm. “It means,” he said, “that even a place 
 
 Bast shook his head. “No. But I suspected. And now I don’t want to know.”  
 
-That made Sim stiffen. “If you don’t want to know, should we be worried?”  
+Sim’s cup stopped halfway to his mouth. “If you don’t want to know, should we be worried?”  
 
-An easy grin flickered across Bast’s face. “Simmon, I’ve always assumed you should be worried.”  
+An easy grin flickered across Bast’s face. “Simmon, I have always assumed you should be.”  
 
-But there was nothing easy in his weight against the table.  
-
-I stared out at the soft movement of Renere’s streets beyond the lamplight. I wondered if we were the ones leaving footprints in the wrong places.  
-
-Bast turned away from the window, glancing toward me. The amusement was gone, and the mischief with it. What remained was a weariness that had no performance in it.  
-
-“Follow your prince to the Whispering Quarter, Reshi,” he said. “But a city that has learned to forget will not remember you were ever there.”  
+I stared out at the soft movement of Renere’s streets beyond the lamplight, wondering if we were the ones leaving footprints in the wrong places. From behind me came Bast’s breath. “Follow your prince to the Whispering Quarter, Reshi,” he said, his amusement gone and the mischief with it. “But a city that has learned to forget will not remember you were ever there.”  
 
 ### ~ ~ ~  
 
