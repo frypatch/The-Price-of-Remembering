@@ -205,151 +205,57 @@ And I was willing to bet that if we found the right type of evidence, we could c
 
 Auri’s time was running out.  
 
-That thought beat under every moment, more insistent than my pulse.  
+I should have spent every hour on the search. Most of them, I did. But Trenati was not a man who left clean footprints. Every trace we found led somewhere wrong. While Wilem took the official channels and Sim took the streets, Bast and I took the parts no one could talk about afterward.  
 
-The court had already accepted Ambrose Jakis as her suitor. The wedding date had not yet been set, but it wouldn’t be long. No royal house would wait to finalize a match like this. If we didn’t act soon, Auri would be bound to him in a way I couldn’t undo.  
+We started at the east wall when the Palazzo de Contraier was quiet enough to hear the third bell echo, its windows shuttered to the darkness, its reputation doing most of the work a guardsman should. The ivy grew thick here, enough to hold weight, and from there we found a balcony I remembered from Fascino’s gathering. The shutters were latched but I’d been opening worse since I was twelve.  
 
-I should have spent every hour on the search. Most of them, I did. But the real problem was that Trenati left no footprints.  
+The steward’s ledger was where I remembered it. Months of entries in a clerk’s careful hand, with Trenati’s name appearing much too often for a prince supposedly occupied with affairs of state. But it wasn’t the frequency that caught my eye.  
 
-Even the most cautious ones left markers. A favored vintner, perhaps. A discreet card house where debts were settled behind closed doors. No one as prominent as Prince Trenati could move through a city like Renere without leaving some kind of imprint. That would only be possible if someone moved after him, sweeping his footprints from the dust on purpose.  
+The early entries were specific. *Prince Trenati, 4th of Caitelyn. Arrived ninth bell. Discussed northern tariff arrangements with Lords Vaen and Harrick. Departed past midnight. Three bottles Feloran red, billed to the Citadel account.*  
 
-Wilem tried the official channels first.  
+Then, gradually, the entries thinned until I was lucky to find *Prince Trenati. Present. Usual business.* But the entries around them remained as detailed as ever. Lord Vaen’s wine preferences. The Modegan ambassador’s departure time.  
 
-Four days of court records and audience logs turned up what looked, at first glance, like a perfectly ordinary schedule.  
+I closed the ledger. Bast was standing in the middle of the room with his head tilted back, testing the air the way a hound tests a cold trail. “There’s no iron,” he said, turning slowly. “Your kind reeks of it. Every door you touch, every coin you carry. It gets into your skin.” He breathed in again. “This room smells like nobody at all.”  
 
-But something was wrong with it.  
+We put everything back and left the way we came. By the time we slipped through the back door of the Blind Beggar, the sky was beginning to grey at its edges.  
 
-On the 22nd, the records claimed Trenati had overseen trade negotiations between the glassmakers’ guild and the ambassador from Modeg.  
+Wil reported back first.  
 
-Wilem tracked down a glass merchant who had been present.  
+Four days of court records had shown a perfectly ordinary schedule for Prince Trenati. He had cross-referenced every entry against independent sources. His father had raised him on double-entry bookkeeping the way other fathers raised sons on bedtime stories, and the Cealdish did not leave numbers unverified.  
 
-“Trenati?” the merchant hesitated, the way someone does when struggling to place a face in a half-remembered dream. Then he scoffed, shaking his head. “Of course, he was there.”  
+The glassmakers’ guild meeting on the 22nd was the first crack. One merchant swore Trenati had been present. Another, seated at the same table, swore he hadn’t. “Neither of them hesitated,” Wil told me, flattening his hands on the table the way he did when a ledger wouldn’t balance. “I showed them the same record. Same date, same event. They looked at the same page and saw different things.”  
 
-“You sound uncertain,” Wilem pressed.  
+An aristocratic gathering on the 27th was worse. The House of Seven Wells kept meticulous attendance records, and the ledger showed a blank space where Trenati’s name should have been.  
 
-The merchant rubbed his forehead. “No, no. I know he was. It’s just odd. Normally, I’d remember something specific he said, a joke, an insult. Trenati’s the sort who burns his words into a room. But I only remember that he was drinking. Talking. Something about tariffs.”  
+“The attendant told me the night was full,” Wil said. “Every guest accounted for. Then I asked about Trenati, and she said she was certain he’d been there. I asked her to show me his name in the ledger.” He paused. “She looked at the blank space for a long time. Then she closed the book and told me she couldn’t help.”  
 
-He muttered, “Tehlu’s teeth, maybe I need to drink less at these meetings.”  
+“Couldn’t, or wouldn’t?” I asked.  
 
-Wil made a note.  
+“Neither,” Wil said. “It was as if she’d walked into a room and forgotten why she’d come.”  
 
-“Wait,” another glassmaker interrupted. “Trenati? No, he wasn’t there.”  
+We were a few rounds in before Sim came back with his report.  
 
-Wil turned back. “What do you mean?”  
+He’d taken the markets and docks, the places where people without an agenda might have crossed Trenati’s path. At the harbor, a sailor swore the prince had overseen an ivory shipment. “Clear as day. Wore that dark blue brocade coat of his, same as always.”  
 
-“That wasn’t him. That was Minister Halbrecht. Trust me, I’d remember. Between him and the Modigan ambassador, we nearly drowned in wine that day.”  
+Sim had pressed him. Same as always? The sailor nodded. Same coat last time, too. When was last time? The man scratched his jaw. Couldn’t say. Felt recent. Usually stopped in at the Brewer’s Rest on his way back to the Citadel.  
 
-The contradiction sharpened at the edge of Wilem’s mind. He pushed the second merchant harder. No luck. The details didn’t match, but neither man seemed to second-guess themselves.  
+Sim’s face went a bit red then, and he started studying his hands.  
 
-One mistake in the records? That could be negligence.  
+He’d gone to the Brewer’s Rest. The innkeeper’s wife and one of the barmaids had been clearing up after the midday meal. Sim had asked his usual questions. Had Prince Trenati been through recently? The innkeeper’s wife shook her head. Not that she could recall. Business had been slow.  
 
-But then came more.  
+Then the barmaid, still stacking plates, had said, “That’s not right, is it? He was here just two weeks back. Don’t you remember? That was when Garret was settling accounts in Tarbean and you looked half dead from running the place yourself.”  
 
-On the 24th, Trenati was recorded as attending a formal procession. Yet the uniforms the guards wore that day did not match the season’s colors for the Citadel’s royal escorts.  
+The innkeeper’s wife smiled and waved her hand away. “It’s always such a blur when Garret’s away. I probably couldn’t place a single face if I had to.”  
 
-The 27th listed him as a guest at the House of Seven Wells. This was a high aristocratic gathering, renowned for the way it scrutinized every detail of attendance. Yet when Wilem managed to find an attendant from the event, she consulted her ledger and her expression tightened.  
+The barmaid had gone off to fetch something from the cellar then, but not before giving Sim an appraising look. Before he could leave, the innkeeper’s wife had laid her hand on his hip and asked if he was planning on staying a night or two. She had rooms upstairs, and it might be worth inspecting them to see which would suit him best.  
 
-“That can’t be right,” she said at the missing entry. “That night was full. Every guest accounted for.”  
+Sim wouldn’t look at any of us by this point.  
 
-“Then why isn’t Trenati listed?” Wilem asked.  
+“She reminded me of Fela,” he said quietly. “The hair. The way she smelled.” He rubbed the back of his neck. “But I don’t think she was lying about not remembering Trenati. I think the memory of him being there was genuinely gone. And she was just rearranging what was left inside to make it all feel natural.”  
 
-She bit her lip.  
+No one said anything for a while. The nahlrout was fading and I could feel the ache gathering behind my temples. I turned toward Bast. He had been watching the street through the open shutters, his face cast wary in the shadows. “You’re quiet,” I said.  
 
-“But I swear he was there,” she said, more to herself than to Wil. “I saw him. Or at least, I think I did.”  
-
-Her gaze traced the blank space in the ledger. Then her posture changed. The uncertainty vanished, smoothed over like a crease in silk. “I can’t help you,” she said, voice suddenly even. Too even.  
-
-Wilem opened his mouth.  
-
-“I can’t help you,” she repeated. And she shut the ledger.  
-
-As Wil described it later, the woman had looked like someone asked to recall a dream she hadn’t finished having.  
-
-He flipped open his own small record-book. The orderly notes he had made over the last few days filled the pages. His thumb trailed along the empty space where Trenati should have been.  
-
-It wasn’t empty.  
-
-A date, written in his own hand, sat clear as day on the page. “Trenati - House of Seven Wells, 27th.”  
-
-He told me he blinked at it. Checked four times. He swore it hadn’t been there before. But there it was, his own handwriting, and he couldn’t remember putting it down.  
-
-He told himself he was exhausted. That he must have overlooked it, scribbled the note and misfiled it in his head, that’s all.  
-
-Tucking the notebook away, he kept moving.  
-
-And so it continued.  
-
-Trenati’s name appeared where presence was expected, but the details frayed at the edges. People recalled seeing him in passing but not speaking to him.  
-
-It was as if he existed just enough to discourage deeper questions but not enough to truly be observed.  
-
-If no one was looking too closely, they would never notice the gaps.  
-
-Simmon, meanwhile, took to the markets and tea-houses.  
-
-Unlike Wilem’s records, which were too polished, Sim expected the lower classes of Renere to provide more natural insights.  
-
-He was wrong.  
-
-At the docks, a sailor swore Trenati had overseen an ivory shipment. “Clear as day. Wore that dark blue brocade coat of his, same as always.”  
-
-“Same as always?” Sim repeated.  
-
-“Sure,” the man nodded. “He was wearing it last time he came, too.”  
-
-Sim and Wilem exchanged glances.  
-
-“And that last time was?” Wil prompted.  
-
-“Dunno.” The sailor scratched his jaw. “Feels like no more than a couple weeks back.”  
-
-But Sim had already checked. Trenati had been supposedly attending trade talks in Modeg the entire season.  
-
-At an upper-market tea shop, one serving girl told Sim, “Oh, no, he never visits.”  
-
-“He was here.” The second server insisted. “Blue brocade, same as always. Stood over by the window. I remember the light caught his hair. He had that look.”  
-
-The first server hesitated, her expression tightening.  
-
-“You’re thinking of someone else,” she said firmly.  
-
-“No, I know it was him.”  
-
-A pause.  
-
-“Don’t I?”  
-
-The second server’s brows knitted. “It was him.”  
-
-“And I was the one writing down orders, wasn’t I?” The first woman’s voice had an odd edge now.  
-
-“Yes, and you nodded at him, I saw you.”  
-
-“Then why don’t I remember doing it?”  
-
-The second server started to answer, then didn’t.  
-
-Silence stretched between them, and Sim stopped writing mid-word.  
-
-### * * *  
-
-When we were back at the Blind Beggar later that night, the shutters were open to catch the night air. The noise of Renere drifted in, muffled and distant, like a city talking in its sleep.  
-
-Sim rubbed his arms. “It keeps twisting under itself,” he said. “It’s not just that they’re covering up his movements. It’s as if they’re rearranging them to make sense. The moment you stop looking, it feels natural again.”  
-
-He straightened, as if trying to shake off the thought. “It’s like someone’s telling a story, and every time we turn the page, they’ve rewritten it behind us.”  
-
-Wilem tapped his notes against his knee. “Fabrication?”  
-
-“No,” I said. “Fabrication would leave mistakes. Slipping details, missing names. This is different.”  
-
-The nahlrout was still holding, but I could feel the far edge of it now, the way you feel the last hour of a candle. Already, the ache was gathering behind my temples, patient and familiar.  
-
-I turned toward Bast. He had been watching the street through the open shutters, his face cast wary in the shadows.  
-
-“You’re quiet,” I said.  
-
-Bast rolled a silver coin between his fingers, watching the lamplight flicker over the ridges. For the first time all night, he had stopped smirking.  
+Bast rolled a silver coin between his fingers, watching the lamplight flicker over the ridges. He had stopped smirking.  
 
 “Nothing to say?” I asked.  
 
@@ -357,7 +263,7 @@ The coin glinted as it flipped over his knuckles. “I don’t like cities that 
 
 Wilem glanced at me. “What does that mean?”  
 
-Bast caught the coin in his palm. “It means,” he said, “that even a place can be taught to forget. Even stone. Even water.”  
+Bast caught the coin in his palm. “It means,” he said, “that even a place can be taught to forget.”  
 
 “You knew this the whole time,” Wilem said.  
 
@@ -365,9 +271,7 @@ Bast shook his head. “No. But I suspected. And now I don’t want to know.”
 
 Sim’s cup stopped halfway to his mouth. “If you don’t want to know, should we be worried?”  
 
-An easy grin flickered across Bast’s face. “Simmon, I have always assumed you should be.”  
-
-I stared out at the soft movement of Renere’s streets beyond the lamplight, wondering if we were the ones leaving footprints in the wrong places. From behind me came Bast’s breath. “Follow your prince to the Whispering Quarter, Reshi,” he said, his amusement gone and the mischief with it. “But a city that has learned to forget will not remember you were ever there.”  
+That easy grin flicked back to Bast’s face. “Simmon, I have always assumed you should be.”  
 
 ### ~ ~ ~  
 

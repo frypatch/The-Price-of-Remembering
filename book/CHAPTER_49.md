@@ -137,7 +137,7 @@ Cinder saw it. Cinder smiled.
 
 There was no more fighting to be done here. Only survival.  
 
-Kvothe turned and ran. Not blindly, but with purpose, following a pull he’d felt since they’d arrived. His legs carried him through the alien forest, past trees whose bark glimmered like wet ink, through thorns that sang as they tore his clothes. He knew where he was going now. He could feel it, that familiar hollow ache in the air, that sense of something being slowly eaten away.  
+Kvothe turned and ran. Not blindly, but with purpose, following a pull he’d felt since they’d arrived. His legs carried him through the alien forest, past trees whose bark glimmered like wet ink, through thorns that sang as they tore his clothes. He knew where he was going now. He could feel it in the air. The same thinning he’d felt in the Whispering Quarter, the same hollow ache that had reached for his names and found the sleeping mind instead. But here, on the Fae side of the wound, the ache was deeper. Hungrier. What had sipped at a prince for months and swallowed a king in days would not be gentle with something as old as Cinder.  
 
 Behind him came Cinder, crashing through the undergrowth with the patience of winter, with the certainty of death.  
 
@@ -165,25 +165,25 @@ The final “Ferula” brushed past him soft as a lover’s breath, close enough
 
 In his rage, Cinder spoke his own word of binding. Light erupted harsh and wrong, turning bark to bone, casting shadows that fell the wrong direction. It was the light of things that should not be seen, of moments that should not be remembered.  
 
-But in this place where the Whispering Quarter touched the Fae, light was the worst thing he could have summoned. Light called to the hunger that lived here, the thing that fed on memory and name and self.  
+But in this place where the Whispering Quarter touched the Fae, speaking a word of power was the worst thing he could have done. Not because of the light. Because of the *name*. A name older than kingdoms, older than the Ergen Empire, spoken aloud in the hungriest part of the wound between worlds. It was blood in dark water. It was a bell rung in perfect silence.  
 
 The ground trembled. Not with violence, but with recognition. With appetite. The air grew heavy, expectant, like the moment before something precious is lost forever. A sound came from everywhere and nowhere, soft and terrible. Not quite a whisper. Not quite a sigh. The sound of forgetting given voice.  
 
 Then it came.  
 
-Not light this time, but something that ate light. It unfolded from the spaces between, from the gaps where memory should have been. It had the shape of the Whispering Quarter’s hunger, vast and patient and older than names. It moved like Trenati had moved in those final days, uncertain of its own existence, but here in the Fae it had form. Terrible form.  
+Not light this time, but something that ate light. It unfolded from the spaces between, from the gaps where memory should have been. It was the Whispering Quarter’s hunger made visible, the depth Kvothe had glimpsed through his cracks in Renere, the *more* his sleeping mind had sensed beneath the fog. But here on the Fae side of the wound, what had been impression became weight. What had been a sense of depth became a gravity that pulled at everything with a name.  
 
-At its center, where a mouth might have been, was only absence. A hollow that pulled at everything around it, trying to fill itself with what others were.  
+At its center was only absence. Not a shape. Not a presence. A place where presence went to stop existing.  
 
 Cinder threw an arm across his eyes, staggering backward, but there was nothing to see. Only the sense of being slowly unmade.  
 
 “No,” he gasped, and even that word seemed thinner, less certain. “What is this?”  
 
-The thing that was the Whispering Quarter’s shadow pulsed once, and Kvothe watched as it began to feed. Not on flesh or blood, but on the essence of what made Cinder. His name. His nature. His story. It pulled at him the way it had pulled at Trenati, the way it pulled at everyone who stayed too long in places that forgot themselves.  
+Kvothe watched as the Quarter began to feed. Not on flesh or blood, but on the essence of what made Cinder. His name. His nature. His story. It pulled at him the way it had pulled at Trenati. But where a king had lasted days, something this ancient, this deep-named, burned like dry kindling. The Quarter had sipped at a prince for months. Had swallowed a king in days. What it did to Cinder took seconds.  
 
 Cinder fell to his knees. Terror replaced rage, but even the terror was being eaten, leaving only hollow confusion. He screamed, but the sound was already forgetting what screams were supposed to be.  
 
-The thing sighed, satisfied, and folded back into the nothing from which it came. But it had taken its meal. It had taken what mattered.  
+Then the weight receded, the way a tide goes out, slowly and without apology. It had taken what it wanted. It had taken what mattered.  
 
 The air fell still. The forest held its breath.  
 
