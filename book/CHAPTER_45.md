@@ -27,7 +27,27 @@ He leaned forward, his green eyes catching the moonlight, turning them gold. “
 
 “That would make sense,” I said slowly, pieces clicking together in my mind. “The Feyda cultists need royal blood to legitimize their cause.”  
 
-“Yes, and they’ve made her their banner, their proof that dead kings could still hold court. But whoever leads them,” Bast’s mouth twisted with the bitter taste of recognition, “Trenati or otherwise, the Quarter has them now. Has been feeding on the whole lot of them for some time, judging by how much has already been eaten away.” He paused, tilting his head as if listening to something only he could hear. “I can smell it on the wind, Reshi. That particular absence where something should be. Like a hole in the world shaped like a person.”  
+“Yes, and they’ve made her their banner, their proof that dead kings could still hold court.” Bast’s mouth twisted. “But Trenati, Reshi. Something’s wrong with him. More wrong than before.”  
+
+I looked at him. “He was already fading when we saw him.”  
+
+“Fading, yes. The Quarter had been tasting him for months. *Months.* And barely a nibble. A prince was…” He waved a hand, searching. “A light wine. Something to sip while the afternoon passed. The Quarter could have had him for years at that pace.”  
+
+His voice dropped. “Then Roderick died. And suddenly Trenati wasn’t a prince anymore.”  
+
+I felt the pieces shift. “He became King.”  
+
+“Not where it matters.” Bast’s eyes were steady on mine. “No one in Renere calls him King. Alveron made sure of that. But the Quarter doesn’t read politics. It reads *names*. And by blood, Trenati is the last living heir to a title older than this city. It doesn’t matter that no one bows to him. The name settled on him the moment his father died, and King is a deeper name than Prince.”  
+
+He paused, and when he spoke again his voice was quiet. Not fear exactly. Respect, the way you respect a fire that’s gotten out of the hearth.  
+
+“The Quarter stopped sipping and started swallowing. Days, Reshi. Not months. *Days.*”  
+
+A stillness settled through me. I thought of what I’d felt in the Quarter. The thinning. The way it had reached for my names, all of them, pulling at the roots. If the depth of the name determined the hunger.  
+
+I filed the thought away. It was too large to look at directly. Not yet.  
+
+“I can smell it on the wind,” Bast continued, tilting his head as if listening to something only he could hear. “That particular absence where something should be. Like a hole in the world shaped like a person.”  
 
 “What do you mean?” I asked, though something cold was already settling in my stomach.  
 
