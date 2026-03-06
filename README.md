@@ -15,7 +15,7 @@ Day Three
 
 NOT PATRICK ROTHFUSS  
 
-Version 4.03.04  
+Version 4.03.05  
 
 
 
@@ -49,7 +49,7 @@ The authors of this fan fiction attest that they neither sought permission from 
 
 First, I must thank Patrick Rothfuss, who laid the foundation stone by stone, word by careful word. There is art in that work. It is deliberate, deep, and filled with quiet care. To begin here is to sit beside a roaring fire, to listen for names in the crackling dark, to find the world new and strange again. Without such a beginning, I would have wandered off long ago, my interest spent, my feet sore.
 
-Next, let me thank TacticalDo. His ìPrice of Rememberingî found, if not the ending itself, then at least a hint of what the third book might be. In reading his words, I felt a door unlock. I realized that I, too, was allowed to shape an ending with my own hands. To draw out my own truths from within.
+Next, let me thank TacticalDo. His ‚ÄúPrice of Remembering‚Äù found, if not the ending itself, then at least a hint of what the third book might be. In reading his words, I felt a door unlock. I realized that I, too, was allowed to shape an ending with my own hands. To draw out my own truths from within.
 
 To those who shared their thoughts and theories, I owe you a debt. You are like the bright sparks drawn out from flint and tinder, the kindled fires in dark places where alone I would have seen no answers. When ideas are tested, then tempered, then given breath, we all burn brighter for it. Many of your fancies proved fertile ground. The most fruitful, I have named in the appendix.
 
@@ -62,17 +62,17 @@ And last, let me thank all the quiet transcribers, those patient souls who liste
 ## FORWARD.
 
 
-Welcome fellow ëOld Knowersí and ëProud Dreamersí. As an exercise I thought it would be interesting to piece together some of the prevailing book three theories into a streamlined version of what we may potentially receive. Let me preface this by saying that this interpretation will unquestionably deviate on many accounts from Patís final version, and though I donít believe there is sufficient information to truly piece ìThe Doors of Stoneî together in its entirety, that doesnít mean itís not worth trying.  
+Welcome fellow ‚ÄòOld Knowers‚Äô and ‚ÄòProud Dreamers‚Äô. As an exercise I thought it would be interesting to piece together some of the prevailing book three theories into a streamlined version of what we may potentially receive. Let me preface this by saying that this interpretation will unquestionably deviate on many accounts from Pat‚Äôs final version, and though I don‚Äôt believe there is sufficient information to truly piece ‚ÄúThe Doors of Stone‚Äù together in its entirety, that doesn‚Äôt mean it‚Äôs not worth trying.  
 
-After so many years the fanbase is unlikely to settle on any one conclusion, a problem Pat himself will likely face when delivering his own resolution. With that in mind, remember that this is merely an ending and not the ending. Itís also worth noting that given the considerably shorter length, this version will lack much of the intricacy and nuance that are hallmarks of the series, though there remains potential to expand based on community feedback.  
+After so many years the fanbase is unlikely to settle on any one conclusion, a problem Pat himself will likely face when delivering his own resolution. With that in mind, remember that this is merely an ending and not the ending. It‚Äôs also worth noting that given the considerably shorter length, this version will lack much of the intricacy and nuance that are hallmarks of the series, though there remains potential to expand based on community feedback.  
 
-While Kvothe has stated that stories seldom take the straightest path, for this fan version Iíve attempted to be as forthright as possible. I started by constructing a high-level outline using only what we can logically surmise from the existing books, interviews, and other official media, then combined this foundation with some of the more accepted fan theories developed over the years. The goal is to resolve as many plot threads as possible while delivering as satisfying a conclusion as I can to whatís already been established.  
+While Kvothe has stated that stories seldom take the straightest path, for this fan version I‚Äôve attempted to be as forthright as possible. I started by constructing a high-level outline using only what we can logically surmise from the existing books, interviews, and other official media, then combined this foundation with some of the more accepted fan theories developed over the years. The goal is to resolve as many plot threads as possible while delivering as satisfying a conclusion as I can to what‚Äôs already been established.  
 
-For the areas where Iíve been forced to fill gaps with original elements, Iíve tried to do so in a limited and respectful manner. My hope with this endeavor is to entertain while encouraging members of the community to consider the broader implications of theories posed. Like Kvothe when attempting to understand the Lethani, perhaps we can somehow pull the answers from within ourselves.  
+For the areas where I‚Äôve been forced to fill gaps with original elements, I‚Äôve tried to do so in a limited and respectful manner. My hope with this endeavor is to entertain while encouraging members of the community to consider the broader implications of theories posed. Like Kvothe when attempting to understand the Lethani, perhaps we can somehow pull the answers from within ourselves.  
 
-For those reading this I place no expectations upon you, though should you wish to provide input it would be greatly appreciated. You will find that much of this remains quite rough, but Iím hoping that with your assistance we can iron out its flaws. In regard to editing, I am open to the concept of making changes, particularly in the vein of matching the tone and prose of the existing novels, but am also open to plot changes, so long as the proposed alterations are not too extensive.  
+For those reading this I place no expectations upon you, though should you wish to provide input it would be greatly appreciated. You will find that much of this remains quite rough, but I‚Äôm hoping that with your assistance we can iron out its flaws. In regard to editing, I am open to the concept of making changes, particularly in the vein of matching the tone and prose of the existing novels, but am also open to plot changes, so long as the proposed alterations are not too extensive.  
 
-I appreciate this wonít be for everyone, however I offer it without obligation, let, or lean :)  
+I appreciate this won‚Äôt be for everyone, however I offer it without obligation, let, or lean :)  
 
 That all said, please enjoy.  
 
