@@ -105,7 +105,7 @@ def update_md_contents():
         toc_md += """\n"""
     ######################################################
     ## Now updating book/CONTENTS.md
-    book_toc_md_file = open(os.path.join(work_dir, "Contents.md"), "w")
+    book_toc_md_file = open(os.path.join(work_dir, "Contents.md"), "w", encoding="utf-8")
     book_toc_md_file.write(toc_md)
     book_toc_md_file.close()
 
@@ -148,7 +148,7 @@ def update_md_readme():
     md_data += "#" + get_chapter_MD("Resources.md").strip('\n') + "\n"
     md_data += md_page_break
     md_data += "#" + toc_md.strip('\n') + "\n"
-    md_file = open("README.md", "w")
+    md_file = open("README.md", "w", encoding="utf-8")
     md_file.write(md_data)
     md_file.close()
 
@@ -156,7 +156,7 @@ def update_md_readme():
 ##########################################################
 def update_xml_sitemap():
     ## Now updating the sitemap
-    sitemap_file = open("sitemap.xml", "w")
+    sitemap_file = open("sitemap.xml", "w", encoding="utf-8")
     sitemap_file.write(get_sitemap_XML())
     sitemap_file.close()
 
@@ -198,7 +198,7 @@ def publish_txt_book():
             markdown_data = get_chapter_MD(chapter_md_filename)
             txt_data += get_chapter_TXT(markdown_data)
         txt_data += "\n\n\n\n"
-    txt_file = open(os.path.join(build_dir, publish_version, output_filename + ".txt"), "w")
+    txt_file = open(os.path.join(build_dir, publish_version, output_filename + ".txt"), "w", encoding="utf-8")
     txt_file.write(txt_data)
     txt_file.close()
     ######################################################
@@ -253,7 +253,7 @@ def publish_md_book():
     md_data = md_data.replace("–", "-")
     md_data = md_data.replace("—", "-")
     md_data = md_data.replace("…", "...")
-    md_file = open(os.path.join(build_dir, publish_version, output_filename + ".md"), "w")
+    md_file = open(os.path.join(build_dir, publish_version, output_filename + ".md"), "w", encoding="utf-8")
     md_file.write(md_data)
     md_file.close()
 
@@ -292,7 +292,7 @@ def publish_html_book():
     html_data = '''<!DOCTYPE html>
 <html lang="en-US">
 <head>
-<meta charset="ISO-8859-1">
+<meta charset="utf-8">
 <title>'''+ short_title + '''</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -400,10 +400,10 @@ function display_palette() {
     html_data += "\n</main>"
     html_data += "\n</body>"
     html_data += "\n</html>"
-    html_file = open("index.html", "w")
+    html_file = open("index.html", "w", encoding="utf-8")
     html_file.write(html_data)
     html_file.close()
-    html_file = open(os.path.join(build_dir, publish_version, output_filename + ".html"), "w")
+    html_file = open(os.path.join(build_dir, publish_version, output_filename + ".html"), "w", encoding="utf-8")
     html_file.write(html_data)
     html_file.close()
 
@@ -427,7 +427,7 @@ def publish_pdf_book():
     html_data = '''<!DOCTYPE html>
 <html lang="en-US">
 <head>
-<meta charset="ISO-8859-1">
+<meta charset="utf-8">
 <style>
 ''' + all_css + '''
 @page {
