@@ -238,4 +238,8 @@ h6 {
     break-after: avoid;
     visibility: hidden;
   }
+  p {
+    orphans: 2;
+    widows: 2;
+  }
 }

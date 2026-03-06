@@ -55,8 +55,6 @@ p {
   line-height: 1.2em;
   margin: 1em 0em 1em 0em;
   text-align: left;
-  orphans: 2;
-  widows: 2;
 }
 
 img {
@@ -322,6 +320,10 @@ h6 {
     break-before: always;
     break-after: avoid;
     visibility: hidden;
+  }
+  p {
+    orphans: 2;
+    widows: 2;
   }
 }
 /* default-palette */
