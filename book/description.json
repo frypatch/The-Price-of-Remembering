@@ -13,7 +13,7 @@
     "dc:subject":"Fan Fiction, Fan Theories, Literary Criticism, Alternate Endings, Speculative Fiction, Fantasy, Epic Fantasy, Fantasy Series, Pop Culture Commentary, The Kingkiller Chronicle, Patrick Rothfuss, The Doors of Stone (Speculative)"
     },
 "cover_image":"cover.png",
-"default_css":["code_styles.css","general.css"],
+"default_css":["code_styles.css","general.css", "pagnation.css"],
 "chapters":[
             {"markdown":"Half_Title_Page.md","css":""},
             {"markdown":"Title_Page.md","css":""},
