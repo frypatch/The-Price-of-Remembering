@@ -412,7 +412,7 @@ def publish_pdf_book():
     ######################################################
     ## Create the HTML book CSS
     all_css = ""
-    for css_filename in ["general", "chapter", "webpage", "pdf"]:
+    for css_filename in ["general", "chapter", "webpage", "pdf", "pagnation"]:
         with open(os.path.join(work_dir, "css", css_filename + ".css"),"r") as some_css:
             all_css += some_css.read().strip() + "\n"
     ######################################################
@@ -907,26 +907,15 @@ def convert_markdown_to_XML(markdown_data):
 
 def get_sitemap_XML():
     ## Returns the XML sitemap data
-    all_xhtml = """<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">"""
-    all_xhtml += """
+    return """
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>{}</loc>
     <lastmod>{}</lastmod>
-  </url>""".format(website, publish_date)
-    locs = ["Cover_Page", "Resources"]
-    for entry in get_TOC_dict()["entries"]:
-        locs.append(entry["filename"])
-    for loc in locs:
-        epoch_seconds = os.path.getmtime(os.path.join(work_dir, loc + ".md"))
-        lastmod = datetime.datetime.fromtimestamp(epoch_seconds).strftime('%Y-%m-%d')
-        all_xhtml += """
-  <url>
-    <loc>{}{}/{}.html</loc>
-    <lastmod>{}</lastmod>
-  </url>""".format(website, work_dir, loc, lastmod)
-    all_xhtml += "\n</urlset>"
-    return all_xhtml
+  </url>
+</urlset>
+""".strip().format(website, publish_date)
 
 def chapter_md_filenames():
     with open(os.path.join(work_dir,"description.json"),"r") as f:
