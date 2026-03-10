@@ -3,235 +3,145 @@
 ## OLD ACQUAINTANCES.
 
 
-THE GATES OF Severen opened slowly.
+SEVEREN HAD CHANGED.
 
-Inside, the city was not loud. Yet it complained with unrest. Soldiers gathered in knots outside taverns. Wagons rattled and bowed low along the cobblestones. Proclamations fluttered from doorposts, thin and papery, like the brittle skins of trees long dead.
+Brown-robed figures chanted at intersections, the same rough cloth I'd seen in Renere. Soldiers watched from tavern doorways, thumbs hooked in their belts. Wagons rattled low along the cobblestones. Proclamations fluttered from doorposts like the brittle skins of trees long dead.
 
-After we stabled the horses, Denna and I parted. A word. A glance. An understanding. We would meet again, when nighttime turned the city to gold.
+Denna noticed me looking. "I'll be fine," she said, reading my face while tucking the sheaf of genealogies tighter under her arm. "I survived Tarbean at twelve. I think I can manage while you go find your Maer."
 
-After we stabled the horses, Denna and I parted. A word. A glance. An unspoken promise to meet again when evening fell.
+She said it lightly. But she chose the street that led away from the brown robes, and I noticed she kept her hand near the clasp of her cloak where I knew she kept a knife. I watched her go until the crowd swallowed her, then turned toward the estate.
 
-I was not sure how I would gain the Maer’s attention. I had the shape of a plan, nothing more. It turned out, I did not need one. Before the dust of Denna’s leaving had settled, I showed Stapes’s letter. And then Dagon appeared. Broad, silent. Eyes cold and sharp as frost. He led me through winding halls, the hush of stone on stone, until I stood before the Maer.
+I wasn't fool enough to go to the main entrance, so I showed Stapes's letter at the servant's gate. The steward read it, then again slowly. Then disappeared for nearly an hour while I sat on a stone bench in a corridor that smelled of lamp oil and lye.
 
-Alveron sat alone at his desk. The surface sprawled with documents, with scrolls, with Stapes’s crumpled letter. Fire from the hearth turned the walls the color of autumn. The Maer regarded me, lambent-eyed and unreadable.
+Then Dagon appeared.
 
-A flicker of calculation danced among the flames.
+I knew him at once. The same flat expression, the same economy of motion, the same sense that he had already decided three things about you before you'd finished your first sentence. If anything he seemed thinner than I remembered, the lines around his good eye cut deeper.
 
-“Ah, Kvothe, do come in,” Alveron said, still hale and healthy, I noted.
+He searched me in silence, hanging Caesura on a hook with the care of a man who respects a weapon even when he doesn't respect its owner. Then, still silent, he led me down the hall, keeping to the servant's corridors throughout. Dagon had always known where things were headed before they got there.
 
-“Your grace,” I said, bowing low and formal. “You seem well.”
+Alveron sat alone at his desk. The surface sprawled with documents, Stapes's creased letter already unfolded among them. Fire from the hearth turned the walls the color of autumn. The Maer regarded me, unreadable.
 
-“I am,” he replied tersely. “I must say your presence is most unexpected. Shouldn’t you be in Imre, drawing on that extortionate tuition they demand of me.” He said icily, before picking up one of the many pieces of parchment from atop his desk, “I’m to understand Stapes gave you this letter, though it fails to say as to why.”
+"Kvothe." He gestured to a chair the way you'd gesture at a dog you wanted to stop pacing. "Sit."
 
-“That is true, your grace. I come bearing troubling news that warrants your immediate attention,” I replied.
+"Your grace," I said, bowing low. "You seem. Well?"
 
-“Is Meluan safe?” Alveron said, springing halfway out of his seat. More concern in his voice than I’d ever heard from him before.
+"I am. Though I confess some curiosity as to why you are not in Imre, drawing on that extortionate tuition they demand of me." He tapped Stapes's letter with one finger. "This tells me that my manservant encountered you in Renere and found you sufficiently alarming to break protocol. It does not tell me why." He paused. "Though I suspect it has something to do with the young lord you cut down in the Citadel courtyard."
 
-“She is your grace, though given what I have to tell you, you may wish to take action,” I said.
+Meluan had been there. Stapes had been there. The only question was how much of the rest he'd already pieced together.
 
-He seemed to relax a little, settling back in his chaw. “This news, it must be serious indeed to bring you all the way here. Speak plainly, though do so quickly. The hour grows late, and I have pressing matters of my own to attend to.”
+"Lord Vatis pushed the duel, your grace. He demanded satisfaction. I gave it to him."
 
-“I have heard word of a coup coming to Renere,” I said. “With Regent Fascino at the center, your grace.”
+"You gave the court a dead nobleman and a story." His voice was mild. "Meluan wrote me. She was not amused." He leaned back. "Now. What business brings a University student to my gate with a letter from my manservant, when he should be a hundred miles east with his nose in a book?"
 
-He raised an eyebrow. His face was all unreadable lines and old patience. “You have news, do you? How did such news find its way to you?”
+"A friend from the University is trapped in Renere. She needs help that I cannot provide alone." I met his eyes. "In the course of trying to reach her, I learned of something larger. There is a coup forming. Regent Fascino is moving against Roderick."
 
-“Regent Lugosi,” I answered.
+The Maer's expression did not change. That told me more than any reaction would have.
 
-He made a small sound, something that might have been a laugh if one was generous. He leaned back, rubbing his hands together in the firelight. “One regent, whispering sharp words about another. It never ends.”
+"And how did this find its way to you?"
 
-I hesitated before speaking. “Forgive me, your grace, but you seem less troubled than I’d expected.”
+"Regent Lugosi."
 
-“Trouble at my borders is always my concern.” He paused, then corrected himself. “What of Roderick? Has this reached his ear?”
+He was quiet for a moment. Then he made a sound that might have been amusement. "Lugosi. A man who has spent twenty years whispering into every ear that will hold still long enough." He rubbed his hands together in the firelight. "And you carried his words here. Tell me, Kvothe. Did it not occur to you that a man of Lugosi's position might have his own reasons for wanting this story told? That you might be the mouth and he the puppeteer?"
 
-“I cannot say.” A click in my throat as I swallowed. “His inner circle is insulated. Regent Lugosi has plans to warn him, but I left before they could take shape. We both worry he will not see the danger. Not soon enough.”
+"He is afraid, your grace. I saw that much clearly."
 
-He smiled then, slow as frost on a windowpane. “If Roderick truly listens, the whispers will find him. I suppose we can all sleep soundly, for a while.”
+"Afraid men are the easiest to use." He let that sit. "What of Roderick? Has this reached his ear?"
 
-“Will you send word?” I pressed. “Will you move to reinforce the capital?”
+"I cannot say. His inner circle is insulated. Lugosi has plans to warn him, but I left before they could take shape."
 
-At once, I knew I had asked too much. I felt it in the hush that followed, in the way his eyes weighed me, weighed all that I was not saying.
+The Maer looked into the fire the way a man looks at a board where the pieces have already been arranged. "You were wise to bring this to me, Kvothe," he said after a time. "I will consider what you have said. I am due in the capital for his daughter's wedding in the coming days. Perhaps I shall expand my retinue accordingly."
 
-“And why would I do such a thing?” he said, tone brimming with disapproval. “I didn’t see Roderick ride out when bandits assailed the King’s road or for any of the disturbances in the north. The bastard demands his tithes and then comes crawling to me when he can not secure his own lands. For what possible reason would I risk coming to his aid?”
+He said it the way he said everything. Measured. Giving exactly as much as he intended. I heard concern for the kingdom. I heard a man weighing his options.
 
-I took a moment to muster all my powers of persuasion. “Your grace, if Roderick is unseated, it will throw the region into turmoil. Any agitation could very well spill over into your own lands.” Another thought came to me. “Also, should the worst arise, and you are the one who rides to his aid, Roderick would be very much in your debt.”
+"Will you send word to Roderick?" I pressed. The silence that followed told me I had asked too much.
 
-Looking into the fire, his features fixed in contemplation, Alveron appeared to ponder this a moment. “You were wise to bring this to me, Kvothe,” he said, seeming to come to a decision. “I will consider what you have said. I am due in the capital for his daughter’s wedding in the coming days. Perhaps I shall expand my retinue accordingly,” Alveron added, eying me shrewdly.
+"I think," he said carefully, "that Roderick has advisors for such things. And I think that a man who arrives uninvited at my gate might benefit from a touch more humility about the limits of his influence." He eyed me. "Return to the University. Stay there." His eyes held mine. "And Kvothe? Stapes took a risk for you today. Do not make him regret it."
 
-Sensing that there was nothing more to say on the matter, I bowed, making it to the door before he called me back.
-
-“Wait. Keep this matter between us for the time being until I’ve had sufficient time to investigate the validity of these claims. Stories such as this carry the potential to cause considerable unrest if not handled appropriately, wouldn’t you agree?”
-
-I nodded. “As you wish, your grace.”
+I nodded. "As you wish, your grace."
 
 ### * * *
 
-Outside the Maer’s chambers, Dagon was waiting. He stood silent as stone, his one good eye turning to me as I pulled the door closed behind me. He did not speak. He only nodded, then set off down the hall. I followed.
+Outside the Maer's chambers, Dagon was waiting. He held Caesura out to me with the same care he'd used taking it. Then he set off down the hall through the east gallery, where the corridors were wider and the walls held portraits instead of plaster. I followed.
 
-We had not gone far. The marble still remembered the warmth of the day beneath our feet, and I drifted in my thoughts, half-awake, half-dreaming. Then a ripple of strangeness caught my eye. Something here had shifted. Something small, but out of place.
+Between two tall windows hung a painting taller than any man. A gilded frame. A woman not yet old, with gray-green eyes that could have been looking at me over the neck of a lute on a summer afternoon.
 
-On the wall between two tall windows, a painting stood. It rose taller than any man. Its gilded frame caught the light, holding it quiet and close. The paint was the work of a master’s hand, the brushstrokes deft and sure, bringing to life the likeness of a woman not yet old. She looked out from the canvas with eyes I knew. Eyes I had seen in the mirror.
+I stopped. Dagon kept walking a few steps before he noticed. "Lady Meluan's mother," he said, turning back. "Anastasia Lackless. They hung it when her ladyship moved in."
 
-Dagon was already two steps ahead, but he must have seen my gaze.
+I barely heard him. Those were my mother's eyes.
 
-“Lady Meluan’s mother. Anastasia Lackless. They hung it when her ladyship moved in.”
+No. Not my mother's. Natalia Lackless.
 
-The name barely touched me. I stood staring at the hollow place behind my ribs.
+I remembered being eight years old, singing the Lackless rhyme by the campfire. My mother had scolded me. Told me Lady Lackless was a real person with feelings that could be hurt. Then she'd said I could make it up to Lady Lackless and to herself by finding sweet nettle for the pot.
 
-It wasn’t just resemblance. It was recognition. The curve of her cheek, proud and sharp as song. The angle of her jaw, the rare clarity of her gray-green eyes, just as they’d gleamed above an old lute once on a summer afternoon. Those were my mother’s eyes.
-
-No. Not my mother’s.
-
-Natalia Lackless.
-
-The old rhyme fluttered through me unbidden.
-
-“Seven things stand before the entrance to the Lackless door.”
-
-I had learned it in jest, recited as a child in whispers, back when I still thought stories were nothing more than clever lies we gave to truth to make it go down easier.
-
-I remembered her voice telling me tales by firelight. Her laughter at my first attempts to play the lute. Her silence whenever I asked about grandparents, or cousins, or names older than hers.
-
-She had kept it from me. The truth. The name. The legacy.
-
-In that moment, I understood why a song can hurt more than a sword.
-
-I had starved in Tarbean. Slept in alleys like a kicked dog, foraging words like scraps from the mouths of richer men.
-
-And across the map, behind silk curtains and carved stone, a family I never knew had buried me with their silence. A sister denied. A child erased.
-
-I felt my vision narrow. It was not quite fury, not yet. But something sharper took hold. It was more precise than anger, like wonder that had turned bitter in the mouth.
-
-If they knew, what would they do with me?
-
-Would the Maer send for a knife in the night, not to silence a threat but to erase a shame? Would Meluan look at me and see her own sister’s sin dragged through the mud, strung up in street colors and Ruh silk?
-
-I touched the bone ring at my finger. White. Promise-bound. Unbroken.
+I touched the bone ring at my finger.
 
 In a different world, it might have been a signet. In this one, it was a gravestone.
 
-Behind me, Dagon cleared his throat. “Don’t make me drag you out.”
+Dagon cleared his throat. "Keep moving."
 
-But I stayed another blink longer, just long enough to whisper the name, “Lackless,” before turning away.
+I turned away, but the painting stayed with me. "Why do you serve the Maer?" I asked him as we walked.
 
-“Tell me, why do you serve the Maer?” I asked him as we walked.
+"His grace is a man of prominence," he replied without hesitation.
 
-“His grace is a man of prominence,” he replied without hesitation.
+"And yet we remain instruments to him. Useful until inconvenient. Then discarded with a ring and a letter," I said, the bitterness slipping through before I could stop it.
 
-“And yet, for all we do for him, he still looks down on us. We are just tools for them to use and discard,” I said bitterly.
+He shrugged. "We each have our roles to play. This is mine. When the Maer offers the carrot and it fails, I'm the stick."
 
-He shrugged. “We each have our roles to play. This is mine. When the Maer offers the carrot and it fails, I’m the stick.”
+We walked in silence for a time. The corridor narrowed, and the evening light through the windows drew long shadows across the floor.
 
-I stopped in my tracks, unable to suppress the laughter bubbling up inside me. My conversation with the Cthaeh played in my head. I could see Dagon’s irritation reaching a tipping point, the stoic commander reaching for the wooden cudgel at his waist. But before he could pull it free, I held up my palms in an appeal for calm.
+"Tell me, Dagon. How is the road to Tinue these days?"
 
-“Tell me, Dagon. How is the road to Tinue these days?”
+He paused by the smallest margin. His boots lost a breath's rhythm. His good eye shifted toward me.
 
-He paused by the smallest margin. Not the sort of pause you’d notice if you weren’t watching. But I was. His boots lost a breath’s rhythm. His good eye shifted toward me, unreadable.
+"Long," he said. "For those who walk the path."
 
-He said nothing for a long moment. Then he spoke, voice steady. “Long for those who walk the path, and know the way.” It was the very phrase I had pulled from behind the Four-Plate Door.
+It was the very phrase I had pulled from behind the Four-Plate Door.
 
-I turned toward him, letting silence draw out like a string pulled taut.
+"I heard that in a play once," he added.
 
-Then he added, “I heard that in a play once.”
+"So did I," I said, keeping my voice level. "A very old one."
 
-“So did I,” I said, my voice too calm, too quiet. “A very old one. Never staged anymore.”
+He turned a corner, gesturing for a pair of minor guards to keep their distance. When we were alone again, he looked at me sidelong.
 
-Dagon turned a corner, gesturing for a pair of minor guards to keep their distance. Then he looked at me properly for the first time, sharply.
+"And those who walk the path?" I asked.
 
-“Who taught you that line?” he asked.
+"Don't often return by the same way." He said it flat. The way you quote something you've carried a long time.
 
-“I read it,” I said, watching his eyes. “In a book no one admits exists.”
+My heart hammered. I kept my face still.
 
-“A dangerous pastime,” he muttered. “Pages are more patient than people. They don’t know when to keep things buried.”
+"For the greater good," I said.
 
-“I’ve buried things,” I said. “Some that still bleed.”
+His hand moved to his cudgel. A reflex.
 
-He considered that in silence. We passed a tall window, and colored light fell across his profile. His features were stern and uncertain, the look of someone marked by a war-scar that would never fully heal.
+For a long moment he said nothing. Then, quieter than before: "That phrase was burnt from doctrine nearly two centuries ago."
 
-“If this is a test,” he said at last, “you’re pressing thin ice. The kind of thin that cuts.”
+"I didn't take an oath," I said. "But the cost was paid in full."
 
-“I’m not testing you,” I said. “I just want to know if what I’ve found belong to anything real.”
+Silence held between us.
 
-Slowly, he nodded once. “Then give me the next line.”
+Then Dagon's shoulders dropped a fraction of an inch.
 
-I let the breath hitch in my throat, but I answered.
+"If you have that much interest in old theater," he said, his voice shifting back to something anyone could overhear, "there's a man in Leventis. Claude. Runs the Weeping Eye. Order finger tea."
 
-“And those who do?”
+"I'll keep that in mind," I said.
 
-He made a noise like a laugh, but it wasn’t humor. “They do not often return by the same way.”
+"Do." He began walking again. "Three friends of mine visited over the years. Two said it changed their thinking. The third never wrote back."
 
-Silence stretched between us like a drawn bowstring.
+He let that sit for exactly one step. Then, brighter: "All just an old play, of course."
 
-I risked more.
-
-“But for those who walk the path,” I said, “and know the way.”
-
-He stopped.
-
-Not blocked the corridor. Not turned.
-
-He merely stopped.
-
-Weight shifted in his shoulders. Breath drawn. The kind of stillness that soldiers learn before drawing steel.
-
-His fingers brushed his cudgel. Not in threat. In readying.
-
-“No more riddles,” he said. “Say what you mean, or say nothing.”
-
-I swallowed. My heart ticked like a counting clock against my ribs.
-
-Then one more gamble.
-
-“For the greater good,” I said.
-
-No flourish. No reverence. I let the words fall like coin on a table.
-
-His eyes searched mine, for what, I don’t know.
-
-Then he echoed it, equally flat, equally exact.
-
-“For the greater good.”
-
-A silence followed.
-
-Then he spoke, his voice balanced delicately between curiosity and caution. “Some of those lines were burnt from doctrine nearly two centuries ago. You’d lose a tongue for half of it.”
-
-“I didn’t take an oath,” I said, “but the cost?” I tapped the bone ring on my finger without a word. “Paid in full.”
-
-Another beat of silence.
-
-At last, Dagon’s gaze shifted beyond me, lingering on stone arches and closed doors. He stepped forward, and half of his form melted into the shadow.
-
-“There’s a town,” he murmured. “Obscure. Cold. Frozen out of memory by newer roads. Leveritis.”
-
-The name rang faint, like a page half-torn from a childhood atlas.
-
-“A tavern,” he continued. “The Weeping Eye. Don’t ask after shelter. Don’t flash coin. Just order finger tea. Then ask for Claude. That’s all.”
-
-My mouth was suddenly dry. “And who is that?”
-
-“No more,” he snapped, quickly. “I’ve already said too much. If I’m wrong about you, I’ll end up with a knife in the gut and my life rewritten in a footnote.” He adjusted his gloves.
-
-Then, as if nothing had passed between us at all, he added brightly. The cheer in his voice was forced, almost blinding in its intensity.
-
-“Of course, it’s all just lines from a bad play.”
-
-I met his eye. “Of course.”
-
-We resumed our walk, both of us quieter than before.
-
-Stories, you see, live in whispers. But some whispers are wearing armor.
+I met his eye. "Of course."
 
 ### * * *
 
-“How did it go?” Denna asked, casually waiting for me beyond the main gates of the Maer’s estate. “I’m guessing from your expression not well.”
+"How did it go?" Denna asked. She was crossing the square from the direction of the lower markets, the sheaf of genealogies thicker than when she'd left. "I'm guessing from your expression not well."
 
-“Alveron’s not going to offer any aid to Roderick,” I said.
+"Alveron's not going to offer any aid to Roderick," I said.
 
-Though he hadn’t stated as much directly, I had spent enough time in the man’s company to get a sense of his character, and my instincts told me he had no intention of helping.
+Though he hadn't stated as much directly, I had spent enough time in the man's company to get a sense of his character, and my instincts told me he had no intention of helping.
 
-“Ah, what now then, do we ride back to Renere?”
+"Ah, what now then, do we ride back to Renere?"
 
-“Not yet,” I said, turning back to stare at Alveron’s residence. “I need to go north, but before that there’s one more thing I need to do here.” 
+"Not yet," I said, turning back to stare at Alveron's residence. "I need to go north, but before that there's one more thing I need to do here."
 
 ### * * *
 
