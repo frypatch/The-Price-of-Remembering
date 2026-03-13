@@ -9,6 +9,7 @@ import re
 import datetime
 import hashlib
 from xhtml2pdf import pisa
+from textwrap import dedent
 
 ##########################################################
 ## mark2epub
@@ -268,24 +269,50 @@ def publish_html_book():
             all_css += some_css.read().strip() + "\n"
     ######################################################
     ## Create HTML Book Table of contents
-    toc_md = """# CONTENTS.\n"""
-    toc_md += """\n"""
-    toc_md += """* [*Cover*](#).\n"""
-    toc_md += """* [*Settings*](#Settings).\n"""
+    toc_rows = []
+    toc_cover = {}
+    toc_cover["anchor"] = ""
+    toc_cover["title"] = "Cover."
+    toc_cover["subtitle"] = ""
+    toc_rows.append(toc_cover)
+    toc_settings = {}
+    toc_settings["anchor"] = "Settings"
+    toc_settings["title"] = "Settings."
+    toc_settings["subtitle"] = ""
+    toc_rows.append(toc_settings)
     for entry in get_TOC_dict()["entries"]:
         filename = entry["filename"]
         if filename == "Half_Title_Page":
             continue
-        titles = ". ".join(entry["titles"])
-        link = "#" + filename
-        if filename.startswith("CHAPTER"):
-            toc_md += """* [{}]({}).""".format(titles,link)
-        else:
-            toc_md += """* [*{}*]({}).""".format(titles,link)
-        subtitles = entry["subtitles"]
-        for subtitle in subtitles:
-            toc_md += """ {}.""".format(titlecase(subtitle.lower()))
-        toc_md += """\n"""
+        titles = ""
+        for title in entry["titles"]:
+            titles += titlecase(title.lower()) + ". "
+        subtitles = ""
+        for subtitle in entry["subtitles"]:
+            subtitles += titlecase(subtitle.lower()) + ". "
+        toc_row = {}
+        toc_row["anchor"] = filename
+        toc_row["title"] = title
+        toc_row["subtitle"] = subtitles    
+        toc_rows.append(toc_row)
+    toc_html = "<h1 class='chapter_title'><big>C</big>ONTENTS.</h1>\n"
+    toc_html += "<ul class='toc-list'>\n"
+    for toc_row in toc_rows:
+        anchor = toc_row["anchor"]
+        title = toc_row["title"]
+        subtitle = toc_row["subtitle"]
+        emStartTag = ""
+        emEndTag = ""
+        if not anchor.startswith("CHAPTER"):
+            emStartTag = "<em>"
+            emEndTag = "</em>"
+        link = f"<a href='#{anchor}'>{emStartTag}{title}{emEndTag}</a>"
+        toc_html += dedent(f"""
+            <li class='toc-row'>
+                <span class='toc-title'>{link}</span>
+                <span class='toc-subtitle'>{subtitle}</span>
+            </li>""")
+    toc_html += "\n</ul>"
     ######################################################
     ## Now creating the HTML book
     html_page_anchor_template = """<a name="{}"></a>"""
@@ -390,7 +417,7 @@ function display_palette() {
             html_data += "\n" + get_chapter_HTML(get_chapter_MD("Resources.md"))
             html_data += "\n<hr />"
             html_data += "\n" + html_page_anchor_template.format("contents")
-            html_data += "\n" + get_chapter_HTML(toc_md)
+            html_data += "\n" + toc_html
             html_data += "\n<main>"
         else:
             filename, extension = os.path.splitext(chapter_md_filename)
