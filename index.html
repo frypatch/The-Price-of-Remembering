@@ -312,6 +312,7 @@ h6 {
   font-size: 1.1rem
 }
 
+/* Print to PDF */
 @media print {
   .no_print {
     display: none !important;
@@ -324,6 +325,63 @@ h6 {
   p {
     orphans: 2;
     widows: 2;
+  }
+}
+
+
+/* Table of Contents */
+.toc-title {
+  white-space: nowrap;
+}
+.toc-subtitle {
+  white-space: nowrap;
+}
+@media (min-width: 769px) {
+  /* 
+   * Table of Contents for Desktop
+   * should display dots between 
+   * chapter title and subtitle or
+   * it is hard to visually connect 
+   * the two.
+   */
+  .toc-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+  }
+  /* The left span grows to fill the gap */
+  .toc-title {
+    display: flex;
+    flex: 1;
+    align-items: baseline;
+  }
+  .toc-title::after {
+    content: "";
+    flex: 1;
+    margin: 0 0.5em;
+    background-image: radial-gradient(circle, currentColor 0.05em, transparent 0.06em);
+    background-size: 0.3em 100%;
+    background-repeat: repeat-x;
+    background-position: bottom;
+    height: 0.1em;
+    opacity: 0.5;
+  }
+  /* The right container for sub-items */
+  .toc-subtitle {
+    text-align: right;
+  }
+}
+@media (max-width: 768px) {
+  /* 
+   * Table of Contents for Mobile
+   * should use a normal list so
+   * that all subtitles begin on 
+   * a new line.
+   */
+  .toc-subtitle {
+    text-align: left;
+    display: block;
+    margin-left: 2em;
   }
 }
 /* default-palette */
@@ -436,7 +494,7 @@ function display_palette() {
             </h3>
 
             <h4 class="book_cover_version nowrap">
-                Version 4.03.09
+                Version 4.03.12
             </h4>
         </div>
         <div class="book_cover_bottom_padding"></div>
@@ -456,7 +514,7 @@ function display_palette() {
 <h4><em>to the Tale of Kvothe</em></h4>
 <h4><em>Regarding The Doors of Stone</em></h4>
 <h3>NOT PATRICK ROTHFUSS</h3>
-<h4>Version 4.03.09</h4>
+<h4>Version 4.03.12</h4>
 <hr />
 <a name="Series"></a>
 <h1 class='chapter_title'><big>S</big>ERIES.</h1>
@@ -503,70 +561,260 @@ function display_palette() {
 <hr />
 <a name="contents"></a>
 <h1 class='chapter_title'><big>C</big>ONTENTS.</h1>
-<ul>
-<li><a href="#"><em>Cover</em></a>.</li>
-<li><a href="#Settings"><em>Settings</em></a>.</li>
-<li><a href="#Title_Page"><em>Title Page</em></a>.</li>
-<li><a href="#Series"><em>Series</em></a>.</li>
-<li><a href="#Disclaimer"><em>Disclaimer</em></a>.</li>
-<li><a href="#Acknowledgements"><em>Acknowledgements</em></a>.</li>
-<li><a href="#Forward"><em>Forward</em></a>.</li>
-<li><a href="#Contents"><em>Contents</em></a>.</li>
-<li><a href="#Prologue"><em>Prologue</em></a>.</li>
-<li><a href="#CHAPTER_01">CHAPTER 1</a>. The Weight of Silence.</li>
-<li><a href="#CHAPTER_02">CHAPTER 2</a>. The Fragile Weight of Peace.</li>
-<li><a href="#CHAPTER_03">CHAPTER 3</a>. The Silent Toll.</li>
-<li><a href="#CHAPTER_04">CHAPTER 4</a>. Ears in the Wind.</li>
-<li><a href="#CHAPTER_05">CHAPTER 5</a>. The Art of Listening.</li>
-<li><a href="#CHAPTER_06">CHAPTER 6</a>. And Then Came the Hail.</li>
-<li><a href="#CHAPTER_07">CHAPTER 7</a>. A Song Without Words.</li>
-<li><a href="#CHAPTER_08">CHAPTER 8</a>. Rare Things Vanish.</li>
-<li><a href="#CHAPTER_09">CHAPTER 9</a>. The Geometry of Secrets.</li>
-<li><a href="#CHAPTER_10">CHAPTER 10</a>. A Foolish Bargain.</li>
-<li><a href="#CHAPTER_11">CHAPTER 11</a>. The Price We Pay.</li>
-<li><a href="#CHAPTER_12">CHAPTER 12</a>. Everything.</li>
-<li><a href="#CHAPTER_13">CHAPTER 13</a>. I Will Not Be Held.</li>
-<li><a href="#CHAPTER_14">CHAPTER 14</a>. Name in the Wall.</li>
-<li><a href="#CHAPTER_15">CHAPTER 15</a>. Missing.</li>
-<li><a href="#CHAPTER_16">CHAPTER 16</a>. Interlude. Omens.</li>
-<li><a href="#CHAPTER_17">CHAPTER 17</a>. Of Dancing Stones.</li>
-<li><a href="#CHAPTER_18">CHAPTER 18</a>. Define Lost.</li>
-<li><a href="#CHAPTER_19">CHAPTER 19</a>. Amber and Ivory.</li>
-<li><a href="#CHAPTER_20">CHAPTER 20</a>. Lured Into the Current.</li>
-<li><a href="#CHAPTER_21">CHAPTER 21</a>. Kaysera.</li>
-<li><a href="#CHAPTER_22">CHAPTER 22</a>. Interlude. Crosscurrents.</li>
-<li><a href="#CHAPTER_23">CHAPTER 23</a>. The Thread Unravels.</li>
-<li><a href="#CHAPTER_24">CHAPTER 24</a>. The Whispering Quarter.</li>
-<li><a href="#CHAPTER_25">CHAPTER 25</a>. Reshi.</li>
-<li><a href="#CHAPTER_26">CHAPTER 26</a>. Stories We Tell Ourselves.</li>
-<li><a href="#CHAPTER_27">CHAPTER 27</a>. Old Acquaintances.</li>
-<li><a href="#CHAPTER_28">CHAPTER 28</a>. For the Greater Good.</li>
-<li><a href="#CHAPTER_29">CHAPTER 29</a>. Lockless.</li>
-<li><a href="#CHAPTER_30">CHAPTER 30</a>. Swirls in the Water.</li>
-<li><a href="#CHAPTER_31">CHAPTER 31</a>. The Deceit.</li>
-<li><a href="#CHAPTER_32">CHAPTER 32</a>. The Fall.</li>
-<li><a href="#CHAPTER_33">CHAPTER 33</a>. The Tower.</li>
-<li><a href="#CHAPTER_34">CHAPTER 34</a>. Command in the Chaos.</li>
-<li><a href="#CHAPTER_35">CHAPTER 35</a>. The Price of Loyalty.</li>
-<li><a href="#CHAPTER_36">CHAPTER 36</a>. Interlude. Burdens.</li>
-<li><a href="#CHAPTER_37">CHAPTER 37</a>. The Breath After the Fall.</li>
-<li><a href="#CHAPTER_38">CHAPTER 38</a>. The Wolf and the Owl.</li>
-<li><a href="#CHAPTER_39">CHAPTER 39</a>. The Weight of Shadows.</li>
-<li><a href="#CHAPTER_40">CHAPTER 40</a>. Cinder.</li>
-<li><a href="#CHAPTER_41">CHAPTER 41</a>. Threadbare and Boundless.</li>
-<li><a href="#CHAPTER_42">CHAPTER 42</a>. Seven Words for Silence.</li>
-<li><a href="#CHAPTER_43">CHAPTER 43</a>. Interlude. Out of the Chill.</li>
-<li><a href="#CHAPTER_44">CHAPTER 44</a>. The Hollow Crown.</li>
-<li><a href="#CHAPTER_45">CHAPTER 45</a>. Once King, Always King.</li>
-<li><a href="#CHAPTER_46">CHAPTER 46</a>. The Illusion of Wholeness.</li>
-<li><a href="#CHAPTER_47">CHAPTER 47</a>. The Reckoning.</li>
-<li><a href="#CHAPTER_48">CHAPTER 48</a>. A Trap of Memory.</li>
-<li><a href="#CHAPTER_49">CHAPTER 49</a>. To Ash All Things Return.</li>
-<li><a href="#CHAPTER_50">CHAPTER 50</a>. The Proper Way.</li>
-<li><a href="#CHAPTER_51">CHAPTER 51</a>. A Silence of Three Parts.</li>
-<li><a href="#Epilogue"><em>Epilogue</em></a>.</li>
-<li><a href="#Appendix"><em>Appendix</em></a>.</li>
-<li><a href="#Notes"><em>Notes</em></a>.</li>
+<ul class='toc-list'>
+
+<li class='toc-row'>
+    <span class='toc-title'><a href='#'><em>Cover.</em></a></span>
+    <span class='toc-subtitle'></span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#Settings'><em>Settings.</em></a></span>
+    <span class='toc-subtitle'></span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#Title_Page'><em>Title Page</em></a></span>
+    <span class='toc-subtitle'></span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#Series'><em>Series</em></a></span>
+    <span class='toc-subtitle'></span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#Disclaimer'><em>Disclaimer</em></a></span>
+    <span class='toc-subtitle'></span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#Acknowledgements'><em>Acknowledgements</em></a></span>
+    <span class='toc-subtitle'></span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#Forward'><em>Forward</em></a></span>
+    <span class='toc-subtitle'></span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#Contents'><em>Contents</em></a></span>
+    <span class='toc-subtitle'></span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#Prologue'><em>Prologue</em></a></span>
+    <span class='toc-subtitle'></span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_01'>CHAPTER 1</a></span>
+    <span class='toc-subtitle'>The Weight of Silence. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_02'>CHAPTER 2</a></span>
+    <span class='toc-subtitle'>The Fragile Weight of Peace. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_03'>CHAPTER 3</a></span>
+    <span class='toc-subtitle'>The Silent Toll. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_04'>CHAPTER 4</a></span>
+    <span class='toc-subtitle'>Ears in the Wind. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_05'>CHAPTER 5</a></span>
+    <span class='toc-subtitle'>The Art of Listening. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_06'>CHAPTER 6</a></span>
+    <span class='toc-subtitle'>And Then Came the Hail. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_07'>CHAPTER 7</a></span>
+    <span class='toc-subtitle'>A Song Without Words. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_08'>CHAPTER 8</a></span>
+    <span class='toc-subtitle'>Rare Things Vanish. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_09'>CHAPTER 9</a></span>
+    <span class='toc-subtitle'>The Geometry of Secrets. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_10'>CHAPTER 10</a></span>
+    <span class='toc-subtitle'>A Foolish Bargain. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_11'>CHAPTER 11</a></span>
+    <span class='toc-subtitle'>The Price We Pay. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_12'>CHAPTER 12</a></span>
+    <span class='toc-subtitle'>Everything. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_13'>CHAPTER 13</a></span>
+    <span class='toc-subtitle'>I Will Not Be Held. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_14'>CHAPTER 14</a></span>
+    <span class='toc-subtitle'>Name in the Wall. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_15'>CHAPTER 15</a></span>
+    <span class='toc-subtitle'>Missing. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_16'>CHAPTER 16</a></span>
+    <span class='toc-subtitle'>Interlude. Omens. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_17'>CHAPTER 17</a></span>
+    <span class='toc-subtitle'>Of Dancing Stones. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_18'>CHAPTER 18</a></span>
+    <span class='toc-subtitle'>Define Lost. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_19'>CHAPTER 19</a></span>
+    <span class='toc-subtitle'>Amber and Ivory. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_20'>CHAPTER 20</a></span>
+    <span class='toc-subtitle'>Lured Into the Current. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_21'>CHAPTER 21</a></span>
+    <span class='toc-subtitle'>Kaysera. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_22'>CHAPTER 22</a></span>
+    <span class='toc-subtitle'>Interlude. Crosscurrents. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_23'>CHAPTER 23</a></span>
+    <span class='toc-subtitle'>The Thread Unravels. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_24'>CHAPTER 24</a></span>
+    <span class='toc-subtitle'>The Whispering Quarter. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_25'>CHAPTER 25</a></span>
+    <span class='toc-subtitle'>Reshi. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_26'>CHAPTER 26</a></span>
+    <span class='toc-subtitle'>Stories We Tell Ourselves. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_27'>CHAPTER 27</a></span>
+    <span class='toc-subtitle'>Old Acquaintances. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_28'>CHAPTER 28</a></span>
+    <span class='toc-subtitle'>For the Greater Good. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_29'>CHAPTER 29</a></span>
+    <span class='toc-subtitle'>Lockless. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_30'>CHAPTER 30</a></span>
+    <span class='toc-subtitle'>Swirls in the Water. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_31'>CHAPTER 31</a></span>
+    <span class='toc-subtitle'>The Deceit. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_32'>CHAPTER 32</a></span>
+    <span class='toc-subtitle'>The Fall. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_33'>CHAPTER 33</a></span>
+    <span class='toc-subtitle'>The Tower. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_34'>CHAPTER 34</a></span>
+    <span class='toc-subtitle'>Command in the Chaos. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_35'>CHAPTER 35</a></span>
+    <span class='toc-subtitle'>The Price of Loyalty. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_36'>CHAPTER 36</a></span>
+    <span class='toc-subtitle'>Interlude. Burdens. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_37'>CHAPTER 37</a></span>
+    <span class='toc-subtitle'>The Breath After the Fall. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_38'>CHAPTER 38</a></span>
+    <span class='toc-subtitle'>The Wolf and the Owl. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_39'>CHAPTER 39</a></span>
+    <span class='toc-subtitle'>The Weight of Shadows. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_40'>CHAPTER 40</a></span>
+    <span class='toc-subtitle'>Cinder. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_41'>CHAPTER 41</a></span>
+    <span class='toc-subtitle'>Threadbare and Boundless. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_42'>CHAPTER 42</a></span>
+    <span class='toc-subtitle'>Seven Words for Silence. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_43'>CHAPTER 43</a></span>
+    <span class='toc-subtitle'>Interlude. Out of the Chill. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_44'>CHAPTER 44</a></span>
+    <span class='toc-subtitle'>The Hollow Crown. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_45'>CHAPTER 45</a></span>
+    <span class='toc-subtitle'>Once King, Always King. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_46'>CHAPTER 46</a></span>
+    <span class='toc-subtitle'>The Illusion of Wholeness. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_47'>CHAPTER 47</a></span>
+    <span class='toc-subtitle'>The Reckoning. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_48'>CHAPTER 48</a></span>
+    <span class='toc-subtitle'>A Trap of Memory. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_49'>CHAPTER 49</a></span>
+    <span class='toc-subtitle'>To Ash All Things Return. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_50'>CHAPTER 50</a></span>
+    <span class='toc-subtitle'>The Proper Way. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#CHAPTER_51'>CHAPTER 51</a></span>
+    <span class='toc-subtitle'>A Silence of Three Parts. </span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#Epilogue'><em>Epilogue</em></a></span>
+    <span class='toc-subtitle'></span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#Appendix'><em>Appendix</em></a></span>
+    <span class='toc-subtitle'></span>
+</li>
+<li class='toc-row'>
+    <span class='toc-title'><a href='#Notes'><em>Notes</em></a></span>
+    <span class='toc-subtitle'></span>
+</li>
 </ul>
 <main>
 <hr />

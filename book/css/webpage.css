@@ -229,6 +229,7 @@ h6 {
   font-size: 1.1rem
 }
 
+/* Print to PDF */
 @media print {
   .no_print {
     display: none !important;
@@ -243,3 +244,61 @@ h6 {
     widows: 2;
   }
 }
+
+
+/* Table of Contents */
+.toc-title {
+  white-space: nowrap;
+}
+.toc-subtitle {
+  white-space: nowrap;
+}
+@media (min-width: 769px) {
+  /* 
+   * Table of Contents for Desktop
+   * should display dots between 
+   * chapter title and subtitle or
+   * it is hard to visually connect 
+   * the two.
+   */
+  .toc-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+  }
+  /* The left span grows to fill the gap */
+  .toc-title {
+    display: flex;
+    flex: 1;
+    align-items: baseline;
+  }
+  .toc-title::after {
+    content: "";
+    flex: 1;
+    margin: 0 0.5em;
+    background-image: radial-gradient(circle, currentColor 0.05em, transparent 0.06em);
+    background-size: 0.3em 100%;
+    background-repeat: repeat-x;
+    background-position: bottom;
+    height: 0.1em;
+    opacity: 0.5;
+  }
+  /* The right container for sub-items */
+  .toc-subtitle {
+    text-align: right;
+  }
+}
+@media (max-width: 768px) {
+  /* 
+   * Table of Contents for Mobile
+   * should use a normal list so
+   * that all subtitles begin on 
+   * a new line.
+   */
+  .toc-subtitle {
+    text-align: left;
+    display: block;
+    margin-left: 2em;
+  }
+}
+
