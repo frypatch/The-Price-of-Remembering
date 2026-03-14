@@ -250,9 +250,6 @@ h6 {
 .toc-title {
   white-space: nowrap;
 }
-.toc-subtitle {
-  white-space: nowrap;
-}
 @media (min-width: 769px) {
   /* 
    * Table of Contents for Desktop
@@ -286,6 +283,7 @@ h6 {
   /* The right container for sub-items */
   .toc-subtitle {
     text-align: right;
+    white-space: nowrap;
   }
 }
 @media (max-width: 768px) {
@@ -298,7 +296,7 @@ h6 {
   .toc-subtitle {
     text-align: left;
     display: block;
-    margin-left: 2em;
+    margin-left: 1em;
   }
 }
 
